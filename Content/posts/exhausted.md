@@ -7,7 +7,15 @@ tags: exhausted, Jesus, rest
 
 Jesus understands and sees you. He says:
 
-“Come to me, all of you who labor and are burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.”” (Matthew 11:28-30, TCENT)
+
+Matthew 11:28-30 (TCENT)
+
+28 Come to me, all of you who labor and are burdened, and I will give you rest.
+
+29 Take my yoke upon you and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls.
+
+30 For my yoke is easy, and my burden is light.”
+
 
 
 
