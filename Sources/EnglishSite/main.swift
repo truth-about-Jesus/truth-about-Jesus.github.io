@@ -15,8 +15,8 @@ struct EnglishSite: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://your-website-url.com")!
-    var name = "Jesus cares"
-    var description = "“When he saw the crowds, he was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd.” (Matthew 9:36, TCENT)"
+    var name = "Jesus cares..."
+    var description = "“When he saw the crowds, he felt sorry for them, because they were exhausted and scattered, like sheep without a shepherd.” (Matthew 9:36)"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
@@ -25,3 +25,15 @@ struct EnglishSite: Website {
 
 // This will generate your website using the built-in Foundation theme:
 try EnglishSite().publish(withTheme: .myTheme)
+//try EnglishSite()
+//    .publish(using: [
+//        .addMarkdownFiles(),
+//        .copyResources(),
+//        .generateHTML(withTheme: .myTheme),
+//        .generateRSSFeed(including: [.posts]),
+//        .generateSiteMap(),
+//        .deploy(using: .gitHub("singular-niche/singular-niche.github.io",
+//                               branch: "main",
+//                               useSSH: false)
+//        )
+//    ])
