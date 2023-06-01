@@ -30,7 +30,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                     H1(index.title)
                     Paragraph(context.site.description)
                         .class("description")
-                    H2("how do i feel?")
+                    H2("posts")
                     ItemList(
                         items: context.allItems(
                             sortedBy: \.date,
