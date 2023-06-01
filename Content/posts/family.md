@@ -3,7 +3,7 @@ date: 2023-06-01 08:15
 description: the amazingly awesome good news about Jesus
 tags: Jesus, family, belonging, gospel, good news
 ---
-#  Would you like to belong to God's family?
+#  would you like to belong to God's family?
 #  你想屬於上帝的家庭嗎?
 
 \
