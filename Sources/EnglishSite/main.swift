@@ -16,7 +16,7 @@ struct EnglishSite: Website {
     // Update these properties to configure your website:
     var url = URL(string: "https://your-website-url.com")!
     var name = "Jesus"
-    var description = "the truth about Jesus"
+    var description = "telling the truth about Jesus"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
