@@ -1,7 +1,7 @@
 ---
 date: 2023-06-01 08:15
 description: the amazingly awesome good news about Jesus
-tags: Jesus, family, belonging, gospel, good news
+tags: Jesus, family, belonging, gospel, good news, rescue
 ---
 #  would you like to belong to God's family?
 #  你想屬於上帝的家庭嗎?
@@ -119,6 +119,8 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 55 Isn’t this the carpenter’s son? Isn’t his mother named Mary? And aren’t his brothers James, Joseph, Simon, and Judas?
 
 56 And aren’t all his sisters here with us? So where did he get all this?”
+
+\
 
 ##### _Matthew 13:54-56 (Chinese NET (T))_
 
@@ -293,6 +295,8 @@ Jesus' biological family didn't always support Him.
 
 21 When his family heard this they went out to restrain him, for they said, “He is out of his mind.”
 
+\
+
 ##### _Mark 3:20-21 (Chinese NET (T))_
 
 ###### \
@@ -323,6 +327,8 @@ When they came to the house and called for Him to come out, He didn't go. Instea
 34 And looking at those who were sitting around him in a circle, he said, “Here are my mother and my brothers!
 
 35 For whoever does the will of God is my brother and sister and mother.”
+
+\
 
 ##### _Mark 3:31-35 (Chinese NET (T))_
 
@@ -411,6 +417,8 @@ Jesus is the Son of God. His family is God's family.
 
 3 Jesus replied, “I tell you the solemn truth, unless a person is born from above, he cannot see the kingdom of God.”
 
+\
+
 ##### _John 3:3 (Chinese NET (T))_
 
 ###### \
@@ -431,6 +439,8 @@ Jesus said:
 ###### \
 
 37 “Everyone whom the Father gives me will come to me, and the one who comes to me I will never send away.”
+
+\
 
 ##### _John 6:37 (Chinese NET (T))_
 
@@ -464,6 +474,8 @@ Jesus said:
 
 10 “For the Son of Man came to seek and to save the lost.”
 
+\
+
 ##### _Luke 19:10 (Chinese NET (T))_
 
 ###### \
@@ -483,6 +495,8 @@ and
 ###### \
 
 32 “I have not come to call the righteous, but sinners to repentance.”
+
+\
 
 ##### _Luke 5:32 (Chinese NET (T))_
 
@@ -509,6 +523,8 @@ He told people to turn away from their sins, because God’s Kingdom was coming.
 
 17 From that time Jesus began to preach this message: “Repent, for the kingdom of heaven is near!”
 
+\
+
 ##### _Matthew 4:17 (Chinese NET (T))_
 
 ###### \
@@ -523,6 +539,7 @@ He told people to turn away from their sins, because God’s Kingdom was coming.
 \
 
 He healed people from many diseases, did many miracles and taught people about the Kingdom of God.
+
 他治癒了人們的許多疾病，創造了許多奇蹟，並教導人們瞭解上帝的國度。
 
 \
@@ -532,6 +549,7 @@ He healed people from many diseases, did many miracles and taught people about t
 ###### \
 
 23 Jesus went throughout all of Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every kind of disease and sickness among the people.
+
 24 So a report about him spread throughout Syria. People brought to him all who suffered with various illnesses and afflictions, those who had seizures, paralytics, and those possessed by demons, and he healed them.
 
 \
@@ -541,6 +559,7 @@ He healed people from many diseases, did many miracles and taught people about t
 ###### \
 
 23 耶穌走遍加利利，在各會堂裏教導人，傳天國的福音，醫治百姓各樣的病症。
+
 24 他的名聲就傳遍了敍利亞。人把一切害各樣疾病和各樣痛症的、遽發症的、癱瘓的、和被鬼附的，都帶了來，耶穌就治好了他們。
 
 \
@@ -551,6 +570,7 @@ He healed people from many diseases, did many miracles and taught people about t
 \
 
 You can speak to Him in any language. He knows them all: He invented them.
+
 你可以用任何語言和他說話。 他都知道：他發明了它們。
 
 \
@@ -560,8 +580,11 @@ You can speak to Him in any language. He knows them all: He invented them.
 ###### \
 
 6 And the LORD said, “If as one people all sharing a common language they have begun to do this, then nothing they plan to do will be beyond them.
+
 7 Come, let’s go down and confuse their language so they won’t be able to understand each other.”
+
 8 So the LORD scattered them from there across the face of the entire earth, and they stopped building the city.
+
 9 That is why its name was called Babel – because there the LORD confused the language of the entire world, and from there the LORD scattered them across the face of the entire earth.
 
 \
@@ -571,8 +594,11 @@ You can speak to Him in any language. He knows them all: He invented them.
 ###### \
 
 6 耶和華說：「若他們以一樣的人民，說一樣的言語，作起這事來，以後他們所要作的事，就沒有不成就的了。
+
 7 我們下去，在那裏變亂他們的口音，使他們的言語彼此不通。」
+
 8 於是耶和華使他們從那裏分散在全地上，他們就停工，不造那城了。
+
 9 因為耶和華在那裏變亂天下人的言語，使眾人分散在全地上，所以那城名叫巴別。
 
 \
@@ -583,6 +609,7 @@ You can speak to Him in any language. He knows them all: He invented them.
 \
 
 He can even hear your thoughts.
+
 他甚至可以聽到你的想法。
 
 \
@@ -592,6 +619,8 @@ He can even hear your thoughts.
 ###### \
 
 8 Now immediately, when Jesus realized in his spirit that they were contemplating such thoughts, he said to them, “Why are you thinking such things in your hearts?
+
+\
 
 ##### _Mark 2:8 (Chinese NET (T))_
 
@@ -607,6 +636,7 @@ He can even hear your thoughts.
 \
 
 We have all done bad things and aren’t good enough to come to God by ourselves. 
+
 我們都做了壞事，不夠好，無法獨自來到上帝面前。
 
 \
@@ -648,6 +678,7 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 ###### \
 
 1 Fools say to themselves, “There is no God.” They sin and commit evil deeds; none of them does what is right.
+
 2 The LORD looks down from heaven at the human race, to see if there is anyone who is wise and seeks God.
 
 \
@@ -657,6 +688,7 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 ###### \
 
 1 愚笨人心裏說：「沒有 神。」他們犯罪行了惡事；沒有一個人行正當的事。
+
 2 耶和華從天上垂看世人，要看有智慧的，有尋求 神的沒有。
 
 \
@@ -683,6 +715,7 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 \
 
 So Jesus took all the bad things on Himself and died to pay for them all, so that we could be forgiven.
+
 因此，耶穌把所有壞事都帶到自己身上，為了付出代價而死，這樣我們就可以得到寬恕。
 
 \
@@ -708,6 +741,7 @@ So Jesus took all the bad things on Himself and died to pay for them all, so tha
 ###### \
 
 4 But he lifted up our illnesses, he carried our pain; even though we thought he was being punished, attacked by God, and afflicted for something he had done.
+
 5 He was wounded because of our rebellious deeds, crushed because of our sins; he endured punishment that made us well; because of his wounds we have been healed.
 
 \
@@ -717,6 +751,7 @@ So Jesus took all the bad things on Himself and died to pay for them all, so tha
 ###### \
 
 4 但他擔當我們的病患，背負我們的痛苦；我們卻以為他受責罰，被 神因他所行的擊打苦待了。
+
 5 哪知他為我們的悖逆受害；為我們的罪孽壓傷。因他受的刑罰，我們得平安；因他受的創傷，我們得醫治。
 
 \
@@ -727,6 +762,7 @@ So Jesus took all the bad things on Himself and died to pay for them all, so tha
 \
 
 Jesus told His disciples beforehand what would happen to Him in Jerusalem. 
+
 耶穌事先告訴他的門徒，他在耶路撒冷會發生什麼。
 
 \
@@ -1108,6 +1144,7 @@ Everything happened exactly as He said it would.
 
 ---
 
+\
 \
 
 He was seen alive by many of His disciples and then was taken up into Heaven. 
@@ -1719,6 +1756,7 @@ God wants to rescue everyone who is willing.
 
 ---
 
+\
 \
 
 Jesus commanded us to tell others the Good News, to baptize those who believe, and help them to follow Him. 
