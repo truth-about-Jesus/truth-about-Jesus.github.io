@@ -173,10 +173,6 @@ private struct SiteHeader<Site: Website>: Component {
                 if Site.SectionID.allCases.count > 1 {
                     navigation
                 }
-                Paragraph {
-                    Link("🌐 Translate with Google", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
-                }
-                .class("info")
             }
         }
     }
