@@ -7,10 +7,11 @@ tags: exhausted, Jesus, rest
 
 Jesus understands and sees you. He says:
 
+\
 
-Matthew 11:28-30 (TCENT)
+_Matthew 11:28-30 (TCENT)_
 
-28 Come to me, all of you who labor and are burdened, and I will give you rest.
+28 "Come to me, all of you who labor and are burdened, and I will give you rest.
 
 29 Take my yoke upon you and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls.
 

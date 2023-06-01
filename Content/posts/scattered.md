@@ -7,9 +7,9 @@ tags: scattered, lost, uncertain, Jesus
 
 Jesus wants to take care of you. He loves you so much that He even lays down His life for you.
 
+\
 
-
-John 10:11-18 (TCENT)
+_John 10:11-18 (TCENT)_
 
 11 I am the good shepherd; the good shepherd lays down his life for the sheep.
 
