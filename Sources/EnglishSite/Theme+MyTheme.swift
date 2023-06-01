@@ -29,7 +29,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                 Wrapper {
                     H1(index.title)
                     Paragraph(context.site.description)
-                        .class("description")
+                    .class("description")
                     H2("posts")
                     ItemList(
                         items: context.allItems(
@@ -173,6 +173,10 @@ private struct SiteHeader<Site: Website>: Component {
                 if Site.SectionID.allCases.count > 1 {
                     navigation
                 }
+                Paragraph {
+                    Link("🌐 Translate with Google", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                }
+                .class("info")
             }
         }
     }
@@ -222,6 +226,9 @@ private struct ItemTagList<Site: Website>: Component {
 private struct SiteFooter: Component {
     var body: Component {
         Footer {
+            Paragraph {
+                Link("🌐 Translate with Google", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+            }
             Paragraph {
                 Text("Generated using ")
                 Link("Publish", url: "https://github.com/johnsundell/publish")
