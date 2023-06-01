@@ -5,7 +5,7 @@ tags: scattered, lost, uncertain, Jesus
 ---
 #  scattered
 
-Jesus wants to take care of you. He loves you so much that He even lays down His life for you.
+Jesus wants to take care of you. He loves you so much that He even laid down His life for you.
 
 \
 
@@ -26,5 +26,8 @@ _John 10:11-18 (TCENT)_
 17 This is why the Father loves me, because I lay down my life so that I may take it up again.
 
 18 No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. I received this commandment from my Father.”
+
+\
+\
 
 

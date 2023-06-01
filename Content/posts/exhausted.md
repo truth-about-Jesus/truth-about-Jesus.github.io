@@ -1,7 +1,7 @@
 ---
 date: 2023-05-31 10:45
 description: i feel exhausted from working too hard.
-tags: exhausted, Jesus, rest
+tags: exhausted, Jesus, rest, Heaven
 ---
 # exhausted
 
@@ -89,7 +89,7 @@ _Mark 8:34-37 (TCENT)_
 \
 \
 
-He is physically away right now, but one day He will return visibly, and everyone on earth will see Him.
+He is physically away right now, but one day He will return, and everyone on earth will see Him.
 
 \
 
@@ -123,4 +123,9 @@ _Matthew 24:29-31 (TCENT)_
 \
 \
 
+Would you like to go home to Heaven with Jesus when He comes back?
+
+\
+
+i know i would!
 
