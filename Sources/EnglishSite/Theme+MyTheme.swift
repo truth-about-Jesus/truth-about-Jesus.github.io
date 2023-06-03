@@ -223,7 +223,8 @@ private struct SiteFooter: Component {
     var body: Component {
         Footer {
             Paragraph {
-                Link("🌐 Translate with Google", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                Text("🌐 ")
+                Link("Translate with Google", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
             }
             Paragraph {
                 Text("Generated using ")
