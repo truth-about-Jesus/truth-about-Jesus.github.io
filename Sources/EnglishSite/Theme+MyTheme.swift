@@ -29,7 +29,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                 Wrapper {
                     H1(index.title)
                     Paragraph(context.site.description)
-                    Paragraph("關於耶穌的真相（繁體中文和英文）")
+                    Paragraph("關於耶穌的令人敬畏的好訊息（繁體中文和英文）")
                     .class("description")
                     H2("posts 帖子")
                     ItemList(
@@ -104,7 +104,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
-                    H1("Browse all tags")
+                    H1("Browse all tags 瀏覽所有標籤")
                     List(page.tags.sorted()) { tag in
                         ListItem {
                             Link(tag.string,
@@ -129,11 +129,11 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
                     H1 {
-                        Text("Tagged with ")
+                        Text("Tagged with 標記為 ")
                         Span(page.tag.string).class("tag")
                     }
 
-                    Link("Browse all tags",
+                    Link("Browse all tags 瀏覽所有標籤",
                         url: context.site.tagListPath.absoluteString
                     )
                     .class("browse-all")
@@ -204,7 +204,7 @@ private struct ItemList<Site: Website>: Component {
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
                 H6("&nbsp;")
-                Paragraph("關於耶穌的令人敬畏的好訊息")
+                Paragraph("關於耶穌的真相")
             }
         }
         .class("item-list")
@@ -235,11 +235,11 @@ private struct SiteFooter: Component {
                 Link("用谷歌翻譯", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
             }
             Paragraph {
-                Text("Generated using ")
+                Text("Generated using 使用生成的 ")
                 Link("Publish", url: "https://github.com/johnsundell/publish")
             }
             Paragraph {
-                Link("RSS feed", url: "/feed.rss")
+                Link("RSS feed 提要", url: "/feed.rss")
             }
         }
     }
