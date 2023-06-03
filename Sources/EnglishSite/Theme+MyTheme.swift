@@ -204,7 +204,7 @@ private struct ItemList<Site: Website>: Component {
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
                 H6("&nbsp;")
-                Paragraph("關於耶穌的令人敬畏的好訊息")
+                Paragraph("關於耶穌的真相")
             }
         }
         .class("item-list")
