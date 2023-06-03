@@ -73,8 +73,8 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                     Wrapper {
                         Article {
                             Div(item.content.body).class("content")
-                            Span("Tagged with: ")
-                            ItemTagList(item: item, site: context.site)
+//                            Span("Tagged with: ")
+//                            ItemTagList(item: item, site: context.site)
                         }
                     }
                     SiteFooter()
@@ -204,7 +204,7 @@ private struct ItemList<Site: Website>: Component {
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
                 H6("&nbsp;")
-                Paragraph("關於耶穌的真相")
+                Paragraph("關於耶穌的令人敬畏的好訊息")
             }
         }
         .class("item-list")
