@@ -1,9 +1,9 @@
 ---
 date: 2023-06-01 08:15
 description: the amazingly awesome good news about Jesus
-tags: Jesus, family, belonging, gospel, good news, rescue
+tags: Jesus, family, belonging, gospel, good news, rescue, 耶穌, 家庭, 屬於, 福音, 好訊息, 救援
 ---
-##### 🌐 _[Translate with Google](https://singular--niche-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
+##### 🌐 _[Translate with Google](https://singular--niche-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) 🌐 [用谷歌翻譯](https://singular--niche-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
 
 \
 

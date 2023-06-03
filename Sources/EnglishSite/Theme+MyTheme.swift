@@ -29,8 +29,9 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                 Wrapper {
                     H1(index.title)
                     Paragraph(context.site.description)
+                    Paragraph("關於耶穌的真相（繁體中文和英文）")
                     .class("description")
-                    H2("posts")
+                    H2("posts 帖子")
                     ItemList(
                         items: context.allItems(
                             sortedBy: \.date,
@@ -199,8 +200,11 @@ private struct ItemList<Site: Website>: Component {
         List(items) { item in
             Article {
                 H1(Link(item.title, url: item.path.absoluteString))
+                H1(Link("你想屬於上帝的家庭嗎?", url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
+                H6("&nbsp;")
+                Paragraph("關於耶穌的令人敬畏的好訊息")
             }
         }
         .class("item-list")
@@ -225,6 +229,10 @@ private struct SiteFooter: Component {
             Paragraph {
                 Text("🌐 ")
                 Link("Translate with Google", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+            }
+            Paragraph {
+                Text("🌐 ")
+                Link("用谷歌翻譯", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
             }
             Paragraph {
                 Text("Generated using ")
