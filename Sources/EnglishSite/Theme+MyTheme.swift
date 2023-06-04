@@ -29,7 +29,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                 Wrapper {
                     H1(index.title)
                     Paragraph(context.site.description)
-                    Paragraph("“天使也渴想能知道一點。” (1 Peter 1:12 CNET) -- 繁體中文和英文")
+                    Paragraph("天使也渴想能知道一點。 (1 Peter 1:12 CNET) -- 繁體中文和英文")
                     .class("description")
                     H2("posts &nbsp; 帖子")
                     ItemList(
