@@ -29,7 +29,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                 Wrapper {
                     H1(index.title)
                     Paragraph(context.site.description)
-                    Paragraph("關於耶穌的令人敬畏的好訊息（繁體中文和英文）")
+                    Paragraph("天使也渴想能知道一點。 (1 Peter 1:12 CNET) -- 繁體中文和英文")
                     .class("description")
                     H2("posts &nbsp; 帖子")
                     ItemList(
@@ -203,8 +203,8 @@ private struct ItemList<Site: Website>: Component {
                 H1(Link("你想屬於上帝的家庭嗎?", url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
-//                H6("&nbsp;")
-//                Paragraph("關於耶穌的真相")
+                H6("&nbsp;")
+                Paragraph("關於耶穌的令人敬畏的好訊息")
             }
         }
         .class("item-list")
