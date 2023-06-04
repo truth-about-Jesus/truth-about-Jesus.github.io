@@ -1640,7 +1640,7 @@ He warned us that before He comes back there would be many false prophets, false
 
 He explained to us beforehand how we could recognize them and avoid being deceived.
 
-他說，我們可以從他們的果實中認出他們，如果我們留在他的教導中，我們將知道真相並獲得自由。
+他事先向我們解釋了我們如何識別它們並避免被欺騙。
 
 \
 
@@ -1713,7 +1713,7 @@ There are still many who don't know the truth.
 
 God wants to rescue everyone who is willing. 
 
-上帝想把每個人都從邪惡中拯救出來。
+上帝想拯救每一個願意的人。
 
 \
 
