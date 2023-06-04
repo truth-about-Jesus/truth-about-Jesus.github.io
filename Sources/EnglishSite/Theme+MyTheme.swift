@@ -237,11 +237,11 @@ private struct SiteFooter: Component {
         Footer {
             Paragraph {
                 Text("🌐 ")
-                Link("Translate with Google", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                Link("Translate with Google", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
             }
             Paragraph {
                 Text("🌐 ")
-                Link("用谷歌翻譯", url: "https://singular--niche-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                Link("用谷歌翻譯", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
             }
             Paragraph {
                 Text("Generated using 使用生成的 ")
