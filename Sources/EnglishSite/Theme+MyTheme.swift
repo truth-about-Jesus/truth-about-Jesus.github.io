@@ -28,8 +28,17 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
                     H1(index.title)
-                    Paragraph(context.site.description)
-                    Paragraph("天使也渴想能知道一點。 (1 Peter 1:12 CNET) -- 繁體中文和英文")
+//                    Paragraph(context.site.description)
+                    Paragraph {
+                        Text("\"...things into which angels long to look.\" ")
+                        Text(" (1 Peter 1:12 ESV)")
+                            .italic()
+                    }
+                    Paragraph {
+                        Text("\"天使也渴想能知道一點。\"")
+                        Text(" (1 Peter 1:12 CNET)")
+                            .italic()
+                    }
                     .class("description")
                     H2("posts &nbsp; 帖子")
                     ItemList(
