@@ -16,7 +16,7 @@ struct EnglishSite: Website {
     // Update these properties to configure your website:
     var url = URL(string: "https://singular-niche.github.io")!
     var name = "the truth about Jesus &nbsp; 關於耶穌的真相"
-    var description = "\"...things into which angels long to look.\" (1 Peter 1:12 ESV) -- in traditional Chinese and English"
+    var description = "“...things into which angels long to look.” (1 Peter 1:12 ESV) -- in traditional Chinese and English"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
