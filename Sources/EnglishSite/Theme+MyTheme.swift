@@ -36,7 +36,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                     }
                     Paragraph {
                         Text("\"天使也渴想能知道一點。\"")
-                        Text(" (1 Peter 1:12 CNET)")
+                        Text(" (1 Peter 1:12 Chinese NET (T))")
                             .italic()
                     }
                     .class("description")
