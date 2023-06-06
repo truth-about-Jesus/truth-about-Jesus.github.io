@@ -1,8 +1,9 @@
 ---
 date: 2023-06-05 21:15
 description: how i discovered Jesus' heart toward LGBTQ folks
-title2: ?
-description2: ??
+tags: Jesus, LGBTQ, God, wilderness
+title2: title2 placeholder
+description2: description2 placeholder
 ---
 ##### 🌐 _[Translate this page with Google](https://truthaboutjesus-github-io.translate.goog/posts/wilderness/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) &nbsp; 🌐 [用谷歌翻譯此頁面](https://truthaboutjesus-github-io.translate.goog/posts/wilderness/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
 

@@ -11,8 +11,8 @@ struct TruthAboutJesusSite: Website {
 
     struct ItemMetadata: WebsiteItemMetadata {
         // Add any site-specific metadata that you want to use here.
-        var title2: String
-        var description2: String
+        var title2: String?
+        var description2: String?
     }
 
     // Update these properties to configure your website:
