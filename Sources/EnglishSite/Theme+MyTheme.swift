@@ -209,11 +209,11 @@ private struct ItemList<Site: Website>: Component {
         List(items) { item in
             Article {
                 H1(Link(item.title, url: item.path.absoluteString))
-                H1(Link("你想屬於上帝的家庭嗎?", url: item.path.absoluteString))
+//                H1(Link("你想屬於上帝的家庭嗎?", url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
-                H6("&nbsp;")
-                Paragraph("關於耶穌的令人敬畏的好訊息")
+//                H6("&nbsp;")
+//                Paragraph("關於耶穌的令人敬畏的好訊息")
             }
         }
         .class("item-list")
@@ -237,11 +237,11 @@ private struct SiteFooter: Component {
         Footer {
             Paragraph {
                 Text("🌐 ")
-                Link("Translate with Google", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                Link("Translate this website with Google", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
             }
             Paragraph {
                 Text("🌐 ")
-                Link("用谷歌翻譯", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                Link("用谷歌翻譯這個網站", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
             }
             Paragraph {
                 Text("Generated using 使用生成的 ")
