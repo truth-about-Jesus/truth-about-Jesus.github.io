@@ -1,6 +1,8 @@
 ---
 date: 2023-06-01 08:15
 description: the amazingly awesome good news about Jesus
+title2: 你想屬於上帝的家庭嗎?
+description2: 關於耶穌的令人敬畏的好訊息
 ---
 ##### 🌐 _[Translate this page with Google](https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) &nbsp; 🌐 [用谷歌翻譯此頁面](https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
 

@@ -3,7 +3,7 @@ import Publish
 import Plot
 
 // This type acts as the configuration for your website.
-struct EnglishSite: Website {
+struct TruthAboutJesusSite: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
         case posts
@@ -11,6 +11,8 @@ struct EnglishSite: Website {
 
     struct ItemMetadata: WebsiteItemMetadata {
         // Add any site-specific metadata that you want to use here.
+        var title2: String
+        var description2: String
     }
 
     // Update these properties to configure your website:
@@ -24,12 +26,12 @@ struct EnglishSite: Website {
 
 
 // This will generate your website using the built-in Foundation theme:
-try EnglishSite().publish(withTheme: .myTheme)
-//try EnglishSite()
+try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
+//try TruthAboutJesusSite()
 //    .publish(using: [
 //        .addMarkdownFiles(),
 //        .copyResources(),
-//        .generateHTML(withTheme: .myTheme),
+//        .generateHTML(withTheme: .truthAboutJesusTheme),
 //        .generateRSSFeed(including: [.posts]),
 //        .generateSiteMap(),
 //        .deploy(using: .gitHub("truthaboutjesus/truthaboutjesus.github.io",

@@ -7,20 +7,20 @@
 import Plot
 import Publish
 
-public extension Theme {
+extension Theme where Site == TruthAboutJesusSite {
     /// The default "Foundation" theme that Publish ships with, a very
     /// basic theme mostly implemented for demonstration purposes.
-    static var myTheme: Self {
+    static var truthAboutJesusTheme: Self {
         Theme(
-            htmlFactory: MyThemeHTMLFactory(),
+            htmlFactory: TruthAboutJesusTheme(),
             resourcePaths: ["Resources/MyTheme/styles.css"]
         )
     }
 }
 
-private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
+private struct TruthAboutJesusTheme: HTMLFactory {
     func makeIndexHTML(for index: Index,
-                       context: PublishingContext<Site>) throws -> HTML {
+                       context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .head(for: index, on: context.site),
@@ -54,8 +54,8 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
         )
     }
 
-    func makeSectionHTML(for section: Section<Site>,
-                         context: PublishingContext<Site>) throws -> HTML {
+    func makeSectionHTML(for section: Section<TruthAboutJesusSite>,
+                         context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .head(for: section, on: context.site),
@@ -70,8 +70,8 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
         )
     }
 
-    func makeItemHTML(for item: Item<Site>,
-                      context: PublishingContext<Site>) throws -> HTML {
+    func makeItemHTML(for item: Item<TruthAboutJesusSite>,
+                      context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .head(for: item, on: context.site),
@@ -82,8 +82,8 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
                     Wrapper {
                         Article {
                             Div(item.content.body).class("content")
-//                            Span("Tagged with: ")
-//                            ItemTagList(item: item, site: context.site)
+                            Span("Tagged with: ")
+                            ItemTagList(item: item, site: context.site)
                         }
                     }
                     SiteFooter()
@@ -93,7 +93,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
     }
 
     func makePageHTML(for page: Page,
-                      context: PublishingContext<Site>) throws -> HTML {
+                      context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .head(for: page, on: context.site),
@@ -106,7 +106,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
     }
 
     func makeTagListHTML(for page: TagListPage,
-                         context: PublishingContext<Site>) throws -> HTML? {
+                         context: PublishingContext<TruthAboutJesusSite>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
             .head(for: page, on: context.site),
@@ -130,7 +130,7 @@ private struct MyThemeHTMLFactory<Site: Website>: HTMLFactory {
     }
 
     func makeTagDetailsHTML(for page: TagDetailsPage,
-                            context: PublishingContext<Site>) throws -> HTML? {
+                            context: PublishingContext<TruthAboutJesusSite>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
             .head(for: page, on: context.site),
@@ -170,9 +170,9 @@ private struct Wrapper: ComponentContainer {
     }
 }
 
-private struct SiteHeader<Site: Website>: Component {
-    var context: PublishingContext<Site>
-    var selectedSelectionID: Site.SectionID?
+private struct SiteHeader<TruthAboutJesusSite: Website>: Component {
+    var context: PublishingContext<TruthAboutJesusSite>
+    var selectedSelectionID: TruthAboutJesusSite.SectionID?
 
     var body: Component {
         Header {
@@ -180,7 +180,7 @@ private struct SiteHeader<Site: Website>: Component {
                 Link(context.site.name, url: "/")
                     .class("site-name")
 
-                if Site.SectionID.allCases.count > 1 {
+                if TruthAboutJesusSite.SectionID.allCases.count > 1 {
                     navigation
                 }
             }
@@ -189,7 +189,7 @@ private struct SiteHeader<Site: Website>: Component {
 
     private var navigation: Component {
         Navigation {
-            List(Site.SectionID.allCases) { sectionID in
+            List(TruthAboutJesusSite.SectionID.allCases) { sectionID in
                 let section = context.sections[sectionID]
 
                 return Link(section.title,
@@ -201,28 +201,28 @@ private struct SiteHeader<Site: Website>: Component {
     }
 }
 
-private struct ItemList<Site: Website>: Component {
-    var items: [Item<Site>]
-    var site: Site
+private struct ItemList<TruthAboutJesusSite: Website>: Component {
+    var items: [Item<TruthAboutJesusSite>]
+    var site: TruthAboutJesusSite
 
     var body: Component {
         List(items) { item in
             Article {
                 H1(Link(item.title, url: item.path.absoluteString))
-//                H1(Link("你想屬於上帝的家庭嗎?", url: item.path.absoluteString))
+//                H1(Link(item.metadata.title2, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
-//                H6("&nbsp;")
-//                Paragraph("關於耶穌的令人敬畏的好訊息")
+                H6("&nbsp;")
+//                Paragraph(item.metadata.description2)
             }
         }
         .class("item-list")
     }
 }
 
-private struct ItemTagList<Site: Website>: Component {
-    var item: Item<Site>
-    var site: Site
+private struct ItemTagList<TruthAboutJesusSite: Website>: Component {
+    var item: Item<TruthAboutJesusSite>
+    var site: TruthAboutJesusSite
 
     var body: Component {
         List(item.tags) { tag in
