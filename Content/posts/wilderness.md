@@ -393,7 +393,7 @@ it seemed to me from this dream that Jesus was saying to me, “Enid, you can le
 
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;_“你已毀滅了我的百姓，因你不認我！因你拒絕認我，我必拒絕你為我的祭司。因你摒棄你 神的律法，我也必摒棄你的後裔。” (Hosea 4:6, Chinese NET (T))_
+&nbsp;&nbsp;&nbsp;&nbsp;_““我的百姓因缺乏知識而被毀滅；因為你拒絕了知識，我拒絕你成為我的祭司。 既然你忘記了你上帝的律法，我也會忘記你的孩子。” （霍西阿 4:6, 翻譯自 ESV)_
 
 \
 \
@@ -462,7 +462,7 @@ but now it looked like Jesus didn’t want me to avoid the issue any longer! oka
 
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;_“你已毀滅了我的百姓..."_
+&nbsp;&nbsp;&nbsp;&nbsp;_“我的人民因為缺乏知識而被摧毀......"_
 
 \
 \
@@ -518,7 +518,7 @@ i discovered that her organization, New Direction, had morphed into something el
 
 \
 
-我發現她的組織“新方向”已經完全演變成其他東西，稱為“慷慨的空間”。他們的網站上有一個“活生生的道歉”，用於所謂的“前同性戀”事工，正如我進一步閱讀的那樣，這原來是善意但顯然是基督徒幫助同性戀者擺脫同性吸引力的企圖——即皈依療法。
+我發現她的組織“新方向”已經完全演變成其他東西，稱為“[慷慨的空間](https://web.archive.org/web/20200810153420/https://www.generousspace.ca/our-history)”。他們的網站上有一個“[活生生的道歉](https://web.archive.org/web/20200810154839/https://www.generousspace.ca/living-apology)”，用於所謂的“前同性戀”事工，正如我進一步閱讀的那樣，這原來是善意但顯然是基督徒幫助同性戀者擺脫同性吸引力的企圖——即皈依療法。
 
 \
 \
@@ -536,7 +536,7 @@ as i read further and followed links to [ex-gay survivor stories](https://beyond
 
 \
 
-當我進一步閱讀並關注前同性戀倖存者故事的連結時，我發現慷慨的空間不再認為同性戀是一種選擇——或罪惡。他們不再認為同性戀者有必要嘗試成為異性戀......
+當我進一步閱讀並關[注前同性戀倖存者故事](https://beyondexgay-com.translate.goog/narratives.html?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)的連結時，我發現慷慨的空間不再認為同性戀是一種選擇——或罪惡。他們不再認為同性戀者有必要嘗試成為異性戀......
 
 \
 \
@@ -554,7 +554,7 @@ i read through some of the [ex-gay survivor stories](https://beyondexgay.com/nar
 
 \
 
-我通讀了一些前同性戀倖存者的故事。當晚，2019年12月23日，我有一個啟示，第二天早上我在日記中記錄下來：
+我通讀了一[些前同性戀倖存者的故事](https://beyondexgay-com.translate.goog/narratives.html?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)。當晚，2019年12月23日，我有一個啟示，第二天早上我在日記中記錄下來：
 
 \
 \
@@ -611,7 +611,7 @@ i started at the very beginning of the blog posted on the [Generous Space websit
 
 \
 
-我從慷慨空間網站上釋出的部落格一開始就開始了。第一個帖子的日期是2008年6月3日，有很多帖子！ 這要花點時間。
+我從[慷慨空間網站](https://web.archive.org/web/20200920132725/https://www.generousspace.ca/)上釋出的部落格一開始就開始了。第一個帖子的日期是2008年6月3日，有很多帖子！ 這要花點時間。
 
 \
 \
@@ -629,7 +629,7 @@ but i watched as her thinking gradually evolved from the [more traditional conce
 
 \
 
-但我看著她的思維逐漸從更傳統的概念演變而來，即同性吸引力是一個導致人們陷入需要懺悔的罪惡的問題......到斷言“盟約的同性結合應該被視為有爭議的問題”（分為七個部分！）......到“確認LGBTQ2+人的關係、家庭、禮物和事工貢獻”！
+但我看著她的思維逐漸從[更傳統的概念演](https://web.archive.org/web/20200804053544/https://www.generousspace.ca/post/more-new-direction)變而來，即同性吸引力是一個導致人們陷入需要懺悔的罪惡的問題......到[斷言](/disputable)“盟約的同性結合應該被視為有爭議的問題”（分為七個部分！）......到“[確認](https://web.archive.org/web/20200918062248/https://www.generousspace.ca/faq)LGBTQ2+人的關係、家庭、禮物和事工貢獻”！
 
 \
 \
@@ -663,7 +663,7 @@ sometime in January 2020, i arrived at Wendy Gritter’s [blog post dated Januar
 
 \
 
-2020年1月的某個時候，我來到了Wendy Gritter2011年1月13日關於同性戀基督教網路和Justin Lee的部落格帖子。
+2020年1月的某個時候，我來到了Wendy Gritter[2011年1月13日](https://web.archive.org/web/20201021043909/https://www.generousspace.ca/post/hanging-out-with-about-400-gay-christian-friends)關於同性戀基督教網路和Justin Lee的[部落格帖子](https://web.archive.org/web/20201021043909/https://www.generousspace.ca/post/hanging-out-with-about-400-gay-christian-friends)。
 
 \
 \
@@ -672,7 +672,7 @@ i was curious about Justin Lee but a little leery of leaving the safety of Wendy
 
 \
 
-我對賈斯汀·李很好奇，但對把溫迪謹慎的、基於聖經的思維的安全留給一個未知的、不可預測的數量有點警惕。然後她在2012年11月的博文中再次寫下了他。
+我對賈斯汀·李很好奇，但對把溫迪謹慎的、基於聖經的思維的安全留給一個未知的、不可預測的數量有點警惕。然後她在[2012年11月的博文](https://web.archive.org/web/20200920131125/https://www.generousspace.ca/post/how-we-can-find-unity-in-our-diversity)中再次寫下了他。
 
 \
 \
@@ -681,7 +681,7 @@ curiosity won out, and after searching on his name i found myself at his website
 
 \
 
-好奇心勝了，在搜尋他的名字後，我發現自己在他的網站geekyjustin.com上。
+好奇心勝了，在搜尋他的名字後，我發現自己在他的網站[geekyjustin.com](https://geekyjustin-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)上。
 
 \
 \
@@ -708,7 +708,7 @@ so i decided to watch his [video testimony on YouTube](https://www.youtube.com/w
 
 \
 
-所以我決定在YouTube上觀看他的影片證詞。
+所以我決定在YouTube上觀看他的[影片證詞](https://www-youtube-com.translate.goog/watch?v=HJVXWimD9w0&_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp&themeRefresh=1&_x_tr_hist=true)。
 
 \
 \
@@ -762,7 +762,7 @@ i had thought it was a sin, but now understanding that it had not been a choice 
 
 \
 
-我本以為這是一種罪過，但現在明白這不是賈斯汀·李的選擇——他無休止地哭泣和祈禱，乞求上帝讓他成為異性戀——我非常清楚地看到，這不可能是一種罪過，因為沒有涉及決策。
+我本以為這是一種罪過，但現在明白這不是賈斯汀·李的選擇——他無休止[地哭泣和祈禱，乞求上帝讓他成為異性戀](https://www-youtube-com.translate.goog/watch?v=a_FqndcGmKI&t=307s&_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp&themeRefresh=1&_x_tr_hist=true)——我非常清楚地看到，這不可能是一種罪過，因為沒有涉及決策。
 
 \
 \
@@ -796,7 +796,7 @@ like what happened to [Matthew Shepard](https://en.wikipedia.org/wiki/Matthew_Sh
 
 \
 
-就像馬修·謝潑德的遭遇一樣。
+就像[馬修·謝潑](https://en-m-wikipedia-org.translate.goog/wiki/Matthew_Shepard?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)德的遭遇一樣。
 
 \
 \
@@ -894,7 +894,7 @@ when i discovered [Justin Lee’s YouTube channel](https://www.youtube.com/c/Gee
 
 \
 
-當我在2020年1月發現賈斯汀·李的YouTube頻道時，我還發現了他的YouTube節目：GeekyJustin Live。第一季，“LGBTQ和基督徒”，採訪了我以前從未聽說過的人：凱西·巴爾多克、馬修·維恩斯、丹尼·科爾特斯、奧斯汀·哈特克......
+當我在2020年1月發現[賈斯汀·李的YouTube頻道](https://www-youtube-com.translate.goog/c/GeekyJustin?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp&themeRefresh=1&_x_tr_hist=true)時，我還發現了他的YouTube節目：GeekyJustin Live。第一季，“[LGBTQ和基督徒](https://www-youtube-com.translate.goog/playlist?list=PLbidsuZsGmyinfZjjBedotjOv3WPACAsA&_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp&themeRefresh=1&_x_tr_hist=true)”，採訪了我以前從未聽說過的人：凱西·巴爾多克、馬修·維恩斯、丹尼·科爾特斯、奧斯汀·哈特克......
 
 \
 \
@@ -903,7 +903,7 @@ one of them, Marsha Stevens-Pino, it turned out, was the writer of a song i had 
 
 \
 
-事實證明，其中一人，瑪莎·史蒂文斯-皮諾，是我年輕時唱過很多次的一首歌的作者：為了那些眼淚，我死了。
+事實證明，其中一人，瑪莎·史蒂文斯-皮諾，是我年輕時唱過很多次的一首歌的作者：[為了那些眼淚，我死了](https://www-higherpraise-com.translate.goog/lyrics6/f/2918.htm?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)。
 
 \
 \
@@ -1055,11 +1055,11 @@ my concept of lesbians was shaken.
 
 ## where to begin? &nbsp;&nbsp;從哪裡開始？
 
-Justin Lee also [interviewed Kathy Baldock](https://www.youtube.com/watch?v=sGuNKz65_UM&list=PLbidsuZsGmyinfZjjBedotjOv3WPACAsA&index=2) on his YouTube show, _[GeekyJustin Live](https://www.youtube.com/geekyjustin)_. Kathy is a heterosexual, outgoing, older white evangelical — so at first it seemed odd to me that he was interviewing her, but i soon found out that she had made her own about-face from being a completely unaffirming and traditional evangelical to writing a book, _[Walking the Bridgeless Canyon](https://canyonwalkerconnections.com/walking-the-bridgeless-canyon-hub/),_ with the express intent to “repair the breach between the Church and the LGBT community.”
+Justin Lee also [interviewed Kathy Baldock](https://www.youtube.com/watch?v=sGuNKz65_UM&list=PLbidsuZsGmyinfZjjBedotjOv3WPACAsA&index=2) on his YouTube show, _GeekyJustin Live_. Kathy is a heterosexual, outgoing, older white evangelical — so at first it seemed odd to me that he was interviewing her, but i soon found out that she had made her own about-face from being a completely unaffirming and traditional evangelical to writing a book, _[Walking the Bridgeless Canyon](https://canyonwalkerconnections.com/walking-the-bridgeless-canyon-hub/),_ with the express intent to “repair the breach between the Church and the LGBT community.”
 
 \
 
-Justin Lee還在他的YouTube節目GeekyJustin Live上採訪了Kathy Baldock。 Kathy是一個異性戀、外向、年長的白人福音派——所以起初他採訪她對我來說似乎很奇怪，但我很快就發現，她從一個完全不肯定的傳統福音派到寫了一本書《無橋峽谷漫步》，其明確意圖是“修復教會和LGBT社群之間的裂痕”。
+Justin Lee還在他的YouTube節目GeekyJustin Live上[採訪了Kathy Baldock](https://www-youtube-com.translate.goog/watch?v=sGuNKz65_UM&list=PLbidsuZsGmyinfZjjBedotjOv3WPACAsA&index=2&_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp&themeRefresh=1&_x_tr_hist=true)。 Kathy是一個異性戀、外向、年長的白人福音派——所以起初他採訪她對我來說似乎很奇怪，但我很快就發現，她從一個完全不肯定的傳統福音派到寫了一本書《[無橋峽谷漫步](https://canyonwalkerconnections-com.translate.goog/walking-the-bridgeless-canyon-hub/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)》，其明確意圖是“修復教會和LGBT社群之間的裂痕”。
 
 \
 \
