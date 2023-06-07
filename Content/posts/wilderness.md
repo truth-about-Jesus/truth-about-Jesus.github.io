@@ -68,19 +68,38 @@ take this story as a witness that the answer is: _none of the above_. instead, l
 \
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;_“Therefore, behold, I will allure her, and bring her into the wilderness, and speak tenderly to her. And there I will give her her vineyards and make the Valley of Achor a door of hope. And there she shall answer as in the days of her youth, as at the time when she came out of the land of Egypt._
+&nbsp;&nbsp;&nbsp;&nbsp;_“Therefore, behold, I will allure her, and bring her into the wilderness, and speak tenderly to her._
 
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_“她卻忘記我！」這是耶和華說的。「不過，後來我必誘導她，領她回到曠野，對她說溫柔的話。 _
+
+\
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_And there I will give her her vineyards and make the Valley of Achor a door of hope. And there she shall answer as in the days of her youth, as at the time when she came out of the land of Egypt._
+
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_在那裏，我必還她葡萄園，將「艱難谷」變作希望的「機會」。她必在那裏歌唱，與年青的日子一樣，與從埃及地上來的時候相同。」_
+
+\
 \
 
 &nbsp;&nbsp;&nbsp;&nbsp;_“And in that day, declares the LORD, you will call me ‘My Husband,’ and no longer will you call me ‘My Baal.’_
 
 \
 
+&nbsp;&nbsp;&nbsp;&nbsp;_耶和華說：「那日你必稱呼我「我夫」，不再稱呼我「我主」。_ 
+
+\
+\
+
 &nbsp;&nbsp;&nbsp;&nbsp;_“For I will remove the names of the Baals from her mouth, and they shall be remembered by name no more.” (Hosea 2:14-17, ESV)_
 
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;_“她卻忘記我！」這是耶和華說的。「不過，後來我必誘導她，領她回到曠野，對她說溫柔的話。 在那裏，我必還她葡萄園，將「艱難谷」變作希望的「機會」。她必在那裏歌唱，與年青的日子一樣，與從埃及地上來的時候相同。」 耶和華說：「那日你必稱呼我「我夫」，不再稱呼我「我主」。 因為我必從你的口中除掉諸巴力偶像，” (Hosea 2:14-17, Chinese NET (T))_
+&nbsp;&nbsp;&nbsp;&nbsp;_因為我必從你的口中除掉諸巴力偶像，” (Hosea 2:14-17, Chinese NET (T))_
 
 \
 \
@@ -853,6 +872,7 @@ He said to them:
 <center>📖</center>
 
 \
+\
 
 &nbsp;&nbsp;&nbsp;&nbsp;_“Truly, I say to you, the tax collectors and the prostitutes go into the kingdom of God before you.” (Matthew 21:31, ESV)_
 
@@ -1185,23 +1205,36 @@ everyone who says they follow Jesus will either stand or fall in the end, based 
 
 &nbsp;&nbsp;&nbsp;&nbsp;_“Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock._
 
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_“「凡聽見我這些話又去行的，就好像一個聰明人把房子蓋在磐石上。_
+
+\
+\
+
 &nbsp;&nbsp;&nbsp;&nbsp;_“And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock._
 
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_“雨淋，泛濫，風吹，房子屹立不倒，因為根基立在磐石上。_
+
+\
+\
+
 &nbsp;&nbsp;&nbsp;&nbsp;_“And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand._
+
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_“凡聽見我這些話卻不去行的，就好像一個愚蠢人把房子蓋在沙土上。_
+
+\
+\
 
 &nbsp;&nbsp;&nbsp;&nbsp;_“And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it.” (Matthew 7:24-27, ESV)_
 
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;_“「凡聽見我這些話又去行的，就好像一個聰明人把房子蓋在磐石上。_
-
-&nbsp;&nbsp;&nbsp;&nbsp;_“雨淋，泛濫，風吹，房子屹立不倒，因為根基立在磐石上。_
-
-&nbsp;&nbsp;&nbsp;&nbsp;_“凡聽見我這些話卻不去行的，就好像一個愚蠢人把房子蓋在沙土上。_
-
-&nbsp;&nbsp;&nbsp;&nbsp;_“雨淋，泛濫，風吹，房子就倒塌了，並且是完全的毀壞。」”_
-
-&nbsp;&nbsp;&nbsp;&nbsp;_(Matthew 7:24-27, Chinese NET (T))_
+&nbsp;&nbsp;&nbsp;&nbsp;_“雨淋，泛濫，風吹，房子就倒塌了，並且是完全的毀壞。」” (Matthew 7:24-27, Chinese NET (T))_
 
 \
 \
@@ -1236,15 +1269,25 @@ for example, in His much-celebrated Sermon on the Mount, Jesus warns,
 
 &nbsp;&nbsp;&nbsp;&nbsp;_“Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you._
 
-&nbsp;&nbsp;&nbsp;&nbsp;_“Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? Or how can you say to your brother, ‘Let me take the speck out of your eye,’ when there is the log in your own eye?_
-
-&nbsp;&nbsp;&nbsp;&nbsp;_“You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye.” (Matthew 7:1-5, ESV)_
-
 \
 
 &nbsp;&nbsp;&nbsp;&nbsp;_“「你們不要判斷人，免得你們被判斷； 因為你們用甚麼標準判斷人，也必用甚麼標準被判斷。_
 
+\
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_“Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye? Or how can you say to your brother, ‘Let me take the speck out of your eye,’ when there is the log in your own eye?_
+
+\
+
 &nbsp;&nbsp;&nbsp;&nbsp;_你們用甚麼尺度衡量人，也必用甚麼尺度被衡量。 為甚麼看見你弟兄眼中有木屑，卻看不見自己眼中有梁木呢？_ 
+
+\
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_“You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye.” (Matthew 7:1-5, ESV)_
+
+\
 
 &nbsp;&nbsp;&nbsp;&nbsp;_你自己眼中有梁木，怎能對你弟兄說『容我去掉你眼中的木屑』呢？ 你這偽君子，先去掉自己眼中的梁木，然後才能看得清楚，替你弟兄去掉眼中的木屑。” (Matthew 7:1-5, Chinese NET (T))_
 
@@ -1922,136 +1965,276 @@ now i was sure i had my answer.
 \
 \
 
-## repent
+## repent &nbsp;&nbsp;懺悔
 
 there is so much more that could be said on this topic. and so much more that has been wonderfully well communicated by others — in books, on websites, through videos... and more.
 
+\
+
+關於這個話題，還有很多東西可以說。還有很多東西被其他人很好地傳達了——在書籍上，在網站上，透過影片......等等。
+
+\
 \
 
 i’ve only told the story of how i became convinced that God is not at all against LGBTQ folks — not anymore than He is against anyone else, regardless of sexuality.
 
 \
 
+我只講述了我如何確信上帝根本不反對LGBTQ的人的故事——就像他反對其他人一樣，無論性行為如何。
+
+\
+\
+
 in fact, i’m convinced that He created them for a good purpose — to show us what is in our hearts.
 
+\
+
+事實上，我相信他創造它們是為了一個好的目的——向我們展示我們心中的東西。
+
+\
 \
 
 is God still against sin? undoubtedly. but being born with same-sex attraction is not a sin, since it is not a choice. and in rejecting such folks, or denying them equal treatment before the law, we are breaking the second greatest commandment: to love our neighbour as we love ourselves (Matthew 22:37-40). we are actually running the risk of being rejected ourselves when Jesus comes again (Matthew 7:21-23).
 
 \
 
+上帝還反對罪惡嗎？ 毫無疑問。但生來就有同性吸引力不是一種罪過，因為這不是一種選擇。在拒絕這些人，或拒絕他們在法律面前平等待遇時，我們違反了第二條最大的誡命：像愛自己一樣愛我們的鄰居（馬太福音22:37-40）。當耶穌再次降臨時，我們實際上冒著被拒絕的風險（馬太福音7:21-23）。
+
+\
+\
+
 so if you are one of those folks who believes they must reject anyone who says they are LGBTQ in order to follow Jesus — please, reconsider. remember Jesus’ teachings and His example, and repent.
 
+\
+
+因此，如果你是那些認為他們必須拒絕任何說自己是LGBTQ才能跟隨耶穌的人之一——請重新考慮。記住耶穌的教誨和他的榜樣，並懺悔。
+
+\
 \
 
 <center>🔹🟣🔹</center>
 
 \
+\
 
 ## what about same-sex marriage?
+## 同性婚姻呢？
 
 what about same-sex marriage? isn’t that in direct contradiction to the law in Leviticus — that brick wall i was unable to go through?
 
+\
+
+同性婚姻呢？ 這難道不是與《利未記》中的法律直接矛盾嗎——那堵磚牆我無法透過？
+
+\
 \
 
 some Christians agree that there is absolutely nothing wrong with being born with same-sex attraction. but because of the law in Leviticus 18:22, they believe all folks experiencing same-sex attraction must either marry a member of the opposite sex, or remain celibate.
 
 \
 
+一些基督徒同意，生來就有同性吸引力絕對沒有錯。但由於利未記18:22的法律，他們認為所有經歷同性吸引力的人必須與異性結婚，或者保持獨身。
+
+\
+\
+
 i have honestly come to the place where i do not have any problem with same-sex marriage. of course, not everyone will agree with me, and i respect that. but i do not believe that a loving, committed, monogamous same-sex relationship is offensive to God any more than a similar opposite-sex one is. why??
 
+\
+
+老實說，我來到了我對同性婚姻沒有任何問題的地方。當然，不是每個人都會同意我的觀點，我尊重這一點。但我不相信有愛、堅定、一夫一妻制的同性關係對上帝的冒犯，就像類似的異性關係一樣。為什麼??
+
+\
 \
 
 some LGBTQ Christians believe they are called to celibacy; others are already in loving, committed, monogamous same-sex relationships. at Creation, God said it wasn’t good for the man to be alone (Genesis 2:18). Jesus said not everyone could handle being celibate (Matthew 19:10-12), and Paul said it is better to marry than to burn with passion (1 Corinthians 7:8-9).
 
 \
 
+一些LGBTQ基督徒認為他們被召喚獨身；其他人已經處於愛、承諾、一夫一妻制的同性關係中。在創造時，上帝說男人獨處不好（創世記2:18）。 耶穌說，不是每個人都能忍受獨身（馬太福音19:10-12），保羅說結婚比激情燃燒要好（哥林多前書7：8-9）。
+
+\
+\
+
 i believe that the loving thing to do is to allow each person to decide for themselves whether or not they can be celibate. and if they decide to marry, even if you personally do not like their choice of spouse, respect their choice and embrace them both.
 
+\
+
+我相信，值得愛的事情是讓每個人自己決定他們是否可以獨身。如果他們決定結婚，即使你個人不喜歡他們選擇配偶，也要尊重他們的選擇，擁抱他們倆。
+
+\
 \
 
 some commentators have said that the Leviticus law was referring not to loving, committed, monogamous same-sex relationships but to the [ancient practice of heterosexual warriors raping enemy combatants](https://medium.com/colloquium/wartime-sexual-violence-against-men-21ae5b15b3c) in order to subjugate and humiliate them — because loving, committed monogamous same-sex relationships didn’t exist back then.
 
 \
 
+一些評論員說，利未克律法指的不是愛、承諾的一夫一妻制的同性關係，而是指異性戀戰士強姦敵方戰鬥人員以征服和羞辱他們的古老做法——因為愛的、承諾的一夫一妻制的同性關係在當時並不存在。
+
+\
+\
+
 similarly, apparently the ancient cultural practice to which Paul may have been referring (which was mistakenly translated into the modern word “homosexuality”) in his lists of sins, was pederasty — a practice in [Greek](https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Greece) and [Roman](https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Rome) culture in which older men married to women would also take a younger male lover whom they would mentor — i.e., a form of adultery.
 
+\
+
+同樣，顯然，保羅在他的罪孽清單中可能提到的古代文化習俗（被錯誤地翻譯成現代單詞“同性戀”）是戀童癖——在希臘和羅馬文化中，與女性結婚的老年男子也會接受他們指導的年輕男性情人——即一種通姦形式。
+
+\
 \
 
 then there is the extremely serious modern-day problem of some “celibate” Catholic priests sexually abusing youth under their care. clearly, it must be wrong and unloving and just a really bad idea to coerce anyone into celibacy.
 
 \
 
+然後還有一個極其嚴重的現代問題，即一些“獨身的”天主教牧師對他們照顧的年輕人進行性虐待。顯然，這一定是錯誤的，沒有愛心的，只是強迫任何人獨身是一個非常糟糕的想法。
+
+\
+\
+
 so celibacy has to be a personal choice, just as Jesus said.
 
 \
 
+因此，正如耶穌所說，獨身必須是個人選擇。
+
+\
+\
+
 <center>📖</center>
 
+\
 \
 
 &nbsp;&nbsp;&nbsp;&nbsp;_The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.”_
 
 \
 
+&nbsp;&nbsp;&nbsp;&nbsp;_“門徒對耶穌說：「人和妻子既是這樣，倒不如不結婚！」 _
+
+\
+\
+
 &nbsp;&nbsp;&nbsp;&nbsp;_But he said to them, “Not everyone can receive this saying, but only those to whom it is given. For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven._
 
+\
+
+&nbsp;&nbsp;&nbsp;&nbsp;_耶穌說：「這話不是人人都能接受的，惟獨賜給誰，誰才能領受。 因為有些生來是閹人，有些是被人閹的，也有些為天國的緣故自閹的。_
+
+\
 \
 
 &nbsp;&nbsp;&nbsp;&nbsp;_“Let the one who is able to receive this receive it.” (Matthew 19:10-12, ESV)_
 
 \
 
+&nbsp;&nbsp;&nbsp;&nbsp;_這話誰能領受，就可以領受。」” (Matthew 19:10-12, Chinese NET (T))_
+
+\
+\
+
+
 <center>🔹🟣🔹</center>
 
 \
 
-## ordination?
+## ordination? &nbsp;&nbsp;任命？
 
 if we agree that a person who experiences same-sex attraction is not sinning by being born that way, then i don’t understand why there should be any problem with ordaining such folk to serve in the church — in any capacity.
 
+\
+
+如果我們同意一個經歷過同性吸引力的人不是因為生來而犯罪的，那麼我不明白為什麼任命這樣的人以任何身份在教會服務會有任何問題。
+
+\
 \
 
 undoubtedly, every person who is elected or appointed into church leadership should be living according to the high moral standards of God’s Word.
 
 \
 
+毫無疑問，每個當選或被任命為教會主管層的人，都應該按照上帝的話語的高道德標準生活。
+
+\
+\
+
 but it doesn’t seem right to me that the experience of same-sex attraction should somehow diminish a candidate for ordination.
 
+\
+
+但在我看來，同性吸引力的經歷會以某種方式減少受戒候選人，這似乎不對。
+
+\
 \
 
 immorality should definitely disqualify anyone, whether gay or straight (and there is plenty of that on both sides of the fence).
 
 \
 
+不道德絕對應該取消任何人的資格，無論是同性戀還是異性戀（籬笆兩側都有很多這種資格）。
+
+\
+\
+
 but not something innate like same-sex attraction.
 
+\
+
+但不是像同性吸引力那樣與生俱來的東西。
+
+\
 \
 
 we have impoverished both ourselves and our churches by unlovingly excluding LGBTQ folks, to whom God has distributed spiritual gifts meant to complete us.
 
 \
 
+我們不愛心地排斥LGBTQ人群，使我們自己和我們的教會都變得貧窮，上帝向他們分發了旨在完善我們的精神禮物。
+
+\
+\
+
 <center>🔹🟣🔹</center>
 
 \
+\
 
-## epilogue
+## epilogue &nbsp;&nbsp;尾聲
 
 so that’s the story of how God led me out to the wilderness, and what He has been teaching me here.
 
+\
+
+這就是上帝如何把我帶到曠野的故事，以及他在這裡教給我的東西。
+
+\
 \
 
 i tried to go back to the little church near our house a few times, but it soon became clear that it was no longer God’s plan for us. i have to think He sent us there just to get the ball rolling through their email announcement.
 
 \
 
+我幾次試圖回到我們家附近的小教堂，但很快就發現這不再是上帝對我們的計劃。我不得不認為他派我們去那裡只是為了讓他們的電子郵件公告。
+
+\
+\
+
 although i began my research with some trepidation, i have ultimately found it to be both joyful and freeing, and am grateful to Jesus for getting me to do it.
 
 \
 
+雖然我帶著一些恐懼開始了研究，但我最終發現它既快樂又自由，我很感激耶穌讓我做了這件事。
+
+\
+\
+
 the wilderness is a wonderful place to be.
 
+\
+
+荒野是一個美妙的地方。
+
+\
 \
 
 <center>📖</center>
@@ -2062,10 +2245,25 @@ the wilderness is a wonderful place to be.
 
 \
 
+&nbsp;&nbsp;&nbsp;&nbsp;_“當那日，我必為他們與田野的走獸，空中的飛鳥，並地上爬行的立約。又必在國中折斷弓刀，止息爭戰，使他們安居。 _
+
+\
+\
+
 &nbsp;&nbsp;&nbsp;&nbsp;_And I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy. I will betroth you to me in faithfulness._
 
 \
 
+&nbsp;&nbsp;&nbsp;&nbsp;_我必向你永遠委身，以仁義、公平、慈愛、憐憫，向你委身。 _
+
+\
+\
+
 &nbsp;&nbsp;&nbsp;&nbsp;_And you shall know the LORD.” (Hosea 2:18b-20, ESV)_
 
+\
 
+&nbsp;&nbsp;&nbsp;&nbsp;_我必以信實向你委身，” (Hosea 2:18-20, Chinese NET (T))_
+
+\
+\
