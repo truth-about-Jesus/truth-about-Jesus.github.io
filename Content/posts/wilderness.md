@@ -489,11 +489,11 @@ i was instantly highly motivated.
 \
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;_(i held out for as long as i could, but eventually, when the opportunity arose — i don’t exactly remember how — i did ask Jared, a little nervously, and he assured me unequivocally that he was straight.)_
+_(i held out for as long as i could, but eventually, when the opportunity arose — i don’t exactly remember how — i did ask Jared, a little nervously, and he assured me unequivocally that he was straight.)_
 
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;_（我儘可能地堅持了下來，但最終，當機會出現時——我不太記得是怎麼做的——我確實有點緊張地問了Jared，他毫不含糊地向我保證他是直的。）_
+_（我儘可能地堅持了下來，但最終，當機會出現時——我不太記得是怎麼做的——我確實有點緊張地問了Jared，他毫不含糊地向我保證他是直的。）_
 
 \
 \
@@ -514,7 +514,7 @@ since the only person i had ever heard of being involved in Christian ministry t
 \
 \
 
-i discovered that her organization, New Direction, had morphed into something else entirely, called “Generous Space". there was a “living apology” on their website for something called “ex-gay” ministry, which, as i read further, turned out to be well-meaning but apparently misguided attempts on the part of Christians to help gays divest themselves of same-sex attraction — i.e., conversion therapy.
+i discovered that her organization, New Direction, had morphed into something else entirely, called “[Generous Space](https://web.archive.org/web/20200810153420/https://www.generousspace.ca/our-history)". there was a “[living apology](https://web.archive.org/web/20200810154839/https://www.generousspace.ca/living-apology)” on their website for something called “ex-gay” ministry, which, as i read further, turned out to be well-meaning but apparently misguided attempts on the part of Christians to help gays divest themselves of same-sex attraction — i.e., conversion therapy.
 
 \
 
@@ -607,7 +607,7 @@ i decided i needed to read Wendy Gritter’s blog from the very beginning to und
 \
 \
 
-i started at the very beginning of the blog posted on the Generous Space website. the first post was dated June 3, 2008, and there were a lot of posts! this was going to take a while.
+i started at the very beginning of the blog posted on the [Generous Space website](https://web.archive.org/web/20200920132725/https://www.generousspace.ca/). the first post was dated June 3, 2008, and there were a lot of posts! this was going to take a while.
 
 \
 
@@ -625,7 +625,7 @@ i won’t pretend i understood everything she wrote. as far as i can tell, she t
 \
 \
 
-but i watched as her thinking gradually evolved from the more traditional concept that same-sex attraction is a problem that leads people into sin that requires repentance... to an assertion that “covenanted same-sex unions ought to be considered a disputable matter” (in seven parts!) ... to “affirming the relationships, families, gifts, and ministry contributions of LGBTQ2+ people”!
+but i watched as her thinking gradually evolved from the [more traditional concept](https://web.archive.org/web/20200804053544/https://www.generousspace.ca/post/more-new-direction) that same-sex attraction is a problem that leads people into sin that requires repentance... to an [assertion](/disputable) that “covenanted same-sex unions ought to be considered a disputable matter” (in seven parts!) ... to “[affirming](https://web.archive.org/web/20200918062248/https://www.generousspace.ca/faq) the relationships, families, gifts, and ministry contributions of LGBTQ2+ people”!
 
 \
 
@@ -659,7 +659,7 @@ i wasn’t ready to go that far — not yet. but it was thought-provoking to see
 
 ## Justin Lee &nbsp;&nbsp;賈斯汀李
 
-sometime in January 2020, i arrived at Wendy Gritter’s blog post dated January 13, 2011 about the Gay Christian Network and Justin Lee.
+sometime in January 2020, i arrived at Wendy Gritter’s [blog post dated January 13, 2011](https://web.archive.org/web/20201021043909/https://www.generousspace.ca/post/hanging-out-with-about-400-gay-christian-friends) about the Gay Christian Network and Justin Lee.
 
 \
 
@@ -668,7 +668,7 @@ sometime in January 2020, i arrived at Wendy Gritter’s blog post dated January
 \
 \
 
-i was curious about Justin Lee but a little leery of leaving the safety of Wendy’s careful, Bible-based thinking for an unknown, unpredictable quantity. then she wrote about him again in her November 2012 blog post.
+i was curious about Justin Lee but a little leery of leaving the safety of Wendy’s careful, Bible-based thinking for an unknown, unpredictable quantity. then she wrote about him again in her [November 2012 blog post](https://web.archive.org/web/20200920131125/https://www.generousspace.ca/post/how-we-can-find-unity-in-our-diversity).
 
 \
 
