@@ -1077,7 +1077,7 @@ Kathy responds by strongly recommending Justin Lee’s own book, _[Torn](https:/
 
 \
 
-Kathy的迴應是強烈推薦Justin Lee自己的書《Torn》，首先是實事求是地補充的，“我一直都這麼說。”然後她接著推薦她自己的書，以及其他幾本書。
+Kathy的迴應是強烈推薦Justin Lee自己的書《[Torn](https://geekyjustin-com.translate.goog/books/torn/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)》，首先是實事求是地補充的，“我一直都這麼說。”然後她接著推薦她自己的書，以及其他幾本書。
 
 \
 \
@@ -1095,7 +1095,7 @@ sensing God’s prompting, i decided to order _[Torn](https://geekyjustin.com/bo
 
 \
 
-感覺到上帝的提示，我決定命令撕裂。
+感覺到上帝的提示，我決定命令撕裂《[Torn](https://geekyjustin-com.translate.goog/books/torn/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)》。
 
 \
 \
@@ -1111,7 +1111,7 @@ Justin Lee’s book, _[Torn](https://geekyjustin.com/books/torn/),_ turned out t
 
 \
 
-賈斯汀·李的書《撕裂》原來很容易閱讀。 他以一種既可親和又引人入勝的方式講述了他的個人故事。
+賈斯汀·李的書《[Torn](https://geekyjustin-com.translate.goog/books/torn/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)》原來很容易閱讀。 他以一種既可親和又引人入勝的方式講述了他的個人故事。
 
 \
 \
@@ -1836,7 +1836,7 @@ through my reading i learned that the [initial introduction of the word “homos
 
 \
 
-透過閱讀，我瞭解到“同性戀”一詞最初引入新約是1946年修訂標準版本翻譯團隊的一個錯誤。幾年後，它最終被糾正了，但在許多其他現代版本效仿之前。
+透過閱讀，我瞭[解到“同性戀”一詞最初引入新約是](https://canyonwalkerconnections-com.translate.goog/forging-a-sacred-weapon-how-the-church-became-anti-gay-hub/reverend-david/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)1946年修訂標準版本翻譯團隊的一個錯誤。幾年後，它最終被糾正了，但在許多其他現代版本效仿之前。
 
 \
 \
@@ -2069,7 +2069,7 @@ some commentators have said that the Leviticus law was referring not to loving, 
 
 \
 
-一些評論員說，利未克律法指的不是愛、承諾的一夫一妻制的同性關係，而是指異性戀戰士強姦敵方戰鬥人員以征服和羞辱他們的古老做法——因為愛的、承諾的一夫一妻制的同性關係在當時並不存在。
+一些評論員說，利未克律法指的不是愛、承諾的一夫一妻制的同性關係，而是指[異性戀戰士強姦敵方戰鬥人員以征服和羞辱他們的古老做法](https://medium.com/colloquium/wartime-sexual-violence-against-men-21ae5b15b3c)——因為愛的、承諾的一夫一妻制的同性關係在當時並不存在。
 
 \
 \
@@ -2078,7 +2078,7 @@ similarly, apparently the ancient cultural practice to which Paul may have been 
 
 \
 
-同樣，顯然，保羅在他的罪孽清單中可能提到的古代文化習俗（被錯誤地翻譯成現代單詞“同性戀”）是戀童癖——在希臘和羅馬文化中，與女性結婚的老年男子也會接受他們指導的年輕男性情人——即一種通姦形式。
+同樣，顯然，保羅在他的罪孽清單中可能提到的古代文化習俗（被錯誤地翻譯成現代單詞“同性戀”）是戀童癖——在[希臘](https://en-m-wikipedia-org.translate.goog/wiki/Homosexuality_in_ancient_Greece?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)和[羅馬](https://en-m-wikipedia-org.translate.goog/wiki/Homosexuality_in_ancient_Rome?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=en&_x_tr_pto=wapp)文化中，與女性結婚的老年男子也會接受他們指導的年輕男性情人——即一種通姦形式。
 
 \
 \
