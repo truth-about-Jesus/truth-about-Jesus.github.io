@@ -82,7 +82,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     Wrapper {
                         Article {
                             Div(item.content.body).class("content")
-                            Span("Tagged with: ")
+                            Span("Tagged with 標記為: ")
                             ItemTagList(item: item, site: context.site)
                         }
                     }
@@ -207,14 +207,27 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
 
     var body: Component {
         List(items) { item in
+//        List {
             Article {
                 H1(Link(item.title, url: item.path.absoluteString))
-//                H1(Link(item.metadata.title2, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
-                H6("&nbsp;")
-//                Paragraph(item.metadata.description2)
+                    .class("description")
             }
+//            Article {
+//                H1(Link(items[0].title, url: items[0].path.absoluteString))
+//                H1(Link("", url: items[0].path.absoluteString))
+//                ItemTagList(item: items[0], site: site)
+//                Paragraph(items[0].description)
+//                    .class("description")
+//            }
+//            Article {
+//                H1(Link(items[1].title, url: items[1].path.absoluteString))
+//                H1(Link("", url: items[1].path.absoluteString))
+//                ItemTagList(item: items[1], site: site)
+//                Paragraph(items[1].description)
+//                    .class("description")
+//            }
         }
         .class("item-list")
     }

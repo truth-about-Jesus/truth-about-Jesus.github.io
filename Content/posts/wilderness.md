@@ -1,16 +1,13 @@
 ---
 date: 2023-06-05 21:15
-description: how i discovered Jesus' heart toward LGBTQ folks
+description: how i discovered Jesus' heart toward LGBTQ folks &nbsp;&nbsp;我如何發現耶穌對LGBTQ人的心
 tags: Jesus, LGBTQ, God, wilderness
-title2: title2 placeholder
-description2: description2 placeholder
 ---
 ##### 🌐 _[Translate this page with Google](https://truthaboutjesus-github-io.translate.goog/posts/wilderness/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) &nbsp; 🌐 [用谷歌翻譯此頁面](https://truthaboutjesus-github-io.translate.goog/posts/wilderness/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
 
 \
 
-# a wilderness story
-# 荒野故事
+# a wilderness story &nbsp;&nbsp;荒野故事
 
 _© 2022 Enid Ning._
 
