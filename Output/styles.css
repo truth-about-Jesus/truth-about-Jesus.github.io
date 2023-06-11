@@ -10,10 +10,15 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "OpenDyslexicAlta";
+    src: url('fonts/OpenDyslexicAlta-Regular.otf');)
+}
+
 body {
     background: #fff;
     color: #000;
-    font-family: verdana, arial, sans-serif;
+    font-family: "OpenDyslexicAlta", verdana, arial, sans-serif;
     text-align: center;
 }
 
