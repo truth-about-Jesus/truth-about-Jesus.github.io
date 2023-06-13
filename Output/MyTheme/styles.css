@@ -39,7 +39,7 @@ header .wrapper {
 
 header a {
     text-decoration: none;
-}
+    text-transform: lowercase;}
 
 header .site-name {
     font-size: 1.5em;
@@ -64,10 +64,12 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
+    text-transform: lowercase;
 }
 
 h2 {
     margin: 20px 0;
+    text-transform: lowercase;
 }
 
 p {
