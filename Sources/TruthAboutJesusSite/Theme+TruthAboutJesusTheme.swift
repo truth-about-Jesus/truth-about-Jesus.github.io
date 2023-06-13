@@ -192,12 +192,13 @@ private struct SiteHeader<TruthAboutJesusSite: Website>: Component {
             List(TruthAboutJesusSite.SectionID.allCases) { sectionID in
                 let section = context.sections[sectionID]
 
-                return Link(section.title,
+                return Link(section.title/*.lowercased()*/,
                     url: section.path.absoluteString
                 )
                 .class(sectionID == selectedSelectionID ? "selected" : "")
             }
         }
+        .style("text-transform: lowercase")
     }
 }
 

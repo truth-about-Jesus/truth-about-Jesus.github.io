@@ -6,7 +6,7 @@ import Plot
 struct TruthAboutJesusSite: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
-        case posts
+        case posts, questions
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -24,16 +24,16 @@ struct TruthAboutJesusSite: Website {
 
 
 // This will generate your website using the built-in Foundation theme:
-try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
-//try TruthAboutJesusSite()
-//    .publish(using: [
-//        .addMarkdownFiles(),
-//        .copyResources(),
-//        .generateHTML(withTheme: .truthAboutJesusTheme),
-//        .generateRSSFeed(including: [.posts]),
-//        .generateSiteMap(),
+//try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
+try TruthAboutJesusSite()
+    .publish(using: [
+        .addMarkdownFiles(),
+        .copyResources(),
+        .generateHTML(withTheme: .truthAboutJesusTheme),
+        .generateRSSFeed(including: [.posts]),
+        .generateSiteMap(),
 //        .deploy(using: .gitHub("truthaboutjesus/truthaboutjesus.github.io",
 //                               branch: "main",
 //                               useSSH: false)
 //        )
-//    ])
+    ])
