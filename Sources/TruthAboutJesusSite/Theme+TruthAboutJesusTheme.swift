@@ -192,7 +192,7 @@ private struct SiteHeader<TruthAboutJesusSite: Website>: Component {
             List(TruthAboutJesusSite.SectionID.allCases) { sectionID in
                 let section = context.sections[sectionID]
 
-                return Link(section.title/*.lowercased()*/,
+                return Link(section.title,
                     url: section.path.absoluteString
                 )
                 .class(sectionID == selectedSelectionID ? "selected" : "")
