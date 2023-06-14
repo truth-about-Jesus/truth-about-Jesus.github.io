@@ -198,7 +198,6 @@ private struct SiteHeader<TruthAboutJesusSite: Website>: Component {
                 .class(sectionID == selectedSelectionID ? "selected" : "")
             }
         }
-        .style("text-transform: lowercase")
     }
 }
 

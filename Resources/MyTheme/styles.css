@@ -27,19 +27,17 @@ body {
 
 header {
     background-color: #eee;
-    text-transform: lowercase;
 }
 
 header .wrapper {
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
-    text-transform: lowercase;
 }
 
 header a {
     text-decoration: none;
-    text-transform: lowercase;}
+}
 
 header .site-name {
     font-size: 1.5em;
@@ -64,12 +62,10 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
-    text-transform: lowercase;
 }
 
 h2 {
     margin: 20px 0;
-    text-transform: lowercase;
 }
 
 p {
