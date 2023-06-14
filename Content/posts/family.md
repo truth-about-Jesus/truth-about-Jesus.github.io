@@ -3,7 +3,9 @@ date: 2023-06-01 08:15
 description: the amazingly awesome good news about Jesus
 tags: Jesus, family, belonging, rescue, God
 ---
-##### 🌐 _[Translate this page with Google](https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) &nbsp; 🌐 [用谷歌翻譯此頁面](https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
+##### 🌐 _[Translate this page with Google](https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
+
+##### 🌐 _[用谷歌翻譯此頁面](https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
 
 \
 
