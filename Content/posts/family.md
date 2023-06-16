@@ -1,8 +1,8 @@
 ---
 titleT: 你想屬於上帝的家庭嗎?
 descriptionT: 關於耶穌的令人敬畏的好訊息
-date: 2023-06-01 08:15
-description: the amazingly awesome good news about Jesus
+date: 2023-06-17 08:15
+description: the amazingly awesome good news about Jesus &nbsp;&nbsp;關於耶穌的令人敬畏的好訊息
 tags: Jesus, family, belonging, rescue, God
 ---
 ##### 🌐 _[Translate this page with Google](https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
@@ -11,8 +11,7 @@ tags: Jesus, family, belonging, rescue, God
 
 \
 
-#  would you like to belong to God's family?
-#  你想屬於上帝的家庭嗎?
+#  would you like to belong to God's family? &nbsp;&nbsp;你想屬於上帝的家庭嗎?
 
 \
 

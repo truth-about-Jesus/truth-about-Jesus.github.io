@@ -2,7 +2,7 @@
 titleT: 第三性別？！
 descriptionT: 聖經真正說了什麼
 date: 2023-06-16 08:15
-description: what the Bible truly says
+description: what the Bible truly says &nbsp;&nbsp;聖經真正說了什麼
 tags: gender, Bible, God, Jesus, Paul
 ---
 ##### 🌐 _[Translate this page with Google](https://truthaboutjesus-github-io.translate.goog/posts/thirdgender/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)_
@@ -11,8 +11,7 @@ tags: gender, Bible, God, Jesus, Paul
 
 \
 
-#  a third gender?!
-#  第三性別？！
+#  a third gender?! &nbsp;&nbsp;第三性別？！
 
 ## what the Bible truly says
 ## 聖經真正說了什麼
