@@ -1831,3 +1831,8 @@ Jesus commanded us to tell others the Good News, to baptize those who believe, a
 
 20 凡我所吩咐你們的，都要教導他們遵守，我就常與你們同在，直到世界的末了。」
 
+
+\
+
+<center>✝️</center>
+
