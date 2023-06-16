@@ -210,25 +210,29 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
 //        List {
             Article {
                 H1(Link(item.title, url: item.path.absoluteString))
-                H1(Link("你想屬於上帝的家庭嗎?", url: item.path.absoluteString))
+//                H1(Link(item.metadata.titleT, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
-                H6("&nbsp;")
-                Paragraph("關於耶穌的令人敬畏的好訊息")
+//                H6("&nbsp;")
+//                Paragraph(item.metadata.descriptionT)
                     .class("description")
             }
 //            Article {
 //                H1(Link(items[0].title, url: items[0].path.absoluteString))
-//                H1(Link("", url: items[0].path.absoluteString))
+//                H1(Link("?", url: items[0].path.absoluteString))
 //                ItemTagList(item: items[0], site: site)
 //                Paragraph(items[0].description)
+//                H6("&nbsp;")
+//                Paragraph("??")
 //                    .class("description")
 //            }
 //            Article {
 //                H1(Link(items[1].title, url: items[1].path.absoluteString))
-//                H1(Link("", url: items[1].path.absoluteString))
+//                H1(Link("你想屬於上帝的家庭嗎?", url: items[1].path.absoluteString))
 //                ItemTagList(item: items[1], site: site)
 //                Paragraph(items[1].description)
+//                H6("&nbsp;")
+//                Paragraph("關於耶穌的令人敬畏的好訊息")
 //                    .class("description")
 //            }
         }

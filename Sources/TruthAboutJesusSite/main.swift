@@ -11,6 +11,8 @@ struct TruthAboutJesusSite: Website {
 
     struct ItemMetadata: WebsiteItemMetadata {
         // Add any site-specific metadata that you want to use here.
+        var titleT: String
+        var descriptionT: String
     }
 
     // Update these properties to configure your website:
@@ -24,16 +26,16 @@ struct TruthAboutJesusSite: Website {
 
 
 // This will generate your website using the built-in Foundation theme:
-//try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
-try TruthAboutJesusSite()
-    .publish(using: [
-        .addMarkdownFiles(),
-        .copyResources(),
-        .generateHTML(withTheme: .truthAboutJesusTheme),
-        .generateRSSFeed(including: [.posts]),
-        .generateSiteMap(),
+try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
+//try TruthAboutJesusSite()
+//    .publish(using: [
+//        .addMarkdownFiles(),
+//        .copyResources(),
+//        .generateHTML(withTheme: .truthAboutJesusTheme),
+//        .generateRSSFeed(including: [.posts]),
+//        .generateSiteMap(),
 //        .deploy(using: .gitHub("truthaboutjesus/truthaboutjesus.github.io",
 //                               branch: "main",
 //                               useSSH: false)
 //        )
-    ])
+//    ])
