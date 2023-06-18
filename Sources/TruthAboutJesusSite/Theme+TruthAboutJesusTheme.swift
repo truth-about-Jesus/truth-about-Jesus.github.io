@@ -28,23 +28,14 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
                     H1(index.title)
-//                    Paragraph(context.site.description)
-                    Paragraph {
-                        Text("\"...things into which angels long to look.\" ")
-                        Text(" (1 Peter 1:12 ESV)")
-                            .italic()
-                    }
-                    Paragraph {
-                        Text("\"天使也渴想能知道一點。\"")
-                        Text(" (1 Peter 1:12 Chinese NET (T))")
-                            .italic()
-                    }
-                    .class("description")
+                    Paragraph(context.site.description)
+                    Paragraph(context.site.descriptionT)
+                        .class("description")
                     H2("posts &nbsp; 帖子")
                     ItemList(
                         items: context.allItems(
                             sortedBy: \.date,
-                            order: .descending
+                            order: .ascending
                         ),
                         site: context.site
                     )
@@ -207,7 +198,6 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
 
     var body: Component {
         List(items) { item in
-//        List {
             Article {
                 H1(Link(item.title, url: item.path.absoluteString))
 //                H1(Link(item.metadata.titleT, url: item.path.absoluteString))
@@ -217,24 +207,6 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
 //                Paragraph(item.metadata.descriptionT)
                     .class("description")
             }
-//            Article {
-//                H1(Link(items[0].title, url: items[0].path.absoluteString))
-//                H1(Link("?", url: items[0].path.absoluteString))
-//                ItemTagList(item: items[0], site: site)
-//                Paragraph(items[0].description)
-//                H6("&nbsp;")
-//                Paragraph("??")
-//                    .class("description")
-//            }
-//            Article {
-//                H1(Link(items[1].title, url: items[1].path.absoluteString))
-//                H1(Link("你想屬於上帝的家庭嗎?", url: items[1].path.absoluteString))
-//                ItemTagList(item: items[1], site: site)
-//                Paragraph(items[1].description)
-//                H6("&nbsp;")
-//                Paragraph("關於耶穌的令人敬畏的好訊息")
-//                    .class("description")
-//            }
         }
         .class("item-list")
     }

@@ -1,7 +1,7 @@
 ---
 titleT: 你想屬於上帝的家庭嗎?
 descriptionT: 關於耶穌的令人敬畏的好訊息
-date: 2023-06-17 08:15
+date: 2023-06-01 08:15
 description: the amazingly awesome good news about Jesus &nbsp;&nbsp;關於耶穌的令人敬畏的好訊息
 tags: Jesus, family, belonging, rescue, God
 ---
