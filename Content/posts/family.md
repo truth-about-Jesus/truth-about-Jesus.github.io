@@ -17,12 +17,6 @@ tags: Jesus, family, belonging, rescue, God
 #  would you like to belong to God's family?
 #  你想屬於上帝的家庭嗎?
 
-### the amazingly awesome good news about Jesus
-
-###### \
-
-### 關於耶穌的令人敬畏的好訊息
-
 \
 
 On earth we are born into a biological family -- we have a mom and dad and sometimes brothers and sisters, grandparents, uncles, aunts and cousins.

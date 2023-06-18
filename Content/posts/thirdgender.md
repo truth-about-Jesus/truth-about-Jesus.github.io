@@ -18,12 +18,6 @@ tags: gender, Bible, God, Jesus, Paul
 
 #  第三性別？！
 
-### what the Bible truly says
-
-###### \
-
-### 聖經真正說了什麼
-
 \
 
 how many genders are there really? two? three?? 
