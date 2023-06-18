@@ -29,7 +29,6 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                 Wrapper {
                     H1(index.title)
 //                    Paragraph(context.site.description)
-//                    Paragraph(context.site.descriptionT)
                     Paragraph {
                         Text("\"...things into which angels long to look.\" ")
                         Text(" (1 Peter 1:12 ESV)")
