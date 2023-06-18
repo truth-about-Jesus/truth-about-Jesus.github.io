@@ -53,14 +53,6 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         }
                     }
                     .class("item-list")
-
-//                    ItemList(
-//                        items: context.allItems(
-//                            sortedBy: \.date,
-//                            order: .ascending
-//                        ),
-//                        site: context.site
-//                    )
                 }
                 SiteFooter()
             }
@@ -222,11 +214,8 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
         List(items) { item in
             Article {
                 H1(Link(item.title, url: item.path.absoluteString))
-//                H1(Link(item.metadata.titleT, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 Paragraph(item.description)
-//                H6("&nbsp;")
-//                Paragraph(item.metadata.descriptionT)
                     .class("description")
             }
         }
