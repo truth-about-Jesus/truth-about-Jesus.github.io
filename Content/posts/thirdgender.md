@@ -247,7 +247,8 @@ the Apostle Paul states that in Christ male and female no longer matter.
 
 therefore, there really are more than two genders and, according to the Bible, transgender, non-binary and intersex people are, at worst, a non-issue, and at best, created, designed and approved by God.
 
-因此，確實存在不止兩種性別，而且根據聖經，變性人、非二元性別者和雙性人在最壞的情況下不是問題，充其量也是上帝創造、設計和認可的。
+因此，確實存在不止兩種性別。 根據聖經，變性人、非二元性別者和雙性人在最壞的情況下也不是問題。 在最好的情況下，它們是由上帝創造、設計和認可的。
+
 
 \
 
