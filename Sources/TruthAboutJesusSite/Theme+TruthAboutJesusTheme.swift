@@ -41,13 +41,26 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     }
                         .class("description")
                     H2("posts &nbsp; 帖子")
-                    ItemList(
-                        items: context.allItems(
-                            sortedBy: \.date,
-                            order: .ascending
-                        ),
-                        site: context.site
-                    )
+                    List(context.allItems(sortedBy: \.date, order: .ascending)) { item in
+                        Article {
+                            H1(Link(item.metadata.titleE, url: item.path.absoluteString))
+                            H1(Link(item.metadata.titleT, url: item.path.absoluteString))
+                            ItemTagList(item: item, site: context.site)
+                            Paragraph(item.metadata.descriptionE)
+                            H6("&nbsp;")
+                            Paragraph(item.metadata.descriptionT)
+                                .class("description")
+                        }
+                    }
+                    .class("item-list")
+
+//                    ItemList(
+//                        items: context.allItems(
+//                            sortedBy: \.date,
+//                            order: .ascending
+//                        ),
+//                        site: context.site
+//                    )
                 }
                 SiteFooter()
             }

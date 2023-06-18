@@ -1,7 +1,10 @@
 ---
+titleE: would you like to belong to God's family?
 titleT: 你想屬於上帝的家庭嗎?
+descriptionE: the amazingly awesome good news about Jesus
 descriptionT: 關於耶穌的令人敬畏的好訊息
 date: 2023-06-01 08:15
+title: would you like to belong to God's family? &nbsp;&nbsp;你想屬於上帝的家庭嗎?
 description: the amazingly awesome good news about Jesus &nbsp;&nbsp;關於耶穌的令人敬畏的好訊息
 tags: Jesus, family, belonging, rescue, God
 ---
@@ -11,7 +14,14 @@ tags: Jesus, family, belonging, rescue, God
 
 \
 
-#  would you like to belong to God's family? &nbsp;&nbsp;你想屬於上帝的家庭嗎?
+#  would you like to belong to God's family?
+#  你想屬於上帝的家庭嗎?
+
+### the amazingly awesome good news about Jesus
+
+###### \
+
+### 關於耶穌的令人敬畏的好訊息
 
 \
 
