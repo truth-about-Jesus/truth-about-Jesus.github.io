@@ -14,11 +14,15 @@ tags: gender, Bible, God, Jesus, Paul
 
 \
 
-#  a third gender?! &nbsp;&nbsp;第三性別？！
+#  a third gender?!
+
+#  第三性別？！
+
+### what the Bible truly says
 
 ###### \
 
-### what the Bible truly says &nbsp;&nbsp;聖經真正說了什麼
+### 聖經真正說了什麼
 
 \
 
