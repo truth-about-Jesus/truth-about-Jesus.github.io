@@ -86,6 +86,18 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     SiteHeader(context: context, selectedSelectionID: item.sectionID)
                     Wrapper {
                         Article {
+                            H5 {
+                                Text("🌐 ")
+                                Link("Translate this page with Google", url: item.metadata.translateLink)
+                            }
+                            H5 {
+                                Text("🌐 ")
+                                Link("用谷歌翻譯此頁面", url: item.metadata.translateLink)
+                            }
+                            .class("description")
+                            H1(item.metadata.titleE)
+                            H1(item.metadata.titleT)
+                                .class("description")
                             Div(item.content.body).class("content")
                             Span("Tagged with 標記為: ")
                             ItemTagList(item: item, site: context.site)

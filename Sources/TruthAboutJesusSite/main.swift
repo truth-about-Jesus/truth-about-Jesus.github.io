@@ -15,6 +15,7 @@ struct TruthAboutJesusSite: Website {
         var titleT: String
         var descriptionE: String
         var descriptionT: String
+        var translateLink: String
     }
 
     // Update these properties to configure your website:
@@ -29,15 +30,3 @@ struct TruthAboutJesusSite: Website {
 
 // This will generate your website using the built-in Foundation theme:
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
-//try TruthAboutJesusSite()
-//    .publish(using: [
-//        .addMarkdownFiles(),
-//        .copyResources(),
-//        .generateHTML(withTheme: .truthAboutJesusTheme),
-//        .generateRSSFeed(including: [.posts]),
-//        .generateSiteMap(),
-//        .deploy(using: .gitHub("truthaboutjesus/truthaboutjesus.github.io",
-//                               branch: "main",
-//                               useSSH: false)
-//        )
-//    ])
