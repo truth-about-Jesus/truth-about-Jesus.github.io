@@ -41,18 +41,13 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     }
                         .class("description")
                     H2("posts &nbsp; 帖子")
-                    List(context.allItems(sortedBy: \.date, order: .ascending)) { item in
-                        Article {
-                            H1(Link(item.metadata.titleE, url: item.path.absoluteString))
-                            H1(Link(item.metadata.titleT, url: item.path.absoluteString))
-                            ItemTagList(item: item, site: context.site)
-                            Paragraph(item.metadata.descriptionE)
-                            H6("&nbsp;")
-                            Paragraph(item.metadata.descriptionT)
-                                .class("description")
-                        }
-                    }
-                    .class("item-list")
+                    ItemList(
+                        items: context.allItems(
+                            sortedBy: \.date,
+                            order: .ascending
+                        ),
+                        site: context.site
+                    )
                 }
                 SiteFooter()
             }
@@ -95,9 +90,15 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                                 Link("用谷歌翻譯此頁面", url: item.metadata.translateLink)
                             }
                             .class("description")
-                            H1(item.metadata.titleE)
-                            H1(item.metadata.titleT)
-                                .class("description")
+                            if #available(macOS 13.0, *) {
+                                let splitTitle = item.title.split(separator: "  ")
+                                H1(String(splitTitle[0]))
+                                H1(String(splitTitle[1]))
+                                    .class("description")
+                            } else {
+                                H1(item.title)
+                                    .class("description")
+                            }
                             Div(item.content.body).class("content")
                             Span("Tagged with 標記為: ")
                             ItemTagList(item: item, site: context.site)
@@ -225,10 +226,24 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
     var body: Component {
         List(items) { item in
             Article {
-                H1(Link(item.title, url: item.path.absoluteString))
+                if #available(macOS 13.0, *) {
+                    let splitTitle = item.title.split(separator: "  ")
+                    H1(Link(String(splitTitle[0]), url: item.path.absoluteString))
+                    H1(Link(String(splitTitle[1]), url: item.path.absoluteString))
+                } else {
+                    // Fallback on earlier versions
+                    H1(Link(item.title, url: item.path.absoluteString))
+                }
                 ItemTagList(item: item, site: site)
-                Paragraph(item.description)
-                    .class("description")
+                if #available(macOS 13.0, *) {
+                    Paragraph(String(item.description.split(separator: "  ")[0]))
+                    H6("&nbsp;")
+                    Paragraph(String(item.description.split(separator: "  ")[1]))
+                        .class("description")
+                } else {
+                    Paragraph(item.description)
+                        .class("description")
+                }
             }
         }
         .class("item-list")

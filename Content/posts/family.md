@@ -1,13 +1,9 @@
 ---
-titleE: would you like to belong to God's family?
-titleT: 你想屬於上帝的家庭嗎?
-descriptionE: the amazingly awesome good news about Jesus
-descriptionT: 關於耶穌的令人敬畏的好訊息
-translateLink: https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 date: 2023-06-01 08:15
 title: would you like to belong to God's family?  你想屬於上帝的家庭嗎?
 description: the amazingly awesome good news about Jesus  關於耶穌的令人敬畏的好訊息
 tags: Jesus, family, belonging, rescue, God
+translateLink: https://truthaboutjesus-github-io.translate.goog/posts/family/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
 On earth we are born into a biological family -- we have a mom and dad and sometimes brothers and sisters, grandparents, uncles, aunts and cousins.
