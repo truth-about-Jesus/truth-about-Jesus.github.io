@@ -90,15 +90,10 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                                 Link("用谷歌翻譯此頁面", url: item.metadata.translateLink)
                             }
                             .class("description")
-                            if #available(macOS 13.0, *) {
-                                let splitTitle = item.title.split(separator: "  ")
-                                H1(String(splitTitle[0]))
-                                H1(String(splitTitle[1]))
-                                    .class("description")
-                            } else {
-                                H1(item.title)
-                                    .class("description")
-                            }
+                            let splitTitle = item.title.components(separatedBy: "  ")
+                            H1(String(splitTitle[0]))
+                            H1(String(splitTitle[1]))
+                                .class("description")
                             Div(item.content.body).class("content")
                             Span("Tagged with 標記為: ")
                             ItemTagList(item: item, site: context.site)
@@ -226,24 +221,15 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
     var body: Component {
         List(items) { item in
             Article {
-                if #available(macOS 13.0, *) {
-                    let splitTitle = item.title.split(separator: "  ")
-                    H1(Link(String(splitTitle[0]), url: item.path.absoluteString))
-                    H1(Link(String(splitTitle[1]), url: item.path.absoluteString))
-                } else {
-                    // Fallback on earlier versions
-                    H1(Link(item.title, url: item.path.absoluteString))
-                }
+                let splitTitle = item.title.components(separatedBy: "  ")
+                H1(Link(splitTitle[0], url: item.path.absoluteString))
+                H1(Link(splitTitle[1], url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
-                if #available(macOS 13.0, *) {
-                    Paragraph(String(item.description.split(separator: "  ")[0]))
-                    H6("&nbsp;")
-                    Paragraph(String(item.description.split(separator: "  ")[1]))
-                        .class("description")
-                } else {
-                    Paragraph(item.description)
-                        .class("description")
-                }
+                let splitDescription = item.description.components(separatedBy: "  ")
+                Paragraph(splitDescription[0])
+                H6("&nbsp;")
+                Paragraph(splitDescription[1])
+                    .class("description")
             }
         }
         .class("item-list")
