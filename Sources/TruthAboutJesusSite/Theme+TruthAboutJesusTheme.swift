@@ -18,7 +18,10 @@ extension Theme where Site == TruthAboutJesusSite {
     }
 }
 
+let translateSymbol = "🌐 "
+
 private struct TruthAboutJesusTheme: HTMLFactory {
+
     func makeIndexHTML(for index: Index,
                        context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
@@ -28,15 +31,14 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
                     H1(index.title)
-//                    Paragraph(context.site.description)
                     Paragraph {
-                        Text("\"...things into which angels long to look.\" ")
-                        Text(" (1 Peter 1:12 ESV)")
+                        Text("\"\(context.site.descriptionE.part1)\" ")
+                        Text(" \(context.site.descriptionE.part2)")
                             .italic()
                     }
                     Paragraph {
-                        Text("\"天使也渴想能知道一點。\"")
-                        Text(" (1 Peter 1:12 Chinese NET (T))")
+                        Text("\"\(context.site.descriptionT.part1)\"")
+                        Text(" \(context.site.descriptionT.part2)")
                             .italic()
                     }
                         .class("description")
@@ -82,16 +84,16 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     Wrapper {
                         Article {
                             H5 {
-                                Text("🌐 ")
+                                Text(translateSymbol)
                                 Link("Translate this page with Google", url: item.metadata.translateLink)
                             }
                             H5 {
-                                Text("🌐 ")
+                                Text(translateSymbol)
                                 Link("用谷歌翻譯此頁面", url: item.metadata.translateLink)
                             }
                             .class("description")
-                            H1(String(item.title.english))
-                            H1(String(item.title.translated))
+                            H1(String(item.title.part1))
+                            H1(String(item.title.part2))
                                 .class("description")
                             Div(item.content.body).class("content")
                             Span("Tagged with 標記為: ")
@@ -220,8 +222,8 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
     var body: Component {
         List(items) { item in
             Article {
-                H1(Link(item.title.english, url: item.path.absoluteString))
-                H1(Link(item.title.translated, url: item.path.absoluteString))
+                H1(Link(item.title.part1, url: item.path.absoluteString))
+                H1(Link(item.title.part2, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 let splitDescription = item.description.components(separatedBy: "  ")
                 Paragraph(splitDescription[0])
@@ -247,15 +249,18 @@ private struct ItemTagList<TruthAboutJesusSite: Website>: Component {
 }
 
 private struct SiteFooter: Component {
+
+    private let translateLink = "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+
     var body: Component {
         Footer {
             Paragraph {
-                Text("🌐 ")
-                Link("Translate this website with Google", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                Text(translateSymbol)
+                Link("Translate this website with Google", url: translateLink)
             }
             Paragraph {
-                Text("🌐 ")
-                Link("用谷歌翻譯這個網站", url: "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp")
+                Text(translateSymbol)
+                Link("用谷歌翻譯這個網站", url: translateLink)
             }
             Paragraph {
                 Text("Generated using 使用生成的 ")
@@ -269,11 +274,11 @@ private struct SiteFooter: Component {
 }
 
 extension String {
-    var english: String {
+    var part1: String {
         return self.components(separatedBy: "  ")[0]
     }
 
-    var translated: String {
+    var part2: String {
         return self.components(separatedBy: "  ")[1]
     }
 }
