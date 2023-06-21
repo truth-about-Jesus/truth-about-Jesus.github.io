@@ -90,9 +90,8 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                                 Link("用谷歌翻譯此頁面", url: item.metadata.translateLink)
                             }
                             .class("description")
-                            let splitTitle = item.title.components(separatedBy: "  ")
-                            H1(String(splitTitle[0]))
-                            H1(String(splitTitle[1]))
+                            H1(String(item.title.english))
+                            H1(String(item.title.translated))
                                 .class("description")
                             Div(item.content.body).class("content")
                             Span("Tagged with 標記為: ")
@@ -221,9 +220,8 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
     var body: Component {
         List(items) { item in
             Article {
-                let splitTitle = item.title.components(separatedBy: "  ")
-                H1(Link(splitTitle[0], url: item.path.absoluteString))
-                H1(Link(splitTitle[1], url: item.path.absoluteString))
+                H1(Link(item.title.english, url: item.path.absoluteString))
+                H1(Link(item.title.translated, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
                 let splitDescription = item.description.components(separatedBy: "  ")
                 Paragraph(splitDescription[0])
@@ -267,5 +265,15 @@ private struct SiteFooter: Component {
                 Link("RSS feed 提要", url: "/feed.rss")
             }
         }
+    }
+}
+
+extension String {
+    var english: String {
+        return self.components(separatedBy: "  ")[0]
+    }
+
+    var translated: String {
+        return self.components(separatedBy: "  ")[1]
     }
 }
