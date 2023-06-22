@@ -263,8 +263,8 @@ private struct SiteFooter: Component {
                 Link("用谷歌翻譯這個網站", url: translateLink)
             }
             Paragraph {
-                Text("Generated using 使用生成的 ")
-                Link("Publish", url: "https://github.com/johnsundell/publish")
+//                Text("Generated using 使用生成的 ")
+                Link("Generated using 使用生成的 Publish", url: "https://github.com/johnsundell/publish")
             }
             Paragraph {
                 Link("RSS feed 提要", url: "/feed.rss")
