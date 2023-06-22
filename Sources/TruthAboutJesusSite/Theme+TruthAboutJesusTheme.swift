@@ -273,12 +273,3 @@ private struct SiteFooter: Component {
     }
 }
 
-extension String {
-    var part1: String {
-        return self.components(separatedBy: "  ")[0]
-    }
-
-    var part2: String {
-        return self.components(separatedBy: "  ")[1]
-    }
-}

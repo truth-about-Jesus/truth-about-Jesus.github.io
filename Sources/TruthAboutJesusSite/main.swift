@@ -27,6 +27,21 @@ struct TruthAboutJesusSite: Website {
 }
 
 
+extension String {
+
+    var doubleSpaceArray: [String] {
+        self.components(separatedBy: "  ")
+    }
+
+    var part1: String {
+        return doubleSpaceArray[0]
+    }
+
+    var part2: String {
+        return doubleSpaceArray[1]
+    }
+}
+
 
 // This will generate your website using the built-in Foundation theme:
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
