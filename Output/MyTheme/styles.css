@@ -45,7 +45,7 @@ header a:hover {
 
 header .site-name {
     font-size: 1.5em;
-    color: #006F71;
+    color: #000;
     font-weight: bold;
 }
 
@@ -174,7 +174,7 @@ footer {
     }
 
     header .site-name {
-        color: #37AF89;
+        color: #ddd;
     }
 
     .item-list h1 {
@@ -189,15 +189,12 @@ footer {
         background-color: #222;
     }
 
-    header a:hover {
-        color: #EECB2E;
-    }
-
     a:hover {
         color: #EECB2E;
     }
 
     header a:hover {
+        color: #EECB2E;
         text-decoration: none;
     }
 
