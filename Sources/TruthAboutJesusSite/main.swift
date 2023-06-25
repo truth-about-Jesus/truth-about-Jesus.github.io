@@ -15,7 +15,7 @@ struct TruthAboutJesusSite: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://truthaboutjesus.github.io")!
+    var url = URL(string: "https://truth-about-jesus.github.io")!
     var name = "the truth about Jesus &nbsp; 關於耶穌的真相"
     let descriptionE = "...things into which angels long to look.  (1 Peter 1:12 ESV)"
     let descriptionT = "天使也渴想能知道一點。  (1 Peter 1:12 Chinese NET (T))"
