@@ -31,6 +31,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
                     H1(index.title)
+                        .class("nobreak")
                     Paragraph {
                         Text("\"\(context.site.descriptionE.part1)\" ")
                         Text(" \(context.site.descriptionE.part2)")
@@ -128,6 +129,8 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
                     H1("Browse all tags 瀏覽所有標籤")
+                        .class("nobreak")
+                        .style("margin-bottom: 10px;")
                     List(page.tags.sorted()) { tag in
                         ListItem {
                             Link(tag.string,
@@ -137,6 +140,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         .class("tag")
                     }
                     .class("all-tags")
+                    .style("margin-top: 10px;")
                 }
                 SiteFooter()
             }
@@ -155,6 +159,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         Text("Tagged with 標記為 ")
                         Span(page.tag.string).class("tag")
                     }
+                    .class("nobreak")
 
                     Link("Browse all tags 瀏覽所有標籤",
                         url: context.site.tagListPath.absoluteString

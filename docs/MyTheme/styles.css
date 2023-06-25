@@ -27,6 +27,11 @@ body {
 
 header {
     background-color: #ccc;
+    word-break: keep-all;
+}
+
+.nobreak {
+    word-break: keep-all;
 }
 
 header .wrapper {
@@ -159,6 +164,7 @@ a:hover {
 .all-tags li {
     font-size: 1.4em;
     margin-right: 10px;
+    margin-bottom: 10px;
     padding: 6px 10px;
 }
 
