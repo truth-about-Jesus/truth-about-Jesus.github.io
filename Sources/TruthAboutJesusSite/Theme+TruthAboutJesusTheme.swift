@@ -130,7 +130,6 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                 Wrapper {
                     H1("Browse all tags 瀏覽所有標籤")
                         .class("nobreak")
-                        .style("margin-bottom: 10px;")
                     List(page.tags.sorted()) { tag in
                         ListItem {
                             Link(tag.string,
@@ -140,8 +139,8 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         .class("tag")
                     }
                     .class("all-tags")
-                    .style("margin-top: 10px;")
                 }
+                .style("padding-bottom: 30px;")
                 SiteFooter()
             }
         )
