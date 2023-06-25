@@ -3,7 +3,7 @@ date: 2023-06-16 08:15
 title: a third gender?!  第三性別？！
 description: what the Bible truly says  聖經真正說了什麼
 tags: gender, Bible, God, Jesus, Paul
-translateLink: https://truthaboutjesus-github-io.translate.goog/posts/thirdgender/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+translateLink: /posts/thirdgender/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
 how many genders are there really? two? three?? 

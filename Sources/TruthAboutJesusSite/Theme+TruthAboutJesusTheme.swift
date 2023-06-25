@@ -52,7 +52,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         site: context.site
                     )
                 }
-                SiteFooter()
+                SiteFooter(translate0: context.site.translateLink)
             }
         )
     }
@@ -68,7 +68,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     H1(section.title)
                     ItemList(items: section.items, site: context.site)
                 }
-                SiteFooter()
+                SiteFooter(translate0: context.site.translateLink)
             }
         )
     }
@@ -84,13 +84,14 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     SiteHeader(context: context, selectedSelectionID: item.sectionID)
                     Wrapper {
                         Article {
+                            let translateLink = context.site.translateLink + item.metadata.translateLink
                             H5 {
                                 Text(translateSymbol)
-                                Link("Translate this page with Google", url: item.metadata.translateLink)
+                                Link("Translate this page with Google", url: translateLink)
                             }
                             H5 {
                                 Text(translateSymbol)
-                                Link("用谷歌翻譯此頁面", url: item.metadata.translateLink)
+                                Link("用谷歌翻譯此頁面", url: translateLink)
                             }
                             .class("description")
                             H1(String(item.title.part1))
@@ -101,7 +102,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                             ItemTagList(item: item, site: context.site)
                         }
                     }
-                    SiteFooter()
+                    SiteFooter(translate0: context.site.translateLink)
                 }
             )
         )
@@ -115,7 +116,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper(page.body)
-                SiteFooter()
+                SiteFooter(translate0: context.site.translateLink)
             }
         )
     }
@@ -141,7 +142,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     .class("all-tags")
                 }
                 .style("padding-bottom: 30px;")
-                SiteFooter()
+                SiteFooter(translate0: context.site.translateLink)
             }
         )
     }
@@ -174,7 +175,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         site: context.site
                     )
                 }
-                SiteFooter()
+                SiteFooter(translate0: context.site.translateLink)
             }
         )
     }
@@ -254,7 +255,11 @@ private struct ItemTagList<TruthAboutJesusSite: Website>: Component {
 
 private struct SiteFooter: Component {
 
-    private let translateLink = "https://truthaboutjesus-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+    var translate0: String
+
+    private var translateLink: String {
+        "\(translate0)/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+    }
 
     var body: Component {
         Footer {
@@ -267,7 +272,6 @@ private struct SiteFooter: Component {
                 Link("用谷歌翻譯這個網站", url: translateLink)
             }
             Paragraph {
-//                Text("Generated using 使用生成的 ")
                 Link("Generated using 使用生成的 Publish", url: "https://github.com/johnsundell/publish")
             }
             Paragraph {
