@@ -44,10 +44,6 @@ header a {
     text-decoration: none;
 }
 
-header a:hover {
-    color: #A8262D;
-}
-
 header .site-name {
     font-size: 1.5em;
     color: #000;
