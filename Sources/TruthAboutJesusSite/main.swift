@@ -53,8 +53,8 @@ extension Node where Context == HTML.DocumentContext {
         for location: Location,
         on site: T,
         titleSeparator: String = " | ",
-        // changed stylesheetPath to include ?rnd=132 so that stylesheet will be refreshed by client browsers, not just use old cached stylesheet
-        stylesheetPaths: [Path] = ["/styles.css?rnd=132"],
+        // changed stylesheetPath to include ?version=0 so that stylesheet will be refreshed by client browsers, not just use old cached stylesheet
+        stylesheetPaths: [Path] = ["/styles.css?version=0"],
         rssFeedPath: Path? = .defaultForRSSFeed,
         rssFeedTitle: String? = nil
     ) -> Node {
