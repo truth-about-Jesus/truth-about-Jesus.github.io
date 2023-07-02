@@ -93,10 +93,10 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                                 Text(translateSymbol)
                                 Link("用谷歌翻譯此頁面", url: translateLink)
                             }
-                            .class("description")
+                            .class("bottom-space")
                             H1(String(item.title.part1))
                             H1(String(item.title.part2))
-                                .class("description")
+                                .class("bottom-space")
                             Div(item.content.body).class("content")
                             Span("Tagged with 標記為: ")
                             ItemTagList(item: item, site: context.site)
@@ -277,6 +277,7 @@ private struct SiteFooter: Component {
             Paragraph {
                 Link("RSS feed 提要", url: "/feed.rss")
             }
+            .style("margin-bottom: 40px;")
         }
     }
 }

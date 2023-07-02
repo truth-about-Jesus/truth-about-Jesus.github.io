@@ -106,6 +106,10 @@ a:hover {
     margin-bottom: 40px;
 }
 
+.bottom-space {
+    margin-bottom: 40px;
+}
+
 .item-list > li {
     display: block;
     padding: 20px;
