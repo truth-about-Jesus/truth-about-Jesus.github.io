@@ -47,12 +47,13 @@ extension String {
     }
 }
 
-// changed stylesheetPath to include ?rnd=132 so that stylesheet will be refreshed by client browsers, not just use old cached stylesheet
+// this func from Publish API PlotComponents.swift generates the html header
 extension Node where Context == HTML.DocumentContext {
     static func head<T: Website>(
         for location: Location,
         on site: T,
         titleSeparator: String = " | ",
+        // changed stylesheetPath to include ?rnd=132 so that stylesheet will be refreshed by client browsers, not just use old cached stylesheet
         stylesheetPaths: [Path] = ["/styles.css?rnd=132"],
         rssFeedPath: Path? = .defaultForRSSFeed,
         rssFeedTitle: String? = nil
