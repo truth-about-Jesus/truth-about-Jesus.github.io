@@ -90,7 +90,7 @@ p {
 }
 
 a {
-    color: inherit;
+    color: #00777A;
     text-decoration: none;
 }
 
@@ -135,7 +135,7 @@ a:hover {
 .tag-list li,
 .tag {
     display: inline-block;
-    background-color: #777;
+    background-color: #aaa;
     color: #ddd;
     padding: 3px 6px;
     border-radius: 5px;
@@ -194,6 +194,11 @@ footer {
 
     header {
         background-color: #222;
+    }
+
+    a {
+        color: #37AF89;
+        text-decoration: none;
     }
 
     a:hover {
