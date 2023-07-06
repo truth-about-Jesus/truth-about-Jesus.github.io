@@ -11,7 +11,7 @@
 }
 
 body {
-    background: #eee;
+    background: #fff;
     color: #000;
     font-family: verdana, arial, sans-serif;
     text-align: center;
@@ -26,7 +26,7 @@ body {
 }
 
 header {
-    background-color: #ccc;
+    background-color: #ddd;
     word-break: keep-all;
 }
 
@@ -110,7 +110,7 @@ a:hover {
     display: block;
     padding: 20px;
     border-radius: 20px;
-    background-color: #ccc;
+    background-color: #ddd;
     margin-bottom: 20px;
 }
 
@@ -135,7 +135,7 @@ a:hover {
 .tag-list li,
 .tag {
     display: inline-block;
-    background-color: #aaa;
+    background-color: #bbb;
     color: #ddd;
     padding: 3px 6px;
     border-radius: 5px;
