@@ -85,15 +85,16 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     Wrapper {
                         Article {
                             let translateLink = context.site.translateLink + item.metadata.translateLink
-                            H5 {
+                            Paragraph {
                                 Text(translateSymbol)
                                 Link("Translate this page with Google", url: translateLink)
                             }
-                            H5 {
+                            .class("translate-link no-bottom-space")
+                            Paragraph {
                                 Text(translateSymbol)
                                 Link("用谷歌翻譯此頁面", url: translateLink)
                             }
-                            .class("bottom-space")
+                            .class("translate-link bottom-space")
                             H1(String(item.title.part1))
                             H1(String(item.title.part2))
                                 .class("bottom-space")

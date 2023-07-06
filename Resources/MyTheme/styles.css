@@ -98,8 +98,18 @@ a:hover {
     color: #A8262D;
 }
 
+.translate-link {
+    font-size: 14px;
+    font-weight: 500;
+    font-style: italic;
+}
+
 .description {
     margin-bottom: 40px;
+}
+
+.no-bottom-space {
+    margin-bottom: 0px;
 }
 
 .bottom-space {
