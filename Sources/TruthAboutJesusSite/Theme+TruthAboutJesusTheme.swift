@@ -158,7 +158,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                 Wrapper {
                     H1 {
                         Text("Tagged with 標記為 ")
-                        Span(page.tag.string).class("tag")
+                        Span(page.tag.string)/*.class("tag")*/
                     }
                     .class("nobreak")
 

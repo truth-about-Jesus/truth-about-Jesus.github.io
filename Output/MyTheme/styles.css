@@ -12,7 +12,7 @@
 
 body {
     background: #fff;
-    color: #000;
+    color: #111;
     font-family: verdana, arial, sans-serif;
     text-align: center;
 }
@@ -40,13 +40,9 @@ header .wrapper {
     text-align: center;
 }
 
-header a {
-    text-decoration: none;
-}
-
 header .site-name {
     font-size: 1.5em;
-    color: #000;
+    color: #664094;
     font-weight: bold;
 }
 
@@ -69,14 +65,6 @@ h1 {
     font-size: 2em;
 }
 
-h1 a {
-    text-decoration: none;
-}
-
-h1 a:hover {
-    text-decoration: none;
-}
-
 h2 {
     margin: 20px 0;
 }
@@ -95,7 +83,7 @@ a {
 }
 
 a:hover {
-    color: #A8262D;
+    color: #ED733F;
 }
 
 .translate-link {
@@ -146,7 +134,7 @@ a:hover {
 .tag {
     display: inline-block;
     background-color: #bbb;
-    color: #ddd;
+    color: #333;
     padding: 3px 6px;
     border-radius: 5px;
     margin-right: 5px;
@@ -155,7 +143,12 @@ a:hover {
 
 .tag-list a,
 .tag a {
-    text-decoration: none;
+    color: #000;
+}
+
+.tag-list a:hover,
+.tag a:hover {
+    color: #ED733F;
 }
 
 .item-page .tag-list {
@@ -191,7 +184,7 @@ footer {
     }
 
     header .site-name {
-        color: #ddd;
+        color: #9D62E4;
     }
 
     .item-list h1 {
@@ -223,6 +216,17 @@ footer {
     .tag-list li,
     .tag {
         background-color: #333;
+        color: #aaa
+    }
+
+    .tag-list a,
+    .tag a {
+        color: #aaa;
+    }
+
+    .tag-list a:hover,
+    .tag a:hover {
+        color: #EECB2E;
     }
 
 }
