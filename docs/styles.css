@@ -42,7 +42,7 @@ header .wrapper {
 
 header .site-name {
     font-size: 1.5em;
-    color: #664094;
+    color: #9652BF;
     font-weight: bold;
 }
 
@@ -63,6 +63,7 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
+    color: #FF9918;
 }
 
 h2 {
@@ -78,12 +79,12 @@ p {
 }
 
 a {
-    color: #00777A;
+    color: #00898C;
     text-decoration: none;
 }
 
 a:hover {
-    color: #ED733F;
+    color: #C84ACF;
 }
 
 .translate-link {
@@ -148,7 +149,7 @@ a:hover {
 
 .tag-list a:hover,
 .tag a:hover {
-    color: #ED733F;
+    color: #C84ACF;
 }
 
 .item-page .tag-list {
@@ -187,15 +188,19 @@ footer {
         color: #9D62E4;
     }
 
+    header {
+        background-color: #222;
+    }
+
+    h1 {
+        color: #EED35B;
+    }
+
     .item-list h1 {
         color: #37AF89;
     }
 
     .item-list > li {
-        background-color: #222;
-    }
-
-    header {
         background-color: #222;
     }
 
@@ -205,11 +210,11 @@ footer {
     }
 
     a:hover {
-        color: #EECB2E;
+        color: #EED35B;
     }
 
     header a:hover {
-        color: #EECB2E;
+        color: #EED35B;
         text-decoration: none;
     }
 
@@ -226,7 +231,7 @@ footer {
 
     .tag-list a:hover,
     .tag a:hover {
-        color: #EECB2E;
+        color: #EED35B;
     }
 
 }
