@@ -42,7 +42,7 @@ header .wrapper {
 
 header .site-name {
     font-size: 1.5em;
-    color: #9652BF;
+    color: #6952BF;
     font-weight: bold;
 }
 
@@ -63,7 +63,7 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
-    color: #FF9918;
+    color: #FF685B;
 }
 
 h2 {
@@ -175,6 +175,7 @@ a:hover {
 footer {
     color: #777;
     font-size: 14px;
+    font-style: italic;
 }
 
 @media (prefers-color-scheme: dark) {
