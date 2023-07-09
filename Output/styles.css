@@ -26,7 +26,7 @@ body {
 }
 
 header {
-    background-color: #FFDC93;
+    background-color: #FFE5AE;
     word-break: keep-all;
 }
 
@@ -109,7 +109,7 @@ a:hover {
     display: block;
     padding: 20px;
     border-radius: 20px;
-    background-color: #FFDC93;
+    background-color: #FFE5AE;
     margin-bottom: 20px;
 }
 
