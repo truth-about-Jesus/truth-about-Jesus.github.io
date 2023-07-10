@@ -82,6 +82,7 @@ extension Node where Context == HTML.DocumentContext {
             .twitterCardType(location.imagePath == nil ? .summary : .summaryLargeImage),
             .forEach(stylesheetPaths, { .stylesheet($0) }),
             .viewport(.accordingToDevice),
+            .script(.src("https://www.w3counter.com/tracker.js?id=149755")),
             .unwrap(site.favicon, { .favicon($0) }),
             .unwrap(rssFeedPath, { path in
                 let title = rssFeedTitle ?? "Subscribe to \(site.name)"
@@ -95,5 +96,4 @@ extension Node where Context == HTML.DocumentContext {
     }
 
 }
-
 
