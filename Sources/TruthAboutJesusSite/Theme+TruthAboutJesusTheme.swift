@@ -13,7 +13,7 @@ extension Theme where Site == TruthAboutJesusSite {
     static var truthAboutJesusTheme: Self {
         Theme(
             htmlFactory: TruthAboutJesusTheme(),
-            resourcePaths: ["Resources/MyTheme/styles.css"]
+            resourcePaths: ["Resources/css/styles.css"]
         )
     }
 }
