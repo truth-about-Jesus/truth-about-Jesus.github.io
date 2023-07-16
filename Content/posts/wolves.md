@@ -2,7 +2,7 @@
 date: 2023-07-16 08:20
 title: not everyone can be trusted  不是每個人都能被信任
 description: wolves in sheep's clothing -- and how to recognize them  披著羊皮的狼——以及如何識別它們
-tags: wolves in sheep's clothing, trust, Jesus, false prophets, good fruit, bad fruit, clergy sexual abuse, discernment, Bible
+tags: wolves, Jesus, false prophets, clergy sexual abuse, discernment, Bible
 translateLink: /posts/wolves/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
@@ -189,6 +189,4 @@ so not everyone can be trusted.
 \
 
 <center>🐑</center>
-
-
 
