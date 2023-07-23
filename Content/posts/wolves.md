@@ -6,9 +6,15 @@ tags: wolves, Jesus, false prophets, clergy sexual abuse, discernment, Bible
 translateLink: /posts/wolves/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
-Jesus warned us that there would be "prophets" who pretend to be His followers, who are really only looking out for their own personal gain.
+Jesus warned us that there would be "prophets" who pretend to be His followers, but who are really only looking out for their own personal gain.
 
-耶穌警告我們，會有“先知”假裝是他的追隨者，他們真的只是在為自己的個人利益而尋找。
+耶穌警告我們，會有“先知”假裝是他的追隨者，但實際上只為自己的個人利益著想。
+
+\
+
+Some will even be willing to harm others in order to get what they want.
+
+有些人甚至願意傷害別人，以獲得他們想要的東西。
 
 \
 
@@ -158,7 +164,7 @@ if a person claims to speak for God yet produces bad fruit, they are not His fol
 
 \
 
-so not everyone can be trusted.
+so, not everyone can be trusted.
 
 所以不是每個人都能被信任。
 
