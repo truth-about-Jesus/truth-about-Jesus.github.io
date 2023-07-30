@@ -12,7 +12,7 @@ On earth we are born into a biological family -- we have a mom and dad and somet
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -132,7 +132,7 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -203,7 +203,7 @@ Once when Jesus was young growing up in the small town of Nazareth, He gave His 
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -274,7 +274,7 @@ Even when He was grown up, He respected His mother's wishes.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -344,7 +344,7 @@ When they came to the house and called for Him to come out, He didn't go. Instea
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -448,7 +448,7 @@ Jesus said:
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -504,7 +504,7 @@ and
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -531,7 +531,7 @@ He told people to turn away from their sins, because God’s Kingdom was coming.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -562,7 +562,7 @@ He healed people from many diseases, did many miracles and taught people about t
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -601,7 +601,7 @@ You can speak to Him in any language. He knows them all: He invented them.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -628,7 +628,7 @@ He can even hear your thoughts.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -707,7 +707,7 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -754,7 +754,7 @@ So Jesus took all the bad things on Himself and died to pay for them all, so tha
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -845,7 +845,7 @@ Jesus told His disciples beforehand what would happen to Him in Jerusalem.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1140,7 +1140,7 @@ Everything happened exactly as He said it would.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1223,7 +1223,7 @@ He was seen alive by many of His disciples and then was taken up into Heaven.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1270,7 +1270,7 @@ We need to believe in Him, turn away from sin, and receive Him into our hearts. 
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1313,7 +1313,7 @@ Whenever we sin, we must be open and honest with Jesus and confess our sin to Hi
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1404,7 +1404,7 @@ Following Jesus isn’t easy, but it’s worth it.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1463,7 +1463,7 @@ One day Jesus will come back suddenly -- when no one is expecting Him.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1506,7 +1506,7 @@ Everyone on earth will see Him; it will not be a secret.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1541,7 +1541,7 @@ He will gather all those who belong to Him and take us home.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1628,7 +1628,7 @@ He warned us that before He comes back there would be many false prophets, false
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1695,7 +1695,7 @@ He explained to us beforehand how we could recognize them and avoid being deceiv
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1752,7 +1752,7 @@ God wants to rescue everyone who is willing.
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 
 \
 \
@@ -1824,5 +1824,5 @@ Jesus commanded us to tell others the Good News, to baptize those who believe, a
 
 \
 
-<center>✝️</center>
+<center>💠</center>
 

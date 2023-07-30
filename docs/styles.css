@@ -11,7 +11,7 @@
 }
 
 body {
-    background: #C3E5F4;
+    background: #D6F3FF;
     color: #111;
     font-family: verdana, arial, sans-serif;
     text-align: center;
@@ -42,7 +42,7 @@ header .wrapper {
 
 header .site-name {
     font-size: 1.5em;
-    color: #6952BF;
+    color: #502DD3;
     font-weight: bold;
 }
 
@@ -63,7 +63,6 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
-    color: #FF475B;
 }
 
 h2 {
@@ -83,8 +82,9 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    color: #FF465B;
+h1, a:hover, .tag-list a:hover,
+.tag a:hover {
+    color: #D94EEC;
 }
 
 .translate-link {
@@ -135,7 +135,7 @@ a:hover {
 .tag-list li,
 .tag {
     display: inline-block;
-    background-color: #7BCFF4;
+    background-color: #91DEFF;
     color: #333;
     padding: 3px 6px;
     border-radius: 5px;
@@ -146,11 +146,6 @@ a:hover {
 .tag-list a,
 .tag a {
     color: #000;
-}
-
-.tag-list a:hover,
-.tag a:hover {
-    color: #FF465B;
 }
 
 .item-page .tag-list {
@@ -194,10 +189,6 @@ footer {
         background-color: #222;
     }
 
-    h1 {
-        color: #EED35B;
-    }
-
     .item-list h1 {
         color: #2FBFAE;
     }
@@ -211,12 +202,12 @@ footer {
         text-decoration: none;
     }
 
-    a:hover {
+    h1, a:hover, .tag-list a:hover,
+    .tag a:hover {
         color: #EED35B;
     }
 
     header a:hover {
-        color: #EED35B;
         text-decoration: none;
     }
 
@@ -230,12 +221,6 @@ footer {
     .tag a {
         color: #aaa;
     }
-
-    .tag-list a:hover,
-    .tag a:hover {
-        color: #EED35B;
-    }
-
 }
 
 @media(max-width: 600px) {

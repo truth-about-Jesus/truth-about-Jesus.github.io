@@ -24,7 +24,7 @@ and what does the Bible say about this issue??
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -47,7 +47,7 @@ there is already a recognized -- though rare -- third gender: intersex (formerly
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -74,7 +74,7 @@ God is Himself a third gender, since Genesis 1:27 states that He is both male an
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -85,7 +85,7 @@ since the image of God is both male and female, it stands to reason that, as far
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -112,7 +112,7 @@ a traditional married couple can be considered a third gender, since they become
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -139,7 +139,7 @@ God Himself states through the prophet Jeremiah that He has created a third gend
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -166,7 +166,7 @@ God says there can be a dichotomy between what is inside and what is outside, bu
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -201,7 +201,7 @@ Jesus mentioned, and approved of, a third gender: eunuchs.
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -228,7 +228,7 @@ the Apostle Paul states that in Christ male and female no longer matter.
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 
 \
 \
@@ -240,5 +240,5 @@ therefore, there really are more than two genders and, according to the Bible, t
 
 \
 
-<center>🧩</center>
+<center>💠</center>
 

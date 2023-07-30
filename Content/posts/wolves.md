@@ -34,7 +34,7 @@ Some will even be willing to harm others in order to get what they want.
 
 \
 
-<center>🐑</center>
+<center>💠</center>
 
 \
 \
@@ -83,7 +83,7 @@ Just as fruit trees produce fruit, so every person produces something. If someon
 
 \
 
-<center>🐑</center>
+<center>💠</center>
 
 \
 \
@@ -118,7 +118,7 @@ what is *bad* fruit?
 
 \
 
-<center>🐑</center>
+<center>💠</center>
 
 \
 \
@@ -153,7 +153,7 @@ what is *good* fruit?
 
 \
 
-<center>🐑</center>
+<center>💠</center>
 
 \
 \
@@ -194,5 +194,5 @@ so, not everyone can be trusted.
 
 \
 
-<center>🐑</center>
+<center>💠</center>
 
