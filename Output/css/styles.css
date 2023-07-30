@@ -63,7 +63,7 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
-    color: #FF685B;
+    color: #FF475B;
 }
 
 h2 {
@@ -84,7 +84,7 @@ a {
 }
 
 a:hover {
-    color: #C84ACF;
+    color: #FF465B;
 }
 
 .translate-link {
@@ -150,7 +150,7 @@ a:hover {
 
 .tag-list a:hover,
 .tag a:hover {
-    color: #C84ACF;
+    color: #FF465B;
 }
 
 .item-page .tag-list {
@@ -199,7 +199,7 @@ footer {
     }
 
     .item-list h1 {
-        color: #37AF89;
+        color: #2FBFAE;
     }
 
     .item-list > li {
@@ -207,7 +207,7 @@ footer {
     }
 
     a {
-        color: #37AF89;
+        color: #2FBFAE;
         text-decoration: none;
     }
 
