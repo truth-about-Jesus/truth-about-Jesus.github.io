@@ -12,7 +12,7 @@
 
 body {
     background: #D6F3FF;
-    color: #000;
+    color: #222;
     font-family: verdana, arial, sans-serif;
     text-align: center;
 }
@@ -103,6 +103,12 @@ h1, a:hover, .tag-list a:hover,
 
 .bottom-space {
     margin-bottom: 40px;
+}
+
+.article {
+    padding: 45px 50px 30px; /* top, right-left, bottom*/
+    border-radius: 40px;
+    background-color: #fff;
 }
 
 .item-list > li {
@@ -209,6 +215,10 @@ footer {
 
     header a:hover {
         text-decoration: none;
+    }
+
+    .article {
+        background-color: #111;
     }
 
     .tag-list li,

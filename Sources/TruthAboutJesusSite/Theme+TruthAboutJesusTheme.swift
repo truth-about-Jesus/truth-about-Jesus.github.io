@@ -102,6 +102,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                             Span("Tagged with 標記為: ")
                             ItemTagList(item: item, site: context.site)
                         }
+                        .class("article")
                     }
                     SiteFooter(translate0: context.site.translateLink)
                 }
