@@ -54,7 +54,7 @@ extension Node where Context == HTML.DocumentContext {
         on site: T,
         titleSeparator: String = " | ",
         // changed stylesheetPath to include ?version=0 so that stylesheet will be refreshed by client browsers, not just use old cached stylesheet
-        stylesheetPaths: [Path] = ["/styles.css?version=10"],
+        stylesheetPaths: [Path] = ["/styles.css?version=11"],
 //        stylesheetPaths: [Path] = ["/styles.css"],
         rssFeedPath: Path? = .defaultForRSSFeed,
         rssFeedTitle: String? = nil

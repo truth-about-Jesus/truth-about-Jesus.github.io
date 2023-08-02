@@ -106,7 +106,7 @@ h1, a:hover, .tag-list a:hover,
 }
 
 .article {
-    padding: 45px 50px 30px; /* top, right-left, bottom*/
+    padding: 44px 50px 25px; /* top, right-left, bottom*/
     border-radius: 40px;
     background-color: #fff;
 }
