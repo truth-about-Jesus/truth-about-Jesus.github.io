@@ -168,8 +168,8 @@ h1, a:hover, .tag-list a:hover,
 }
 
 .all-tags {
-    padding: 44px 50px 25px; /* top, right-left, bottom*/
-    border-radius: 40px;
+    padding: 22px 25px 12px; /* top, right-left, bottom*/
+    border-radius: 20px;
     background-color: #fff;
 }
 
