@@ -14,6 +14,7 @@ body {
     background: #D6F3FF;
     color: #222;
     font-family: verdana, arial, sans-serif;
+    font-size: 100%
     text-align: center;
 }
 
@@ -21,8 +22,12 @@ body {
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
-    padding: 40px;
+    padding: 40px 40px 35px;
     text-align: left;
+}
+
+.wrapper-post {
+    padding: 40px 40px 35px;
 }
 
 header {
@@ -63,6 +68,7 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
+    max-width: 80%;
 }
 
 h2 {
@@ -88,7 +94,7 @@ h1, a:hover, .tag-list a:hover,
 }
 
 .translate-link {
-    font-size: 14px;
+    font-size: 0.8em;
     font-weight: 500;
     font-style: italic;
 }
@@ -181,9 +187,9 @@ h1, a:hover, .tag-list a:hover,
 }
 
 footer {
+    text-align: center;
     color: #777;
-    font-size: 14px;
-    font-style: italic;
+    padding: 0px 20px 20px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -224,6 +230,8 @@ footer {
     }
 
     .article, .all-tags {
+        padding: 0px; /* top, right-left, bottom*/
+        border-radius: 0px;
         background-color: #111;
     }
 
@@ -245,7 +253,21 @@ footer {
 }
 
 @media(max-width: 600px) {
+
+    body {
+        font-size: 80%;
+    }
+
     .wrapper {
-        padding: 40px 20px;
+        padding: 20px;
+    }
+
+    .wrapper-post {
+        padding: 10px 10px 20px;
+    }
+
+    .article {
+        padding: 17px 20px 7.5px; /* top, right-left, bottom*/
+        border-radius: 15px;
     }
 }

@@ -104,6 +104,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         }
                         .class("article")
                     }
+                    .class("wrapper-post")
                     SiteFooter(translate0: context.site.translateLink)
                 }
             )
@@ -281,6 +282,7 @@ private struct SiteFooter: Component {
             }
             .style("margin-bottom: 40px;")
         }
+        .class("translate-link")
     }
 }
 
