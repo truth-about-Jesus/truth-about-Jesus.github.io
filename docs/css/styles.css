@@ -1,7 +1,8 @@
 /**
-*  Publish MyTheme theme
+*  Theme+TruthAboutJesusTheme.swift
+*  (modified from Publish MyTheme theme
 *  Copyright (c) John Sundell 2019
-*  MIT license, see LICENSE file for details
+*  MIT license, see LICENSE file for details)
 */
 
 * {
@@ -94,7 +95,7 @@ h1, a:hover, .tag-list a:hover,
 }
 
 .translate-link {
-    font-size: 0.8em;
+    font-size: 0.88em;
     font-weight: 500;
     font-style: italic;
 }
