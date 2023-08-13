@@ -272,3 +272,14 @@ footer {
         border-radius: 15px;
     }
 }
+
+@media(min-width: 900px) {
+    
+    body {
+        font-size: 130%;
+    }
+    
+    .item-list > li {
+        padding: 23px 30px;
+    }
+}
