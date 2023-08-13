@@ -120,7 +120,7 @@ h1, a:hover, .tag-list a:hover,
 
 .item-list > li {
     display: block;
-    padding: 20px;
+    padding: 15px 20px;
     border-radius: 20px;
     background-color: #fff;
     margin-bottom: 20px;
@@ -254,10 +254,6 @@ footer {
 }
 
 @media(max-width: 600px) {
-
-    body {
-        font-size: 90%;
-    }
 
     .wrapper {
         padding: 20px;
