@@ -5,6 +5,30 @@
 *  MIT license, see LICENSE file for details)
 */
 
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    src: url('fonts/OpenDyslexicAlta-Regular.otf');
+}
+
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    font-weight: bold;
+    src: url('fonts/OpenDyslexicAlta-Bold.otf');
+}
+
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    font-style: italic;
+    src: url('fonts/OpenDyslexicAlta-Italic.otf');
+}
+
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    font-weight: bold;
+    font-style: italic;
+    src: url('fonts/OpenDyslexicAlta-BoldItalic.otf')
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +38,7 @@
 body {
     background: #D6F3FF;
     color: #222;
-    font-family: verdana, arial, sans-serif;
+    font-family: OpenDyslexic-Alta, Verdana, Arial, sans-serif;
     font-size: 100%
     text-align: center;
 }
@@ -77,7 +101,12 @@ h2 {
 }
 
 h5 {
+    font-size: 0.5em;
     color: #777;
+}
+
+h6 {
+    font-size: 0.1em;
 }
 
 p {
