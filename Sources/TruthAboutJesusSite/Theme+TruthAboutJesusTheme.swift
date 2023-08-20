@@ -278,6 +278,9 @@ private struct SiteFooter: Component {
                 Link("Generated using 使用生成的 Publish", url: "https://github.com/johnsundell/publish")
             }
             Paragraph {
+                Link("English font 英語字型: OpenDyslexic-Alta", url: "https://opendyslexic.org" )
+            }
+            Paragraph {
                 Link("RSS feed 提要", url: "/feed.rss")
             }
             .style("margin-bottom: 40px;")
