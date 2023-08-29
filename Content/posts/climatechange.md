@@ -56,7 +56,7 @@ why is this happening?!???
 
 are many speaking evil of the way of truth -- [God's rescue of the earth's people through His Son Jesus](/posts/family) -- today?
 
-今天有許多人在誹謗真理的道路——[上帝通過他的兒子耶穌拯救世上的人民](/posts/family)嗎？
+今天有許多人在誹謗真理的道路嗎——[上帝通過他的兒子耶穌拯救世上的人民](/posts/family)？
 
 \
 
