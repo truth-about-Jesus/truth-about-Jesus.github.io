@@ -2,7 +2,7 @@
 date: 2023-08-29 10:16
 title: what's causing climate change?  是什麼導致了氣候變化？
 description: the spiritual cause of the earth's destruction  地球毀滅的精神原因
-tags: climate change, catastrophes, wildfires, floods, clergy sexual abuse, clergy sexual misconduct, cover-up
+tags: climate change, catastrophes, wildfires, floods, tornadoes, earthquakes, hurricanes, volcanoes, tidal waves, clergy sexual abuse, clergy sexual misconduct, cover-up
 translateLink: /posts/climatechange/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
