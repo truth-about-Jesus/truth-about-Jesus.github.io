@@ -262,9 +262,9 @@ let's quit tolerating sexual immorality and sexual abuse in our church leaders!!
 
 \
 
-we must remove them from their positions of leadership and not hide what they have done.
+remove them from their positions of leadership and do not hide what they have done!!!
 
-我們必須將他們從主管崗位上除名，而不是掩蓋他們的所作所為。
+把他們從他們的主管崗位上除名，不要掩蓋他們所做的事情！！！
 
 \
 
