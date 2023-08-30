@@ -6,25 +6,25 @@ tags: climate change, catastrophes, wildfires, floods, tornadoes, earthquakes, h
 translateLink: /posts/climatechange/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
-wildfires, floods, tornadoes, hurricanes, earthquakes, volcanoes, global warming, sea level rise... every day there are new, frightening headlines about how this earth is turning into a place uninhabitable for humans... and that it may be too late to stop it now...
+Wildfires, floods, tornadoes, hurricanes, earthquakes, volcanoes, global warming, sea level rise... every day there are new, frightening headlines about how this earth is turning into a place uninhabitable for humans... and that it may be too late to stop it now...
 
 野火、洪水、龍捲風、颶風、地震、火山、全球變暖、海平面上升......每天都有新的、可怕的頭條新聞，關於地球如何變成一個人類無法居住的地方......現在阻止它可能為時已晚......
 
 \
 
-scientists sounded the alarm years ago; today their warnings are our reality as catastrophe after destructive catastrophe strikes all over the world...
+Scientists sounded the alarm years ago; today their warnings are our reality as catastrophe after destructive catastrophe strikes all over the world...
 
 科學家們幾年前就敲響了警鐘；今天，他們的警告是我們的現實，就像世界各地發生破壞性災難之後的災難一樣......
 
 \
 
-is everything hopeless? where is Jesus in all of this?
+Is everything hopeless? Where is Jesus in all of this?
 
 一切都沒有希望嗎？ 在這一切中，耶穌在哪裡？
 
 \
 
-why is this happening?!???
+Why is this happening?!???
 
 為什麼會發生這種情況？！？？？
 
@@ -54,25 +54,25 @@ why is this happening?!???
 
 \
 
-are many speaking evil of the way of truth -- [God's rescue of the earth's people through His Son Jesus](/posts/family) -- today?
+Are many speaking evil of the way of truth -- [God's rescue of the earth's people through His Son Jesus](/posts/family) -- today?
 
 現在說真理道壞話的人多嗎？ （[上帝通過他的兒子耶穌拯救地球上的人民](/posts/family)）
 
 \
 
-yes.
+Yes.
 
 是的。
 
 \
 
-why?
+Why?
 
 為什麼？
 
 \
 
-because of false prophets and false teachers -- false church leaders -- teaching and committing sexual immorality -- even going so far as to sexually abuse young children!!!
+Because of false prophets and false teachers -- false church leaders -- teaching and committing sexual immorality -- even going so far as to sexually abuse young children!!!
 
 因為假先知和假教師——假教會領袖——教導和實施性不道德——甚至對幼兒進行性虐待！！！
 
@@ -128,31 +128,31 @@ because of false prophets and false teachers -- false church leaders -- teaching
 \
 \
 
-why is the whole earth being destroyed when not all of us are false church leaders?
+Why is the whole earth being destroyed when not all of us are false church leaders?
 
 當我們不是所有人都是虛假的教會領袖時，為什麼整個地球都被摧毀了？
 
 \
 
-because many are still turning a blind eye and allowing the evil to continue.
+Because many are still turning a blind eye and allowing the evil to continue.
 
 因為許多人仍然視而不見，讓邪惡繼續下去。
 
 \
 
-in His letter to the church in Thyatira, Jesus first commends them for their love, faithfulness, service and patience.
+In His letter to the church in Thyatira, Jesus first commends them for their love, faithfulness, service and patience.
 
 在給推雅推喇教堂的信中，耶穌首先讚揚了他們的愛、忠誠、服務和耐心。
 
 \
 
-sounds like a great church, right?
+Sounds like a great church, right?
 
 聽起來像是一個偉大的教會，對嗎？
 
 \
 
-but then He says:
+But then He says:
 
 但後來他說：
 
@@ -174,7 +174,7 @@ but then He says:
 
 \
 
-when we do nothing about known sexually immoral and abusive church leaders -- especially if we have the authority to remove them -- we become as guilty as they are. 
+When we do nothing about known sexually immoral and abusive church leaders -- especially if we have the authority to remove them -- we become as guilty as they are. 
 
 當我們對那些眾所周知的性不道德和性虐待的教會領袖袖手旁觀時——特別是如果我們有權罷免他們——我們就和他們一樣有罪。
 
@@ -223,7 +223,7 @@ Jesus has a special place in His Heart for children.
 
 \
 
-then He adds a stern warning:
+Then He adds a stern warning:
 
 然後他添加了一個嚴厲的警告：
 
@@ -250,19 +250,19 @@ then He adds a stern warning:
 \
 \
 
-this is what's happening to us today. millions of children are losing their faith after being sexually abused by a trusted church leader. and the earth is being destroyed.
+This is what's happening to us today. Millions of children are losing their faith after being sexually abused by a trusted church leader. And the earth is being destroyed.
 
 這就是今天發生在我們身上的事情。數百萬兒童在被一位值得信賴的教會領袖性虐待後正在失去信仰。地球正在被摧毀。
 
 \
 
-let's quit tolerating sexual immorality and sexual abuse in our church leaders!!!
+Let's quit tolerating sexual immorality and sexual abuse in our church leaders!!!
 
 讓我們停止容忍教會領袖的性不道德和性虐待！！！
 
 \
 
-remove them from their positions of leadership and do not hide what they have done!!!
+Remove them from their positions of leadership and do not hide what they have done!!!
 
 把他們從他們的主管崗位上除名，不要掩蓋他們所做的事情！！！
 
