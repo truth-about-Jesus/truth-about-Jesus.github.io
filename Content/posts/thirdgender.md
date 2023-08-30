@@ -1,24 +1,24 @@
 ---
 date: 2023-06-16 08:15
-title: a third gender?!  第三性別？！
-description: what the Bible truly says  聖經真正說了什麼
+title: A third gender?!  第三性別？！
+description: What the Bible truly says  聖經真正說了什麼
 tags: gender, Bible, God, Jesus, Paul, discernment
 translateLink: /posts/thirdgender/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
-how many genders are there really? two? three?? 
+How many genders are there really? Two? Three?? 
 
 到底有多少性別？ 二？ 三??
 
 \
 
-more?!?
+More?!?
 
 更多？！？
 
 \
 
-and what does the Bible say about this issue??
+And what does the Bible say about this issue??
 
 聖經對這個問題怎麼說？？
 
@@ -29,7 +29,7 @@ and what does the Bible say about this issue??
 \
 \
 
-there is already a recognized -- though rare -- third gender: intersex (formerly known as hermaphrodite).
+There is already a recognized -- though rare -- third gender: intersex (formerly known as hermaphrodite).
 
 已經有一個公認的——雖然罕見的——第三性別：雙性人（以前被稱為雌雄同體）。
 
@@ -79,7 +79,7 @@ God is Himself a third gender, since Genesis 1:27 states that He is both male an
 \
 \
 
-since the image of God is both male and female, it stands to reason that, as far as gender goes, an androgynous person more fully represents God's image than someone who is only one gender or the other. 
+Since the image of God is both male and female, it stands to reason that, as far as gender goes, an androgynous person more fully represents God's image than someone who is only one gender or the other. 
 
 由於上帝的形象既是男性的，也是女性，就性別而言，一個雌雄同體的人比一個只有一種性別的人更充分地代表上帝的形象，這是合乎情理的。
 
@@ -90,7 +90,7 @@ since the image of God is both male and female, it stands to reason that, as far
 \
 \
 
-a traditional married couple can be considered a third gender, since they become one flesh encompassing both genders.
+A traditional married couple can be considered a third gender, since they become one flesh encompassing both genders.
 
 傳統的已婚夫婦可以被視為第三性別，因為他們成為涵蓋兩性的一種肉體。
 
@@ -206,7 +206,7 @@ Jesus mentioned, and approved of, a third gender: eunuchs.
 \
 \
 
-the Apostle Paul states that in Christ male and female no longer matter.
+The Apostle Paul states that in Christ male and female no longer matter.
 
 使徒保羅說，在基督裡，男女之間的區別不再重要。
 
@@ -233,7 +233,7 @@ the Apostle Paul states that in Christ male and female no longer matter.
 \
 \
 
-therefore, there really are more than two genders and, according to the Bible, transgender, non-binary and intersex people are, at worst, a non-issue, and at best, created, designed and approved by God.
+Therefore, there really _are_ more than two genders and, according to the Bible, transgender, non-binary and intersex people are, at worst, a non-issue, and at best, created, designed and approved by God.
 
 因此，確實存在不止兩種性別。 根據聖經，變性人、非二元性別者和雙性人在最壞的情況下也不是問題。 在最好的情況下，它們是由上帝創造、設計和認可的。
 

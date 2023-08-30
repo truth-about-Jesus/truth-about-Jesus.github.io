@@ -1,7 +1,7 @@
 ---
 date: 2023-07-16 08:20
-title: not everyone can be trusted...  不是每個人都能被信任......
-description: wolves in sheep's clothing -- and how to recognize them  披著羊皮的狼——以及如何識別它們
+title: Not everyone can be trusted...  不是每個人都能被信任......
+description: Wolves in sheep's clothing -- and how to recognize them  披著羊皮的狼——以及如何識別它們
 tags: wolves, Jesus, false prophets, clergy sexual abuse, discernment, Bible
 translateLink: /posts/wolves/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
@@ -88,7 +88,7 @@ Just as fruit trees produce fruit, so every person produces something. If someon
 \
 \
 
-what is *bad* fruit?
+What is *bad* fruit?
 
 什麼是壞水果？
 
@@ -123,7 +123,7 @@ what is *bad* fruit?
 \
 \
 
-what is *good* fruit?
+What is *good* fruit?
 
 什麼是好水果？
 
@@ -158,13 +158,13 @@ what is *good* fruit?
 \
 \
 
-if a person claims to speak for God yet produces bad fruit, they are not His follower but a wolf in sheep's clothing, no matter what they say or do.
+If a person claims to speak for God yet produces bad fruit, they are not His follower but a wolf in sheep's clothing, no matter what they say or do.
 
 如果一個人聲稱為上帝說話，但卻結出了不好的果實，那麼他們不是他的追隨者，而是披著羊皮的狼，不管他們說什麼或做什麼。
 
 \
 
-so, not everyone can be trusted.
+So, not everyone can be trusted.
 
 所以不是每個人都能被信任。
 

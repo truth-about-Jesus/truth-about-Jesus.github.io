@@ -43,7 +43,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                             .italic()
                     }
                         .class("description")
-                    H2("posts &nbsp; 帖子")
+                    H2("Posts &nbsp; 帖子")
                     ItemList(
                         items: context.allItems(
                             sortedBy: \.date,

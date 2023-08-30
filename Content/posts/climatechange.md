@@ -1,20 +1,20 @@
 ---
 date: 2023-08-29 10:16
-title: what's causing climate change?  是什麼導致了氣候變化？
-description: the spiritual cause of the earth's destruction  地球毀滅的精神原因
-tags: climate change, catastrophes, wildfires, floods, tornadoes, earthquakes, hurricanes, volcanoes, tidal waves, clergy sexual abuse, clergy sexual misconduct, cover-up
+title: What's causing climate change?  是什麼導致了氣候變化？
+description: The spiritual cause of the earth's destruction  地球毀滅的精神原因
+tags: climate change, catastrophes, wildfires, floods, tornadoes, earthquakes, hurricanes, volcanoes, tidal waves, Jesus, clergy sexual abuse, clergy sexual misconduct, cover-up, children
 translateLink: /posts/climatechange/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 ---
 
-Wildfires, floods, tornadoes, hurricanes, earthquakes, volcanoes, global warming, sea level rise... every day there are new, frightening headlines about how this earth is turning into a place uninhabitable for humans... and that it may be too late to stop it now...
+Wildfires, floods, tornadoes, hurricanes, earthquakes, volcanoes, global warming, sea level rise... Every day there are new, frightening headlines about how this earth is turning into a place uninhabitable for humans... and that it may be too late to stop it now...
 
 野火、洪水、龍捲風、颶風、地震、火山、全球變暖、海平面上升......每天都有新的、可怕的頭條新聞，關於地球如何變成一個人類無法居住的地方......現在阻止它可能為時已晚......
 
 \
 
-Scientists sounded the alarm years ago; today their warnings are our reality as catastrophe after destructive catastrophe strikes all over the world...
+Scientists sounded the alarm years ago; today their warnings are our reality as catastrophe after catastrophe strikes all over the world...
 
-科學家們幾年前就敲響了警鐘；今天，他們的警告是我們的現實，就像世界各地發生破壞性災難之後的災難一樣......
+科學家們多年前就敲響了警鐘； 今天，他們的警告成為我們的現實，一場又一場的災難席捲了世界各地……
 
 \
 
