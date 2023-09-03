@@ -15,14 +15,14 @@ struct TruthAboutJesusSite: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://truth-about-jesus.github.io")!
+    var url = URL(string: "https://truth-about-jesus.net")!
     var name = "The Truth about Jesus &nbsp; 關於耶穌的真相"
     let descriptionE = "...things into which angels long to look.  (1 Peter 1:12 ESV)"
     let descriptionT = "天使也渴想能知道一點。  (1 Peter 1:12 Chinese NET (T))"
     var description: String {
         "\(descriptionE) -- in traditional Chinese and English. \(descriptionT) -- 用繁體中文和英語。"
     }
-    var translateLink = "https://truth--about--jesus-github-io.translate.goog"
+    var translateLink = "https://truth--about--jesus-net.translate.goog"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
