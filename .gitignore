@@ -4,3 +4,6 @@
 /.swiftpm
 /*.xcodeproj
 .publish
+
+# Ignore the output
+/Output
