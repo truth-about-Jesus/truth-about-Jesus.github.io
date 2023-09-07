@@ -84,7 +84,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     SiteHeader(context: context, selectedSelectionID: item.sectionID)
                     Wrapper {
                         Article {
-                            let translateLink = context.site.translateLink + item.metadata.translateLink
+                            let translateLink = context.site.translateLink.part1 + "/posts/" + item.metadata.translateLink + context.site.translateLink.part2
                             Paragraph {
                                 Text(translateSymbol)
                                 Link("Translate this page with Google", url: translateLink)
@@ -261,7 +261,7 @@ private struct SiteFooter: Component {
     var translate0: String
 
     private var translateLink: String {
-        "\(translate0)/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+        translate0.part1 + translate0.part2
     }
 
     var body: Component {
