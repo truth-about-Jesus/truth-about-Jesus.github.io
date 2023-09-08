@@ -52,7 +52,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         site: context.site
                     )
                 }
-                SiteFooter(translate0: context.site.translateLink)
+                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
             }
         )
     }
@@ -68,7 +68,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     H1(section.title)
                     ItemList(items: section.items, site: context.site)
                 }
-                SiteFooter(translate0: context.site.translateLink)
+                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
             }
         )
     }
@@ -84,15 +84,16 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     SiteHeader(context: context, selectedSelectionID: item.sectionID)
                     Wrapper {
                         Article {
-                            let translateLink = context.site.translateLink.part1 + "/posts/" + item.metadata.translateLink + context.site.translateLink.part2
+                            let translateToEnglish = context.site.translateLink + "/posts/" + item.metadata.translateLink + context.site.chineseToEnglish
                             Paragraph {
                                 Text(translateSymbol)
-                                Link("Translate this page with Google", url: translateLink)
+                                Link("Translate this page with Google", url: translateToEnglish)
                             }
                             .class("translate-link no-bottom-space")
+                            let translateToChinese = context.site.translateLink + "/posts/" + item.metadata.translateLink + context.site.englishToChinese
                             Paragraph {
                                 Text(translateSymbol)
-                                Link("用谷歌翻譯此頁面", url: translateLink)
+                                Link("用谷歌翻譯此頁面", url: translateToChinese)
                             }
                             .class("translate-link bottom-space")
                             H1(String(item.title.part1))
@@ -105,7 +106,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         .class("article")
                     }
                     .class("wrapper-post")
-                    SiteFooter(translate0: context.site.translateLink)
+                    SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
                 }
             )
         )
@@ -119,7 +120,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper(page.body)
-                SiteFooter(translate0: context.site.translateLink)
+                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
             }
         )
     }
@@ -145,7 +146,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                     .class("all-tags")
                 }
                 .style("padding-bottom: 30px;")
-                SiteFooter(translate0: context.site.translateLink)
+                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
             }
         )
     }
@@ -178,7 +179,7 @@ private struct TruthAboutJesusTheme: HTMLFactory {
                         site: context.site
                     )
                 }
-                SiteFooter(translate0: context.site.translateLink)
+                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
             }
         )
     }
@@ -258,21 +259,18 @@ private struct ItemTagList<TruthAboutJesusSite: Website>: Component {
 
 private struct SiteFooter: Component {
 
-    var translate0: String
-
-    private var translateLink: String {
-        translate0.part1 + translate0.part2
-    }
-
+    var translateToEnglish: String
+    var translateToChinese: String
+    
     var body: Component {
         Footer {
             Paragraph {
                 Text(translateSymbol)
-                Link("Translate this website with Google", url: translateLink)
+                Link("Translate this website with Google", url: translateToEnglish)
             }
             Paragraph {
                 Text(translateSymbol)
-                Link("用谷歌翻譯這個網站", url: translateLink)
+                Link("用谷歌翻譯這個網站", url: translateToChinese)
             }
             Paragraph {
                 Link("Generated using 使用生成的 Publish", url: "https://github.com/johnsundell/publish")

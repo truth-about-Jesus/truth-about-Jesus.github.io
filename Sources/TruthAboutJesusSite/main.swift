@@ -22,7 +22,15 @@ struct TruthAboutJesusSite: Website {
     var description: String {
         "\(descriptionE) -- in traditional Chinese and English. \(descriptionT) -- 用繁體中文和英語。"
     }
-    var translateLink = "https://truth--about--jesus-github-io.translate.goog  /?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+    let translateLink = "https://truth--about--jesus-github-io.translate.goog"
+    let chineseToEnglish = "/?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+    let englishToChinese = "/?_x_tr_sl=en&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp"
+    var translateToEnglish: String {
+        translateLink + chineseToEnglish
+    }
+    var translateToChinese: String {
+        translateLink + englishToChinese
+    }
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
