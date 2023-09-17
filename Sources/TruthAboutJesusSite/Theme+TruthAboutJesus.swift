@@ -12,7 +12,7 @@ extension Theme where Site == TruthAboutJesusSite {
     /// basic theme mostly implemented for demonstration purposes.
     static var truthAboutJesusTheme: Self {
         Theme(
-            htmlFactory: TruthAboutJesusTheme(),
+            htmlFactory: TruthAboutJesusHTMLFactory(),
             resourcePaths: ["Resources/css/styles.css"]
         )
     }
@@ -20,7 +20,7 @@ extension Theme where Site == TruthAboutJesusSite {
 
 let translateSymbol = "🌐 "
 
-private struct TruthAboutJesusTheme: HTMLFactory {
+private struct TruthAboutJesusHTMLFactory: HTMLFactory {
 
     func makeIndexHTML(for index: Index,
                        context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
