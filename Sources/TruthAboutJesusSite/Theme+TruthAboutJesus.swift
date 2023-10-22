@@ -26,7 +26,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                        context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: index, on: context.site),
+            .head(for: index, on: context.site, stylesheetPaths: context.site.stylesheetPaths),
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
@@ -61,7 +61,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                          context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: section, on: context.site),
+            .head(for: section, on: context.site, stylesheetPaths: context.site.stylesheetPaths),
             .body {
                 SiteHeader(context: context, selectedSelectionID: section.id)
                 Wrapper {
@@ -77,7 +77,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                       context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: item, on: context.site),
+            .head(for: item, on: context.site, stylesheetPaths: context.site.stylesheetPaths),
             .body(
                 .class("item-page"),
                 .components {
@@ -116,7 +116,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                       context: PublishingContext<TruthAboutJesusSite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: page, on: context.site),
+            .head(for: page, on: context.site, stylesheetPaths: context.site.stylesheetPaths),
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper(page.body)
@@ -129,7 +129,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                          context: PublishingContext<TruthAboutJesusSite>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
-            .head(for: page, on: context.site),
+            .head(for: page, on: context.site, stylesheetPaths: context.site.stylesheetPaths),
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
@@ -155,7 +155,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                             context: PublishingContext<TruthAboutJesusSite>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
-            .head(for: page, on: context.site),
+            .head(for: page, on: context.site, stylesheetPaths: context.site.stylesheetPaths),
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
