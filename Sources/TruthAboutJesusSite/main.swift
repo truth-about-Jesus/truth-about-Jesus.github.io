@@ -25,15 +25,18 @@ struct TruthAboutJesusSite: Website {
     
     let stylesheetPaths: [Path] = ["/styles.css?version=22"]
     
-    let translateLink = "https://truth--about--jesus-github-io.translate.goog"
-    let chineseToEnglish = "/?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
-    let englishToChinese = "/?_x_tr_sl=en&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp"
-    var translateToEnglish: String {
-        translateLink + chineseToEnglish
+    struct TranslateInfo {
+        static let translateLink = "https://truth--about--jesus-github-io.translate.goog"
+        static let chineseToEnglish = "/?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+        static let englishToChinese = "/?_x_tr_sl=en&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp"
+        static var translateToEnglish: String {
+            translateLink + chineseToEnglish
+        }
+        static var translateToChinese: String {
+            translateLink + englishToChinese
+        }
     }
-    var translateToChinese: String {
-        translateLink + englishToChinese
-    }
+    
     var language: Language { .english }
     var imagePath: Path? { nil }
 }

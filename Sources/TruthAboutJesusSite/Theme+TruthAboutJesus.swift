@@ -52,7 +52,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                         site: context.site
                     )
                 }
-                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
+                SiteFooter()
             }
         )
     }
@@ -68,7 +68,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                     H1(section.title)
                     ItemList(items: section.items, site: context.site)
                 }
-                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
+                SiteFooter()
             }
         )
     }
@@ -84,13 +84,13 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                     SiteHeader(context: context, selectedSelectionID: item.sectionID)
                     Wrapper {
                         Article {
-                            let translateToEnglish = context.site.translateLink + "/posts/" + item.metadata.translateLink + context.site.chineseToEnglish
+                            let translateToEnglish = TruthAboutJesusSite.TranslateInfo.translateLink + "/posts/" + item.metadata.translateLink + TruthAboutJesusSite.TranslateInfo.chineseToEnglish
                             Paragraph {
                                 Text(translateSymbol)
                                 Link("Translate this page with Google", url: translateToEnglish)
                             }
                             .class("translate-link no-bottom-space")
-                            let translateToChinese = context.site.translateLink + "/posts/" + item.metadata.translateLink + context.site.englishToChinese
+                            let translateToChinese = TruthAboutJesusSite.TranslateInfo.translateLink + "/posts/" + item.metadata.translateLink + TruthAboutJesusSite.TranslateInfo.englishToChinese
                             Paragraph {
                                 Text(translateSymbol)
                                 Link("用谷歌翻譯此頁面", url: translateToChinese)
@@ -106,7 +106,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                         .class("article")
                     }
                     .class("wrapper-post")
-                    SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
+                    SiteFooter()
                 }
             )
         )
@@ -120,7 +120,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper(page.body)
-                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
+                SiteFooter()
             }
         )
     }
@@ -146,7 +146,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                     .class("all-tags")
                 }
                 .style("padding-bottom: 30px;")
-                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
+                SiteFooter()
             }
         )
     }
@@ -179,7 +179,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                         site: context.site
                     )
                 }
-                SiteFooter(translateToEnglish: context.site.translateToEnglish, translateToChinese: context.site.translateToChinese)
+                SiteFooter()
             }
         )
     }
@@ -258,19 +258,16 @@ private struct ItemTagList<TruthAboutJesusSite: Website>: Component {
 }
 
 private struct SiteFooter: Component {
-
-    var translateToEnglish: String
-    var translateToChinese: String
     
     var body: Component {
         Footer {
             Paragraph {
                 Text(translateSymbol)
-                Link("Translate this website with Google", url: translateToEnglish)
+                Link("Translate this website with Google", url: TruthAboutJesusSite.TranslateInfo.translateToEnglish)
             }
             Paragraph {
                 Text(translateSymbol)
-                Link("用谷歌翻譯這個網站", url: translateToChinese)
+                Link("用谷歌翻譯這個網站", url: TruthAboutJesusSite.TranslateInfo.translateToChinese)
             }
             Paragraph {
                 Link("Generated using 使用生成的 Publish", url: "https://github.com/johnsundell/publish")
