@@ -41,7 +41,7 @@ does that mean there can only ever be two genders? does it mean God will be angr
 
 no, clearly, because later on there are eunuchs -- castrated males -- who do not fit into the gender norms of either male or female.
 
-不，很明顯，因為後來有太監——被間割的男性——不符合男性或女性的性別規範。
+不，顯然，因為後來出現了太監——被閹割的男性——他們不符合男性或女性的性別規範。
 
 \
 
