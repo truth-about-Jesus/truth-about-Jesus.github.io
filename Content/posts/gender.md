@@ -250,7 +250,7 @@ But if we listen carefully to the stories of transgender people, we find sincere
 
 \
 
-Therefore, we, by our rigidity in not allowing them to be what they feel they are on the inside, are the ones driving up that suicide rate.
+Therefore, we, by not allowing them to be what they feel they are on the inside, are the ones driving up that suicide rate, by our rigidity.
 
 因此，如果我們不允許他們成為內心深處的自己，我們就會因為我們的僵化而導致他們自殺率的上升。
 
