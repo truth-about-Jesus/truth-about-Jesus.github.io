@@ -1,12 +1,12 @@
 ---
 date: 2023-11-19 11:25
-title: how many genders are there?  有多少性別？
-description: what the Bible teaches about gender  聖經關於性別的教導
+title: How many genders are there?  有多少性別？
+description: What the Bible teaches about gender  聖經關於性別的教導
 tags: gender, Bible, God, Jesus, eunuchs, gender identity, transgender, nonbinary, sin
 translateLink: gender
 --- 
 
-in the very first appearance of gender in the Bible, only two genders are mentioned: male and female.
+In the very first appearance of gender in the Bible, only two genders are mentioned: male and female.
 
 在聖經中首次出現性別時，只提到了兩種性別：男性和女性。
 
@@ -33,13 +33,13 @@ in the very first appearance of gender in the Bible, only two genders are mentio
 \
 \
 
-does that mean there can only ever be two genders? does it mean God will be angry if there are more?
+Does that mean there can only ever be two genders? Does it mean God will be angry if there are more?
 
 這是否意味著永遠只能有兩個性別？ 這是否意味著如果有更多，上帝會生氣？
 
 \
 
-no, clearly, because later on there are eunuchs -- castrated males -- who do not fit into the gender norms of either male or female.
+No, clearly, because later on there are eunuchs -- castrated males -- who do not fit into the gender norms of either male or female.
 
 不，顯然，因為後來出現了太監——被閹割的男性——他們不符合男性或女性的性別規範。
 
@@ -100,7 +100,7 @@ Jesus Himself spoke of various kinds of eunuchs, including some who are born tha
 
 \
 
-so clearly, just because God started out with only two genders, He has not closed the door to the creation of more. 
+So clearly, just because God started out with only two genders, He has not closed the door to the creation of more. 
 
 很明顯，僅僅因為上帝一開始只有兩種性別，他並沒有關閉創造更多性別的大門。
 
@@ -111,25 +111,25 @@ so clearly, just because God started out with only two genders, He has not close
 \
 \
 
-some may find the concept of transgender or nonbinary people unnatural.
+Some may find the concept of transgender or nonbinary people unnatural.
 
 有些人可能會發現變性人或非二元人的概念不自然。
 
 \
 
-while some of us eagerly embrace the new, others find new ideas unsettling and tend to resist change.
+While some of us eagerly embrace the new, others find new ideas unsettling and tend to resist change.
 
 雖然我們中的一些人渴望擁抱新事物，但其他人發現新想法令人不安，並傾向於抵制變化。
 
 \
 
-however, to make something new or unnatural into a sin based on Genesis 1, would be a huge, unnecessary and self-condemning leap of logic.
+However, to make something new or unnatural into a sin based on Genesis 1, would be a huge, unnecessary and self-condemning leap of logic.
 
 然而，根據《創世紀》第1章將新的或不自然的東西變成罪惡將是邏輯的巨大、不必要的和自我譴責的飛躍。
 
 \
 
-consider the light, which God created on the first day of Creation. 
+Consider the light, which God created on the first day of Creation. 
 
 考慮上帝在創造的第一天創造的光。
 
@@ -163,7 +163,7 @@ consider the light, which God created on the first day of Creation.
 
 \
 
-later, on the fourth day, He created the sun, moon and stars to govern the light He had created.
+Later, on the fourth day, He created the sun, moon and stars to govern the light He had created.
 
 後來，在第四天，他創造了太陽、月亮和星星來管理他創造的光。
 
@@ -197,31 +197,31 @@ later, on the fourth day, He created the sun, moon and stars to govern the light
 
 \
 
-if Adam and Eve were to visit our culture today, perhaps they would be scandalized by the overabundance of artificial light we have created for ourselves — so much so that those interested in studying the night sky call it “light pollution.”
+If Adam and Eve were to visit our culture today, perhaps they would be scandalized by the overabundance of artificial light we have created for ourselves — so much so that those interested in studying the night sky call it “light pollution.”
 
 如果亞當和夏娃今天參觀我們的文化，也許他們會對我們為自己創造的過多的人造光感到羞愧——以至於那些有興趣研究夜空的人稱之為“光汙染”。
 
 \
 
-artificial light is clearly not natural light — it is therefore “unnatural” — and was never even mentioned in Genesis 1, and yet we use it freely and don’t feel the least bit bad about it.
+Artificial light is clearly not natural light — it is therefore “unnatural” — and was never even mentioned in Genesis 1, and yet we use it freely and don’t feel the least bit bad about it.
 
 人造光顯然不是自然光——因此它是“不自然的”——甚至在《創世紀》第1章中從未提到過，但我們自由使用它，對它一點也不覺得不好。
 
 \
 
-so, if we make the two genders God created in Genesis 1 the only possible good genders, and all others which seem unnatural to us as sin, then we have to consider all electric lighting to be sinful as well.
+So, if we make the two genders God created in Genesis 1 the only possible good genders, and all others which seem unnatural to us as sin, then we have to consider all electric lighting to be sinful as well.
 
 因此，如果我們讓上帝在創世紀1中創造的兩個性別成為唯一可能的好性別，以及所有其他在我們看來不自然的性別都是罪，那麼我們也必須認為所有的電燈都是罪惡的。
 
 \
 
-the truth is that, from one generation to the next, something that starts out seeming unnatural becomes natural to us as it becomes more familiar. this is how change happens.
+The truth is that, from one generation to the next, something that starts out seeming unnatural becomes natural to us as it becomes more familiar. This is how change happens.
 
 事實是，從一代到下一代，一些一開始看起來不自然的東西在我們身上變得越來越熟悉。這就是變化發生的方式。
 
 \
 
-and change is not necessarily sin.
+And change is not necessarily sin.
 
 變化不一定是罪惡。
 
@@ -232,25 +232,25 @@ and change is not necessarily sin.
 \
 \
 
-some may worry for their own children, that their daughters may decide to become sons, or their sons to become daughters, or either to become neither, or both. they may be aware of statistics that show that transgender people have a higher suicide rate than cisgender (those who identify with their assigned birth gender).
+Some may worry for their own children, that their daughters may decide to become sons, or their sons to become daughters, or either to become neither, or both. They may be aware of statistics that show that transgender people have a higher suicide rate than cisgender (those who identify with their assigned birth gender).
 
 有些人可能會擔心自己的孩子，他們的女兒可能會決定成為兒子，或者他們的兒子決定成為女兒，或者兩者兼而有之。他們可能知道統計資料顯示，變性人的自殺率高於順性別（那些認同其指定出生性別的人）。
 
 \
 
-this is a tragedy, of course. 
+This is a tragedy, of course. 
 
 當然，這是一場悲劇。
 
 \
 
-but if we listen carefully to the stories of transgender people, we find sincere, sensitive, real people who struggled with their assigned gender, tried to conform for most of their lives, and felt suicidal as a result of not being able to be, on the outside, the gender they feel like they are on the inside.
+But if we listen carefully to the stories of transgender people, we find sincere, sensitive, real people who struggled with their assigned gender, tried to conform for most of their lives, and felt suicidal as a result of not being able to be, on the outside, the gender they feel like they are on the inside.
 
 但是，如果我們仔細聆聽變性人的故事，我們會發現真誠、敏感、真實的人，他們與他們指定的性別作鬥爭，一生中大部分時間都試圖順應，並因外部無法成為他們內心的性別而感到自殺。
 
 \
 
-therefore, we, by not allowing them to be what they feel they are on the inside, are the ones driving up that suicide rate by our rigidity.
+Therefore, we, by our rigidity in not allowing them to be what they feel they are on the inside, are the ones driving up that suicide rate.
 
 因此，如果我們不允許他們成為內心深處的自己，我們就會因為我們的僵化而導致他們自殺率的上升。
 
@@ -261,7 +261,7 @@ therefore, we, by not allowing them to be what they feel they are on the inside,
 \
 \
 
-which is more important to God: the outside, or the inside?
+Which is more important to God: the outside, or the inside?
 
 對上帝來說哪個更重要：外部還是內部？
 
@@ -289,7 +289,7 @@ God told the prophet Samuel that He cares much more for the inside than the outs
 
 \
 
-therefore, it is entirely possible that, in God’s view, a person’s inner gender identity is their true gender, regardless of whether it differs from their apparent birth gender or not.
+Therefore, it is entirely possible that, in God’s view, a person’s inner gender identity is their true gender, regardless of whether it differs from their apparent birth gender or not.
 
 因此，在上帝看來，一個人的內在性別認同完全有可能就是他的真實性別，無論它是否與他們表面上的出生性別不同。
 
@@ -300,7 +300,7 @@ therefore, it is entirely possible that, in God’s view, a person’s inner gen
 \
 \
 
-in fact, it is entirely possible that God has Himself created these new genders.
+In fact, it is entirely possible that God has Himself created these new genders.
 
 事實上，上帝自己創造了這些新性別是完全有可能的。
 
@@ -333,13 +333,13 @@ He says to His people, through the prophet Jeremiah:
 \
 \
 
-in conclusion,  there is no evidence in the Bible that identifying with a gender other than the one assigned at birth is a sin. in fact, God may Himself have created the new genders we are seeing today.
+In conclusion,  there is no evidence in the Bible that identifying with a gender other than the one assigned at birth is a sin. In fact, God may Himself have created the new genders we are seeing today.
 
 總之，《聖經》中沒有證據表明，認同出生時分配的性別以外的性別是一種罪過。事實上，上帝自己可能創造了我們今天看到的新性別。
 
 \
 
-yes, we may find transgender and nonbinary people unnatural or unsettling, but the kindness and compassion of God compels us to listen to them, learn from them, and open up our hearts.
+Yes, we may find transgender and nonbinary people unnatural or unsettling, but the kindness and compassion of God compels us to listen to them, learn from them, and open up our hearts.
 
 是的，我們可能會發現變性人和非二元人不自然或令人不安，但上帝的善良和同情心迫使我們傾聽他們，向他們學習，並敞開心扉。
 
