@@ -44,4 +44,35 @@ struct TruthAboutJesusSite: Website {
 // This will generate your website using the built-in Foundation theme:
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
 
+var home: String = ""
+if #available(macOS 13.0, *) {
+    home = FileManager.default.homeDirectoryForCurrentUser.path()
+    print("home using path(): " + home)
+} else {
+    home = FileManager.default.homeDirectoryForCurrentUser.path
+}
 
+let originPath =
+home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/Output"
+let targetPath = home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/docs"
+print("origin: " + originPath)
+print("target: " + targetPath)
+
+try FileManager.default.removeItem(atPath: targetPath)
+try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
+
+
+extension String {
+
+    var doubleSpaceArray: [String] {
+        self.components(separatedBy: "  ")
+    }
+
+    var part1: String {
+        return doubleSpaceArray[0]
+    }
+
+    var part2: String {
+        return doubleSpaceArray[1]
+    }
+}
