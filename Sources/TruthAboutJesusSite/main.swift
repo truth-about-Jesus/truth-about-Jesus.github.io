@@ -47,7 +47,6 @@ try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
 var home: String = ""
 if #available(macOS 13.0, *) {
     home = FileManager.default.homeDirectoryForCurrentUser.path()
-    print("home using path(): " + home)
 } else {
     home = FileManager.default.homeDirectoryForCurrentUser.path
 }
@@ -55,8 +54,6 @@ if #available(macOS 13.0, *) {
 let originPath =
 home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/Output"
 let targetPath = home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/docs"
-print("origin: " + originPath)
-print("target: " + targetPath)
 
 try FileManager.default.removeItem(atPath: targetPath)
 try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
