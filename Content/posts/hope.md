@@ -1,28 +1,38 @@
 ---
 date: 2023-12-24 11:38
-title: is there any hope?  ?
-description: when the earth is being destroyed  ?
+title: is there any hope for our future?  我們的未來還有希望嗎？
+description: when the earth is being destroyed by climate change  當地球被氣候變化摧毀時
 tags: hope, Jesus, climate change, disasters, catastrophes, pandemic, war, trouble, future, Gospels, fear, worry, provision
 translateLink: hope
 ---
 
 in this time when the earth is being ravaged by wildfires, floods, drought, and many other devastating natural disasters...
 
+在這個地球被野火、洪水、乾旱和許多其他毀滅性自然災害蹂躏的時代......
+
 \
 
 and scientists are predicting an escalation of global catastrophes with no end in sight...
+
+科學家們正在預測全球災難的升級，看不到盡頭......
 
 \
 
 despite spending billions and billions on space exploration, no other planet that supports life has ever been found...
 
+儘管在太空探索上花費了數十億美元，但從未發現其他支援生命的行星......
+
 \
 
 and pandemic, homelessness and war add to the scope of human misery...
 
+流行病、無家可歸和戰爭增加了人類痛苦的範圍......
+
 \
 
 what hope is there for our future?
+
+我們的未來有什麼希望？
 
 \
 
@@ -32,6 +42,8 @@ what hope is there for our future?
 \
 
 Jesus warned us ahead of time about all these problems:
+
+耶穌提前警告我們所有這些問題：
 
 \
 
@@ -47,7 +59,21 @@ Jesus warned us ahead of time about all these problems:
 
 \
 
+##### _Matthew 24:6-8 (Chinese NET (T))_
+
+###### \
+
+6 你們會聽見打仗和打仗的謠言，但不要驚慌，因為這些事是必須有的，只是末日還沒有到。
+
+7 民要攻打民，國要攻打國，多處必有饑荒和地震。
+
+8 這都是產難的起頭。」
+
+\
+
 He even says things will get much worse!
+
+他甚至說事情會變得更糟！
 
 \
 
@@ -61,7 +87,24 @@ He even says things will get much worse!
 
 \
 
+##### _Luke 21:25-26 (Chinese NET (T))_
+
+###### \
+
+25 「日月星辰要顯出異兆，地上的邦國必有困苦，因海的聲音和浪的澎湃，就驚慌不定。
+
+26 天勢都要震動，人想起那將要臨到世界的事，就都嚇得魂不附體。」
+
+\
+
+<center>💠</center>
+
+\
+\
+
 but at the end of it all, He will come back to take His children home.
+
+但最終，他會回來並帶孩子們回家。
 
 \
 
@@ -75,12 +118,26 @@ but at the end of it all, He will come back to take His children home.
 
 \
 
+##### _Luke 21:27-28 (Chinese NET (T))_
+
+###### \
+
+27 那時，他們要看見人子帶着能力和大榮耀駕雲降臨。
+
+28 一有這些事，你們就當挺身昂首；因為你們得贖的日子近了。」
+
+\
+
 <center>💠</center>
 
 \
 \
 
 it is tempting in times like these, while waiting for Jesus to come take us home, to try to escape our worries and fears by getting caught up in various distractions, but Jesus warns us against mere escapism:
+
+在這樣的時刻，在等待耶穌帶我們回家時，試圖透過陷入各種分心來逃避我們的擔憂和恐懼，這很誘人，但耶穌警告我們不要單純的逃避：
+
+\
 
 ##### _Luke 21:34-36 (TCENT)_
 
@@ -94,12 +151,27 @@ it is tempting in times like these, while waiting for Jesus to come take us home
 
 \
 
+##### _Luke 21:34-36 (Chinese NET (T))_
+
+###### \
+
+
+34 「你們要謹慎，不要被縱情醉酒並今生的思慮累住你們的心，而由得那日子如同網羅忽然臨到你們，
+
+35 因為那日子要臨到全地上一切居住的人。
+
+36 你們要時時儆醒，常常祈求，使你們能得力逃避這一切必要來的事，又得以站立在人子面前。」
+
+\
+
 <center>💠</center>
 
 \
 \
 
-in fact, Jesus reassures us that we don't need to worry because God is our Father who knows and cares for our needs. 
+in fact, Jesus reassures us that we don't need to worry or be afraid at all because God is our Father who knows and cares for our needs. 
+
+事實上，耶穌向我們保證，我們根本不需要擔心或害怕，因為上帝是我們的父親，他知道並關心我們的需求。
 
 \
 
@@ -129,7 +201,35 @@ in fact, Jesus reassures us that we don't need to worry because God is our Fathe
 
 \
 
+##### _Matthew 6:25-32 (Chinese NET (T))_
+
+###### \
+
+25 「所以我告訴你們，不要為生命憂慮吃甚麼、喝甚麼，或為身體憂慮穿甚麼。生命不重於飲食嗎？身體不重於衣裳嗎？
+
+26 你們看那天上的飛鳥，牠們也不種、也不收、也不積蓄在倉裏，你們的天父尚且養活牠們，你們不比飛鳥貴重得多嗎？
+
+27 你們那一個能用思慮使壽數多加一小時呢？
+
+\
+
+28 何必為衣裳憂慮呢？試想野地裏的花朵怎麼長起來，它們也不工作、也不紡線，
+
+29 然而我告訴你們，就是所羅門極榮華的時候，他所穿著的還比不上這花的一朵呢！
+
+30 你們這小信的人哪！地裏的野草，今天還在，明天就被丟在爐裏， 神還給它這樣的妝飾，何況你們呢？
+
+\
+
+31 所以不要憂慮，說：『吃甚麼？喝甚麼？穿甚麼？』
+
+32 這些都是不信的人所追求的，但你們的天父知道你們的需要。
+
+\
+
 in these verses Jesus speaks specifically of food and clothing, but we can expect that God, our loving Heavenly Father, will take care of all our needs, including a safe place to live, breathe and grow. 
+
+在這些經文中，耶穌特別談到了食物和衣服，但我們可以期望，上帝，我們慈愛的天父，將照顧我們所有的需求，包括一個安全的生活、呼吸和成長的地方。
 
 \
 
@@ -140,9 +240,13 @@ in these verses Jesus speaks specifically of food and clothing, but we can expec
 
 but then why are so many in trouble and need at this time?
 
+但是，為什麼這個時候有這麼多人陷入困境和需要？
+
 \
 
 perhaps this is the key: Jesus commands us to spend our time not chasing after the things we need, nor trying to escape through distractions, but doing something far more essential and productive:
+
+也許這就是關鍵：耶穌命令我們花時間不要追逐我們需要的東西，也不要試圖透過分心來逃避，而是做一些更重要和更有成效的事情：
 
 \
 
@@ -154,7 +258,17 @@ perhaps this is the key: Jesus commands us to spend our time not chasing after t
 
 \
 
+##### _Matthew 6:33 (Chinese NET (T))_
+
+###### \
+
+33 你們要先求他的國和他的義，這一切東西也會給你們了。
+
+\
+
 as we do so, we will be taken care of on a daily basis, and we will not need to be afraid. 
+
+當我們這樣做時，我們將每天得到照顧，我們不需要害怕。
 
 \
 
@@ -166,6 +280,14 @@ as we do so, we will be taken care of on a daily basis, and we will not need to 
 
 \
 
+##### _Matthew 6:34 (Chinese NET (T))_
+
+###### \
+
+34 所以不要為明天憂慮，因為明天自有明天的憂慮，今天的難處也夠受了。
+
+\
+
 <center>💠</center>
 
 \
@@ -173,13 +295,19 @@ as we do so, we will be taken care of on a daily basis, and we will not need to 
 
 but -- how exactly do we "seek first the Kingdom of God and His righteousness"?
 
+但是——我們究竟如何“首先尋求上帝的國度和他的公義”？
+
 \
 
-we can start here: would you like to belong to God's family?
+we can start here: [would you like to belong to God's family?](/posts/family)
+
+我們可以從這裡開始：[你想屬於上帝的家庭嗎?](/posts/family)
 
 \
 
 and find out more of what Jesus means by reading what He says in the Gospels: the books of Matthew, Mark, Luke and John in the Bible.
+
+透過閱讀耶穌在福音書中所說的話來瞭解更多關於耶穌的意思：聖經中的馬太福音、馬可福音、路加福音和約翰福音。
 
 \
 
@@ -189,6 +317,10 @@ and find out more of what Jesus means by reading what He says in the Gospels: th
 \
 
 Jesus strongly encouraged His followers to remain in His word:
+
+耶穌強烈鼓勵他的追隨者堅持他的話：
+
+\
 
 ##### _John 8:31-32 (TCENT)_
 
@@ -200,7 +332,19 @@ Jesus strongly encouraged His followers to remain in His word:
 
 \
 
+##### _John 8:31-32 (Chinese NET (T))_
+
+###### \
+
+31 耶穌對信他的猶太人說：「你們若繼續遵守我的道，就真是我的門徒。
+
+32 你們必曉得真理，真理必叫你們得以自由。」
+
+\
+
 Jesus’ words will still be in force when everything else has been destroyed. He said:
+
+當其他一切都被摧毀時，耶穌的話仍然有效。 他說：
 
 \
 
@@ -209,6 +353,14 @@ Jesus’ words will still be in force when everything else has been destroyed. H
 ###### \
 
 33 “Heaven and earth will pass away, but my words will certainly not pass away.”
+
+\
+
+##### _Luke 21:33 (Chinese NET (T))_
+
+###### \
+
+33 天地都要廢去，我的話卻永不會廢去。
 
 \
 
@@ -246,6 +398,38 @@ Jesus’ words will still be in force when everything else has been destroyed. H
 \
 
 8 But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.”
+
+\
+
+##### _Revelation 21:1-8 (Chinese NET (T))_
+
+###### \
+
+1 然後，我看見一個新天新地，因為第一個天地不再存在了，海也不再有了。
+
+\
+
+2 我又看見聖城新耶路撒冷由 神那裏從天而降，預備好了，就如新婦裝飾整齊，等候丈夫。
+
+\
+
+3 我聽見有一個大聲音從寶座出來說：「看哪！ 神的居所在人間，他要與人同住。他們要作他的子民， 神要親自與他們同在。
+
+4 神要擦去他們每一滴眼淚，不再有死亡、哀悼、哭號、疼痛，因為以前的事都不存在了。」
+
+\
+
+5 坐寶座的說：「看哪！我將一切都新造了。」然後對我說：「你要寫上，因這些話是可信的，是真實的。」
+
+\
+
+6 他又對我說：「都成了。我是阿拉法，我是俄梅戛，我是始，我是終。我要將生命泉的水白白賜給那口渴的人喝。
+
+7 克服的必承受這些為業，我要作他的 神，他要作我的兒子。
+
+\
+
+8 惟有懦弱的、不信的、可憎的、殺人的、淫亂的、行邪術的、拜偶像的，和一切說謊話的，他們的地方就在燒着硫磺的火湖裏。這是第二次的死。」
 
 \
 
