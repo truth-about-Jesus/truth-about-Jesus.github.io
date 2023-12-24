@@ -55,8 +55,13 @@ let originPath =
 home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/Output"
 let targetPath = home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/docs"
 
-try FileManager.default.removeItem(atPath: targetPath)
-try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
+do {
+    try FileManager.default.removeItem(atPath: targetPath)
+    try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
+    print("Output folder copied to docs folder successfully!")
+} catch {
+    print("there was an error copying the Output folder to the docs folder")
+}
 
 
 extension String {
