@@ -104,7 +104,7 @@ He even says things will get much worse!
 
 but at the end of it all, He will come back to take His children home.
 
-但最終，他會回來並帶孩子們回家。
+但最終，他會回來並帶自己的孩子回家。
 
 \
 
@@ -305,7 +305,7 @@ we can start here: [would you like to belong to God's family?](/posts/family)
 
 \
 
-and find out more of what Jesus means by reading what He says in the Gospels: the books of Matthew, Mark, Luke and John in the Bible.
+and find out more of what Jesus means by reading what He says in the Gospels: the books of [Matthew](https://www.biblegateway.com/passage/?search=馬太福音%201&version=CCBT), [Mark](https://www.biblegateway.com/passage/?search=馬可福音%201&version=CCBT), [Luke](https://www.biblegateway.com/passage/?search=路加福音%201&version=CCBT) and [John](https://www.biblegateway.com/passage/?search=約翰福音%201&version=CCBT) in the Bible.
 
 透過閱讀耶穌在福音書中所說的話來瞭解更多關於耶穌的意思：聖經中的馬太福音、馬可福音、路加福音和約翰福音。
 
