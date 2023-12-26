@@ -12,25 +12,25 @@ In this time when the earth is being ravaged by wildfires, floods, drought, and 
 
 \
 
-And scientists are predicting an escalation of global catastrophes with no end in sight...
+and scientists are predicting an escalation of global catastrophes with no end in sight...
 
 科學家們正在預測全球災難的升級，看不到盡頭......
 
 \
 
-Despite spending billions and billions on space exploration, no other planet that supports life has ever been found...
+despite spending billions and billions on space exploration, no other planet that supports life has ever been found...
 
 儘管在太空探索上花費了數十億美元，但從未發現其他支援生命的行星......
 
 \
 
-And pandemic, homelessness and war add to the scope of human misery...
+and pandemic, homelessness and war add to the scope of human misery...
 
 流行病、無家可歸和戰爭增加了人類痛苦的範圍......
 
 \
 
-What hope is there for our future?
+what hope is there for our future?
 
 我們的未來有什麼希望？
 
