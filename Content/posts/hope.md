@@ -305,9 +305,9 @@ we can start here: [would you like to belong to God's family?](/posts/family)
 
 \
 
-and find out more of what Jesus means by reading what He says in the Gospels: the books of [Matthew](https://www.biblegateway.com/passage/?search=馬太福音%201&version=CCBT), [Mark](https://www.biblegateway.com/passage/?search=馬可福音%201&version=CCBT), [Luke](https://www.biblegateway.com/passage/?search=路加福音%201&version=CCBT) and [John](https://www.biblegateway.com/passage/?search=約翰福音%201&version=CCBT) in the Bible.
+and find out more of what Jesus means by reading what He says in the eyewitness accounts called the Gospels: the books of [Matthew](https://www.stepbible.org/?q=version=NIV|reference=Matt.1&options=HVXLGU), [Mark](https://www.stepbible.org/?q=version=NIV|reference=Mark.1&options=LVXGUH), [Luke](https://www.stepbible.org/?q=version=NIV|reference=Luke.1&options=LVXGUH) and [John](https://www.stepbible.org/?q=version=NIV|reference=John.1&options=LVXGUH) in the Bible.
 
-透過閱讀耶穌在福音書中所說的話來瞭解更多關於耶穌的意思：聖經中的馬太福音、馬可福音、路加福音和約翰福音。
+透過閱讀耶穌在被稱為福音書的目擊者敘述中所說的話來更多地瞭解耶穌的意思：聖經中的[馬太福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Matt.1&options=HVXLGU)、[馬可福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Mark.1&options=LVXGUH)、[路加福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Luke.1&options=LVXGUH)和[約翰福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=John.1&options=LVXGUH)。
 
 \
 
