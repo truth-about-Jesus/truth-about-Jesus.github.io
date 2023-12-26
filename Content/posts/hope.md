@@ -1,36 +1,36 @@
 ---
 date: 2023-12-24 11:38
-title: is there any hope for our future?  我們的未來還有希望嗎？
-description: when the earth is being destroyed by climate change  當地球被氣候變化摧毀時
+title: Is there any hope for our future?  我們的未來還有希望嗎？
+description: When the earth is being destroyed by climate change  當地球被氣候變化摧毀時
 tags: hope, Jesus, climate change, disasters, catastrophes, pandemic, war, trouble, future, Gospels, fear, worry, provision
 translateLink: hope
 ---
 
-in this time when the earth is being ravaged by wildfires, floods, drought, and many other devastating natural disasters...
+In this time when the earth is being ravaged by wildfires, floods, drought, and many other devastating natural disasters...
 
 在這個地球被野火、洪水、乾旱和許多其他毀滅性自然災害蹂躏的時代......
 
 \
 
-and scientists are predicting an escalation of global catastrophes with no end in sight...
+And scientists are predicting an escalation of global catastrophes with no end in sight...
 
 科學家們正在預測全球災難的升級，看不到盡頭......
 
 \
 
-despite spending billions and billions on space exploration, no other planet that supports life has ever been found...
+Despite spending billions and billions on space exploration, no other planet that supports life has ever been found...
 
 儘管在太空探索上花費了數十億美元，但從未發現其他支援生命的行星......
 
 \
 
-and pandemic, homelessness and war add to the scope of human misery...
+And pandemic, homelessness and war add to the scope of human misery...
 
 流行病、無家可歸和戰爭增加了人類痛苦的範圍......
 
 \
 
-what hope is there for our future?
+What hope is there for our future?
 
 我們的未來有什麼希望？
 
@@ -102,7 +102,7 @@ He even says things will get much worse!
 \
 \
 
-but at the end of it all, He will come back to take His children home.
+But at the end of it all, He will come back to take His children home.
 
 但最終，他會回來並帶自己的孩子回家。
 
@@ -133,7 +133,7 @@ but at the end of it all, He will come back to take His children home.
 \
 \
 
-it is tempting in times like these, while waiting for Jesus to come take us home, to try to escape our worries and fears by getting caught up in various distractions, but Jesus warns us against mere escapism:
+It is tempting in times like these, while waiting for Jesus to come take us home, to try to escape our worries and fears by getting caught up in various distractions, but Jesus warns us against mere escapism:
 
 在這樣的時刻，在等待耶穌帶我們回家時，試圖透過陷入各種分心來逃避我們的擔憂和恐懼，這很誘人，但耶穌警告我們不要單純的逃避：
 
@@ -169,7 +169,7 @@ it is tempting in times like these, while waiting for Jesus to come take us home
 \
 \
 
-in fact, Jesus reassures us that we don't need to worry or be afraid at all because God is our Father who knows and cares for our needs. 
+In fact, Jesus reassures us that we don't need to worry or be afraid at all because God is our Father who knows and cares for our needs. 
 
 事實上，耶穌向我們保證，我們根本不需要擔心或害怕，因為上帝是我們的父親，他知道並關心我們的需求。
 
@@ -227,7 +227,7 @@ in fact, Jesus reassures us that we don't need to worry or be afraid at all beca
 
 \
 
-in these verses Jesus speaks specifically of food and clothing, but we can expect that God, our loving Heavenly Father, will take care of all our needs, including a safe place to live, breathe and grow. 
+In these verses Jesus speaks specifically of food and clothing, but we can expect that God, our loving Heavenly Father, will take care of all our needs, including a safe place to live, breathe and grow. 
 
 在這些經文中，耶穌特別談到了食物和衣服，但我們可以期望，上帝，我們慈愛的天父，將照顧我們所有的需求，包括一個安全的生活、呼吸和成長的地方。
 
@@ -238,13 +238,13 @@ in these verses Jesus speaks specifically of food and clothing, but we can expec
 \
 \
 
-but then why are so many in trouble and need at this time?
+But then why are so many in trouble and need at this time?
 
 但是，為什麼這個時候有這麼多人陷入困境和需要？
 
 \
 
-perhaps this is the key: Jesus commands us to spend our time not chasing after the things we need, nor trying to escape through distractions, but doing something far more essential and productive:
+Perhaps this is the key: Jesus commands us to spend our time not chasing after the things we need, nor trying to escape through distractions, but doing something far more essential and productive:
 
 也許這就是關鍵：耶穌命令我們花時間不要追逐我們需要的東西，也不要試圖透過分心來逃避，而是做一些更重要和更有成效的事情：
 
@@ -266,7 +266,7 @@ perhaps this is the key: Jesus commands us to spend our time not chasing after t
 
 \
 
-as we do so, we will be taken care of on a daily basis, and we will not need to be afraid. 
+As we do so, we will be taken care of on a daily basis, and we will not need to be afraid. 
 
 當我們這樣做時，我們將每天得到照顧，我們不需要害怕。
 
@@ -293,21 +293,21 @@ as we do so, we will be taken care of on a daily basis, and we will not need to 
 \
 \
 
-but -- how exactly do we "seek first the Kingdom of God and His righteousness"?
+But -- how exactly do we "seek first the Kingdom of God and His righteousness"?
 
 但是——我們究竟如何“首先尋求上帝的國度和他的公義”？
 
 \
 
-we can start here: [would you like to belong to God's family?](/posts/family)
+We can start here: [Would you like to belong to God's family?](/posts/family)
 
 我們可以從這裡開始：[你想屬於上帝的家庭嗎?](/posts/family)
 
 \
 
-and find out more of what Jesus means by reading what He says in the eyewitness accounts called the Gospels: the books of [Matthew](https://www.stepbible.org/?q=version=NIV|reference=Matt.1&options=HVXLGU), [Mark](https://www.stepbible.org/?q=version=NIV|reference=Mark.1&options=LVXGUH), [Luke](https://www.stepbible.org/?q=version=NIV|reference=Luke.1&options=LVXGUH) and [John](https://www.stepbible.org/?q=version=NIV|reference=John.1&options=LVXGUH) in the Bible.
+And find out more of what Jesus means by reading what He says in the eyewitness accounts called the Gospels: the books of [Matthew](https://www.stepbible.org/?q=version=NIV|reference=Matt.1&options=LVHXGU), [Mark](https://www.stepbible.org/?q=version=NIV|reference=Mark.1&options=LVHXGU), [Luke](https://www.stepbible.org/?q=version=NIV|reference=Luke.1&options=LVHXGU) and [John](https://www.stepbible.org/?q=version=NIV|reference=John.1&options=LVHXGU) in the Bible.
 
-透過閱讀耶穌在被稱為福音書的目擊者敘述中所說的話來更多地瞭解耶穌的意思：聖經中的[馬太福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Matt.1&options=HVXLGU)、[馬可福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Mark.1&options=LVXGUH)、[路加福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Luke.1&options=LVXGUH)和[約翰福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=John.1&options=LVXGUH)。
+透過閱讀耶穌在被稱為福音書的目擊者敘述中所說的話來更多地瞭解耶穌的意思：聖經中的[馬太福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Matt.1&options=LVHXGU)、[馬可福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Mark.1&options=LVHXGU)、[路加福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=Luke.1&options=LVHXGU)和[約翰福音](https://www.stepbible.org/?q=version=ChiNCVt|reference=John.1&options=LVHXGU)。
 
 \
 
@@ -430,6 +430,18 @@ Jesus’ words will still be in force when everything else has been destroyed. H
 \
 
 8 惟有懦弱的、不信的、可憎的、殺人的、淫亂的、行邪術的、拜偶像的，和一切說謊話的，他們的地方就在燒着硫磺的火湖裏。這是第二次的死。」
+
+\
+
+
+<center>💠</center>
+
+\
+\
+
+So, yes, we have a wonderful hope for our future!
+
+所以，是的，我們對我們的未來抱有美好的希望！
 
 \
 
