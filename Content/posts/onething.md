@@ -1,7 +1,7 @@
 ---
 date: 2023-12-31 11:18
 title: One thing  一件事
-description: That matters most according to Jesus  根據耶穌的說法，這是最重要的
+description: What matters most according to Jesus  根據耶穌的說法，這是最重要的
 tags: listen, Jesus, teaching, necessary, one thing
 translateLink: onething
 ---
