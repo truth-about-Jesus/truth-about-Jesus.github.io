@@ -433,16 +433,4 @@ Jesus’ words will still be in force when everything else has been destroyed. H
 
 \
 
-
-<center>💠</center>
-
-\
-\
-
-So, yes, we have a wonderful hope for our future!
-
-所以，是的，我們對我們的未來抱有美好的希望！
-
-\
-
 <center>💠</center>
