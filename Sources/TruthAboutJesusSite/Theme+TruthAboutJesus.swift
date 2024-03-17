@@ -42,12 +42,15 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                         Text(" \(context.site.descriptionT.part2)")
                             .italic()
                     }
-                        .class("description")
-                    H2("Posts &nbsp; 帖子")
+//                    Paragraph {
+//                        Link("Would you like to belong to God's family?", url: "/posts/family/")
+//                    }
+                    .class("description")
+                    H2("Recent Posts & Stories &nbsp; 最近的帖子和故事")
                     ItemList(
                         items: context.allItems(
                             sortedBy: \.date,
-                            order: .ascending
+                            order: .descending
                         ),
                         site: context.site
                     )
