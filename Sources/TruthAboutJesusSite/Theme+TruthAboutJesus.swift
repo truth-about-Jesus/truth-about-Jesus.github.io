@@ -42,9 +42,6 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                         Text(" \(context.site.descriptionT.part2)")
                             .italic()
                     }
-//                    Paragraph {
-//                        Link("Would you like to belong to God's family?", url: "/posts/family/")
-//                    }
                     .class("description")
                     H2("Recent Posts & Stories &nbsp; 最近的帖子和故事")
                     ItemList(
@@ -87,13 +84,13 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                     SiteHeader(context: context, selectedSelectionID: item.sectionID)
                     Wrapper {
                         Article {
-                            let translateToEnglish = TruthAboutJesusSite.TranslateInfo.translateLink + "/posts/" + item.metadata.translateLink + TruthAboutJesusSite.TranslateInfo.chineseToEnglish
+                            let translateToEnglish = TruthAboutJesusSite.TranslateInfo.translateLink + "/\(item.sectionID.rawValue)/" + item.metadata.translateLink + TruthAboutJesusSite.TranslateInfo.chineseToEnglish
                             Paragraph {
                                 Text(translateSymbol)
                                 Link("Translate this page with Google", url: translateToEnglish)
                             }
                             .class("translate-link no-bottom-space")
-                            let translateToChinese = TruthAboutJesusSite.TranslateInfo.translateLink + "/posts/" + item.metadata.translateLink + TruthAboutJesusSite.TranslateInfo.englishToChinese
+                            let translateToChinese = TruthAboutJesusSite.TranslateInfo.translateLink + "/\(item.sectionID.rawValue)/" + item.metadata.translateLink + TruthAboutJesusSite.TranslateInfo.englishToChinese
                             Paragraph {
                                 Text(translateSymbol)
                                 Link("用谷歌翻譯此頁面", url: translateToChinese)
