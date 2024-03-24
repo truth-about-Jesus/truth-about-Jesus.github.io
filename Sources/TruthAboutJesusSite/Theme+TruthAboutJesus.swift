@@ -43,7 +43,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                             .italic()
                     }
                     .class("description")
-                    H2("Recent Posts & Stories &nbsp; 最近的帖子和故事")
+                    H2("Recent &nbsp; 最近")
                     ItemList(
                         items: context.allItems(
                             sortedBy: \.date,

@@ -6,7 +6,7 @@ import Plot
 struct TruthAboutJesusSite: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
-        case posts, stories
+        case stories, posts
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -23,7 +23,7 @@ struct TruthAboutJesusSite: Website {
         "\(descriptionE) -- in traditional Chinese and English. \(descriptionT) -- 用繁體中文和英語。"
     }
     
-    let stylesheetPaths: [Path] = ["/styles.css?version=22"]
+    let stylesheetPaths: [Path] = ["/styles.css?version=23"]
     
     struct TranslateInfo {
         static let translateLink = "https://truth--about--jesus-github-io.translate.goog"
