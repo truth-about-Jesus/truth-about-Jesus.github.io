@@ -91,7 +91,7 @@ Peter and John started with surprise -- a man doing women's work?!
 
 "Follow him, and wherever he goes in, say to the master of the house: 'The Teacher says, "Where is the guest-room, where I and my disciples may eat the Passover together?"' He will show you a large upper room, furnished and ready -- make preparations for us there."
 
-「跟著他，無論他走到哪裡，都對主人說：『老師說：『客房在哪裡，我和我的門徒可以在那裡一起吃逾越節的晚餐？』他會帶你去看一間寬敞的樓上房間，家具齊全，準備就緒——在那裡為我們做好準備。」
+「跟著他，無論他進入哪一間房子，就對房子的主人說：『老師說：『客房在哪裡，我和我的門徒可以在那裡一起吃逾越節的晚餐？』他會帶你去看一間寬敞的樓上房間，家具齊全，準備就緒——在那裡為我們做好準備。」
 
 \
 
