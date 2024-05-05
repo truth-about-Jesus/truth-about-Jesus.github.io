@@ -61,7 +61,7 @@ Meanwhile, Peter and John, two others of Jesus' chosen Apostles, approached Jesu
 
 "Master, where shall we make preparations for You to eat the Passover?"
 
-「主人，我們在哪裡為你準備吃逾越節？」
+「夫子，我們到哪裡去為您準備逾越節的筵席呢？」
 
 \
 
