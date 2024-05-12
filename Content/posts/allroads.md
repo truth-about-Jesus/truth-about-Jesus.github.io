@@ -150,4 +150,4 @@ Only Jesus is the narrow door and the hard way that leads to life.
 
 \
 
-💠
+<center>💠</center>
