@@ -72,9 +72,9 @@ How can we find it?
 \
 \
 
-Later, while speaking with the Jews in Jerusalem, Jesus called Himself the Door:
+Later, while speaking with the Jews in Jerusalem, Jesus called Himself "the Door":
 
-後來，在耶路撒冷與猶太人交談時，耶穌稱自己為門：
+後來，耶穌在耶路撒冷對猶太人講話時稱自己為「門」：
 
 \
 
@@ -111,7 +111,7 @@ Later, while speaking with the Jews in Jerusalem, Jesus called Himself the Door:
 \
 \
 
-Jesus called Himself the Way when speaking with His Apostles the night before He was crucified. 
+Jesus called Himself "the Way" when speaking with His Apostles the night before He was crucified. 
 
 耶穌在被釘十字架的前一天晚上與使徒交談時，稱自己為「道路」。
 
