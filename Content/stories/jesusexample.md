@@ -44,7 +44,7 @@ The Apostles stared at one another. No one knew quite how to respond to His ques
 
 Peter struggled inside with this disturbing statement. It was unsettling enough to let Jesus wash his feet. But... to lower _himself_ like that? How could he, Peter -- the rock on which Jesus had said He would build His church -- wash the feet of his younger brother Andrew, or Simon, or Matthew, who had been a despised tax collector before Jesus had called him?!
 
-彼得因這令人不安的言論而內心掙扎。讓耶穌洗腳已經夠令人不安的了。可是……就這麼放低自己嗎？他，彼得——他是耶穌曾說過要在其上建造他的教會的磐石——怎麼能為他的弟弟安得烈——或西門——或馬太洗腳？在耶穌呼召馬太之前，他曾經是個受人鄙視的稅吏！
+彼得因這令人不安的言論而內心掙扎。讓耶穌洗腳已經夠令人不安的了。但他怎麼能讓自己變得如此卑微呢？他，彼得——他是耶穌曾說過要在其上建造他的教會的磐石——怎麼能為他的弟弟安得烈——或西門——或馬太洗腳？在耶穌呼召馬太之前，他曾經是個受人鄙視的稅吏！
 
 \
 
@@ -139,7 +139,7 @@ Then Jesus dropped a bombshell:
 
 "I am telling you the truth: one of you will betray Me."
 
-「我跟你說實話：你們中的一個人會背叛我。」
+「我告訴你真相：你們中的一個人會背叛我。」
 
 \
 
@@ -168,7 +168,7 @@ Clearly none of them suspected him still!
 
 Peter was shocked and troubled by Jesus' last statement. _Who_ of them would _dare_ to betray their beloved Lord?! 
 
-彼得對耶穌的最後一句話感到震驚和不安。 他們中誰敢背叛他們心愛的主？！
+彼得對耶穌剛才所說的話感到震驚和困擾。他們誰敢背叛心愛的主？！
 
 \
 
@@ -216,7 +216,7 @@ He dipped the piece of bread generously in the dipping sauce and handed it -- to
 
 As he accepted the bread, Judas noticed young John staring directly at him, looking stricken. Instantly he realized that John knew, that Peter would soon know, and that he was no longer welcome among Jesus' chosen Apostles.
 
-當他接受麵包時，猶大注意到年輕的約翰直視著他，看起來很受點。 他立刻意識到，約翰知道，彼得很快就會知道，他在耶穌拣選的使徒中不再受歡迎。
+當他接受麵包時，猶大注意到年輕的約翰直視著他，看起來很受點。 他立刻知道約翰知道，彼得很快就會知道，而且他在耶穌所揀選的使徒中不再受歡迎。
 
 \
 
