@@ -1,7 +1,7 @@
 ---
 date: 2024-03-17 08:24
 title: 1 - Jesus and the Very
-Important Person  1 - 耶穌和非常重要的人
+Important Person  耶穌和非常重要的人
 description: People ask Jesus for help  人們向耶穌尋求幫助
 tags: Jesus, VIP, heal, healing, resurrect, resurrection
 translateLink: vip

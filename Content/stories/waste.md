@@ -1,6 +1,6 @@
 ---
 date: 2024-03-17 09:30
-title: 3 - Jesus and the unnecessary extravagance  3 - 耶穌和不必要的奢侈
+title: 3 - Jesus and the unnecessary extravagance  耶穌和不必要的奢侈
 description: Mary's wastefulness  馬利亞的浪費
 tags: Jesus, Mary, Judas Iscariot, Martha, Lazarus, waste, extravagance, perfume
 translateLink: waste

@@ -1,6 +1,6 @@
 ---
 date: 2024-03-17 09:16
-title: 2 - The day Jesus came to dinner  2 - 耶穌來吃晚餐的那天
+title: 2 - The day Jesus came to dinner  耶穌來吃晚餐的那天
 description: Jesus meets a little child  耶穌遇到了一個小孩
 tags: Jesus, child, apostles, disciples, competition, value
 translateLink: dinner

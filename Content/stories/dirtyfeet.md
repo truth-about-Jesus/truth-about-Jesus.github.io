@@ -1,6 +1,6 @@
 ---
 date: 2024-05-19 8:49
-title: 5 - Jesus and the dirty feet  5 - 耶穌和髒腳
+title: 5 - Jesus and the dirty feet  耶穌和髒腳
 description: Jesus washes His Apostles' feet  耶穌洗了他的使徒的腳
 tags: Passover, wash, feet, Jesus, Apostles, Peter, John, Judas Iscariot
 translateLink: dirtyfeet

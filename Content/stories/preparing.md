@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05 9:33
-title: 4 - Preparing for Passover  4 - 為逾越節做準備
+title: 4 - Preparing for Passover  為逾越節做準備
 description: Jesus' Apostles get ready  耶穌的使徒們正在做準備
 tags: Passover, prepare, Jesus, Apostles, Peter, John, Judas Iscariot
 translateLink: preparing
