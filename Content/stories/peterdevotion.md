@@ -1,43 +1,63 @@
 ---
-7 - Peter's devotion
+7 - Peter's devotion  彼得的奉獻
 ---
 Peter watched Judas Iscariot hurry out the door, thinking perhaps Jesus had sent him on an errand to buy something, or maybe give a gift to the poor.
+
+彼得看著加略人猶大匆匆走出門，以為也許耶穌派他去跑腿去買東西，或者給窮人送禮物。
 
 \
 
 Jesus seemed somehow relieved and more relaxed, yet still sorrowful.
 
+耶穌似乎在某種程度上鬆了一口氣，更放鬆了，但仍然很悲傷。
+
 \
 
 "Now the Son of Man is glorified, and God is glorified in Him. And if God is glorified in Him, God will glorify Him in Himself, and will glorify Him immediately."
+
+[[ “人子得榮耀了，神也在他身上得榮耀了。 如果上帝在他身上榮耀，上帝會在他自己身上榮耀他，並立即榮耀他。”
 
 \
 
 There was general puzzlement among the Apostles. What was Jesus saying?
 
+使徒們普遍感到困惑。 耶穌在說什麼？
+
 \
 
 Being glorified sounded like a good thing, reasoned John. So why did Jesus seem so sad?
+
+約翰推理道，被榮耀聽起來是件好事。 那麼，為什麼耶穌看起來如此悲傷？
 
 \
 
 And what about Judas Iscariot? He had escaped!
 
+加略人猶大呢？ 他逃脫了！
+
 \
 
 Something had to be done. So why was Jesus doing nothing? He had actually encouraged Judas to leave without alerting the others!
+
+[[ 必須做一些事情。 那麼，為什麼耶穌什麼都不做？ 他實際上鼓勵猶大在不提醒其他人的情況下離開！
 
 \
 
 John thought a bit more about this.
 
+[[ John對此想得更多一點。
+
 \
 
 Perhaps Jesus would escape from the Chief Priests as He had escaped from others so many times before.
 
+也許耶穌會逃離祭司長，就像他以前多次逃離其他人一樣。
+
 \
 
 But lately He had spoken much of... of things happening that were completely unthinkable. _He_ is the Messiah! Terrible things _cannot_ happen to Him! God gives His Anointed One _victory_ over His enemies!
+
+但最近他談了很多......完全不可想象的事情。 _他_是彌賽亞！ 可怕的事情_不能_發生在他身上！ 上帝賜予他的受恩人_勝利_戰勝他的敵人！
 
 \
 
