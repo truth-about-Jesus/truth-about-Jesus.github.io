@@ -37,7 +37,7 @@ Perhaps Jesus would escape from the Chief Priests as He had escaped from others 
 
 \
 
-But lately He had spoken much of... of things happening that were completely unthinkable. He is the Messiah! Terrible things cannot happen to Him! God gives His Anointed One victory over His enemies!
+But lately He had spoken much of... of things happening that were completely unthinkable. _He_ is the Messiah! Terrible things _cannot_ happen to Him! God gives His Anointed One _victory_ over His enemies!
 
 \
 
@@ -50,15 +50,15 @@ But lately He had spoken much of... of things happening that were completely unt
 
 \
 
-What?! Peter couldn't believe it.
+_What?!_ Peter couldn't believe it.
 
 \
 
-He had given up everything to follow Jesus -- home, family, livelihood -- and now Jesus was abandoning them?!
+He had given up _everything_ to follow Jesus -- home, family, livelihood -- and now Jesus was _abandoning_ them?!
 
 \
 
-What did Jesus expect him to do? Go back to fishing?!
+What did Jesus expect him to do? Go back to _fishing?!_
 
 \
 
@@ -66,11 +66,11 @@ He could never -- not after all he'd been through with Jesus!
 
 \
 
-He would never let Jesus go. 
+He would _never_ let Jesus go. 
 
 \
 
-Ever.
+_Ever._
 
 \
 
@@ -127,7 +127,7 @@ This was not acceptable to Peter. He was not willing, after all they'd been thro
 
 \
 
-"I'm telling you the truth: Tonight, before the rooster crows twice, you will say that you don't know Me -- three times!"
+"I'm telling you the truth: Tonight, before the rooster crows twice, you will say that you don't know Me -- _three times!"_
 
 \
 
@@ -140,11 +140,11 @@ Anger and determination rose in Peter's chest.
 
 \
 
-Jesus may be a prophet -- yes, even the Son of God! -- but Peter had always conquered through force of will, and tonight would be no different!
+Jesus may be a prophet -- yes, even the Son of God! -- but Peter had _always_ conquered through force of will, and tonight would be no different!
 
 \
 
-"Even if i have to die with You, i will never deny knowing You, my Lord!" he contended fiercely.
+"Even if i have to die with You, i will _never_ deny knowing You, my Lord!" he contended fiercely.
 
 \
 
@@ -177,7 +177,7 @@ He was going to have to do it.
 
 \
 
-He would prove -- beyond the shadow of a doubt -- his total devotion to Jesus!
+He would _prove_ -- beyond the shadow of a doubt -- his total devotion to Jesus!
 
 \
 
@@ -186,7 +186,7 @@ He would prove -- beyond the shadow of a doubt -- his total devotion to Jesus!
 \
 \
 
-Based on John 13:28-38; Mark 14:30-31.
+_Based on John 13:28-38; Mark 14:30-31._
 
 \
 
