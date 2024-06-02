@@ -20,7 +20,7 @@ Jesus seemed somehow relieved and more relaxed, yet still sorrowful.
 
 "Now the Son of Man is glorified, and God is glorified in Him. And if God is glorified in Him, God will glorify Him in Himself, and will glorify Him immediately."
 
-「人子得榮耀了，神也在他身上得榮耀了。 如果上帝在他身上榮耀，上帝會在他自己身上榮耀他，並立即榮耀他。」
+「現在，人子得榮耀了，神也在他身上得榮耀了。 如果上帝在他身上榮耀，上帝會在他自己身上榮耀他，並立即榮耀他。」
 
 \
 
@@ -73,7 +73,9 @@ But lately He had spoken much of... of things happening that were completely unt
 
 "My children, i am with you for just a little longer; and you will look for Me; and now i say to you what i said to the Jews earlier: where i am going you cannot come."
 
-「我的孩子們，我和你們在一起還有一會兒；你們會尋找我；現在我對你們說我以前對猶太人說過的話：我要去的地方，你們不能去。」
+「我的孩子們，我和你們在一起還有一會兒；你們會尋找我；現在我對你們說我以前對猶太人說過的話：你不能來我要去的地方。」
+
+
 
 \
 
@@ -238,7 +240,7 @@ Peter thought quickly. John's whispered revelation as they had followed Jesus ou
 
 Now, he steeled himself to do what must be done. Judas Iscariot must not be permitted to hand Jesus over to the religious leaders.
 
-現在，他堅定地去做必須做的事情。 不得允許加略人猶大將耶穌交給宗教領袖。
+現在，他堅定地去做必須做的事情。 他絕不能允許加略人猶大將耶穌交給宗教領袖。
 
 \
 
