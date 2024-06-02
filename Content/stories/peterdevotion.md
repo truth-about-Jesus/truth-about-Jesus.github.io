@@ -57,7 +57,7 @@ Perhaps Jesus would escape from the Chief Priests as He had escaped from others 
 
 But lately He had spoken much of... of things happening that were completely unthinkable. _He_ is the Messiah! Terrible things _cannot_ happen to Him! God gives His Anointed One _victory_ over His enemies!
 
-但最近他談了很多......完全不可想象的事情。 _他_是彌賽亞！ 可怕的事情_不能_發生在他身上！ 上帝賜予他的受恩人_勝利_戰勝他的敵人！
+但最近他談了很多......完全不可想象的事情。 他是彌賽亞！ 可怕的事情不能發生在他身上！ 上帝賜予他的受恩人勝利戰勝他的敵人！
 
 \
 
