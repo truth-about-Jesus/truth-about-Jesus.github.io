@@ -112,7 +112,7 @@ Now He was alone, in the presence of His Father.
 
 Great tears welled up in His eyes, then spilled to the ground as His whole body began to heave and shudder with intense sorrow and overwhelming fear. He groaned under the unbearable weight of soul-crushing grief; His sweat became drops of blood squeezing through the pores of His skin, falling to earth, mingling with His tears...
 
-當他的整個身體開始因強烈的悲傷和壓倒性的恐懼而顫抖時，淚水從他的眼睛裡湧了出來，然後灑到地上。 他在壓碎靈魂的難以承受的悲傷下呻吟；他的汗水變成了從他面板的毛孔中擠出的血滴，落到地上，與他的眼淚混合在一起......
+當他的整個身體開始因強烈的悲傷和壓倒性的恐懼而顫抖時，淚水從他的眼睛裡湧了出來，然後灑到地上。 他在壓碎靈魂的難以承受的悲傷下呻吟；他的汗水變成了血滴，從皮膚毛孔中擠出來，落到地上，與他的眼淚混合在一起......
 
 \
 
@@ -142,13 +142,13 @@ When again He was calm enough to speak, Jesus continued.
 
 "Yet not My will..." He struggled to tame His body's natural fear response to the suffering He knew was imminent.
 
-「但不是我的意志......」 他努力馴服身體對他知道迫在眉睫的痛苦的自然恐懼反應。
+「但不要做我想做的事......」 他努力馴服身體對他知道迫在眉睫的痛苦的自然恐懼反應。
 
 \
 
 "But... Yours... be done."
 
-「但是……願你的旨意得以實現。」
+「做你想做的事。」
 
 \
 
