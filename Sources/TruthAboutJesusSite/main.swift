@@ -50,11 +50,13 @@ if #available(macOS 13.0, *) {
 } else {
     home = FileManager.default.homeDirectoryForCurrentUser.path
 }
+print(home)
 
 let originPath =
 home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/Output"
+print(originPath)
 let targetPath = home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/docs"
-
+print(targetPath)
 do {
     try FileManager.default.removeItem(atPath: targetPath)
     try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
