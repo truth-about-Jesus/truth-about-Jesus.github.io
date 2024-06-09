@@ -31,31 +31,31 @@ He didn't understand, but it seemed as if Jesus was intent on finishing somethin
 
 Jesus led them onward, over the brook and beyond, into the garden of Gethsemane where they had met many times before. 
 
-耶穌帶領他們前進，過小溪，越過溪，進入客西馬尼園，他們以前見過許多次。
+耶穌帶領他們向前走，過了小溪，進入了客西馬尼園，他們以前曾多次在那裡聚會。
 
 \
 
 He seemed sombre as He spoke to His eleven remaining Apostles.
 
-當他與剩下的十一個使徒交談時，他看起來很陰鬱。
+他一臉嚴肅地對剩下的十一位使徒說話。
 
 \
 
 "Sit here, while i go pray."
 
-坐在這裡，我去祈禱。
+「你坐在這裡，我去那裡祈禱。」
 
 \
 
  He stopped Peter, James and John, as they were about to sit with the others.
 
-他阻止了彼得、詹姆斯和約翰，因為他們正要和其他人坐在一起。
+當彼得、雅各和約翰正要和其他人坐在一起時，他叫住了他們。
 
 \
 
 "You three... please... come with Me," He said gently.
 
-“你們三個......請......跟我來，”他溫柔地說。
+「你們三個......請......跟我來，」他溫柔地說。
 
 \
 
@@ -72,7 +72,7 @@ He led the three of them to a different part of the garden, then allowed Himself
 
 "My soul is sorrowful -- to death. Wait for Me here; watch with Me."
 
-“我的靈魂悲傷得要死。 在這裡等我；和我一起看。”
+「我的靈魂悲傷得要死。 在這裡等我；和我一起看。」
 
 \
 
@@ -98,9 +98,9 @@ He knew His Father -- God -- could do anything. Perhaps He might be spared from 
 \
 \
 
-Withdrawing even further into the garden, He fell to the ground a distance away from the place where He had left His three most trusted companions. 
+He fell to the ground a distance away from the place where He had left His three most trusted companions. 
 
-他退到花園裡更遠了，倒在離他離開三個最信任的同伴的地方很遠的地方。
+倒在離他離開三個最信任的同伴的地方很遠的地方。
 
 \
 
@@ -124,13 +124,13 @@ When at last He could speak, He gasped out a prayer to His beloved, faithful Fat
 
 "Abba... Father... You can do anything... please... take this cup away from Me..."
 
-阿巴... 父親... 你可以做任何事情......請......把這個杯子從我身邊拿走......”
+「阿巴... 父親... 你可以做任何事情......請......把這個杯子從我身邊拿走......」
 
 \
 
 Sorrow wracked His body for a good long time now, as He poured out His trouble wordlessly to God. 
 
-當他無言以對地將他的煩惱傾訴給上帝時，悲傷已經折磨了他的身體很久了。
+悲傷使他的身體顫抖了很長一段時間，當他無言地將他的煩惱傾訴給上帝。
 
 \
 
@@ -142,13 +142,13 @@ When again He was calm enough to speak, Jesus continued.
 
 "Yet not My will..." He struggled to tame His body's natural fear response to the suffering He knew was imminent.
 
-“但不是我的意志......” 他努力馴服身體對他知道迫在眉睫的痛苦的自然恐懼反應。
+「但不是我的意志......」 他努力馴服身體對他知道迫在眉睫的痛苦的自然恐懼反應。
 
 \
 
 "But... Yours... be done."
 
-“但是...... 你的......完成吧。”
+「但是……願你的旨意得以實現。」
 
 \
 
@@ -165,11 +165,11 @@ Calm again for the moment, Jesus headed back to where His three closest friends 
 
 only to discover them all snoring gently. 
 
-只是發現他們都在輕輕地打鼾。
+但他卻發現他們都在輕輕地打鼾。
 
 \
 
-He was not surprised -- He understood their weakness -- but tonight was going to be the worst of their lives, too, and they would need the strength that only prayer could bring. 
+He was not surprised -- He understood their weakness -- but tonight was going to be the worst of <u>their</u> lives, too, and they would need the strength that only prayer could bring. 
 
 他並不感到驚訝——他理解他們的弱點——但今晚也將是他們一生中最糟糕的一次，他們需要只有祈禱才能帶來的力量。
 
@@ -177,25 +177,27 @@ He was not surprised -- He understood their weakness -- but tonight was going to
 
 "You're sleeping, Simon," He said to Peter, calling him by his old name rather than by the new one He had given him. Peter was anything but a rock at this moment. 
 
-“你在睡覺，西蒙，”他對彼得說，用他的舊名字而不是他給他的新名字來稱呼他。 此刻，彼得一點也不是一塊石頭。
+「你在睡覺，西蒙，」他對彼得說，用他的舊名字而不是他給他的新名字來稱呼他。 此刻，彼得一點也不是一塊石頭。
 
 \
 
 "You couldn't even watch with Me for one hour?"
 
-“你甚至不能和我一起看一個小時？”
+「你就不能跟我一起熬夜一個小時嗎？」
 
 \
 
 Peter stared at Jesus through bleary eyes. He had fallen soundly asleep and had been dreaming of happier times -- of fishing in a boat with Jesus as one of his crew, pulling in a wonderful catch of fish...
 
-彼得用朕眼注視著耶穌。 他睡得很香，一直夢想著更快樂的時光——與耶穌一起在船上釣魚，拉著一條奇妙的魚......
+彼得睡眼惺忪地看著耶穌。 他已經熟睡了，一直夢想著更幸福的時光——耶穌是他的船員之一，正在船上釣魚，他們抓到了很多很多大魚......
+
+
 
 \
 
 "Stay awake, and pray, lest you enter into temptation. The spirit is willing and ready, but the flesh is weak."
 
-“保持清醒，祈禱，以免陷入誘惑。 靈魂是願意和準備的，但肉體是軟弱的。”
+「要警醒禱告，免得陷入試探。心靈願意並準備好，但身體卻軟弱。」
 
 \
 
@@ -206,11 +208,11 @@ Peter stared at Jesus through bleary eyes. He had fallen soundly asleep and had 
 
 Once the three Apostles were awake and praying once again, Jesus headed back to wrestle with His Father yet further.
 
-當三位使徒醒來並再次祈禱時，耶穌就回去與他的父親搏鬥。
+當三位使徒醒來並再次祈禱時，耶穌回去花更多時間與他的父親討論。
 
 \
 
-He needed to know -- for sure -- that there was no other option, because if there were any other way to save the world, He would definitely take it!
+He needed to know -- for sure -- that there was no other option, because if there were any other way to save the world, He would surely take it!
 
 他需要知道——當然——沒有其他選擇，因為如果有任何其他方法來拯救世界，他肯定會接受！
 
@@ -259,7 +261,7 @@ And He loved His Father more than He hated the pain, humiliation, suffering and 
 
 He would drink it... to the dregs.
 
-他會喝它......對著渣滇。
+他會喝掉所有的……甚至最後一滴。
 
 \
 
@@ -270,7 +272,7 @@ He would drink it... to the dregs.
 
 "You may as well sleep now." He spoke over the Apostles' peaceful snores.
 
-你現在還不如睡覺。 他對著使徒們和平的鼾子說話。
+「你現在還不如睡覺。」他對著使徒們和平的鼾子說話。
 
 \
 
@@ -280,15 +282,15 @@ Then, as a group of men carrying torches and weapons approached, He shook them a
 
 \
 
-"It's time now: the Son of Man is handed over to sinners. Get up! Let's go.
+"It's time now: the Son of Man is handed over to sinners. Get up! Let's go."
 
-“現在是時候了：人子被交給罪人。 起來！ 我們走吧。
+「現在是時候了：人子被交給罪人。 起來！ 我們走吧。」
 
 \
 
 "Look! My betrayer is here."
 
-“看！ 我的背叛者在這裡。”
+「快看！背叛我的人就在這裡。」
 
 \
 
