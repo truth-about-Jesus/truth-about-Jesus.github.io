@@ -64,7 +64,7 @@ And Jesus Himself had said... had said...
 
 \
 
-She couldn't allow herself to think of what Jesus had said. She <u>couldn't</u>.
+She couldn't allow herself to think of what Jesus had said. She *couldn't*.
 
 她無法讓自己去想耶穌說了什麼。 她不能。
 
@@ -239,7 +239,7 @@ Sometimes he wondered why he even bothered...
 
 \
 
-But then, Jesus <u>had</u> handpicked him and entrusted the moneybag to him. What could Jesus possibly know? And no one could deny that this unbelievably popular teacher attracted some rather generous donations...
+But then, Jesus *had* handpicked him and entrusted the moneybag to him. What could Jesus possibly know? And no one could deny that this unbelievably popular teacher attracted some rather generous donations...
 
 但是，耶穌親自挑選了他，並將錢包託付給他。 耶穌可能知道什麼？ 沒有人可以否認這位非常受歡迎的老師已經吸引了一些相當慷慨的捐款……
 

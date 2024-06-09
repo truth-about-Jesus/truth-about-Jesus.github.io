@@ -60,7 +60,7 @@ Perhaps Jesus would escape from the Chief Priests as He had escaped from others 
 
 \
 
-But lately He had spoken much of... of things happening that were completely unthinkable. <u>He</u> is the Messiah! Terrible things <u>cannot</u> happen to Him! God gives His Anointed One <u>victory</u> over His enemies!
+But lately He had spoken much of... of things happening that were completely unthinkable. _He_ is the Messiah! Terrible things _cannot_ happen to Him! God gives His Anointed One _victory_ over His enemies!
 
 但最近他談到了很多……發生的事情，這些事情是完全不可想像的。他是彌賽亞！不會有什麼可怕的事發生在他身上！神讓祂的受膏者戰勝了祂的敵人！
 
@@ -85,13 +85,13 @@ _What?!_ Peter couldn't believe it.
 
 \
 
-He had given up <u>everything</u> to follow Jesus -- home, family, livelihood -- and now Jesus was <u>abandoning</u> them?!
+He had given up _everything_ to follow Jesus -- home, family, livelihood -- and now Jesus was _abandoning_ them?!
 
 他為了跟隨耶穌而放棄了一切——家、家庭、生計——現在耶穌拋棄了他們？！
 
 \
 
-What did Jesus expect him to do? Go back to <u>fishing</u>?!
+What did Jesus expect him to do? Go back to _fishing?!_
 
 耶穌期望他做什麼？ 回去釣魚？！
 
@@ -103,7 +103,7 @@ He could never -- not after all he'd been through with Jesus!
 
 \
 
-He would <u>never</u> let Jesus go. 
+He would _never_ let Jesus go. 
 
 他永遠不會讓耶穌走。
 
@@ -192,7 +192,7 @@ This was not acceptable to Peter. He was not willing, after all they'd been thro
 
 \
 
-"I'm telling you the truth: Tonight, before the rooster crows twice, you will say that you don't know Me -- <u>three times</u>!"
+"I'm telling you the truth: Tonight, before the rooster crows twice, you will say that you don't know Me -- _three times!"_
 
 “我跟你說實話：今晚，在公雞叫兩次之前，你會說你不認識我——三次！”
 
@@ -209,13 +209,13 @@ Anger and determination rose in Peter's chest.
 
 \
 
-Jesus may be a prophet -- yes, even the Son of God! -- but Peter had <u>always</u> conquered through force of will, and tonight would be no different!
+Jesus may be a prophet -- yes, even the Son of God! -- but Peter had _always_ conquered through force of will, and tonight would be no different!
 
 耶穌是一位先知——是的，甚至是上帝的兒子！——但彼得總是透過意志的力量征服，今晚也不例外！
 
 \
 
-"Even if i have to die with You, i will <u>never</u> deny knowing You, my Lord!" he contended fiercely.
+"Even if i have to die with You, i will _never_ deny knowing You, my Lord!" he contended fiercely.
 
 「即使我必須和你一起死，我永遠不會否認認識你，我的主！」 他激烈地爭辯。
 
@@ -262,7 +262,7 @@ he, Peter, was going to have to do it.
 
 \
 
-He would <u>prove</u> -- beyond the shadow of a doubt -- his total devotion to Jesus!
+He would _prove_ -- beyond the shadow of a doubt -- his total devotion to Jesus!
 
 他將證明他對耶穌的完全忠誠，這樣就沒有人可以再懷疑他了。
 

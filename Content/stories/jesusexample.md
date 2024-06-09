@@ -36,13 +36,13 @@ The Apostles stared at one another. No one knew quite how to respond to His ques
 
 \
 
-"If <u>i</u> -- Your Teacher and Lord -- have washed <u>your</u> feet, then <u>you</u> also ought to wash each <u>other</u>'s feet."
+"If i -- Your Teacher and Lord -- have washed _your_ feet, then _you_ also ought to wash each other's feet."
 
 「如果我——你的老師和主——洗了你的腳，那麼你們也應該互相洗腳。」
 
 \
 
-Peter struggled inside with this disturbing statement. It was unsettling enough to let Jesus wash his feet. But... to lower <u>himself</u> like that? How could he, Peter -- the rock on which Jesus had said He would build His church -- wash the feet of his younger brother Andrew, or Simon, or Matthew, who had been a despised tax collector before Jesus had called him?!
+Peter struggled inside with this disturbing statement. It was unsettling enough to let Jesus wash his feet. But... to lower _himself_ like that? How could he, Peter -- the rock on which Jesus had said He would build His church -- wash the feet of his younger brother Andrew, or Simon, or Matthew, who had been a despised tax collector before Jesus had called him?!
 
 彼得因這令人不安的言論而內心掙扎。讓耶穌洗腳已經夠令人不安的了。但他怎麼能讓自己變得如此卑微呢？他，彼得——他是耶穌曾說過要在其上建造他的教會的磐石——怎麼能為他的弟弟安得烈——或西門——或馬太洗腳？在耶穌呼召馬太之前，他曾經是個受人鄙視的稅吏！
 

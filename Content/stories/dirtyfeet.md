@@ -113,7 +113,7 @@ When Jesus got to Peter, Peter roused himself from his dumbfounded reverie.
 
 \
 
-"Lord? Are <u>You</u> going to wash <u>my</u> feet?!"
+"Lord? Are _You_ going to wash _my_ feet?!"
 
 「主啊？你要給我洗腳嗎？！」
 
@@ -160,7 +160,7 @@ Indignation rose in Peter at His beloved Lord and Master's total humiliation in 
 
 \
 
-"<u>No</u>!" He spoke decisively and more loudly than he had intended. He didn't understand why, but something about Jesus' willingness to lower Himself in this way frightened him. It seemed unnatural...
+_"No!"_ He spoke decisively and more loudly than he had intended. He didn't understand why, but something about Jesus' willingness to lower Himself in this way frightened him. It seemed unnatural...
 
 「不！」 他說話果斷，聲音比他預期的要大。 他不明白為什麼，但耶穌願意以這種方式降低自己，這讓他感到害怕。 這似乎不自然......
 
@@ -172,7 +172,7 @@ He pulled his feet away.
 
 \
 
-"You shall <u>never</u> wash my feet!"
+"You shall _never_ wash my feet!"
 
 「你永遠不會洗我的腳！」
 
@@ -196,7 +196,7 @@ Peter was shocked at this statement. _No part with Jesus?!_
 
 \
 
-Now <u>that</u> was <u>truly</u> unthinkable.
+Now _that_ was _truly_ unthinkable.
 
 現在這確實是不可想象的。
 
@@ -314,7 +314,7 @@ And then he would have truly earned his precious reward!
 \
 \
 
-*Based on John 13:1-11.*
+Based on John 13:1-11.
 
 基於約翰福音13：1-11。
 
