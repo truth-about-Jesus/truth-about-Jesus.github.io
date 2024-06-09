@@ -314,7 +314,7 @@ And then he would have truly earned his precious reward!
 \
 \
 
-Based on John 13:1-11.
+*Based on John 13:1-11.*
 
 基於約翰福音13：1-11。
 
