@@ -1,6 +1,9 @@
 ---
-date: 
+date: 2024-06-09 8:01
 title: 8 - Jesus prepares  耶穌準備
+description: Jesus gets ready for a terrible ordeal  耶穌準備迎接可怕的考驗
+tags: Jesus, prayer, agony, Gethsemane, God, will, surrender, Peter, James, John
+translateLink: jesusprepares
 ---
 
 By now it was late, and they were all full of roast lamb and flatbread, dipping sauce and wine, yet Jesus kept leading them onward. 
