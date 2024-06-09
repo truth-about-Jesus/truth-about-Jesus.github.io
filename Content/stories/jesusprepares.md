@@ -299,7 +299,7 @@ Then, as a group of men carrying torches and weapons approached, He shook them a
 \
 \
 
-Based on Matthew 26:36-45.
+*Based on Matthew 26:36-45.*
 
 基於馬太福音26:36-45。
 

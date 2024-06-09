@@ -29,7 +29,7 @@ One day, a Very Important Person -- the synagogue leader -- with an Extremely Ur
 \
 \
 
-Meanwhile, at the same time, a very *un*important person -- with no position or title or role, in the synagogue or anywhere else --
+Meanwhile, at the same time, a very <u>un</u>important person -- with no position or title or role, in the synagogue or anywhere else --
 
 與此同時，一個非常不重要的人——在猶太教堂或其他任何地方沒有職位、頭銜或角色——
 
@@ -88,7 +88,7 @@ So somehow she did it.
 
 \
 
-And she was! She knew right away inside her body that the unending flow of blood had finally... *finally* stopped!
+And she was! She knew right away inside her body that the unending flow of blood had finally... <u>finally</u> stopped!
 
 她是！ 她立即在體內知道，無休止的血液終於......終於停止了！
 
@@ -111,7 +111,7 @@ But her feelings of triumph and joy turned immediately to dread, because right a
 
 \
 
-His disciples were like, “How can You ask such a question, Jesus? *Everyone's* trying to touch You!”
+His disciples were like, “How can You ask such a question, Jesus? <u>Everyone's</u> trying to touch You!”
 
 他的門徒說：「耶穌，你怎麼能問這樣的問題？ 每個人都想碰你！」
 
@@ -135,7 +135,7 @@ She certainly hadn't meant to cause a scene...
 
 \
 
-How was she to know Jesus could even feel a touch *on the edge of His clothes?!*
+How was she to know Jesus could even feel a touch <u>on the edge of His clothes</u>?!
 
 她怎麼會知道耶穌甚至可以感覺到他衣服的邊緣被觸控了？！
 
@@ -349,19 +349,19 @@ At that moment a wave of grief rose and threatened to engulf Jairus completely. 
 \
 \
 
-Turning back, peering through a river of tears, he saw -- was he dreaming?! -- his daughter with her eyes open, colour returning, sitting -- *up...?!*
+Turning back, peering through a river of tears, he saw -- was he dreaming?! -- his daughter with her eyes open, colour returning, sitting -- <u>up</u>...?!
 
 回頭一看，淚流成河，他發現──他是在做夢嗎？ ——他的女兒睜開眼睛，臉色恢復，坐起來……？！
 
 \
 
-She hopped out of bed and ran quickly to her dumbfounded parents and they both hugged her so tightly that, after a while they *had* to believe it. 
+She hopped out of bed and ran quickly to her dumbfounded parents and they both hugged her so tightly that, after a while they <u>had</u> to believe it. 
 
 她從床上跳起來，飛快地跑向目瞪口呆的父母，他們緊緊地擁抱著她，過了一會兒，他們不得不相信了。
 
 \
 
-She was alive. *Alive!*
+She was alive. <u>Alive</u>!
 
 她還活著。 活！
 
