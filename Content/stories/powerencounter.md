@@ -48,7 +48,7 @@ So they were armed to the teeth.
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -89,7 +89,7 @@ Then he would leave Jerusalem and go live in... hmm -- maybe the Decapolis? -- a
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -124,7 +124,7 @@ As soon as the words were out of Jesus' mouth, the entire band of armed men -- J
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -141,7 +141,7 @@ He had been right. Earning these shekels would be a piece of cake. Jesus would e
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -164,7 +164,7 @@ not even, mused John in the midst of his awe, on the mountain with Moses and Eli
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -199,7 +199,7 @@ The captain nodded, realizing they had no hope of arresting this powerful young 
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -264,7 +264,7 @@ Jesus quickly retrieved Malchus' severed ear from the ground and replaced it on 
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -281,7 +281,7 @@ leaving Jesus alone.
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -292,4 +292,4 @@ leaving Jesus alone.
 
 \
 
-💠
+<center>💠</center>
