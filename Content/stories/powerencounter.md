@@ -154,7 +154,7 @@ Jesus eased off His power, allowing them all to get back up again as quickly as 
 
 "Who are you looking for?" He asked again, in measured tones. The Apostles thought they had never seen Him looking more majestic than He did at that moment --
 
-「你們都在找誰？」 他用謹慎的語氣再次問道。使徒們認為他們從未見過他比那一刻更威嚴——
+「你們都在找誰？」 他再次問道，語氣堅定。使徒們認為他們從未見過他比那一刻更威嚴——
 
 \
 
