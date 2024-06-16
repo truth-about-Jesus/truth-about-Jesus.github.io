@@ -55,7 +55,7 @@ So they were armed to the teeth.
 
 "The One whom i kiss is the one. Seize Him," he instructed the group calmly -- almost mechanically -- knowing they would not be able to hold Jesus any more than anyone else had. 
 
-“我親吻的人就是那個人。 抓住他，”他平靜地指示這群人——幾乎是機械的——知道他們比任何人都無法抓住耶穌。
+「我所親吻的就是那一位。抓住他，」他平靜地——幾乎是機械地——指示大家，知道他們無法比其他人更能抓住耶穌。
 
 \
 
@@ -73,13 +73,13 @@ He imagined the Chief Priests complaining to him later that they still did not h
 
 "I did my part," he imagined himself explaining patiently. 
 
-“我盡了自己的一份力量，”他想象自己耐心地解釋。
+「我盡了自己的一份力量，」他想象自己耐心地解釋。
 
 \
 
 "I led your men right to Him -- even singled Him out by kissing Him on the cheek. It was *your* men who bungled the arrest."
 
-“我把你的手下直接引向他——甚至透過親吻他的臉頰來挑出他。 是你的手下沒能逮捕他。”
+「我把你的手下直接引向他——甚至透過親吻他的臉頰來挑出他。 是你的手下沒能逮捕他。」
 
 \
 
@@ -102,19 +102,19 @@ As Judas led the band into the garden, they saw Jesus approaching, while the ele
 
 "Who are you looking for?" Jesus asked.
 
-“你們都在找誰？” 耶穌問道。
+「你們都在找誰？」 耶穌問道。
 
 \
 
 "Jesus of Nazareth!" growled the captain. 
 
-“拿撒勒的耶穌！” 船長相當激烈地說。
+「拿撒勒的耶穌！」 船長相當激烈地說。
 
 \
 
 "I am He," replied Jesus firmly.
 
-“我就是他，”耶穌堅定地回答。
+「我就是他，」耶穌堅定地回答。
 
 \
 
@@ -148,13 +148,13 @@ He had been right. Earning these shekels would be a piece of cake. Jesus would e
 
 Jesus eased off His power, allowing them all to get back up again as quickly as they could. Now they stood, gripping their weapons tightly, with fear in their eyes.
 
-耶穌放鬆了他的力量，讓他們儘快重新站起來。 現在他們站著，緊緊握著武器，眼裡忿忿地看著恐懼。
+耶穌放鬆了力氣，他們都盡快站了起來。現在他們站了起來，緊緊握著武器，眼神充滿了恐懼。
 
 \
 
 "Who are you looking for?" He asked again, in measured tones. The Apostles thought they had never seen Him looking more majestic than He did at that moment --
 
-“你們都在找誰？” 他再次用有節制的語氣問道。 使徒們認為他們從未見過他看起來比當時更威嚴——
+「你們都在找誰？」 他用謹慎的語氣再次問道。使徒們認為他們從未見過他比那一刻更威嚴——
 
 \
 
@@ -171,19 +171,19 @@ not even, mused John in the midst of his awe, on the mountain with Moses and Eli
 
 "Jesus of Nazareth," came the answer once again, the voice this time seeming to tremble a little.
 
-“拿撒勒的耶穌，”答案再次出現，這次的聲音似乎有點顫抖。
+「拿撒勒的耶穌，」答案再次出現，這次的聲音似乎有點顫抖。
 
 \
 
 "I told you that i am He," Jesus responded. 
 
-“我告訴過你，我就是他，”耶穌回答道。
+「我告訴過你，我就是他，」耶穌回答道。
 
 \
 
 "If it's Me you want, then let these others go."
 
-“如果你想要的是我，那就讓其他人走吧。”
+「如果你想要的是我，那就讓其他人走吧。」
 
 \
 
@@ -195,7 +195,7 @@ The captain nodded, realizing they had no hope of arresting this powerful young 
 
 "Let the others go," he ordered his men, who jumped aside as most of the Apostles took the opportunity to escape...
 
-“讓其他人走吧，”他命令他的手下。 當大多數使徒抓住機會逃跑時，士兵們跳到一邊......
+「讓其他人走吧，」他命令他的手下。 當大多數使徒抓住機會逃跑時，士兵們跳到一邊......
 
 \
 
@@ -222,9 +222,9 @@ He slashed wildly toward the group, who stepped back, knowing they could easily 
 
 \
 
-One of them, a servant of the High Priest named Malchus, was not so lucky. Although he managed to sidestep Peter's amateurish slashing, he was not quite quick enough, and the sharpened sword somehow managed to slice off his ear. 
+One of them, a servant of the High Priest named Malchus, was not so lucky. Although he attempted to sidestep Peter's amateurish slashing, he was not quite quick enough, and the sharpened sword somehow managed to slice off his ear. 
 
-其中一個是大祭司的僕人，名叫馬爾丘斯，他並不那麼幸運。 雖然他設法避開了彼得的業餘砍刀，但他的速度還不夠快，那把鋒利的劍不知何故設法割斷了他的耳朵。
+其中一位，大祭司馬爾庫斯的僕人，就沒有那麼幸運了。儘管他試圖避開彼得那業餘的砍擊，但他的速度不夠快，鋒利的劍不知怎的就割下了他的耳朵。
 
 \
 
@@ -236,13 +236,13 @@ Before Malchus could even react, Jesus was standing between him and Peter.
 
 "Put your sword away!" Jesus looked at Peter sternly. 
 
-“把你的劍收起來！” 耶穌嚴厲地看著彼得。
+「把你的劍收起來！」 耶穌嚴厲地看著彼得。
 
 \
 
 "Shall i not drink the cup the Father has given Me?"
 
-“我難道不喝父親給我的杯子嗎？”
+「我難道不喝父親給我的杯子嗎？」
 
 \
 
