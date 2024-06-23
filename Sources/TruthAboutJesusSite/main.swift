@@ -44,25 +44,26 @@ struct TruthAboutJesusSite: Website {
 // This will generate your website using the built-in Foundation theme:
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
 
-var home: String = ""
-if #available(macOS 13.0, *) {
-    home = FileManager.default.homeDirectoryForCurrentUser.path()
-} else {
-    home = FileManager.default.homeDirectoryForCurrentUser.path
-}
-print(home)
-
-let originPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/Output"
-print(originPath)
-let targetPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/docs"
-print(targetPath)
-do {
-    try FileManager.default.removeItem(atPath: targetPath)
-    try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
-    print("Output folder copied to docs folder successfully!")
-} catch {
-    print("there was an error copying the Output folder to the docs folder")
-}
+print("** TO DO: Delete docs, rename Output to docs. **")
+//var home: String = ""
+//if #available(macOS 13.0, *) {
+//    home = FileManager.default.homeDirectoryForCurrentUser.path()
+//} else {
+//    home = FileManager.default.homeDirectoryForCurrentUser.path
+//}
+//print(home)
+//
+//let originPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/Output"
+//print(originPath)
+//let targetPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/docs"
+//print(targetPath)
+//do {
+//    try FileManager.default.removeItem(atPath: targetPath)
+//    try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
+//    print("Output folder copied to docs folder successfully!")
+//} catch {
+//    print("there was an error copying the Output folder to the docs folder")
+//}
 
 
 extension String {
