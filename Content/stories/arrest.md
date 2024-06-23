@@ -1,6 +1,6 @@
 ---
 date: 2024-06-23 8:23
-title: # 10 - Arrest  逮捕
+title: 10 - Arrest  逮捕
 description: Jesus surrenders to the authorities  耶穌向當局投降
 tags: Jesus, arrest, surrender, Malchus, Judas Iscariot, Peter, Chief Priest
 translateLink: arrest
@@ -147,7 +147,7 @@ Clearly, Jesus had *thwarted* His own rescue -- it boggled the mind!
 
 \
 
-One almost had to think Jesus *meant* the negative, defeatist things He'd been saying lately... but *that* was impossible, for Peter *knew*, beyond the shadow of a doubt, that Jesus was the *Messiah*, the *Prophet Moses had spoken of*, the *Son of God!*
+One almost had to think Jesus *meant* the negative, defeatist things He'd been saying lately... but *that* was impossible, for Peter *knew*, beyond the shadow of a doubt, that Jesus was the Messiah, the Prophet Moses had spoken of, the Son of God!
 
 人們幾乎不得不認為耶穌的意思是他最近一直在說的消極的、失敗主義的話......但這是不可能的，因為彼得毫無疑問地知道，耶穌是彌賽亞，先知摩西所說的，上帝的兒子！
 
