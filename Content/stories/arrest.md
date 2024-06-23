@@ -55,7 +55,7 @@ The other servants exclaimed in surprise at his bloody face.
 
 "No," Malchus returned shortly.
 
-「不，」馬爾丘斯嚴厲地回答。
+「不，」馬爾丘斯簡短地回答。
 
 \
 
