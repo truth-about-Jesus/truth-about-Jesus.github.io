@@ -52,10 +52,9 @@ if #available(macOS 13.0, *) {
 }
 print(home)
 
-let originPath =
-home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/Output"
+let originPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/Output"
 print(originPath)
-let targetPath = home + "Library/Mobile Documents/com~apple~CloudDocs/Websites/truth-about-Jesus.github.io/docs"
+let targetPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/docs"
 print(targetPath)
 do {
     try FileManager.default.removeItem(atPath: targetPath)
