@@ -47,7 +47,7 @@ Caiaphas, who was Chief Priest that year, sighed. He needed the Sanhedrin -- the
 
 \
 
-In fact, thought Caiaphas, it would be quite the coup to get Pilate himself to execute Jesus -- publicly -- through the most horrendous means: a Roman crucifixion.
+In *fact,* thought Caiaphas, it would be *quite* the coup to get Pilate *himself* to execute Jesus -- *publicly* -- through the most horrendous means: a Roman crucifixion.
 
 事實上，該亞法認為，讓彼拉多自己透過最可怕的手段公開處決耶穌——這將是一場政變：羅馬釘十字架。
 
