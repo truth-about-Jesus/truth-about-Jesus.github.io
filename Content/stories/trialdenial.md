@@ -22,6 +22,8 @@ He'd quickly squelched that notion.
 
 他很快就壓制住了她的想法。
 
+他很快就否定了她的想法。
+
 \
 
 Somewhere in the distance, a rooster crowed. 
@@ -178,7 +180,7 @@ Peter paused mid-sentence, staring at the man who had just spoken, a stranger to
 
 Terrified, Peter began to curse and swear and bluster, desperately trying to convince those around him that he had never known  -- let alone followed -- His beloved Lord and Master. 
 
-彼得嚇得開始咒罵、咒罵和咆哮，拼命地試圖說服他周圍的人，他從未知道——更不用說跟隨——他心愛的主和主人了。
+彼得嚇得開始咒罵和咆哮，拼命地試圖說服他周圍的人，他從未知道——更不用說跟隨——他心愛的主和主人了。
 
 \
 
