@@ -20,8 +20,6 @@ There'd been an anxious moment with the doorkeeper, who'd seemed to know John, w
 
 He'd quickly squelched that notion.
 
-他很快就壓制住了她的想法。
-
 他很快就否定了她的想法。
 
 \
