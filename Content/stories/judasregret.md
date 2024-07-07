@@ -50,7 +50,7 @@ When Judas found out Jesus was to be handed over to the Romans to suffer public 
 
 the stream surged into a raging river.
 
-溪流湧入一條汹湧的河流。
+小溪變成了洶湧的河流。
 
 \
 
@@ -61,7 +61,7 @@ the stream surged into a raging river.
 
 His unprotected conscience now flooded with the realization of the evil and injustice he had set in motion, Judas Iscariot rushed up the stone steps to the chamber where the Sanhedrin had so recently sat.
 
-他不受保護的良心現在充斥著他發動的邪惡和不公正，加略人猶大衝上石階，來到公會最近坐過的房間。
+他毫無保護的良心現在充滿了對他所引發的邪惡和不公正的認識，加略人猶大衝上石階，來到公會最近坐過的房間。
 
 \
 
