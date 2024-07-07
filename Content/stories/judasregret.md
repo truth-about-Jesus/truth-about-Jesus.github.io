@@ -14,13 +14,13 @@ Judas Iscariot was shocked.
 
 He had been with those awaiting the outcome of Jesus' trial -- secretly anticipating His miraculous escape -- when he'd heard the uproar of the Council condemning Jesus to death. 
 
-當他聽到理事會判處耶穌死刑的哝聲時，他一直和那些等待耶穌審判結果的人在一起——偷偷地期待著他的奇蹟般的逃跑。
+當他聽到理事會判處耶穌死刑的喧囂聲時，他一直和那些等待耶穌審判結果的人在一起——偷偷地期待著他的奇蹟般的逃跑。
 
 \
 
 At that moment the first twinges of regret began to filter through the wall of self-justification that protected his conscience.
 
-就在那一刻，最初的遺憾開始滲透到保護他良心的自我辯護之牆。
+在那一刻，第一滴悔恨開始透過保護他良心的自我辯解之牆滲透進來。
 
 \
 
