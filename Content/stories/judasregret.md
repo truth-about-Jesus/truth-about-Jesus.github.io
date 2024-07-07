@@ -83,15 +83,15 @@ Before Caiaphas could utter a word, Judas hurled the now hated bag of Tyrian she
 
 \
 
-"I have sinned!" he cried, his face contorted with uncontrollable guilt. 
+*"I have sinned!"* he cried, his face contorted with uncontrollable guilt. 
 
-“我犯了罪！” 他哭了，臉上扭曲著無法控制的內疚。
+「我犯罪了！」 他哭了，臉上扭曲著無法控制的內疚。
 
 \
 
-"I have betrayed innocent blood!"
+*"I have betrayed innocent blood!"*
 
-我背叛了無辜的鮮血！
+「我背叛了無辜的鮮血！」
 
 \
 
@@ -114,13 +114,13 @@ This foolish young man had served his purpose. And Caiaphas was in a rush to fin
 
 "What is that to us?" he scowled impatiently. 
 
-那對我們來說是什麼？ 他不耐煩地皺著眉頭。
+「那對我們來說是什麼？」 他不耐煩地皺著眉頭。
 
 \
 
 "See to it yourself!"
 
-“你自己處理吧！”
+「你自己處理吧！」
 
 \
 
@@ -166,7 +166,7 @@ as a burial place for foreigners...
 
 the "Field of Blood."
 
-“血場”。
+「血場」。
 
 \
 
