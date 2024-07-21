@@ -85,7 +85,7 @@ She had grown pale and withdrawn as the days and months had passed, missing the 
 
 \
 
-Although... of late she had shown interest in the stories circulating about that young Jewish rabbi from Nazareth -- the one who had been making such a splash in Judea. 
+Although... of late she had shown interest in the stories circulating about that young Jewish rabbi from Nazareth -- the one who had been making such a splash in the region. 
 
 儘管……最近她對流傳的關於那位來自拿撒勒的年輕猶太拉比的故事表現出了興趣——這位拉比在該地區引起了轟動。
 
