@@ -30,6 +30,15 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
             .body {
                 SiteHeader(context: context, selectedSelectionID: nil)
                 Wrapper {
+                    Paragraph {
+                        Text(translateSymbol)
+                        Link("Translate this website with Google", url: TruthAboutJesusSite.TranslateInfo.translateToEnglish)
+                    }
+                    Paragraph {
+                        Text(translateSymbol)
+                        Link("用谷歌翻譯這個網站", url: TruthAboutJesusSite.TranslateInfo.translateToChinese)
+                    }
+
                     H1(index.title)
                         .class("nobreak")
                     Paragraph {
