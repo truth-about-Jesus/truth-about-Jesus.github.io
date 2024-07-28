@@ -79,7 +79,7 @@ They needed to be replaced by a faith grounded in truth --
 
 before Peter could become the "rock" Jesus had prophesied. 
 
-在彼得成為耶穌預言的“岩石”之前。
+在彼得成為耶穌預言的「岩石」之前。
 
 \
 
