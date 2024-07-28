@@ -20,7 +20,7 @@ Even though it was customary to actually enter the judgement hall in order to re
 
 Every so often, one of the band cursed at the prisoner, or shoved Him, as if trying to re-emphasize His condemned status. 
 
-每隔一段時間，其中一個樂隊就會咒罵囚犯，或推他，好像試圖重新強調他的被定罪地位。
+每隔一段時間，就會有一名武裝人員咒罵囚犯，或推擠他，彷彿試圖再次強調他受譴責的地位。
 
 \
 
@@ -38,7 +38,7 @@ It didn't matter.
 
 The purpose for which the display of power had been given was now accomplished. 
 
-賦予權力展示的目的現在已經實現了。
+展示力量的目的現在已經達到了。
 
 \
 
@@ -79,7 +79,7 @@ They needed to be replaced by a faith grounded in truth --
 
 before Peter could become the "rock" Jesus had prophesied. 
 
-在彼得成為耶穌預言的「岩石」之前。
+在彼得成為耶穌預言中的「磐石」之前。
 
 \
 
@@ -90,7 +90,7 @@ before Peter could become the "rock" Jesus had prophesied.
 
 Judas Iscariot had been there, also, but Jesus knew -- had known from the very beginning -- that he was not, and never could be, truly His disciple. 
 
-加略人猶大也在那裡，但耶穌從一開始就知道，他不是，也永遠不可能成為真正的門徒。
+加略人猶大也曾在大祭司的大廳裡，但耶穌知道──從一開始就知道──他不是、也永遠不可能成為他真正的門徒。
 
 \
 
