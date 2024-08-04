@@ -3,7 +3,7 @@ date: 2024-08-04 8:12
 title: 15 - Before Pilate  站在彼拉多面前
 description: Jesus is questioned by the Roman governor  耶穌受到羅馬總督的詢問
 tags: Jesus, trial, Pilate, Roman, governor, Caiaphas, Jew, accusation
-translateLink: beforepilate.md
+translateLink: beforepilate
 ---
 
 Caiaphas waited impatiently as Pilate took his time settling himself on the judgement seat.
