@@ -79,7 +79,7 @@ At last, Pilate looked at him, with an impassive expression on his face.
 
 "I find no fault in Him."
 
-「我發現他沒有錯。」
+「我發現他是無罪的。」
 
 \
 
@@ -108,7 +108,7 @@ Caiaphas gaped. In all the planning and busyness, he had forgotten about the Pas
 
 He sensed the opportunity to be finally rid of the troublesome young Galilean -- slipping from his grasp.
 
-他感覺到有機會最終擺脫那個麻煩的年輕加利利人——從他的掌握中滑落。
+他感覺到了一個機會，可以最終擺脫那個造成如此多麻煩的年輕加利利人——從他的掌握中溜走。
 
 \
 
@@ -119,13 +119,13 @@ He sensed the opportunity to be finally rid of the troublesome young Galilean --
 
 The only other Hebrew prisoner Pilate held who could be released was Barabbas, a violent rebel who had murdered a Roman soldier in the recent uprising.
 
-唯一能被釋放的希伯來囚犯彼拉多是巴拉巴，一個暴力叛亂分子，在最近的起義中謀殺了一名羅馬士兵。
+除了耶穌之外，唯一能夠被彼拉多釋放的希伯來人是巴拉巴，他是一名暴力叛亂者，在最近的一次起義中謀殺了一名羅馬士兵。
 
 \
 
 Caiaphas knew releasing such a man would be completely against his primary objective of preserving peace with Rome, but he felt he had no choice. 
 
-該亞法知道釋放這樣一個人將完全違背他與羅馬維持和平的首要目標，但他覺得自己別無選擇。
+該亞法知道釋放這樣一個人將違背他與羅馬維持和平的首要目​​標，但他覺得自己別無選擇。
 
 \
 
