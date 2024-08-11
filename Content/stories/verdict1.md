@@ -125,7 +125,7 @@ The only other Hebrew prisoner Pilate held who could be released was Barabbas, a
 
 Caiaphas knew releasing such a man would be completely against his primary objective of preserving peace with Rome, but he felt he had no choice. 
 
-該亞法知道釋放這樣一個人將違背他與羅馬維持和平的首要目​​標，但他覺得自己別無選擇。
+該亞法知道釋放這樣一個人並不能推進他與羅馬維持和平的首要目​​標，但他覺得自己別無選擇。
 
 \
 
