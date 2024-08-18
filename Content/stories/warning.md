@@ -52,9 +52,9 @@ Without realizing it, Pilate crushed the note in his big, rough hand.
 \
 \
 
-"Yes, your Lordship?" Caiaphas' voice broke through the unexpected turbulence in Pilate's thoughts. "I apologize for the delay."
+"Yes, your Lordship?" Caiaphas' voice broke through the turbulence in Pilate's thoughts. "I apologize for the delay."
 
-“是的，您的大人？” 該亞法的聲音打破了彼拉多思想中意想不到的動盪。 “我為耽誤而道歉。”
+「是的，您的大人？」 該亞法的聲音打破了彼拉多思想的動盪。「我為耽誤而道歉。」
 
 \
 
@@ -78,7 +78,7 @@ He rose to look sternly down at the people, hoping to persuade or intimidate the
 
 "Whom do you want me to release to you today: Jesus? or -- *Barabbas?"*
 
-“你今天想讓我把誰釋放給你：耶穌？ 還是——巴拉巴？”
+「你今天想讓我把誰釋放給你：耶穌？ 還是——巴拉巴？」
 
 \
 
@@ -95,13 +95,13 @@ He ground out that last name rather ferociously, hoping to make his own preferen
 
 Instantly a man's voice cried out from the back of the crowd, *"Barabbas!* Give us Barabbas!"
 
-立刻，一個男人的聲音從人群後面喊道：“巴拉巴！ 給我們巴拉巴！”
+立刻，一個男人的聲音從人群後面喊道：「巴拉巴！ 給我們巴拉巴！」
 
 \
 
-A throng of other voices quickly joined in, until soon it seemed as if the entire world was chanting, "Barabbas! Barabbas! *Barabbas!"*
+A throng of other voices quickly joined in, until soon it seemed as if the whole world was chanting, "Barabbas! Barabbas! *Barabbas!"*
 
-一大群其他聲音迅速加入，直到不久，整個世界似乎都在高呼：“巴拉巴！ 巴拉巴！ 巴拉巴！”
+一大群其他聲音迅速加入，直到不久，整個世界似乎都在高呼：「巴拉巴！ 巴拉巴！ 巴拉巴！」
 
 \
 
