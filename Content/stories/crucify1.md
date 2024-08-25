@@ -20,7 +20,7 @@ Pilate held up a stern hand, then waited as the last echoes of *"Barabbas!"* die
 
 Immediately the man at the back cried out first once again.
 
-後面的人立刻又先哭了起來。
+隨即，人群最後面的男子率先大喊。
 
 \
 
