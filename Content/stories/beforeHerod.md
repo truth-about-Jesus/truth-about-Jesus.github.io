@@ -1,5 +1,5 @@
 ---
-date: 2024-09-08
+date: 2024-09-08 10:39
 title: 20 - Before Herod  站在希律面前
 description: King Herod questions Jesus  希律王質問耶穌
 tags: Herod, king, Jesus, question, interrogate, royal, robe, mock
@@ -14,7 +14,7 @@ Jesus waited patiently as Herod looked Him over, declared Him *not* John the Bap
 
 He knew He was not to say a word. 
 
-他知道他不應該說一句話。
+耶穌知道他不應該說一句話。
 
 \
 
