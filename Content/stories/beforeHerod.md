@@ -8,7 +8,7 @@ translateLink: beforeHerod
 
 Jesus waited patiently as Herod looked Him over, declared Him *not* John the Baptist risen from the dead after all, requested a miraculous sign, peppered Him with questions, and paused to hear the false accusations the chief priests interjected every chance they got. 
 
-耶穌耐心地等待著，希律審視著他，宣稱他根本不是從死裡復活的施洗者約翰，請求神蹟，向他提出了很多問題，並停下來聽大祭司一有機會插話的虛假指控。
+耶穌耐心地等待著，希律審視著他，宣稱他畢竟不是從死裡復活的施洗者約翰，請求神蹟，向他提出了很多問題，並停下來聽大祭司一有機會插話的虛假指控。
 
 \
 
