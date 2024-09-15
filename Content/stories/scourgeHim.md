@@ -8,23 +8,23 @@ translateLink: scourgeHim
 
 When Jesus arrived back at the governor's judgement hall, flanked by the Roman guard detail and trailed by His accusers, Pilate sighed. 
 
-當耶穌回到總督的法庭時，彼拉多嘆了口氣，耶穌被羅馬衛兵包圍，原告尾隨其後。
+當耶穌回到總督的法庭時，耶穌被羅馬衛兵包圍，控告他的人跟在他身後。彼拉多嘆了口氣。
 
 \
 
 He'd enjoyed the brief moment of respite from one of the biggest headaches he'd ever had to deal with. 
 
-他享受著短暫的喘息時刻，這是他不得不處理的最大頭痛之一。
+這種情況是彼拉多經歷過的最麻煩的情況之一。他短暫的休息結束了。
 
 \
 
 It wasn't every day that his wife actually took an interest in his work -- let alone spoke up for a prisoner under his judgement. 
 
-他的妻子並非每天都對他的工作感興趣——更不用說根據他的判斷為囚犯說話了。
+他的妻子並不是每天都對他的工作感興趣，更不用說為受審的囚犯說話了。
 
 \
 
-In fact -- Sophia had *never* shown any interest in his work -- until now. 
+In fact -- Sophia had *never* shown *any* interest in his work -- until now. 
 
 事實上——索菲亞從未對他的工作表現出任何興趣——直到現在。
 
@@ -55,13 +55,13 @@ While Jesus had been gone, Pilate had come to the conclusion that -- for whateve
 
 Hoping to defuse the mob's anger by meting out to Jesus a lesser punishment -- yet still one horrific enough to satisfy their anger --
 
-希望透過對耶穌進行較輕的懲罰來平息暴徒的憤怒——但仍然足以滿足他們的憤怒——
+他希望透過對耶穌施加較輕的懲罰來安撫暴徒——雖然懲罰仍然可怕，足以平息他們的憤怒——
 
 \
 
 at the same time, hoping to satisfy his wife by not actually executing Jesus, he spoke.
 
-同時，他希望透過不實際處決耶穌來讓妻子滿意，於是他發表了演說。
+同時，他希望透過不實際處決耶穌來讓妻子滿意。彼拉多講話了。
 
 \
 
@@ -84,19 +84,21 @@ Jesus winced inside as He heard the words.
 
 He was not looking forward to this next part of His and His Father's plan. 
 
-他並不期待他和他父親計劃的下一部分。
+他知道他不會享受他與天父一起計劃的下一部分。
 
 \
 
 It was one thing to draw up blueprints for an ingenious rescue in the comfort and convenience of Heaven, surrounded by thousands of angels just waiting to do One's bidding. 
 
-在天堂的舒適和便利中為巧妙的救援繪製藍圖是一回事，周圍是成千上萬的天使，他們只是等待服從一個人的命令。
+在天堂的舒適和便利中為巧妙的救援繪製藍圖是一回事，周圍是成千上萬的天使，他們只是等待服從他的命令。
 
 \
 
 It was wholly another to implement the plan on earth -- still surrounded by thousands of angels waiting to do His bidding, but now also by thousands of demons gloating and frothing at the mouth as they gleefully anticipated the torture of the hated Son of God.
 
 在地球上實施這個計劃是完全另一回事——仍然被成千上萬的天使包圍著等待執行他的命令，但現在也被成千上萬的惡魔幸災樂禍，嘴裡吐著泡沫，他們高興地期待著被憎恨的上帝之子的折磨。
+
+在地球上執行這個計劃完全是另一回事——仍然被成千上萬的天使包圍著等待執行他的命令，但現在也被成千上萬的惡魔包圍著，他們幸災樂禍，口吐白沫，因為他們很高興看到上帝的兒子受到折磨。
 
 \
 
@@ -117,7 +119,7 @@ He would obey His Father.
 \
 \
 
-Based on John 19:1; Hebrews 5:8.
+*Based on John 19:1; Hebrews 5:8.*
 
 基於約翰福音19:1；希伯來書5:8。
 
