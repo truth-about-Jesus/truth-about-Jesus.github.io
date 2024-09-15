@@ -47,7 +47,7 @@ He sighed again, knowing that Caiaphas, like a dog with a bone, would not let go
 \
 \
 
-While Jesus had been gone, Pilate had come to the conclusion that -- for whatever reason -- the mob of Jews outside seemed to feel strongly that Jesus must be punished. 
+While Jesus had been gone, Pilate had come to the conclusion that -- for whatever reason -- the mob of Jews outside seemed to feel strongly that Jesus *must* be punished. 
 
 在他短暫的休息期間，彼拉多得出的結論是，無論出於什麼原因，外面的猶太人似乎強烈地認為耶穌必須受到懲罰。
 
