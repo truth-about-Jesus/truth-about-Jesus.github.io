@@ -49,7 +49,7 @@ He sighed again, knowing that Caiaphas, like a dog with a bone, would not let go
 
 While Jesus had been gone, Pilate had come to the conclusion that -- for whatever reason -- the mob of Jews outside seemed to feel strongly that Jesus must be punished. 
 
-當耶穌離開時，彼拉多得出的結論是，無論出於什麼原因，外面的猶太人似乎強烈地認為耶穌必須受到懲罰。
+在他短暫的休息期間，彼拉多得出的結論是，無論出於什麼原因，外面的猶太人似乎強烈地認為耶穌必須受到懲罰。
 
 \
 
@@ -84,7 +84,7 @@ Jesus winced inside as He heard the words.
 
 He was not looking forward to this next part of His and His Father's plan. 
 
-他知道他不會享受他與天父一起計劃的下一部分。
+他知道他不會享受他與天父所製定的計劃的下一部分。
 
 \
 
@@ -95,8 +95,6 @@ It was one thing to draw up blueprints for an ingenious rescue in the comfort an
 \
 
 It was wholly another to implement the plan on earth -- still surrounded by thousands of angels waiting to do His bidding, but now also by thousands of demons gloating and frothing at the mouth as they gleefully anticipated the torture of the hated Son of God.
-
-在地球上實施這個計劃是完全另一回事——仍然被成千上萬的天使包圍著等待執行他的命令，但現在也被成千上萬的惡魔幸災樂禍，嘴裡吐著泡沫，他們高興地期待著被憎恨的上帝之子的折磨。
 
 在地球上執行這個計劃完全是另一回事——仍然被成千上萬的天使包圍著等待執行他的命令，但現在也被成千上萬的惡魔包圍著，他們幸災樂禍，口吐白沫，因為他們很高興看到上帝的兒子受到折磨。
 
