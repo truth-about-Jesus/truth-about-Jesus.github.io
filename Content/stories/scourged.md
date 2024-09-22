@@ -20,7 +20,7 @@ As the two lictors took up their positions, one on either side of the prostrate 
 
 *"Don't --"*
 
-「別一一｣
+「別——｣
 
 \
 
@@ -32,7 +32,7 @@ he spoke severely,
 
 "kill Him."
 
-「一一殺他。｣
+「殺他。｣
 
 \
 
@@ -49,13 +49,13 @@ Then he turned on his heel and walked away.
 
 The first lictor raised his *scorpio,* a multi-thonged leather whip embedded with shards of bone and metal.
 
-第一個士兵舉起了他的羅馬鞭子，鞭子上有許多帶子，上面嵌著鋒利的骨頭和金屬碎片。
+第一個士兵舉起了他的羅馬鞭子，鞭子上有許多皮帶，上面嵌著鋒利的骨頭和金屬碎片。
 
 \
 
 Jesus tried to brace Himself for the first blow, but He knew it wasn't truly possible, and He knew His Father, Who could do the impossible, was not going to soften any of it.
 
-耶穌試圖為第一次打擊做好準備，但他知道這是不可能的。他知道他的天父能夠完成不可能的事，但這次他不會幫助耶穌。
+耶穌試圖為第一次打擊做好準備，但他知道這是不可能的。他知道他的天父能夠完成不可能的事，但這次他不會透過讓事情變得更容易來幫助耶穌。
 
 \
 
@@ -95,7 +95,7 @@ After a while, He could not even do that.
 
 The lictor appeared in the doorway. He didn't enter, as he was still covered with bits of skin, blood, muscle and bone from his latest victim, the prisoner brought in by the Jews. He needed to wash.
 
-拿著鞭子的羅馬士兵出現在門口。他沒有進去，因為他身上仍然沾滿了最新受害者（猶太人帶來的囚犯）的皮膚、血液、肌肉和骨頭。他需要洗漱。
+拿著鞭子的羅馬士兵出現在門口。他沒有進去，因為他身上仍然沾滿了最新受害者（猶太人帶進來的囚犯）的小塊皮膚、血液、肌肉和骨頭。他需要洗漱。
 
 \
 
