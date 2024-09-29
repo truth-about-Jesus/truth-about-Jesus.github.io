@@ -18,7 +18,7 @@ Military service in this barbaric land was replete with stresses and frustration
 
 \
 
-One of the more enterprising and creative of the soldiers had actually taken young branches from a thorn tree and woven them together to form a fitting "crown" for this pretender to Rome's sovereignty in the region.
+One of the more enterprising and creative of the soldiers had *actually* taken young branches from a thorn tree and woven them together to form a fitting "crown" for this pretender to Rome's sovereignty in the region.
 
 一名更有進取心和創造力的士兵實際上從荊棘樹上取下樹枝並將它們編織在一起，為挑戰羅馬在該地區主權的覬覦者製作了一頂合適的「王冠」。
 
