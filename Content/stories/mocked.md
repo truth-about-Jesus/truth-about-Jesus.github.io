@@ -14,7 +14,7 @@ Meanwhile, Jesus' guard detail had gathered together the other soldiers under Pi
 
 Military service in this barbaric land was replete with stresses and frustrations, after all. 
 
-畢竟，在這片野蠻的土地上服兵役充滿了壓力和挫折感。
+畢竟，在這片蒙昧的土地上服兵役充滿了壓力和挫折感。
 
 \
 
@@ -131,7 +131,7 @@ and *certainly* not because He enjoyed it --
 
 in addition to the physical pain, He found it deeply hurtful to be so completely dishonoured and rejected by these tiny precious creatures which He Himself had carefully designed and created, and was even now sustaining with life and breath --
 
-除了身體上的痛苦之外，他發現自己被這些他自己精心設計和創造的微小珍貴生物完全羞辱和拒絕，在情感上受到了深深的傷害——這些生物是他自己精心設計和創造的，甚至現在還以生命和呼吸維持著——
+除了肉體上的痛苦，他內心也受到了深深的傷害，他發現自己被這些他精心設計和創造的微小而珍貴的生物徹底羞辱和拒絕。即使現在他仍用生命和呼吸維持他們——
 
 \
 
