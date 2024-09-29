@@ -67,7 +67,7 @@ Two others removed His bloodstained clothes and enrobed Him in a crimson militar
 
 Finally, a stiff reed was placed in His hand, to serve as a "royal sceptre."
 
-最後，一把堅硬的蘆覓被放在他的手中，作為「皇家權杖」。
+最後，一根堅硬的蘆葦被放在他的手中，作為「皇家權杖」。
 
 \
 
@@ -90,7 +90,7 @@ Each soldier, as he rose from his kneeling position, then made some gesture of c
 
 The first merely spit in Jesus' face, thereby drawing raucous howls of laughter from his compatriots.
 
-第一個只是向耶穌的臉上吐口水，從而引來他的同胞們發出嚎叫的笑聲。
+第一個只是向耶穌的臉上吐口水，從而引來他的同伴們發出嚎叫的笑聲。
 
 \
 
@@ -131,7 +131,7 @@ and *certainly* not because He enjoyed it --
 
 in addition to the physical pain, He found it deeply hurtful to be so completely dishonoured and rejected by these tiny precious creatures which He Himself had carefully designed and created, and was even now sustaining with life and breath --
 
-除了身體上的痛苦外，他還發現被這些他自己精心設計和創造的微小珍貴的生物完全羞辱和拒絕，甚至現在也用生命和呼吸維持著——
+除了身體上的痛苦之外，他發現自己被這些他自己精心設計和創造的微小珍貴生物完全羞辱和拒絕，在情感上受到了深深的傷害——這些生物是他自己精心設計和創造的，甚至現在還以生命和呼吸維持著——
 
 \
 
