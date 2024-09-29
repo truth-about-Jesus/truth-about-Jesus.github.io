@@ -3,7 +3,7 @@ date: 2024-09-29 9:24
 title: 23 - Mocked  嘲笑
 description: Soldiers make fun of Jesus  士兵們取笑耶穌
 tags: Jesus, Roman, soldier, mock, crown, thorns
-translateLink: mocked.md
+translateLink: mocked
 ---
 
 Meanwhile, Jesus' guard detail had gathered together the other soldiers under Pilate's command to "have a little fun" with the so-called "king of the Jews" -- and hopefully blow off some steam.
