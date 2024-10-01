@@ -22,8 +22,9 @@ struct TruthAboutJesusSite: Website {
     var description: String {
         "\(descriptionE) -- in traditional Chinese and English. \(descriptionT) -- 用繁體中文和英語。"
     }
+    static let copyright = "© 2024 Enid Ning, in collaboration with Jesus of Nazareth, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe."
     
-    let stylesheetPaths: [Path] = ["/styles.css?version=23"]
+    let stylesheetPaths: [Path] = ["/styles.css?version=24"]
     
     struct TranslateInfo {
         static let translateLink = "https://truth--about--jesus-github-io.translate.goog"

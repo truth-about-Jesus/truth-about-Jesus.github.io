@@ -287,6 +287,9 @@ private struct SiteFooter: Component {
             Paragraph {
                 Link("RSS feed 提要", url: "/feed.rss")
             }
+            Paragraph {
+                Text(TruthAboutJesusSite.copyright)
+            }
             .style("margin-bottom: 40px;")
         }
         .class("translate-link")
