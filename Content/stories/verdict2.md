@@ -72,7 +72,7 @@ When they'd started to remove the military cloak and crown of thorns while still
 
 Caiaphas' eyes widened with appreciation as he took in the bloodied prisoner's unsteady, weakened, mutilated appearance.
 
-當該亞法看到血淋淋的囚犯顫抖、虛弱、殘缺不全的樣子時，他高興地睜大了眼睛。
+當該亞法看到血淋淋的囚犯虛弱、殘缺不全、幾乎無法行走時，高興地睜開了眼睛。
 
 \
 
