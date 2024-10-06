@@ -20,7 +20,7 @@ When he saw what the soldiers had been doing to Jesus -- the crown of thorns and
 
 "Bring the prisoner. We're going outside again."
 
-“把囚犯帶來。 我們又要出去了。”
+「把囚犯帶來。 我們又要出去了。」
 
 \
 
@@ -37,7 +37,7 @@ Caiaphas looked up quickly as Pilate reappeared alone. He hoped for a quick reso
 
 "I am bringing Him out to you, to let you know that i find in Him not even one reason for execution." Pilate spoke powerfully, bringing the full force of the authority of Rome to bear.
 
-“我把他帶到你面前，讓你知道，我在他身上連一個處決的理由都沒有。” 彼拉多有力地說話，使羅馬的權威全力以赴。
+「我把他帶到你面前，讓你知道，我在他身上連一個處決的理由都沒有。」 彼拉多有力地說話，使羅馬的權威全力以赴。
 
 \
 
@@ -61,7 +61,7 @@ When they'd started to remove the military cloak and crown of thorns while still
 
 "Leave them," he'd said, hoping to satisfy the bloodthirsty mob of Jews outside with visual proof that Jesus had already been severely punished for His offenses against their religion. 
 
-“離開他們，”他說，希望用視覺證據來滿足外面嗜血的猶太人群眾，證明耶穌已經因冒犯他們的宗教而受到嚴厲懲罰。
+「離開他們，」他說，希望用視覺證據來滿足外面嗜血的猶太人群眾，證明耶穌已經因冒犯他們的宗教而受到嚴厲懲罰。
 
 \
 
