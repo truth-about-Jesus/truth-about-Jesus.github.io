@@ -1,9 +1,9 @@
 ---
 date: 2024-10-06 8:58
 title: 24 - Verdict 2  判決2
-description: Pilate offers a second verdict  彼拉多提出了第二次判決
+description: Pilate gives a second verdict  彼拉多提出了第二次判決
 tags: Pilate, Jesus, verdict, judgement, Caiaphas
-translateLink: verdict 2
+translateLink: verdict2
 ---
 
 Pilate re-entered the judgement hall, geared up for his next encounter with Caiaphas and the Jews.
