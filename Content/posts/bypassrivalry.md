@@ -6,7 +6,7 @@ tags: rivalry, competition, win, bypass, Jesus, heal, sick, unwell
 translateLink: bypassrivalry
 ---
 
-Have you ever found yourself in a situation in which it seemed impossible for you to get something you needed or wanted, because of another person -- or even many others?
+Have you ever found yourself in a situation in which it seemed impossible for you to get something you needed or wanted, because of another person -- or even *many* others?
 
 你是否曾經發現自己處於這樣一種境地，即因為另一個人——甚至許多其他人，你似乎無法得到你需要或想要的東西？
 
@@ -18,7 +18,7 @@ Sometimes there appears to be only a little -- or even only one -- of something 
 
 \
 
-resulting in competition, or what the Bible calls rivalry.
+resulting in competition, or what the Bible calls *rivalry*.
 
 導致競爭，或聖經所說的紛爭。
 
@@ -35,7 +35,7 @@ Some of us like to watch sports, in which teams -- or individuals -- compete aga
 
 \
 
-Only one team or competitor can win, but there are more than one, so this is competition, or rivalry -- as a form of entertainment.
+Only one team or competitor can win, but there are more than one, so this is competition, or *rivalry* -- as a form of entertainment.
 
 只有一個團隊或競爭對手可以獲勝，但不止一個，所以這就是競爭或紛爭——作為一種娛樂形式。
 
@@ -146,7 +146,7 @@ because only one person could win, in that situation of rivalry: the quickest.
 
 \
 
-And he was anything but.
+And *he* was anything but.
 
 他很慢。
 
@@ -198,7 +198,7 @@ was Jesus.
 \
 \
 
-Story from John 5:1-9.
+*Story from John 5:1-9.*
 
 約翰福音5:1-9的故事。
 
