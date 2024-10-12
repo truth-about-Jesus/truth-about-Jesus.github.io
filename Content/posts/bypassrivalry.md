@@ -99,7 +99,7 @@ But -- there was a problem.
 
 \
 
-This pool was surrounded by a huge crowd of people who were unwell -- including blind, lame and paralyzed folks. They were all waiting for the water to be stirred, in hopes they could be the first one in, to be healed.
+This pool was surrounded by a huge crowd of people who were unwell -- including blind, lame and paralyzed folks. They were all waiting for the water to be stirred, in hopes *they* could be the first one in, to be healed.
 
 這個水池周圍是一大群身體不適的人——包括盲人、瘸子和癱瘓的人。 他們都在等待水被攪動，希望他們能成為第一個進來的人，被治癒。
 
@@ -140,7 +140,7 @@ I guess he must have meant, "Yes, of course i want to get well, but -- no matter
 
 \
 
-because only one person could win, in that situation of rivalry: the quickest.
+because only *one* person could win, in that situation of rivalry: the quickest.
 
 因為在競爭的情況下，只有一個人可以獲勝：最快的。
 
