@@ -1,7 +1,7 @@
 ---
 date: 2024-10-20 8:31
 title: 25 - "Crucify!" 2  ｢釘十字架！｣ 2
-description: The people call for Jesus' crucifixion again and Pilate learns new information  人們呼籲耶穌再次被釘在十字架上，彼拉多瞭解了新資訊
+description: The people call for Jesus' crucifixion again and Pilate learns some startling information  人們呼籲耶穌再次被釘在十字架上，彼拉多得知了一些令人震驚的資訊
 tags: Jesus, Pilate, John, Mary, Mary Magdalene, crucify, Caiaphas, Son of God
 translateLink: crucify2
 ---
@@ -30,14 +30,14 @@ His eyes met hers for just a moment, and she knew in a flash that He endured the
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
 
-The crowd of Jews was silent for a moment as they took in the pitiable view of the man many had hoped might be the God-sent military Messiah who would free them from Rome's iron grasp.
+The crowd of Jews was silent for a moment as they took in the pitiable sight of the man many had hoped might be the God-sent military Messiah who would free them from Rome's iron grasp.
 
-當猶太人看到這個可憐的人時，他們沉默了一會兒，許多人希望這個人可能是上帝派來將他們從羅馬的鐵腕統治下解放出來的軍事彌賽亞。
+當猶太人看到這個貧窮的人時，他們沉默了一會兒。許多人先前曾希望這個人可能是上帝派來的軍事救世主，將他們從羅馬的鐵腕下解放出來。
 
 \
 
@@ -47,14 +47,14 @@ Then, "Crucify! *Crucify!"* rang out from every quarter, with greater ferocity t
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
 
 After trying in vain to quiet the crowd, Pilate turned to Caiaphas.
 
-在試圖讓人群安靜下來後，彼拉多轉向該亞法。
+彼拉多試圖讓人群安靜下來，但沒有成功，所以他轉向該亞法。
 
 \
 
@@ -76,7 +76,7 @@ He spoke distinctly, for all the mob to hear. "We have a law, and according to o
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -89,11 +89,11 @@ Son of *God?!*
 
 Pilate turned on his heel and re-entered the judgement hall. 
 
-彼拉多轉身，重新進入審判大廳。
+彼拉多猛地轉身，重新進入審判廳。
 
 \
 
-💠
+<center>💠</center>
 
 \
 \
@@ -104,4 +104,4 @@ Pilate turned on his heel and re-entered the judgement hall.
 
 \
 
-💠
+<center>💠</center>
