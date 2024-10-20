@@ -14,13 +14,13 @@ John's eyes widened with horror as His beloved Lord -- beaten, bloody, and bruis
 
 Beside him, Jesus' mother Mary shuddered and covered her face; without thinking, John put his arm around her protectively. 
 
-在他身邊，耶穌的母親瑪麗顫抖著，遮住了她的臉；約翰不假思索地用胳膊摟住她，保護著她。
+在他身邊，耶穌的母親瑪麗顫抖著，遮住了她的臉；約翰不假思索地用一隻手臂保護性地摟住了她。
 
 \
 
 Mary Magdalene stood beside her, speechless and gaping, a river of tears streaming from her eyes, as she saw her Master, Jesus -- the kindest and most compassionate man she had ever met -- struggling to walk, with cruel, sharp thorns shaped into the mockery of a crown forced down upon His head. 
 
-抹大拉的瑪麗站在她身邊，無言以對，目瞪口呆，眼淚從她的眼睛裡流了出來，她看到她的主人耶穌——她見過的最善良、最富有同情心的人——掙扎著走路，殘忍、殘酷而尖銳的荊棘被塑造成一頂嘲諷的王冠，強行戴在了他的頭上。
+抹大拉的瑪麗站在她身邊，無言以對，目瞪口呆，眼淚從她的眼睛裡流了出來，她看到她的主人耶穌——她見過的最善良、最有同情心的男人——掙扎著走路，殘酷而尖銳的荊棘被塑造成一頂嘲諷的王冠，強行戴在了他的頭上。
 
 \
 
