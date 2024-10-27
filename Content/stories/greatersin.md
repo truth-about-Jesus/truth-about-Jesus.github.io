@@ -24,7 +24,7 @@ Pilate sighed.
 
 \
 
-*This prisoner seemed to have a death wish!*
+This prisoner seemed to have a death wish!
 
 這個囚犯似乎有一個死亡願望！
 
