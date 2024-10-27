@@ -1,9 +1,9 @@
 ---
 date: 2024-10-27 8:30
-title: 26 - Interrogation 2: The greater sin  審訊2：更大的罪
+title: 26 - The greater sin  更大的罪
 description: Pilate questions Jesus again  彼拉多再次質問耶穌
 tags: Pilate, Jesus, interrogate, authority, sin
-translateLink: interrogate2
+translateLink: greatersin
 ---
 
 "Where are You from?" Pilate demanded abruptly, as soon as the guard detail had hustled Jesus back inside. He was angry with Caiaphas for withholding a crucial piece of evidence until now. 
@@ -30,9 +30,9 @@ Pilate sighed.
 
 \
 
-"You refuse to speak to me? Don't You know I have the authority to crucify or release You?"
+"You refuse to speak to me? Don't You know I have the authority to crucify -- or release You?"
 
-「你拒絕和我說話？ 難道你不知道我有權把你釘在十字架上或釋放你嗎？」
+「你拒絕和我說話？ 難道你不知道我有權把你釘在十字架上——或者釋放你嗎？」
 
 \
 
@@ -82,7 +82,7 @@ If only the situation were different -- he and Jesus could have been meeting as 
 \
 \
 
-Based on John 19:8-12.
+*Based on John 19:8-12.*
 
 基於約翰福音19:8-12。
 
