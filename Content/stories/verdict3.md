@@ -57,6 +57,8 @@ He gestured toward the doorway and, as the guard detail brought Jesus limping pa
 
 「聽著，我審問了他，發現他是無辜的。
 
+
+
 \
 
 "Nor have *any* of your accusations against Him been substantiated."
@@ -102,7 +104,7 @@ Now the Roman governor spoke with unmistakable finality.
 
 A voice rang out from the back of the mob.
 
-一個聲音從暴徒的後面響起。
+一道聲音從眾人背後響起。
 
 \
 
@@ -114,7 +116,7 @@ A voice rang out from the back of the mob.
 
 There were raucous shouts of agreement from the mob, who once again took up the cry, until it echoed and re-echoed like thunder: "Crucify! Crucify! *Crucify!"*
 
-暴民高喊同意，然後又開始喊叫，直到聲音雷鳴般地迴響：「釘在十字架上！釘在十字架上！釘在十字架上！」
+暴民高喊同意，然後又開始喊叫，直到迴聲雷鳴般地迴響：「釘在十字架上！釘在十字架上！釘在十字架上！」
 
 \
 
