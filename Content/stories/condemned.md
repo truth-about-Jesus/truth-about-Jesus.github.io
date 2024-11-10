@@ -20,13 +20,15 @@ As the increasingly uncontrolled cries of the crowd -- *"Crucify! Crucify!"* -- 
 
 The Roman governor had sincerely hoped to thwart Caiaphas this time, for the sake of his wife -- and justice -- but he knew when he was beaten. This frenzied mob was on the verge of rioting.
 
-為了他的妻子——和正義——羅馬總督真誠地希望這次挫敗該亞法，但他知道自己什麼時候被毆打。 這群瘋狂的暴徒正處於暴亂的邊緣。
+為了他的妻子——和正義——羅馬總督真誠地希望這次挫敗該亞法，但他知道自己什麼時候被打敗了。 這群瘋狂的暴徒正處於暴亂的邊緣。
+
+
 
 \
 
 He spoke curtly.
 
-他簡短地說了一句。
+他說話尖刻。
 
 \
 
