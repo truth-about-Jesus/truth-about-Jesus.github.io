@@ -2,7 +2,7 @@
 date: 2024-11-17 8:32
 title: A trustworthy hope  值得信賴的希望
 description: Don't give up; stand firm to the end.  不要放棄；堅持到底。
-tags: hope, justice, healing, evil, rescue, repent, trustworthy, faith, persevere
+tags: hope, God, Jesus, justice, healing, evil, rescue, repent, trustworthy, faith, persevere
 translateLink: trusthope
 ---
 
@@ -34,7 +34,7 @@ One day, God will bring real justice to this earth.
 
 \
 
-2 但向你們敬畏我名的人，伸冤的日頭必帶着醫治的翅膀升起。你們必跳躍如圈裏的肥犢。
+2 「但向你們敬畏我名的人，伸冤的日頭必帶着醫治的翅膀升起。你們必跳躍如圈裏的肥犢。
 
 3 你們必踐踏惡人；在我預備的日子，他們必如灰塵在你們腳掌之下。」這是全能之耶和華說的。
 
@@ -148,7 +148,8 @@ Jesus said that before the end comes, His followers will see terrible times:
 
 21 「弟兄要把弟兄送到死地，父親對兒女也是一樣。兒女要與父母為敵，害死他們。
 
-22 並且你們要為我的名被眾人恨惡，但那忍耐到底的，就必得救。
+22 並且你們要為我的名被眾人恨惡，但那忍耐到底的，就必得救。」
+
 
 \
 
@@ -180,7 +181,7 @@ Jesus said that before the end comes, His followers will see terrible times:
 
 \
 
-10 那時，有許多人被引犯罪，彼此陷害，彼此憎恨。
+10 「那時，有許多人被引犯罪，彼此陷害，彼此憎恨。
 
 11 且有好些假先知出現，迷惑許多人。
 
@@ -188,7 +189,7 @@ Jesus said that before the end comes, His followers will see terrible times:
 
 \
 
-13 但那忍耐到底的，必然得救。
+13 「但那忍耐到底的，必然得救。」
 
 \
 
