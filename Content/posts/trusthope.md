@@ -2,7 +2,7 @@
 date: 2024-11-17 8:32
 title: A trustworthy hope  值得信賴的希望
 description: Don't give up; stand firm to the end.  不要放棄；堅持到底。
-tags: hope, God, Jesus, justice, healing, evil, rescue, repent, trustworthy, faith, persevere
+tags: hope, justice, healing, evil, rescue, repent, trustworthy, faith, persevere
 translateLink: trusthope
 ---
 
