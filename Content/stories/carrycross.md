@@ -112,7 +112,7 @@ In fact, Simon had gotten the distinct impression that *this* condemned man -- b
 
 \
 
-Simon had been convinced, as practically all the Jews had been when they'd seen He'd been captured and scourged, that Jesus of Nazareth could not possibly be from God. 
+Simon had been convinced, as practically all the Jews had been, when they'd seen He'd been captured and scourged, that Jesus of Nazareth could not possibly be from God. 
 
 西蒙確信，就像幾乎所有的猶太人一樣，當他們看到他被俘虜和鞭打時，拿撒勒的耶穌不可能來自上帝。
 
