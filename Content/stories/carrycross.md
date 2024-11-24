@@ -20,7 +20,7 @@ When they placed the heavy, rough-hewn Cross on His bruised and lacerated back a
 
 Yet He knew this current pain, terrible though it was, could not *begin* to compare with the agony He would soon experience on the Cross. 
 
-然而，他知道目前的痛苦，儘管它很可怕，但無法與他很快在十字架上經歷的痛苦相比。
+然而，他知道目前的痛苦，儘管它很可怕，但無法與他很快在十字架上經歷的劇烈疼痛相比。
 
 \
 
@@ -43,7 +43,7 @@ It was becoming clear to the centurion in charge of executions that the condemne
 
 Jesus had already fallen five times and was currently pinned under the weight of His Cross, still struggling, but unable to get up. 
 
-耶穌已經跌倒了五次，目前被釘在十字架的重量下，仍在掙扎，但無法站起來。
+耶穌曾五次跌倒，目前在十字架的重壓下掙扎卻無法站起來。
 
 \
 
@@ -84,7 +84,7 @@ Simon of Cyrene turned back reluctantly.
 
 Having arrived at last, Simon lowered the heavy wooden Cross where the Roman centurion indicated, then escaped back into the obscurity of the crowd, grateful to be away.
 
-終於到達後，西蒙放下了羅馬百夫長所指的沉重的木製十字架，然後逃回人群的黑暗中，感謝離開。
+當他終於到達時，西蒙按照羅馬百夫長的指示放下沉重的木十字架，逃回人群的庇護所，慶幸自己能夠離開。
 
 \
 
@@ -108,7 +108,7 @@ This particular prisoner had been severely weakened -- yet He was neither despai
 
 In fact, Simon had gotten the distinct impression that *this* condemned man -- broken though He was in body -- felt *compassion*... for him... for the following crowd -- many of whom had called for His death -- and *even* for the Roman centurion overseeing His crucifixion!
 
-事實上，西蒙有一個清晰的印象，即這個被判刑的人感到同情——儘管他身體受傷......感到同情對他......以感到同情及跟隨的人群——其中許多人要求處死他——甚至對監督他被釘十字架的羅馬百夫長感到同情！
+事實上，西蒙有一個清晰的印象，即這個被判刑的人感到同情——儘管他身體受傷......同情對他......以同情及跟隨的人群——其中許多人要求處死他——甚至對監督他被釘十字架的羅馬百夫長同情！
 
 \
 
