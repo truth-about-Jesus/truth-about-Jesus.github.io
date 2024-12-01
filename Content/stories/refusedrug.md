@@ -14,7 +14,7 @@ There was still one thing to do before the actual crucifixion -- something atypi
 
 This unexpected intervention had come from higher up.
 
-這種意外的干預來自高層。
+這種意想不到的干預來自更高層。
 
 \
 
