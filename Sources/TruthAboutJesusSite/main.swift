@@ -42,7 +42,7 @@ struct TruthAboutJesusSite: Website {
 }
 
 // This will generate your website using the built-in Foundation theme:
-try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme)
+try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme, additionalSteps: [.sortItems(by: \.date, order: .ascending)])
 
 print("** TO DO: Delete docs, rename Output to docs. **")
 //var home: String = ""
