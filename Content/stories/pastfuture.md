@@ -8,7 +8,7 @@ translateLink: pastfuture
 
 The Father watched in agony as His Beloved Son, with whom He had created the universe and everything in it, submitted Himself fully to the cruel indignities of a Roman crucifixion.
 
-父親痛苦地看著他心愛的兒子，他與他一起創造了宇宙和其中的一切，他完全屈服於羅馬釘十字架的殘酷侮辱。
+天父痛苦地看著他心愛的兒子。他們一起創造了宇宙和其中的一切。現在，他的兒子允許羅馬人殘酷地羞辱他並將他釘死在十字架上。
 
 \
 
