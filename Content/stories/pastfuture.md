@@ -14,7 +14,7 @@ The Father watched in agony as His Beloved Son, with whom He had created the uni
 
 They had chosen this specific form of execution together, because it was, across all human history -- past, present and future -- the most diabolical combination of physical, emotional and mental suffering ever devised by the beloved and precious -- yet evil and doomed -- tiny human creatures.
 
-他們一起選擇了這種特定的處決形式，因為在整個人類歷史上——無論是過去還是現在，可愛而珍貴的——然而邪惡和注定的——微小的人類生物從未設計出一種更惡魔般的身體、情緒和精神痛苦的結合。
+他們共同選擇了這種特殊的執行方法。縱觀整個人類歷史——過去、現在和未來——釘十字架是有史以來最殘酷的身體、情感和精神痛苦的結合，這些痛苦是由可愛和珍貴的微小人類所設計的——但也是邪惡和注定的。
 
 \
 
@@ -60,7 +60,7 @@ But the signal never came.
 
 As the gleeful demons piled high on Him all the sins of the entire world -- past, present and future -- Jesus groaned in agony. 
 
-當歡樂的惡魔將整個世界的所有罪孽——過去、現在和未來——都堆積在他身上時，耶穌痛苦地呻吟著。
+當快樂的魔鬼將世上所有的罪孽——過去的、現在的和未來的——都堆在耶穌身上時，耶穌痛苦地呻吟著。
 
 \
 
