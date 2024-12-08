@@ -84,7 +84,7 @@ then hoisted Him high, pulling His bones out of joint, racking His entire frame 
 
 The Son of God was now naked and exposed and utterly dishonoured, for all the world to see. 
 
-上帝的兒子現在赤身裸體，暴露，完全不光彩，讓全世界都能看到。
+上帝的兒子現在赤身裸體，暴露，完全蒙羞，讓全世界都能看到。
 
 \
 
