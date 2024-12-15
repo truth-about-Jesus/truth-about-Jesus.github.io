@@ -147,12 +147,22 @@ Jesus told the Samaritan woman He met at a well:
 
 \
 
-John 4:23-24 (ESV)
+##### _John 4:23-24 (ESV)_
+
+###### \
+
 23 "But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.
+
 24 God is spirit, and those who worship him must worship in spirit and truth.”
 
-John 4:23-24 (Chinese NET (T))
+\
+
+##### _John 4:23-24 (Chinese NET (T))_
+
+###### \
+
 23 ｢不過時候將到，如今就是了，那真正拜父的，要用靈和真理拜他，因為父尋找這樣的人拜他。
+
 24 神是靈，所以拜他的必須用靈和真理拜他。」
 
 \
@@ -175,14 +185,26 @@ Jesus already knows.
 
 \
 
-John 2:23-25 (NIV)
+##### _John 2:23-25 (NIV)_
+
+###### \
+
 23 Now while he was in Jerusalem at the Passover Festival, many people saw the signs he was performing and believed in his name.
+
 24 But Jesus would not entrust himself to them, for he knew all people.
+
 25 He did not need any testimony about mankind, for he knew what was in each person.
 
-John 2:23-25 (Chinese NET (T))
+\
+
+##### _John 2:23-25 (Chinese NET (T))_
+
+###### \
+
 23 當耶穌在耶路撒冷過逾越節的時候，許多人因看見他所行的神蹟，就信了他的名。
+
 24 耶穌卻不將自己交託他們，因為他認識萬人；
+
 25 也用不着誰為人作見證，因他看透人心。
 
 \
@@ -198,10 +220,18 @@ So... what will Jesus do when we, who are destroyed on the inside, come to Him?
 
 \
 
-Matthew 12:20 (NIV)
+##### _Matthew 12:20 (NIV)_
+
+###### \
+
 20 A bruised reed he will not break, and a smoldering wick he will not snuff out, till he has brought justice through to victory.
 
-Matthew 12:20 (Chinese NET (T))
+\
+
+##### _Matthew 12:20 (Chinese NET (T))_
+
+###### \
+
 20 壓傷的蘆葦，他不折斷；將殘的燈火，他不吹滅；直至他使公理得勝。
 
 \
@@ -218,12 +248,22 @@ He says:
 
 \
 
-Matthew 5:3-4 (ESV)
+##### _Matthew 5:3-4 (ESV)_
+
+###### \
+
 3 “Blessed are the poor in spirit, for theirs is the kingdom of heaven.
+
 4 “Blessed are those who mourn, for they shall be comforted."
 
-Matthew 5:3-4 (Chinese NET (T))
+\
+
+##### _Matthew 5:3-4 (Chinese NET (T))_
+
+###### \
+
 3 「靈裏貧窮的人有福了，因為天國是屬於他們的。
+
 4 哀慟的人有福了，因為他們必得安慰。」
 
 \
@@ -234,10 +274,18 @@ But how?
 
 \
 
-John 6:51 (ESV)
+##### _John 6:51 (ESV)_
+
+###### \
+
 51 "I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”
 
-John 6:51 (Chinese NET (T))
+\
+
+##### _John 6:51 (Chinese NET (T))_
+
+###### \
+
 51 ｢我是從天上降下來生命的糧，人若吃這糧，就必永遠活着。我為世人生命所要賜的糧，就是我的肉。」
 
 \
@@ -260,10 +308,18 @@ as *food!*
 
 \
 
-John 6:35 (ESV)
+##### _John 6:35 (ESV)_
+
+###### \
+
 35 Jesus said to them, “I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."
 
-John 6:35 (Chinese NET (T))
+\
+
+##### _John 6:35 (Chinese NET (T))_
+
+###### \
+
 35 耶穌對他們說：「我就是生命的糧。到我這裏來的，永遠不餓；信我的，永遠不渴。」
 
 \
@@ -350,14 +406,26 @@ Himself.
 \
 \
 
-John 6:53-55 (NIV)
+##### _John 6:53-55 (NIV)_
+
+###### \
+
 53 Jesus said to them, "Very truly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you.
+
 54 Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up at the last day.
+
 55 For my flesh is real food and my blood is real drink."
 
-John 6:53-55 (Chinese NET (T))
+\
+
+##### _John 6:53-55 (Chinese NET (T))_
+
+###### \
+
 53 耶穌說：「我告訴你們嚴肅的真理，你們若不吃人子的肉，不喝人子的血，就沒有生命在你們裏面。
+
 54 吃我肉、喝我血的人才有永生，在末日我要叫他復活。
+
 55 我的肉是真的糧食，我的血是真的飲料。」
 
 \
