@@ -20,7 +20,7 @@ Where others have a healthy sense of self and well-being, we feel only a despera
 
 We have tried to fill it in various ways -- only, always, in the end, to be disappointed (and sometimes humiliated) because 
 
-我們試圖以各種方式填補它——只是，總是，最後，會感到失望（有時甚至羞辱），因為
+我們嘗試不同的方式來填補它 - 但總是以失望（有時甚至是感到羞辱）告終，因為
 
 \
 
@@ -44,7 +44,7 @@ We may even have come to the point where we've given up trying to fill the endle
 
 and yet it remains --
 
-然而它仍然--
+但它仍然存在——
 
 \
 
@@ -181,7 +181,7 @@ And the truth is:
 
 Jesus already knows.
 
-耶穌已經知道了。
+耶穌已經知道我們內心的想法。
 
 \
 
