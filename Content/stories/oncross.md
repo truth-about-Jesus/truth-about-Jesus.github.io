@@ -14,7 +14,7 @@ The Father watched and waited as His Son suffered in unspeakable agony for hours
 
 Michael and his legions of warrior angels were still alert and ready, but they were also starting to realize that Jesus was determined to complete this strange and horrifying mission, exactly as prophesied in the Holy Writings given to the humans. 
 
-邁克爾和他的戰士天使軍團仍然警覺和準備，但他們也開始意識到，耶穌決心完成這項奇怪而可怕的任務，正如《給人類的聖書》中預言的那樣。
+邁克爾和他的戰士天使軍團仍然警覺和準備，但他們也開始意識到，耶穌決心完成這項奇怪而可怕的任務，正如聖經中給予人類的預言。
 
 \
 
@@ -49,7 +49,7 @@ Heaven waited...
 
 as Roman soldiers divvied up Jesus' clothes among themselves, and gambled for His inner linen garment, woven all in one piece...
 
-當羅馬士兵將耶穌的衣服分在自己之間，並賭上他的內襯亞麻衣服，全部編織成一塊......
+當羅馬士兵將耶穌的衣服分開並押注在他的亞麻內衣上時，它被編織成一件...
 
 \
 
