@@ -14,7 +14,9 @@ translateLink: death
 
 Hearing Jesus' plea, one of the bystanders ran and dipped a sponge into a nearby stone jar of wine vinegar. Placing it on top of a reed, he held it up to the dying Man's lips.
 
-聽到耶穌的懇求，其中一個旁觀者跑來，把海綿浸在附近的酒醋石罐裡。 他把它放在蘆覦上，把它舉到垂死的人的嘴唇上。
+聽到耶穌的懇求，其中一個旁觀者跑過去，用一塊海綿蘸了附近一個裝有酒和醋的石罐。 他把它放在蘆覦上，把它舉到垂死的人的嘴唇上。
+
+
 
 \
 
@@ -125,7 +127,7 @@ Caiaphas turned slowly -- then gaped, dumbfounded.
 
 The beautiful linen veil separating the Holy Place from the Holy of Holies -- where the Ark of the Covenant had been kept in ancient times -- had been torn completely in two.
 
-將聖地與聖所（在古代儲存約櫃的地方）隔開的美麗亞麻面紗被完全撕成兩部分。
+美麗的亞麻幔子將聖室與至聖所隔開（在古代儲存約櫃的地方）隔開的美麗亞麻面紗被完全撕成兩部分。
 
 \
 
