@@ -1,9 +1,9 @@
 ---
 date: 2025-01-05 8:16
 title: 34 - Aftereffects  後遺症
-description: What happened after Jesus died  耶穌死後發生了什麼
+description: What happened after Jesus died  耶穌死後發生的麼事
 tags: Jesus, death, confirmation, spear
-translateLink: afterEffects
+translateLink: aftereffects
 ---
 
 When the last earth tremors had subsided and daylight was restored, many of the Jews, curious to see the outcome of the day's unusual events, returned to Golgotha.
