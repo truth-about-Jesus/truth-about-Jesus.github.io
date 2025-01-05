@@ -32,7 +32,7 @@ Jesus' mother Mary, together with young John and Mary Magdalene, remained at the
 
 Although the sight of Jesus' body hanging lifeless on the Cross pierced their hearts with unimaginable pain... 
 
-儘管看到耶穌的屍體毫無生命地掛在十字架上，他們的心被難以想象的痛苦刺穿了......
+儘管當他們看到耶穌掛在十字架上的屍體時，他們的心被難以想像的痛苦所刺痛......
 
 \
 
@@ -61,7 +61,7 @@ Caiaphas felt much better once the earthquake ended and daylight returned.
 
 The Chief Priest did not know if the false Messiah had expired yet, but he decided not to take any chances. 
 
-首席牧師不知道假彌賽亞是否已經過期，但他決定不冒險。
+首席祭司不知道假彌賽亞是否已經過期，但他決定不冒險。
 
 \
 
