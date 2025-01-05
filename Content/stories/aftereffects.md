@@ -24,7 +24,7 @@ Almost all of Jesus' chosen Apostles, fearful the bloodthirsty Jewish leaders mi
 
 \
 
-Jesus' mother Mary, together with young John and Mary Magdalene, remained at the Cross at a distance, devastated and grieving.
+Jesus' mother Mary, together with young John and Mary Magdalene, remained near the Cross at a distance, devastated and grieving.
 
 耶穌的母親瑪利亞，以及年輕的約翰和抹大拉的瑪利亞，仍然在十字架附近，但距離很遠，充滿了悲傷。
 
