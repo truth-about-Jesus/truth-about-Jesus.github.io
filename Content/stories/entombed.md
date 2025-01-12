@@ -14,7 +14,7 @@ John's eyes widened.
 
 "They're taking down His body."
 
-「他們正在拆掉他的屍體。」
+「他們正在把他的屍體從十字架上放下來。」
 
 \
 
@@ -38,7 +38,7 @@ After the Sabbath, they would return and anoint His body with aromatic spices an
 
 It was the last way they could care for their beloved Lord. 
 
-這是他們照顧他們心愛的主的最後方式。
+這是他們關懷敬愛的主的最後方式。
 
 \
 
@@ -73,7 +73,7 @@ But seeing how bravely, humbly, patiently -- even peacefully! -- Jesus had died.
 
 had infused Joseph with newfound faith -- much more than the preceding darkness and subsequent earthquake ever could have. 
 
-給約瑟夫注入了新的信仰——比之前的黑暗和隨後的地震所能擁有的要多得多。
+為約瑟夫注入了新的信仰。即使之前的黑暗和隨後的地震也無法為他帶來這樣的啟示。
 
 \
 
