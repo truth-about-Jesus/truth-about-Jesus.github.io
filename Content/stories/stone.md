@@ -88,7 +88,7 @@ As they arrived at the garden where Jesus' body lay entombed, the earth shook vi
 
 \
 
-*Another* earthquake! It was very strange.
+Another earthquake! It was very strange.
 
 又一場地震！ 這很奇怪。
 
