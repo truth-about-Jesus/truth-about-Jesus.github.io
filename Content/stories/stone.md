@@ -14,13 +14,13 @@ The two Marys -- Magdalene and Jesus' mom -- were up early, before dawn.
 
 Now that the Sabbath was past, they were intent on doing what should have been done earlier: anointing Jesus' body with aromatic ointments and spices.
 
-現在安息日已經過去，他們打算做早該做的事情：用芳香的軟膏和香料塗抹耶穌的身體。
+現在安息日已經過去，她們打算做早該做的事情：用芳香的軟膏和香料塗抹耶穌的身體。
 
 \
 
 They had not wanted to ask any of the men to accompany them, even though John in particular had been unfailingly kind. All were still devastated and grief-stricken by the appalling torture, crucifixion and death of their Lord.
 
-他們不想請任何人陪同他們，儘管約翰特別善良。 所有人都仍然被他們主的可怕的酷刑、釘十字架和死亡所摧毀和悲傷。
+儘管約翰特別善良，但她們不想邀請任何使徒陪同。所有人仍然對他們的主所遭受的可怕酷刑、釘十字架和死亡感到震驚和悲傷。
 
 \
 
@@ -73,7 +73,7 @@ Deep down, though, underneath the intense, unrelenting agony of losing her belov
 
 Mary had an unmistakable sense that, somehow, some way, God would provide.
 
-瑪麗強烈地感覺到上帝將會以某種方式幫助他們。
+瑪麗確信上帝將會以某種方式幫助她們。
 
 \
 
@@ -84,7 +84,7 @@ Mary had an unmistakable sense that, somehow, some way, God would provide.
 
 As they arrived at the garden where Jesus' body lay entombed, the earth shook violently, and they clutched at each other for support.
 
-當他們到達安葬耶穌遺體的花園時，大地劇烈震動，他們互相抓住以支撐自己。
+當她們到達安葬耶穌遺體的花園時，大地劇烈震動，她們互相抓住以支撐自己。
 
 \
 
@@ -96,13 +96,13 @@ Another earthquake! It was very strange.
 
 When the tremors ceased they ran the rest of the way to the tomb, stopping in amazement as it came into view. 
 
-震動停止後，他們一路跑向墳墓，當墳墓出現在眼前時，他們驚訝地停了下來。
+震動停止後，她們一路跑向墳墓，當墳墓出現在眼前時，她們驚訝地停了下來。
 
 \
 
 Their problem was solved.
 
-他們的問題得到了解決。
+她們的問題得到了解決。
 
 \
 
