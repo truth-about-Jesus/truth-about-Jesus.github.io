@@ -1,5 +1,3 @@
-# Stories 故事
-
 ---
 date: 2025-01-26 8:56
 title: 0 - Prologue  序言
@@ -7,6 +5,8 @@ description: ?  ?
 tags: Jesus, life, followers, why, reason, introduction 
 translateLink: prologue
 ---
+
+# Stories 故事
 
 Over two thousand years ago, a certain Man appeared on the human scene.
 
