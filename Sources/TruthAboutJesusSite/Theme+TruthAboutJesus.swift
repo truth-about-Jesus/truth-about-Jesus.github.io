@@ -243,11 +243,13 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
                 H1(Link(item.title.part1, url: item.path.absoluteString))
                 H1(Link(item.title.part2, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
-                let splitDescription = item.description.components(separatedBy: "  ")
-                Paragraph(splitDescription[0])
-                H6("&nbsp;")
-                Paragraph(splitDescription[1])
-                    .class("description")
+                if item.description != "?" {
+                    let splitDescription = item.description.components(separatedBy: "  ")
+                    Paragraph(splitDescription[0])
+                    H6("&nbsp;")
+                    Paragraph(splitDescription[1])
+                        .class("description")
+                }
             }
         }
         .class("item-list")
@@ -288,7 +290,7 @@ private struct SiteFooter: Component {
                 Link("RSS feed 提要", url: "/feed.rss")
             }
             Paragraph {
-                Text("© 2024 ")
+                Text("© 2024-2025 ")
                 Link("Enid Ning", url: "mailto: truth-about-jesus@proton.me")
                 Text(", in collaboration with Jesus of Nazareth, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe.")
             }
