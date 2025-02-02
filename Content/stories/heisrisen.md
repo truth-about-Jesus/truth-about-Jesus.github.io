@@ -43,7 +43,9 @@ Mary Magdalene trembled and looked down. *What could he possibly mean?*
 
 "Do not be afraid. You seek Jesus, who was crucified."
 
-｢不要害怕。 你尋求被釘在十字架上的耶穌。」
+｢不要害怕。 你正在尋找被釘十字架的耶穌。」
+
+
 
 \
 
