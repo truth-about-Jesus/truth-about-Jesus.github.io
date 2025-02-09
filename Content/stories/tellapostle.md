@@ -18,7 +18,7 @@ Rivers of tears obscured her vision, but she didn't care.
 
 \
 
-She had to tell the Apostles the terrible news: Jesus' body had been taken from the tomb!
+She had to tell the Apostles the terrible news: Jesus' body had been *taken* from the tomb!
 
 她不得不告訴使徒們這個可怕的訊息：耶穌的屍體被從墳墓裡帶走了！
 
@@ -41,13 +41,13 @@ What was there to say? They all knew they had failed Him: falling asleep while H
 
 \
 
-Peter sat apart from the others, knowing he had done far worse -- denying he even knew Jesus -- three times!
+Peter sat apart from the others, knowing he had done far worse -- denying he even *knew* Jesus -- *three times!*
 
 彼得和其他人分開坐著，知道自己做得更糟糕——否認他甚至認識耶穌——三次！
 
 \
 
-When the chips were down, he, Peter -- the "rock"! -- had been more like a soft, slippery mud -- giving way, and not supporting His beloved Master at all.
+When the chips were down, he, Peter -- the *"rock"!* -- had been more like a soft, slippery mud -- giving way, and not supporting His beloved Master at all.
 
 當困難來臨時，他，彼得——“岩石”！——更像是一片柔軟、滑溜溜的泥巴——讓路，根本不支援他心愛的主人。
 
@@ -58,9 +58,9 @@ When the chips were down, he, Peter -- the "rock"! -- had been more like a soft,
 \
 \
 
-"They -- what?!"
+"They -- *what?!"*
 
-“他們——什麼？！”
+「他們——什麼？！」
 
 \
 
@@ -72,13 +72,13 @@ John couldn't believe his ears.
 
 As Mary Magdalene tried again to relate the startling news about Jesus' body, Peter pushed past him. 
 
-當抹大拉的馬利亞再次試圖講述有關耶穌屍體的驚人消息時，彼得從他身邊擠了過去。
+當抹大拉的馬利亞再次試圖講述有關耶穌屍體的令人不安的消息時，彼得推開他們，從敞開的門出去。
 
 \
 
-"Let's go!"
+"Let's *go!"*
 
-“我們走吧！”
+「我們走吧！」
 
 \
 
@@ -123,7 +123,7 @@ He heaved a huge sigh.
 
 \
 
-As if things hadn't been horrible enough, now this had to happen.
+As if things hadn't been horrible enough, now *this* had to happen.
 
 好像事情還不夠糟糕，現在又發生了這件新事。
 
@@ -140,13 +140,13 @@ Mary, Jesus' mother, was making her way back to the house where the Apostles wer
 
 \
 
-The angel had given her and Mary Magdalene the most wonderful news. Her Son was alive!
+The angel had given her and Mary Magdalene the most wonderful news. Her Son was *alive!*
 
 天使給了她和抹大拉的瑪麗最美妙的訊息。 她的兒子還活著！
 
 \
 
-He had risen -- from death!
+He had risen -- from *death!*
 
 他從死裡復活了！
 
@@ -164,7 +164,7 @@ but --
 
 \
 
-He had raised others from death. Why shouldn't He Himself be raised?
+He had raised *others* from death. Why *shouldn't* He Himself be raised?
 
 他使其他人從死裡復活。 為什麼他自己不應該被撫養呢？
 
@@ -182,9 +182,9 @@ The angel had reminded them of what He'd told them in Galilee:
 
 \
 
-"It is necessary for the Son of Man to be betrayed into the hands of sinful men, to be crucified, and to rise again on the third day."
+"It is necessary for the Son of Man to be betrayed into the hands of sinful men, to be crucified, and to *rise again* on the third day."
 
-“人子必須被交在罪人手裡，被釘在十字架上，第三天復活。”
+「人子必須被交在罪人手裡，被釘在十字架上，第三天復活。」
 
 \
 
@@ -217,7 +217,7 @@ It was a joyous occasion, after all!
 \
 \
 
-Based on Matthew 28:1-8; Mark 16:1-7; Luke 24:1-12; and John 20:1-9.
+*Based on Matthew 28:1-8; Mark 16:1-7; Luke 24:1-12; and John 20:1-9.*
 
 基於馬太福音28:1-8；馬可福音16:1-7；路加福音24:1-12；和約翰福音20:1-9。
 
