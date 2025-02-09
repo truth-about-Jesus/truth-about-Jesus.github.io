@@ -37,7 +37,7 @@ The atmosphere in the upper room, where the Apostles had enjoyed that last, prec
 
 What was there to say? They all knew they had failed Him: falling asleep while He prayed alone, and then abandoning Him in His hour of greatest need. 
 
-有什麼要說的？ 他們都知道他們辜負了他：在他獨自祈禱時睡著了，然後在他最需要的時候拋棄了他。
+有什麼好說的？他們都知道自己辜負了他：當他獨自祈禱時，他們睡著了，然後在他最需要他們的時候拋棄了他。
 
 \
 
