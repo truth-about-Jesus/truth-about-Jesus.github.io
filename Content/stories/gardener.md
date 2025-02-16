@@ -3,7 +3,7 @@
 date: 2025-02-16 8:59
 title: 39 - The Gardener  園丁
 description: Mary Magdalene weeps at Jesus' tomb  抹大拉的馬利亞在耶穌的墳墓前哭泣
-tags: Mary Magdalene, Jesus, tomb
+tags: Mary Magdalene, gardener, tomb, Jesus
 translateLink: gardener
 ---
 
