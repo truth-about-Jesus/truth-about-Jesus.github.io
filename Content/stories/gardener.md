@@ -27,7 +27,7 @@ She only wanted to find and take care of her beloved Master's body.
 
 Peter and John had been no help; the two men had already left, perplexed, not knowing what to do.
 
-彼得和約翰沒有提供任何幫助；那兩個人走開了，他們困惑不已，不知道該怎麼辦。
+彼得和約翰沒有提供任何幫助。兩個人離開了，心裡很困惑，不知道該怎麼辦。
 
 \
 
@@ -85,7 +85,7 @@ She spoke tearfully, from the depths of her devastation.
 
 The gardener spoke gently.
 
-園丁說話溫和。
+園丁溫和說。
 
 \
 
