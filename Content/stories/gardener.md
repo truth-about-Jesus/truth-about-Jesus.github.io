@@ -118,9 +118,9 @@ and uncontrollable gladness.
 \
 \
 
-Based on Mark 16:9; John 20:10-17.
+*Based on Mark 16:9; John 20:10-17.*
 
-*基於馬可福音16:9；約翰福音20:10-17。*
+基於馬可福音16:9；約翰福音20:10-17。
 
 \
 
