@@ -141,7 +141,7 @@ Dutifully, they repeated, their eyes fixed on the precious prize in the priest's
 
 \
 
-"His -- disciples came and -- uh -- stole the body, while we were -- ah --"
+"His -- disciples came and -- *uh* -- stole the body, while we were -- *ah* --"
 
 「他的——門徒來了——呃——偷了屍體，而我們——啊——」
 
