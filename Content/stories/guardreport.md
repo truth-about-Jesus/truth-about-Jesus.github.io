@@ -1,7 +1,7 @@
 ---
-date: 2025-02-23 8:00
+date: 2025-02-22 16:27
 title: 40 - The Roman guards report  羅馬衛兵報告
-description: What the guards at the tomb did  墳墓裡的守衛做了什麼
+description: What the guards at the tomb did afterward  墳墓裡的守衛事後做了
 tags: Roman, guard, report, tomb, Jesus, resurrection, Caiaphas, Chief Priest, money, deception 
 translateLink: guardreport
 ---
@@ -34,6 +34,11 @@ His heart dropped like a stone.
 
 他的心像石頭一樣掉下來。
 
+\
+
+<center>💠</center>
+
+\
 \
 
 Returning, he found Decimus, his fellow guard, still in a facedown daze.
@@ -90,7 +95,7 @@ He only hoped the Jewish Chief Priest would be sufficiently intrigued by their r
 
 "We can't say *that!* The governor will *execute* us!!" Flavius protested, his face flushing red.
 
-“我們不能這麼說！州長會處決我們的！！”弗拉維烏斯臉漲得通紅，抗議。
+「我們不能這麼說！州長會處決我們的！！」弗拉維烏斯臉漲得通紅，抗議。
 
 \
 
