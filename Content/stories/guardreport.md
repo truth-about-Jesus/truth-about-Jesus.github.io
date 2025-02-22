@@ -1,7 +1,7 @@
 ---
 date: 2025-02-22 16:27
 title: 40 - The Roman guards report  羅馬衛兵報告
-description: What the guards at the tomb did afterward  墳墓裡的守衛事後做了
+description: What the Roman guards did afterward  羅馬衛兵之後做了什麼
 tags: Roman, guard, report, tomb, Jesus, resurrection, Caiaphas, Chief Priest, money, deception 
 translateLink: guardreport
 ---
@@ -43,7 +43,7 @@ His heart dropped like a stone.
 
 Returning, he found Decimus, his fellow guard, still in a facedown daze.
 
-回來後，他發現他的警衛同伴德西默斯仍然面朝下，茫然無措。
+回來後，他發現同伴德西姆斯還趴在地上發呆。
 
 \
 
