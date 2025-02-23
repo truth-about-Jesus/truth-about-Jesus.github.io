@@ -78,7 +78,7 @@ He was an honourable man -- at least, he tried to be.
 
 But this situation -- *they could be sentenced to death for dereliction of duty!* -- called for something other than honour.
 
-但這種情況──他們可能會因玩忽職守而被判死刑！ ——需要別的東西——而不是榮譽。
+但這樣的話——他們可能會因為玩忽職守而被判死刑！ ——除了榮譽之外還需要一些東西。
 
 \
 
@@ -101,13 +101,13 @@ He only hoped the Jewish Chief Priest would be sufficiently intrigued by their r
 
 The Chief Priest studied the flustered Roman soldiers for a moment, the two sizeable bags of Tyrian shekels still jingling in his hands.
 
-首席牧師研究了一會兒慌亂的羅馬士兵，兩袋相當大的提爾謝克爾仍然在他手中晃來晃去。
+大祭司審視了驚慌失措的羅馬士兵一會兒，手裡仍然叮噹作響著兩大袋提爾謝克爾。
 
 \
 
 He sighed, then spoke reassuringly.
 
-他嘆了一口氣，然後安慰道。
+他嘆了口氣，然後安慰他們。
 
 \
 
@@ -131,7 +131,7 @@ Flavius glanced at Decimus, then nodded numbly. They didn't have many options.
 
 "What are you going to say?"
 
-「你會告訴人們什麼？」
+「向我重複我想讓你說的話。」
 
 \
 
