@@ -131,7 +131,7 @@ Flavius glanced at Decimus, then nodded numbly. They didn't have many options.
 
 "What are you going to say?"
 
-「向我重複我想讓你說的話。」
+「你要說什麼？」
 
 \
 
