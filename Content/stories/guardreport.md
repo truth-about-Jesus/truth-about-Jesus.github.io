@@ -14,7 +14,7 @@ Soon after the terrifyingly bright, otherworldly being had disappeared, Flavius 
 
 By the time the women had left, the burly Roman soldier was able to roll over and sit up. 
 
-當婦女們離開時，這位身材魁梧的羅馬士兵能夠翻身並坐起來。
+等到婦女們離開後，這位身材魁梧的羅馬士兵能夠翻身並坐起來。
 
 \
 
