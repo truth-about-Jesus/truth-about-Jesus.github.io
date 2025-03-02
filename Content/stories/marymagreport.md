@@ -96,7 +96,7 @@ She had truly lost her mind and was accosting him directly now!
 
 As Mary's eyes searched his, all Peter's shame, regret and devastation welled up without warning.
 
-當瑪麗的目光搜尋著他的眼睛時，彼得所有的羞恥、悔恨和沮喪都毫無預警地湧了上來。
+當瑪麗的目光搜尋著他的眼睛時，彼得所有的羞恥、悔恨和無盡的悲傷毫無預警地湧了上來。
 
 \
 
