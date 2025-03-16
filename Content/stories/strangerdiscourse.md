@@ -76,7 +76,7 @@ When he and Theudas slowed to turn in at the path leading home, the stranger kep
 \
 \
 
-*Based on Mark 16:12; and Luke 24:13-29.*
+*Based on Mark 16:12; Luke 24:13-29.*
 
 基於馬可福音16:12；和路加福音24:13-29。
 
