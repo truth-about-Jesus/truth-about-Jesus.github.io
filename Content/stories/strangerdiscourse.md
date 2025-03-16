@@ -20,7 +20,7 @@ Cleopas flinched a little at this unexpected rebuke.
 
 "Didn't the Messiah *have* to suffer these things," continued the stranger, "to enter into His glory?"
 
-陌生人繼續說：「難道彌賽亞不必遭受這些苦難，才能獲得他的榮耀嗎？」
+陌生人繼續說：「彌賽亞這樣受害，又進入他的榮耀，豈不是必須的嗎？」
 
 \
 
