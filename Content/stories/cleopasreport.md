@@ -1,7 +1,7 @@
 ---
 date: 2025-03-23 9:28
-title: 44 - Cleopas' report  ?
-description: Cleopas and Theudas tell the Apostles  ?
+title: 44 - Cleopas' report  克利奧帕斯的報告
+description: Cleopas and Theudas tell the Apostles in Jerusalem  克利奧帕斯和特烏達告訴耶路撒冷的使徒們
 tags: stranger, Jesus, Cleopas, Theudas, report, Apostles, Jerusalem
 translateLink: cleopasreport
 ---
