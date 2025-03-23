@@ -8,19 +8,19 @@ translateLink: cleopasreport
 
 "Did you also feel your heart burning inside, as He opened the prophetic writings to us?" asked Theudas, as the two disciples hurried joyfully back to Jerusalem.
 
-「當他向我們開啟預言性著作時，你是否也感覺到你的內心在燃燒？」 特烏達問道，兩個門徒高興地匆匆趕回耶路撒冷。
+「當他向我們透露那些預言時，你是否也感覺到你的內心在燃燒？」 特烏達問道，兩個門徒高興地匆匆趕回耶路撒冷。
 
 \
 
 It was still the selfsame night they had left the Apostles, met the stranger, and arrived home in Emmaus. 
 
-那還是他們離開使徒們、遇見那個陌生人並返回艾瑪烏斯村的家的那個晚上。
+就在那天晚上，他們離開使徒們，遇見了那個陌生人，然後回到了艾瑪烏斯村的家。
 
 \
 
 "Of *course,* i did!" replied Cleopas fervently. 
 
-「當然，我做到了！」 克利奧帕斯熱情地回答。
+「當然，我做到了！」 克利奧帕斯熱情而恭敬地回答。
 
 \
 
