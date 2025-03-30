@@ -58,11 +58,17 @@ print("** TO DO: Delete docs, rename Output to docs. **")
 //let targetPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/docs"
 //print(targetPath)
 //do {
-//    try FileManager.default.removeItem(atPath: targetPath)
+//    try? FileManager.default.removeItem(atPath: targetPath)
+//    sleep(2)
+//    try? FileManager.default
+//        .createDirectory(
+//            at: URL(fileURLWithPath: targetPath),
+//            withIntermediateDirectories: true
+//        )
 //    try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
 //    print("Output folder copied to docs folder successfully!")
 //} catch {
-//    print("there was an error copying the Output folder to the docs folder")
+//    print("there was an error copying the Output folder to the docs folder: \(error)")
 //}
 
 
