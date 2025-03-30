@@ -50,7 +50,7 @@ He stood.
 
 "This is obviously not a concern for Rome. Take Him away and judge Him according to your own law!" he growled, angry to have been rousted out of bed so early in the morning for such trivialities.
 
-「這顯然與羅馬無關。 把他帶走，按照你自己的法律審判他！」 他煩躁地說，因為這些小事這麼早就被從床上爬起來，他很生氣。
+「這顯然與羅馬無關。 把他帶走，按照你們自己的法律審判他！」 他煩躁地說，因為這些小事這麼早就被從床上爬起來，他很生氣。
 
 \
 

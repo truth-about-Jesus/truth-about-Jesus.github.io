@@ -37,7 +37,7 @@ Caiaphas looked up quickly as Pilate reappeared alone. He hoped for a quick reso
 
 "I am bringing Him out to you, to let you know that i find in Him not even one reason for execution." Pilate spoke powerfully, bringing the full force of the authority of Rome to bear.
 
-「我把他帶到你面前，讓你知道，我在他身上連一個處決的理由都沒有。」 彼拉多有力地說話，使羅馬的權威全力以赴。
+「我把他帶到你們面前，讓你們知道，我在他身上連一個處決的理由都沒有。」 彼拉多有力地說話，使羅馬的權威全力以赴。
 
 \
 

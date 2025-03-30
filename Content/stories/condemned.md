@@ -69,7 +69,7 @@ After a pause, Pilate spoke sternly -- even ferociously:
 
 "I am *innocent* of the blood of this righteous Man. This is on *you!"*
 
-「我對這個正義的人的鮮血是無辜的。 都是你的錯！」
+「我對這個正義的人的鮮血是無辜的。 都是你們的錯！」
 
 \
 

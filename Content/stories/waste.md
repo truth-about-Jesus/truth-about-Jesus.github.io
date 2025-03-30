@@ -264,7 +264,7 @@ Jesus' simple question broke through Judas' train of thought.
 
 “She has done something special for Me. The poor are always with you, but you don't always have Me.”
 
-「她為我做了一些特別的事情。窮人總是和你在一起，但你並不總是有我。」
+「她為我做了一些特別的事情。窮人總是和你們在一起，但你們並不總是有我。」
 
 \
 

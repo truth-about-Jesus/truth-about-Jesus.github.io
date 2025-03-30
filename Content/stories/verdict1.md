@@ -90,7 +90,7 @@ At last, Pilate looked at him, with an impassive expression on his face.
 
 "And --" Pilate continued, as Caiaphas opened his mouth to respond, "there is the custom that i release to you one prisoner at Passover."
 
-該亞法還來不及回答，彼拉多就繼續說道：「按照慣例，我會在逾越節釋放一個囚犯給你。」
+該亞法還來不及回答，彼拉多就繼續說道：「按照慣例，我會在逾越節釋放一個囚犯給你們。」
 
 \
 

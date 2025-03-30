@@ -55,7 +55,7 @@ Perplexed, Cleopas shook his head.
 
 "What are you fellows discussing? You seem... sad."
 
-「你們這些傢伙在討論什麼？ 你看起來......悲傷。」
+「你們這些傢伙在討論什麼？ 你們看起來......悲傷。」
 
 \
 

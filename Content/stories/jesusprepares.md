@@ -43,7 +43,7 @@ He seemed sombre as He spoke to His eleven remaining Apostles.
 
 "Sit here, while i go pray."
 
-「你坐在這裡，我去那裡祈禱。」
+「你們坐在這裡，我去那裡祈禱。」
 
 \
 
@@ -272,7 +272,7 @@ He would drink it... to the dregs.
 
 "You may as well sleep now." He spoke over the Apostles' peaceful snores.
 
-「你現在還不如睡覺。」他對著使徒們和平的鼾子說話。
+「你們現在還不如睡覺。」他對著使徒們和平的鼾子說話。
 
 \
 

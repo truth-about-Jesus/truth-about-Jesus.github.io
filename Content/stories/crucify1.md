@@ -14,7 +14,7 @@ Pilate held up a stern hand, then waited as the last echoes of *"Barabbas!"* die
 
 "Then what shall i do with Jesus -- the one you call 'the King of the Jews'?"
 
-「那我該如何處理耶穌——你稱之為“猶太人之王”的人？」
+「那我該如何處理耶穌——你們稱之為“猶太人之王”的人？」
 
 \
 

@@ -20,7 +20,7 @@ When He was done, Jesus put on His long cloak again and resumed His place at the
 
 "Do you understand what i have just done for you?" He looked at them all kindly. 
 
-「你明白我剛才為你做了什麼嗎？」 他和善地看著他們所有人。
+「你們明白我剛才為你們做了什麼嗎？」 他和善地看著他們所有人。
 
 \
 
@@ -32,13 +32,13 @@ The Apostles stared at one another. No one knew quite how to respond to His ques
 
 "You call Me 'Teacher' and 'Lord' -- which is fitting, because that is what i am.
 
-「你叫我'老師'和'主'——這很合適，因為這就是我。
+「你們叫我'老師'和'主'——這很合適，因為這就是我。
 
 \
 
 "If i -- Your Teacher and Lord -- have washed _your_ feet, then _you_ also ought to wash each other's feet."
 
-「如果我——你的老師和主——洗了你的腳，那麼你們也應該互相洗腳。」
+「如果我——你們的老師和主——洗了你們的腳，那麼你們也應該互相洗腳。」
 
 \
 
@@ -56,7 +56,7 @@ Knowing their inner struggles, Jesus continued patiently.
 
 "I have set you this example, so that you may do what i have done for you.
 
-「我給你樹立了這個榜樣，這樣你就可以做我為你做的事情。
+「我給你們樹立了這個榜樣，這樣你們就可以做我為你們做的事情。
 
 \
 
@@ -74,7 +74,7 @@ Peter could not argue with this logic. If Jesus, whom he loved and greatly admir
 
 "If you know these things, you will be happy if you do them," Jesus concluded with a smile.
 
-「如果你知道這些事情，如果你做了，你會很高興，」 耶穌微笑著總結道。
+「如果你們知道這些事情，如果你們做了，你們會很高興，」 耶穌微笑著總結道。
 
 \
 
@@ -121,7 +121,7 @@ But Jesus didn't do anything. Instead, He continued speaking generally to all at
 
 "I'm telling you this before it happens, so that when it happens, you will believe that i am the One."
 
-「我在它發生之前告訴你這件事，這樣當它發生時，你會相信我就是那個人。」
+「我在它發生之前告訴你們這件事，這樣當它發生時，你們會相信我就是那個人。」
 
 \
 
@@ -139,7 +139,7 @@ Then Jesus dropped a bombshell:
 
 "I am telling you the truth: one of you will betray Me."
 
-「我告訴你真相：你們中的一個人會背叛我。」
+「我告訴你們真相：你們中的一個人會背叛我。」
 
 \
 

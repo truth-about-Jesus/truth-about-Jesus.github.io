@@ -113,7 +113,7 @@ He sighed, then spoke reassuringly.
 
 *"If* this report gets back to the governor, we will intervene on your behalf; you will not need to worry."
 
-「如果這份報告還給州長，我們將代表你進行干預；你不必擔心。」
+「如果這份報告還給州長，我們將代表你們進行干預；你們不必擔心。」
 
 \
 
@@ -131,7 +131,7 @@ Flavius glanced at Decimus, then nodded numbly. They didn't have many options.
 
 "What are you going to say?"
 
-「你要說什麼？」
+「你們要說什麼？」
 
 \
 

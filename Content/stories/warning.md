@@ -66,7 +66,7 @@ Through years of experience, Pilate quickly collected himself -- *where were we?
 
 "Regarding the custom that i release to you one prisoner at Passover: the only other prisoner who can be released at the moment is Barabbas, who --" here he paused for effect, *"murdered a Roman soldier* during the recent rebellion, so --"
 
-「關於我在逾越節向你釋放一名囚犯的習俗：目前唯一可以釋放的囚犯是巴拉巴，他——」在這裡他停頓了一下，「在最近的叛亂中謀殺了一名羅馬士兵，所以——」
+「關於我在逾越節向你們釋放一名囚犯的習俗：目前唯一可以釋放的囚犯是巴拉巴，他——」在這裡他停頓了一下，「在最近的叛亂中謀殺了一名羅馬士兵，所以——」
 
 \
 
@@ -78,7 +78,7 @@ He rose to look sternly down at the people, hoping to persuade or intimidate the
 
 "Whom do you want me to release to you today: Jesus? or -- *Barabbas?"*
 
-「你今天想讓我把誰釋放給你：耶穌？ 還是——巴拉巴？」
+「你們今天想讓我把誰釋放給你們：耶穌？ 還是——巴拉巴？」
 
 \
 

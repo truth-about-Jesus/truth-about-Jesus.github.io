@@ -31,7 +31,7 @@ The beautiful, otherworldly being spoke.
 
 "Why do you seek the living among the dead?"
 
-｢你為什麼在死者中尋找生者？」
+｢你們為什麼在死者中尋找生者？」
 
 \
 
@@ -43,7 +43,7 @@ Mary Magdalene trembled and looked down. *What could he possibly mean?*
 
 "Do not be afraid. You seek Jesus, who was crucified."
 
-｢不要害怕。 你正在尋找被釘十字架的耶穌。」
+｢不要害怕。 你們正在尋找被釘十字架的耶穌。」
 
 
 

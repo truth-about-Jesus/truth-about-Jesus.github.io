@@ -49,7 +49,7 @@ He gestured toward the doorway and, as the guard detail brought Jesus limping pa
 
 "You brought this Man to me claiming that He was corrupting the people. 
 
-「你把這個人帶到我面前，聲稱他正在腐蝕人民。
+「你們把這個人帶到我面前，聲稱他正在腐蝕人民。
 
 \
 
@@ -63,7 +63,7 @@ He gestured toward the doorway and, as the guard detail brought Jesus limping pa
 
 "Nor have *any* of your accusations against Him been substantiated."
 
-「你對他的任何指控都沒有得到證實。」
+「你們對他的任何指控都沒有得到證實。」
 
 \
 
@@ -133,7 +133,7 @@ Pilate began to perspire, as visions of Caesar receiving false reports -- and re
 
 "Shall i crucify your *king?"* he cried out angrily -- in a desperate, last-ditch attempt to divide the mob.
 
-「我要把你的國王釘在十字架上嗎？」 他憤怒地大喊——為了分裂暴徒，這是一次絕望的、最後的嘗試。
+「我要把你們的國王釘在十字架上嗎？」 他憤怒地大喊——為了分裂暴徒，這是一次絕望的、最後的嘗試。
 
 \
 

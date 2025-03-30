@@ -107,7 +107,7 @@ But one by one, most of their faces began to soften as the nice man continued.
 
 “This is the truth: unless you change, and become like a little child, you do not enter the Kingdom of Heaven.”
 
-「這是事實：除非你改變，變得像個小孩子，否則你不會進入天國。」
+「這是事實：除非你們改變，變得像個小孩子，否則你們不會進入天國。」
 
 \
 

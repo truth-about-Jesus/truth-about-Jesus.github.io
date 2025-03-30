@@ -259,7 +259,7 @@ But Jesus took charge of the situation.
 
 “Why are you crying and making such a racket? This little one isn't dead; she's just sleeping!”
 
-「你為什麼哭著做這樣的球拍？ 這個小女孩沒有死；她只是在睡覺！」
+「你們為什麼哭著做這樣的球拍？ 這個小女孩沒有死；她只是在睡覺！」
 
 \
 

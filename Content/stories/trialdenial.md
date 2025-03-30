@@ -277,7 +277,7 @@ Nevertheless, he put on his most horrified expression and tore his robes in pret
 
 "Can there be any further question? What do you all say?"
 
-「怎麼會有問題？你怎麼決定？」
+「怎麼會有問題？你們怎麼決定？」
 
 \
 

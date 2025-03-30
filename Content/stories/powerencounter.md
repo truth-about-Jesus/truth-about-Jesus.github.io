@@ -177,13 +177,13 @@ not even, mused John in the midst of his awe, on the mountain with Moses and Eli
 
 "I told you that i am He," Jesus responded. 
 
-「我告訴過你，我就是他，」耶穌回答道。
+「我告訴過你們，我就是他，」耶穌回答道。
 
 \
 
 "If it's Me you want, then let these others go."
 
-「如果你想要的是我，那就讓其他人走吧。」
+「如果你們想要的是我，那就讓其他人走吧。」
 
 \
 

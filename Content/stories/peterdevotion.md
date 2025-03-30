@@ -73,7 +73,7 @@ But lately He had spoken much of... of things happening that were completely unt
 
 "My children, i am with you for just a little longer; and you will look for Me; and now i say to you what i said to the Jews earlier: where i am going you cannot come."
 
-「我的孩子們，我和你們在一起還有一會兒；你們會尋找我；現在我對你們說我以前對猶太人說過的話：你不能來我要去的地方。」
+「我的孩子們，我和你們在一起還有一會兒；你們會尋找我；現在我對你們說我以前對猶太人說過的話：你們不能來我要去的地方。」
 
 
 
@@ -134,7 +134,7 @@ So he was still able to focus as Jesus continued.
 
 "A new command i give you: love one another as i have loved you. Everyone will know that you are My followers if you love one another."
 
-「我給你一個新的命令：彼此相愛，就像我愛你一樣。 如果你們彼此相愛，每個人都會知道你們是我的追隨者。」
+「我給你們一個新的命令：彼此相愛，就像我愛你們一樣。 如果你們彼此相愛，每個人都會知道你們是我的追隨者。」
 
 \
 
