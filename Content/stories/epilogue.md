@@ -10,7 +10,9 @@ translateLink: epilogue
 
 ###### \
 
-3 Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,
+3 Blessed be the God and Father of our Lord Jesus Christ! 
+
+According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,
 
 4 to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you,
 
