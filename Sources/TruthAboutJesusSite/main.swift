@@ -6,7 +6,7 @@ import Plot
 struct TruthAboutJesusSite: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
-        case stories, posts
+        case storyjesus, storyhs, posts
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -45,7 +45,7 @@ struct TruthAboutJesusSite: Website {
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme, additionalSteps: [.sortItems(by: \.date, order: .ascending)])
 
 print("** TO DO: Delete docs, rename Output to docs. **")
-//var home: String = ""
+var home: String = ""
 //if #available(macOS 13.0, *) {
 //    home = FileManager.default.homeDirectoryForCurrentUser.path()
 //} else {
@@ -53,13 +53,13 @@ print("** TO DO: Delete docs, rename Output to docs. **")
 //}
 //print(home)
 //
-//let originPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/Output"
+//let originPath = home + "Documents/truth-about-jesus.github.io/Output"
 //print(originPath)
-//let targetPath = home + "/Users/enid/Documents/truth-about-jesus.github.io/docs"
+//let targetPath = home + "Documents/truth-about-jesus.github.io/docs"
 //print(targetPath)
 //do {
 //    try? FileManager.default.removeItem(atPath: targetPath)
-//    sleep(2)
+//    sleep(15)
 //    try? FileManager.default
 //        .createDirectory(
 //            at: URL(fileURLWithPath: targetPath),
