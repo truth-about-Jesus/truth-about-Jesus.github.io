@@ -24,11 +24,13 @@ According to his great mercy, he has caused us to be born again to a living hope
 
 \
 
-##### _彼得前書 1:3-7 (Chinese NET (T))_
+##### _1 Peter 1:3-7 (Chinese NET (T))_
 
 ###### \
 
-3 願頌讚歸與 神、我們主耶穌基督的父！他照自己的大憐憫，藉着耶穌基督死裏的復活，使我們重生在活的盼望裏，
+3 願頌讚歸與 神、我們主耶穌基督的父！
+
+他照自己的大憐憫，藉着耶穌基督死裏的復活，使我們重生在活的盼望裏，
 
 4 就是那不能朽壞、不能玷污、不能衰殘、為你們存留在天上的基業。
 
