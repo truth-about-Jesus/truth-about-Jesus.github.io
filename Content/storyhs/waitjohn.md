@@ -37,7 +37,7 @@ He'd called the Helper "the Holy Spirit" and "the Spirit of Truth"... who would 
 
 After Jesus had risen miraculously from death, John had hoped Jesus would show Himself alive to those who had conspired against Him, as proof of His deity.
 
-耶穌奇蹟般地從死裡復活後，約翰希望耶穌能向那些密謀反對他的人展示自己還活著，作為他神性的證明。
+耶穌奇蹟般地從死裡復活後，約翰希望耶穌向那些密謀反對他的人顯現自己活著，以證明他的神性。
 
 \
 
