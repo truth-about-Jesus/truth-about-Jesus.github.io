@@ -12,7 +12,7 @@ John thought back to that last Passover meal with Jesus, the night before His de
 
 \
 
-He'd said He was leaving to go back to the Father, and would then send them someone else, who would stay with them forever --
+He'd said He was leaving to go back to the Father, and would send them someone else, who would stay with them forever --
 
 他說他要離開回到父親那裡，然後會派別人給他們，這個人會永遠和他們在一起——
 
