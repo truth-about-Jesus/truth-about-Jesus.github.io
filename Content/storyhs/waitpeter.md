@@ -61,7 +61,7 @@ Who wouldn't be?
 
 But things *couldn't* be the same.
 
-但雙方的關係再也無法像以前一樣了。
+但彼得與耶穌的關係已經不再像以前了。
 
 \
 
@@ -97,7 +97,7 @@ Yet, for some reason, he couldn't walk away...
 
 or move on.
 
-或者繼續前進。
+或者去做別的事情。
 
 \
 
@@ -120,7 +120,7 @@ the hungry Apostles had been fishing fruitlessly all night.
 
 Jesus, standing on shore, had arranged a huge catch of fish! -- 
 
-耶穌站在岸邊，安排他們捕捉一大群魚！ ——
+耶穌站在岸邊，安排他們捕捉一大群魚！——
 
 \
 
@@ -203,7 +203,7 @@ And Peter's heart was grateful...
 
 and glad.
 
-並且很高興。
+並且快樂的。
 
 \
 
