@@ -97,7 +97,7 @@ Yet, for some reason, he couldn't walk away...
 
 or move on.
 
-或者去做別的事情。
+或者去做別的事。
 
 \
 
@@ -120,7 +120,7 @@ the hungry Apostles had been fishing fruitlessly all night.
 
 Jesus, standing on shore, had arranged a huge catch of fish! -- 
 
-耶穌站在岸邊，安排他們捕捉一大群魚！——
+耶穌站在岸邊，安排他們捕捉—大量的魚！—
 
 \
 
