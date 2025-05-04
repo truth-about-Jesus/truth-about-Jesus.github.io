@@ -185,7 +185,7 @@ By the third repetition Peter was feeling disconsolate --
 
 but in the end he came to understand that Jesus was *undoing,* together with him, the three times he had claimed not to know His Lord.
 
-但最終，他明白了，耶穌正在和他一起推翻他不認識主的三次說法。
+但最終，他明白了，耶穌正在和他一起推翻他不認識他的主的三次說法。
 
 \
 
