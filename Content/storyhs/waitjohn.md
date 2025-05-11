@@ -1,5 +1,5 @@
 ---
-date: 2025-07-27 08:07
+date: 2025-04-27 08:07
 title: 1 - Waiting: John  等待：約翰
 description: John waits for the Helper  約翰正在等待保惠師的降臨
 tags: John, apostle, wait, Helper, Holy Spirit, remember, memory, reminisce, mission, commission

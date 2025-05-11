@@ -1,5 +1,5 @@
 ---
-date: 2025-08-04 09:08
+date: 2025-05-04 09:08
 title: 2 - Waiting: Peter  等待：彼得
 description: Peter waits and remembers  彼得等待並記住
 tags: Peter, wait, remember, Jesus, Holy Spirit, power, deny, heal, reinstate

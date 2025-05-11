@@ -1,5 +1,5 @@
 ---
-date: 2025-25-11 09:25
+date: 2025-05-11 09:25
 title: 12 - Arshak's dialect  阿爾沙克方言
 description: A Parthian hears his mother tongue  一個帕提亞人聽他的母語
 tags: Arshak, Parthia, Parthian, language, dialect, Jerusalem, mother tongue
