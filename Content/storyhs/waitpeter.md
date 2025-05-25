@@ -1,7 +1,7 @@
 ---
 date: 2025-05-04 09:08
 title: 2 - Waiting: Peter  等待：彼得
-description: Peter waits and remembers  彼得等待並記住
+description: Peter remembers being recommissioned  彼得記得被重新委託
 tags: Peter, wait, remember, Jesus, Holy Spirit, power, deny, heal, reinstate
 translateLink: waitpeter
 ---

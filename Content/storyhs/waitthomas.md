@@ -1,7 +1,7 @@
 ---
 date: 2025-05-11 10:42
 title: 3 - Waiting: Thomas  等待：托馬斯
-description: Thomas waits and remembers  托馬斯等待並記住
+description: Thomas remembers missing out  托馬斯記得痛失了
 tags: Thomas, Jesus, doubt, remember, Holy Spirit, faith, wait
 translateLink: waitthomas
 ---

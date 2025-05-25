@@ -1,7 +1,7 @@
 ---
 date: 2025-05-18 08:54
 title: 4 - Waiting: Mary  等待：瑪麗
-description: Mary waits and remembers  瑪麗等待並記住
+description: Mary remembers the angel Gabriel  瑪麗記得天使加布裡埃爾
 tags: Mary, mother, Jesus, mountain, goodbye, throne, faith
 translateLink: waitmary
 ---
