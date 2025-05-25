@@ -14,7 +14,7 @@ James sat waiting and praying with the other Apostles.
 
 The past three years had been the most eventful -- heart-rending -- *and joyous!* -- of his entire life.
 
-過去的三年是他一生中最多事的——令人心碎——和快樂！
+過去的三年是他整個一生中最多事的——令人心碎——和快樂！
 
 \
 
@@ -66,7 +66,7 @@ He didn't quite see how it all fit together.
 
 He hadn't been the least bit surprised when one of the other Apostles -- *probably Peter!* -- had asked Jesus bluntly:
 
-當其他一位使徒——可能是彼得！——直言不諱地問耶穌時，他一點也不驚訝：
+彼得很可能是直接向耶穌提出這個問題的使徒，而詹姆斯對此一點也不感到驚訝。
 
 \
 
@@ -95,7 +95,7 @@ But...
 
 he *had* been *completely* taken by surprise when Jesus' feet had left the earth and He'd started floating higher and higher, up into the sky.
 
-當耶穌的腳離開地球，開始越來越高，飛向天空時，他完全措手不及。
+當耶穌的腳離開地面時，他完全驚呆了。然後耶穌開始在空中飄得越來越高。
 
 \
 
