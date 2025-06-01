@@ -37,11 +37,12 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                         Text(translateSymbol)
                         Link("Translate this website with Google", url: TruthAboutJesusSite.TranslateInfo.translateToEnglish)
                     }
+                    .class("translate-link no-bottom-space")
                     Paragraph {
                         Text(translateSymbol)
                         Link("用谷歌翻譯這個網站", url: TruthAboutJesusSite.TranslateInfo.translateToChinese)
                     }
-
+                    .class("translate-link bottom-space")
                     H1(index.title)
                         .class("nobreak")
                     Paragraph {

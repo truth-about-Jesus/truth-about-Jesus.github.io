@@ -14,7 +14,7 @@ As He broke through the tops of the clouds, Jesus spied Gabriel and Raphael wait
 
 "You'd better go now," He advised them with a twinkle in His eye. "Don't want'em to get a crick in their necks."
 
-「你最好現在就走，」他眼睛裡閃爍著眼睛勸告他們。 「別讓他們脖子扭傷了。」
+「你最好現在就走，」他眼睛裡閃爍著眼睛勸告他們。 「不想讓他們因為抬頭太久而傷到脖子。」
 
 \
 
@@ -37,7 +37,7 @@ As Jesus toured the Universe on His way home, He reminisced.
 
 He was relieved to have completed His undeniably difficult assignment -- the master plan He and His Father had devised together, long before creating the cosmos -- and with it, the Earth. 
 
-他鬆了一口氣，因為他完成了不可否認的艱鉅任務——這是他和父親在創造宇宙和地球之前很久就共同製定的總體規劃。
+他鬆了一口氣，因為他完成了不可否認的艱鉅任務——他和他的父親就共同製定了這個總體規劃，早在他們創造宇宙和地球之前。
 
 \
 
@@ -55,7 +55,7 @@ The triumphal tour was optional, of course, but --
 
 Jesus always enjoyed visiting with the celestial beings...
 
-耶穌總是喜歡拜訪天體......
+耶穌總是喜歡拜訪天人......
 
 \
 
@@ -84,7 +84,7 @@ As He flew on, Jesus thought about His chosen Apostles and disciples.
 
 He hadn't been terribly surprised at the question that had revealed their continuing focus on conquest, despite His best efforts to show them a better way.
 
-儘管他盡了最大努力向他們展示更好的方法，但這個問題揭示了他們繼續專注於征服，但他並沒有感到太驚訝。
+儘管他盡了最大努力向他們展示更好的方法，但他們提出的問題表明他們仍然專注於征服，他並不感到非常驚訝。
 
 \
 
