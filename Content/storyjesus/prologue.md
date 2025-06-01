@@ -55,8 +55,6 @@ This book is a dramatization of the essence of His story.
 
 ##### _John 20:30-31 (ESV)_
 
-###### \
-
 30 Now Jesus did many other signs in the presence of the disciples, which are not written in this book;
 
 31 but these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.
@@ -64,8 +62,6 @@ This book is a dramatization of the essence of His story.
 \
 
 ##### _John 20:30-31 (Chinese NET (T))_
-
-###### \
 
 30 耶穌在門徒面前，另外行了許多神蹟，沒有記在這書上。
 

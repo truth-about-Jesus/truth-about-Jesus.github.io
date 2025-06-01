@@ -14,15 +14,11 @@ In the very first appearance of gender in the Bible, only two genders are mentio
 
 ##### _Genesis 1:27 (ESV)_
 
-###### \
-
 27 So God created man in his own image, in the image of God he created him; male and female he created them.
 
 \
 
 ##### _Genesis 1:27 (Chinese NET (T))_
-
-###### \
 
 27 神就照着自己的形像造人，照着自己的形像他造了人，他造了男和女。
 
@@ -47,8 +43,6 @@ No, clearly, because later on there are eunuchs -- castrated males -- who do not
 
 ##### _Isaiah 56:4-5 (ESV)_
 
-###### \
-
 4 For thus says the LORD: “To the eunuchs who keep my Sabbaths, who choose the things that please me and hold fast my covenant,
 
 5 I will give in my house and within my walls a monument and a name better than sons and daughters; I will give them an everlasting name that shall not be cut off.
@@ -56,8 +50,6 @@ No, clearly, because later on there are eunuchs -- castrated males -- who do not
 \
 
 ##### _Isaiah 56:4-5 (Chinese NET (T))_
-
-###### \
 
 4 因為耶和華如此說：「那些謹守我的安息日，揀選我所喜悅的事，持守我約的太監，
 
@@ -78,8 +70,6 @@ Jesus Himself spoke of various kinds of eunuchs, including some who are born tha
 
 ##### _Matthew 19:10-12 (ESV)_
 
-###### \
-
 10 The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.”
 
 11 But he said to them, “Not everyone can receive this saying, but only those to whom it is given.
@@ -89,8 +79,6 @@ Jesus Himself spoke of various kinds of eunuchs, including some who are born tha
 \
 
 ##### _Matthew 19:10-12 (Chinese NET (T))_
-
-###### \
 
 10 門徒對耶穌說：「人和妻子既是這樣，倒不如不結婚！」
 
@@ -137,8 +125,6 @@ Consider the light, which God created on the first day of Creation.
 
 ##### _Genesis 1:2-5 (ESV)_
 
-###### \
-
 2 The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
 
 3 And God said, “Let there be light,” and there was light.
@@ -150,8 +136,6 @@ Consider the light, which God created on the first day of Creation.
 \
 
 ##### _Genesis 1:2-5 (Chinese NET (T))_
-
-###### \
 
 2 那時，地是空虛無狀，深水淹沒而黑暗， 神的靈運行在水面上。
 
@@ -171,8 +155,6 @@ Later, on the fourth day, He created the sun, moon and stars to govern the light
 
 ##### _Genesis 1:16-19 (ESV)_
 
-###### \
-
 16 And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars.
 
 17 And God set them in the expanse of the heavens to give light on the earth,
@@ -184,8 +166,6 @@ Later, on the fourth day, He created the sun, moon and stars to govern the light
 \
 
 ##### _Genesis 1:16-19 (Chinese NET (T))_
-
-###### \
 
 16 於是 神造了兩個大光，大的管晝，小的管夜；又造了眾星。
 
@@ -275,15 +255,11 @@ God told the prophet Samuel that He cares much more for the inside than the outs
 
 ##### _1 Samuel 16:7 (ESV)_
 
-###### \
-
 7 But the LORD said to Samuel, “Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.”
 
 \
 
 ##### _1 Samuel 16:7 (Chinese NET (T))_
-
-###### \
 
 7 耶和華卻對撒母耳說：「不要看他的外貌和他身材高大，我不揀選他。因為耶和華不像人看人：人是看外貌，耶和華是看內心。」
 
@@ -314,15 +290,11 @@ He says to His people, through the prophet Jeremiah:
 
 ##### _Jeremiah 31:22 (ESV)_
 
-###### \
-
 22 “How long will you waver, O faithless daughter? For the LORD has created a new thing on the earth: a woman encircles a man.”
 
 \
 
 ##### _Jeremiah 31:22 (ESV translated)_
-
-###### \
 
 22 “不忠的女兒，你會動搖多久？ 因為耶和華在地上創造了一件新事物：一個女人包圍了一個男人。”
 
@@ -347,15 +319,11 @@ Yes, we may find transgender and nonbinary people unnatural or unsettling, but t
 
 ##### _Matthew 7:12 (ESV)_
 
-###### \
-
 12 “So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.”
 
 \
 
 ##### _Matthew 7:12 (Chinese NET (T))_
-
-###### \
 
 12 所以，無論何事，你們願意人怎樣待你們，你們也要怎樣待人，因為這就滿足律法和先知。
 

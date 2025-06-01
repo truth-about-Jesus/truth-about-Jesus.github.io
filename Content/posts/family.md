@@ -25,8 +25,6 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 
 ##### _Luke 1:30-35,37 (NET)_
 
-###### \
-
 30 So the angel said to her, “Do not be afraid, Mary, for you have found favor with God!
 
 31 Listen: You will become pregnant and give birth to a son, and you will name him Jesus.
@@ -45,9 +43,6 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 
 ##### _Luke 1:30-35,37 (Chinese NET (T\)\)_
 
-###### \
-
-
 30 天使對她說：「馬利亞！不要怕；你在 神面前已經蒙恩了。
 
 31 聽着：你要懷孕生子，你要給他起名叫耶穌。
@@ -65,8 +60,6 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 \
 
 ##### _Matthew 1:18-25 (NET)_
-
-###### \
 
 18 Now the birth of Jesus Christ happened this way. While his mother Mary was engaged to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit.
 
@@ -88,8 +81,6 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 
 ##### _Matthew 1:18-25 (Chinese NET (T))_
 
-###### \
-
 18 耶穌基督降生的事記在下面：他母親馬利亞已經和約瑟訂了婚，還沒有成婚，馬利亞就從聖靈懷了孕。
 
 19 她的未婚夫約瑟是個義人，不願公開的令她難堪，想暗中和她解除婚約。
@@ -110,8 +101,6 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 
 ##### _Matthew 13:54-56 (NET)_
 
-###### \
-
 54 Then he came to his hometown and began to teach the people in their synagogue. They were astonished and said, “Where did this man get such wisdom and miraculous powers?
 
 55 Isn’t this the carpenter’s son? Isn’t his mother named Mary? And aren’t his brothers James, Joseph, Simon, and Judas?
@@ -121,8 +110,6 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 \
 
 ##### _Matthew 13:54-56 (Chinese NET (T))_
-
-###### \
 
 54 回到家鄉，在會堂裏教導人。他們都希奇，說：「這人從那裏有這種智慧和異能呢？
 
@@ -144,8 +131,6 @@ Once when Jesus was young growing up in the small town of Nazareth, He gave His 
 \
 
 ##### _Luke 2:41-52 (NET)_
-
-###### \
 
 41 Now Jesus’ parents went to Jerusalem every year for the Feast of the Passover.
 
@@ -174,8 +159,6 @@ Once when Jesus was young growing up in the small town of Nazareth, He gave His 
 \
 
 ##### _Luke 2:41-52 (Chinese NET (T))_
-
-###### \
 
 41 每年到逾越節，耶穌的父母就上耶路撒冷去。
 
@@ -216,8 +199,6 @@ Even when He was grown up, He respected His mother's wishes.
 
 ##### _John 2:1-12 (NET)_
 
-###### \
-
 1 Now on the third day there was a wedding at Cana in Galilee. Jesus’ mother was there,
 
 2 and Jesus and his disciples were also invited to the wedding.
@@ -246,7 +227,6 @@ Even when He was grown up, He respected His mother's wishes.
 
 ##### _John 2:1-12 (Chinese NET (T))_
 
-###### \
 
 1 到了第三日，在加利利的迦拿有一個婚宴。耶穌的母親在那裏，
 
@@ -287,8 +267,6 @@ Jesus' biological family didn't always support Him.
 
 ##### _Mark 3:20-21 (NET)_
 
-###### \
-
 20 Now Jesus went home, and a crowd gathered so that they were not able to eat.
 
 21 When his family heard this they went out to restrain him, for they said, “He is out of his mind.”
@@ -296,8 +274,6 @@ Jesus' biological family didn't always support Him.
 \
 
 ##### _Mark 3:20-21 (Chinese NET (T))_
-
-###### \
 
 20 耶穌回家，眾人又聚到那裏，叫他們連飯也顧不得吃。
 
@@ -314,8 +290,6 @@ When they came to the house and called for Him to come out, He didn't go. Instea
 
 ##### _Mark 3:31-35 (NET)_
 
-###### \
-
 31 Then Jesus’ mother and his brothers came. Standing outside, they sent word to him, to summon him.
 
 32 A crowd was sitting around him and they said to him, “Look, your mother and your brothers are outside looking for you.”
@@ -329,8 +303,6 @@ When they came to the house and called for Him to come out, He didn't go. Instea
 \
 
 ##### _Mark 3:31-35 (Chinese NET (T))_
-
-###### \
 
 31 當下，耶穌的母親和兄弟來到，站在外邊，打發人去叫他。
 
@@ -371,8 +343,6 @@ Jesus is the Son of God. His family is God's family.
 
 ##### _John 6:28-29 (NET)_
 
-###### \
-
 28 So then they said to him, “What must we do to accomplish the deeds God requires?”
 
 29 Jesus replied, “This is the deed God requires – to believe in the one whom he sent.”
@@ -380,8 +350,6 @@ Jesus is the Son of God. His family is God's family.
 \
 
 ##### _John 6:28-29 (Chinese NET (T))_
-
-###### \
 
 28 眾人就問他說：「我們當作甚麼，才算作 神的工呢？」
 
@@ -391,8 +359,6 @@ Jesus is the Son of God. His family is God's family.
 
 ##### _John 1:12-13 (NET)_
 
-###### \
-
 12 But to all who have received him – those who believe in his name – he has given the right to become God’s children
 
 13 – children not born by human parents or by human desire or a husband’s decision, but by God.
@@ -400,8 +366,6 @@ Jesus is the Son of God. His family is God's family.
 \
 
 ##### _John 1:12-13 (Chinese NET (T))_
-
-###### \
 
 12 凡接待他的，就是信他名的人，他就賜他們權柄，作 神的兒女。
 
@@ -411,15 +375,12 @@ Jesus is the Son of God. His family is God's family.
 
 ##### _John 3:3 (NET)_
 
-###### \
 
 3 Jesus replied, “I tell you the solemn truth, unless a person is born from above, he cannot see the kingdom of God.”
 
 \
 
 ##### _John 3:3 (Chinese NET (T))_
-
-###### \
 
 3 耶穌回答說：「我告訴你嚴肅的真理，人若不從上頭生，就不能看見 神的國。」
 
@@ -434,15 +395,11 @@ Jesus said:
 
 ##### _John 6:37 (NET)_
 
-###### \
-
 37 “Everyone whom the Father gives me will come to me, and the one who comes to me I will never send away.”
 
 \
 
 ##### _John 6:37 (Chinese NET (T))_
-
-###### \
 
 37 凡父所賜給我的人，必到我這裏來；到我這裏來的，我總不趕走他。
 
@@ -468,15 +425,11 @@ Jesus said:
 
 ##### _Luke 19:10 (NET)_
 
-###### \
-
 10 “For the Son of Man came to seek and to save the lost.”
 
 \
 
 ##### _Luke 19:10 (Chinese NET (T))_
-
-###### \
 
 10 因為人子來，為要尋找拯救失喪的人。」
 
@@ -490,15 +443,11 @@ and
 
 ##### _Luke 5:32 (NET)_
 
-###### \
-
 32 “I have not come to call the righteous, but sinners to repentance.”
 
 \
 
 ##### _Luke 5:32 (Chinese NET (T))_
-
-###### \
 
 32 我來不是召義人，乃是召罪人悔改。」
 
@@ -517,15 +466,11 @@ He told people to turn away from their sins, because God’s Kingdom was coming.
 
 ##### _Matthew 4:17 (NET)_
 
-###### \
-
 17 From that time Jesus began to preach this message: “Repent, for the kingdom of heaven is near!”
 
 \
 
 ##### _Matthew 4:17 (Chinese NET (T))_
-
-###### \
 
 17 從那時候起，耶穌就開始傳道，說：「悔改吧，天國近了。」
 
@@ -544,8 +489,6 @@ He healed people from many diseases, did many miracles and taught people about t
 
 ##### _Matthew 4:23-24 (NET)_
 
-###### \
-
 23 Jesus went throughout all of Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every kind of disease and sickness among the people.
 
 24 So a report about him spread throughout Syria. People brought to him all who suffered with various illnesses and afflictions, those who had seizures, paralytics, and those possessed by demons, and he healed them.
@@ -553,8 +496,6 @@ He healed people from many diseases, did many miracles and taught people about t
 \
 
 ##### _Matthew 4:23-24 (Chinese NET (T))_
-
-###### \
 
 23 耶穌走遍加利利，在各會堂裏教導人，傳天國的福音，醫治百姓各樣的病症。
 
@@ -575,8 +516,6 @@ You can speak to Him in any language. He knows them all: He invented them.
 
 ##### _Genesis 11:6-9 (NET)_
 
-###### \
-
 6 And the LORD said, “If as one people all sharing a common language they have begun to do this, then nothing they plan to do will be beyond them.
 
 7 Come, let’s go down and confuse their language so they won’t be able to understand each other.”
@@ -588,8 +527,6 @@ You can speak to Him in any language. He knows them all: He invented them.
 \
 
 ##### _Genesis 11:6-9 (Chinese NET (T))_
-
-###### \
 
 6 耶和華說：「若他們以一樣的人民，說一樣的言語，作起這事來，以後他們所要作的事，就沒有不成就的了。
 
@@ -614,15 +551,11 @@ He can even hear your thoughts.
 
 ##### _Mark 2:8 (NET)_
 
-###### \
-
 8 Now immediately, when Jesus realized in his spirit that they were contemplating such thoughts, he said to them, “Why are you thinking such things in your hearts?
 
 \
 
 ##### _Mark 2:8 (Chinese NET (T))_
-
-###### \
 
 8 耶穌心中知道他們心裏的議論，就說：「你們心裏為甚麼這樣議論呢？
 
@@ -641,15 +574,11 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 
 ##### _James 3:2 (NET)_
 
-###### \
-
 2 For we all stumble in many ways. If someone does not stumble in what he says, he is a perfect individual, able to control the entire body as well.
 
 \
 
 ##### _James 3:2 (Chinese NET (T))_
-
-###### \
 
 2 因為我們在許多事上都有錯失。若有人在話語上沒有錯失，他就是完全人，能控制自己的全身。
 
@@ -657,23 +586,17 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 
 ##### _Isaiah 64:6 (NET)_
 
-###### \
-
 6 We are all like one who is unclean, all our so-called righteous acts are like a menstrual rag in your sight. We all wither like a leaf; our sins carry us away like the wind.
 
 \
 
 ##### _Isaiah 64:6 (Chinese NET (T))_
 
-###### \
-
 6 我們都像不潔淨的人，我們一切的所謂義行，在你面前只像月經的布塊。我們都像葉子枯乾，我們的罪孽好像風把我們吹去。
 
 \
 
 ##### _Psalms 14:1-2 (NET)_
-
-###### \
 
 1 Fools say to themselves, “There is no God.” They sin and commit evil deeds; none of them does what is right.
 
@@ -683,8 +606,6 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 
 ##### _Psalms 14:1-2 (Chinese NET (T))_
 
-###### \
-
 1 愚笨人心裏說：「沒有 神。」他們犯罪行了惡事；沒有一個人行正當的事。
 
 2 耶和華從天上垂看世人，要看有智慧的，有尋求 神的沒有。
@@ -693,15 +614,11 @@ We have all done bad things and aren’t good enough to come to God by ourselves
 
 ##### _Isaiah 53:6 (NET)_
 
-###### \
-
 6 All of us had wandered off like sheep; each of us had strayed off on his own path, but the LORD caused the sin of all of us to attack him.
 
 \
 
 ##### _Isaiah 53:6 (Chinese NET (T))_
-
-###### \
 
 6 我們都如羊走迷；各人偏離己路，但耶和華使我們眾人的罪孽都歸在他身上。
 
@@ -720,23 +637,17 @@ So Jesus took all the bad things on Himself and died to pay for them all, so tha
 
 ##### _1 Peter 2:24 (NET)_
 
-###### \
-
 24 He himself bore our sins in his body on the tree, that we may cease from sinning and live for righteousness. By his wounds you were healed.
 
 \
 
 ##### _1 Peter 2:24 (Chinese NET (T))_
 
-###### \
-
 24 他被掛在木頭上，親身擔當了我們的罪，使我們不再犯罪而活在義中；因他受的鞭傷，你們便得了醫治。
 
 \
 
 ##### _Isaiah 53:4-5 (NET)_
-
-###### \
 
 4 But he lifted up our illnesses, he carried our pain; even though we thought he was being punished, attacked by God, and afflicted for something he had done.
 
@@ -745,8 +656,6 @@ So Jesus took all the bad things on Himself and died to pay for them all, so tha
 \
 
 ##### _Isaiah 53:4-5 (Chinese NET (T))_
-
-###### \
 
 4 但他擔當我們的病患，背負我們的痛苦；我們卻以為他受責罰，被 神因他所行的擊打苦待了。
 
@@ -767,23 +676,17 @@ Jesus told His disciples beforehand what would happen to Him in Jerusalem.
 
 ##### _Matthew 16:21 (NET)_
 
-###### \
-
 21 From that time on Jesus began to show his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, chief priests, and experts in the law, and be killed, and on the third day be raised.
 
 \
 
 ##### _Matthew 16:21 (Chinese NET (T))_
 
-###### \
-
 21 從那時開始，耶穌才告訴門徒他必須上耶路撒冷去，受長老、祭司長、律法師許多的苦，並且被殺，第三日復活。
 
 \
 
 ##### _Matthew 26:21-25 (NET)_
-
-###### \
 
 21 And while they were eating he said, “I tell you the truth, one of you will betray me.”
 
@@ -799,8 +702,6 @@ Jesus told His disciples beforehand what would happen to Him in Jerusalem.
 
 ##### _Matthew 26:21-25 (Chinese NET (T))_
 
-###### \
-
 21 正吃的時候，耶穌說：「我實在告訴你們，你們中間有一個人要出賣我。」
 
 22 他們就極其憂傷，相繼地問他說：「主，不是我吧！」
@@ -815,8 +716,6 @@ Jesus told His disciples beforehand what would happen to Him in Jerusalem.
 
 ##### _Mark 14:27-31 (NET)_
 
-###### \
-
 27 Then Jesus said to them, “You will all fall away, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’
 
 28 But after I am raised, I will go ahead of you into Galilee.”
@@ -830,8 +729,6 @@ Jesus told His disciples beforehand what would happen to Him in Jerusalem.
 \
 
 ##### _Mark 14:27-31 (Chinese NET (T))_
-
-###### \
 
 27 耶穌對他們說：「你們都要背棄我，因為經上記着說：『我要擊打牧人，羊就分散了。』
 
@@ -858,8 +755,6 @@ Everything happened exactly as He said it would.
 
 ##### _Luke 22:2-6 (NET)_
 
-###### \
-
 2 The chief priests and the experts in the law were trying to find some way to execute Jesus, for they were afraid of the people.
 
 3 Then Satan entered Judas, the one called Iscariot, who was one of the twelve.
@@ -874,8 +769,6 @@ Everything happened exactly as He said it would.
 
 ##### _Luke 22:2-6 (Chinese NET (T))_
 
-###### \
-
 2 祭司長和律法師想法子怎麼才能除滅耶穌，因他們懼怕百姓。
 
 3 這時，撒但入了那稱為加略人猶大的心，他本是十二個門徒之一。
@@ -889,8 +782,6 @@ Everything happened exactly as He said it would.
 \
 
 ##### _John 18:3-12 (NET)_
-
-###### \
 
 3 So Judas obtained a squad of soldiers and some officers of the chief priests and Pharisees. They came to the orchard with lanterns and torches and weapons.
 
@@ -916,8 +807,6 @@ Everything happened exactly as He said it would.
 
 ##### _John 18:3-12 (Chinese NET (T))_
 
-###### \
-
 3 於是猶大領了一隊兵和祭司長並法利賽人的衛士，拿着燈籠、火把和兵器，來到園裏。
 
 4 耶穌既知道將要臨到自己的一切事，就出來，對他們說：「你們找誰？」
@@ -941,8 +830,6 @@ Everything happened exactly as He said it would.
 \
 
 ##### _Mark 14:53-72 (NET)_
-
-###### \
 
 53 Then they led Jesus to the high priest, and all the chief priests and elders and experts in the law came together.
 
@@ -988,8 +875,6 @@ Everything happened exactly as He said it would.
 
 ##### _Mark 14:53-72 (Chinese NET (T))_
 
-###### \
-
 53 他們就把耶穌帶到大祭司那裏，眾祭司長和長老並律法師都來了。
 
 54 彼得遠遠的跟着耶穌，直到進入大祭司的院裏，和差役一同坐在火旁取暖。
@@ -1034,8 +919,6 @@ Everything happened exactly as He said it would.
 
 ##### _Acts 2:22-24 (NET)_
 
-###### \
-
 22 “Men of Israel, listen to these words: Jesus the Nazarene, a man clearly attested to you by God with powerful deeds, wonders, and miraculous signs that God performed among you through him, just as you yourselves know –
 
 23 this man, who was handed over by the predetermined plan and foreknowledge of God, you executed by nailing him to a cross at the hands of Gentiles.
@@ -1046,8 +929,6 @@ Everything happened exactly as He said it would.
 
 ##### _Acts 2:22-24 (Chinese NET (T))_
 
-###### \
-
 22 「以色列人哪！留心聽這些話： 神藉着在你們中間所施行的異能奇事神蹟，已經將拿撒勒人耶穌證明出來；這是你們自己知道的。
 
 23 這位耶穌既按着 神的定旨先見被交與人，你們就藉着外邦人的手把他釘在十字架上殺了。
@@ -1057,8 +938,6 @@ Everything happened exactly as He said it would.
 \
 
 ##### _John 20:1-18 (NET)_
-
-###### \
 
 1 Now very early on the first day of the week, while it was still dark, Mary Magdalene came to the tomb and saw that the stone had been moved away from the entrance.
 
@@ -1099,8 +978,6 @@ Everything happened exactly as He said it would.
 \
 
 ##### _John 20:1-18 (Chinese NET (T))_
-
-###### \
 
 1 七日的第一日清早，天還黑的時候，抹大拉的馬利亞來到墳墓那裏，看見石頭從墳墓移開了，
 
@@ -1153,8 +1030,6 @@ He was seen alive by many of His disciples and then was taken up into Heaven.
 
 ##### _1 Corinthians 15:3-8 (NET)_
 
-###### \
-
 3 For I passed on to you as of first importance what I also received – that Christ died for our sins according to the scriptures,
 
 4 and that he was buried, and that he was raised on the third day according to the scriptures,
@@ -1170,8 +1045,6 @@ He was seen alive by many of His disciples and then was taken up into Heaven.
 \
 
 ##### _1 Corinthians 15:3-8 (Chinese NET (T))_
-
-###### \
 
 3 我當日所領受又傳給你們的，最重要的，就是基督照聖經所說為我們的罪死了，
 
@@ -1189,8 +1062,6 @@ He was seen alive by many of His disciples and then was taken up into Heaven.
 
 ##### _Acts 1:6-11 (NET)_
 
-###### \
-
 6 So when they had gathered together, they began to ask him, “Lord, is this the time when you are restoring the kingdom to Israel?”
 
 7 He told them, “You are not permitted to know the times or periods that the Father has set by his own authority.
@@ -1206,8 +1077,6 @@ He was seen alive by many of His disciples and then was taken up into Heaven.
 \
 
 ##### _Acts 1:6-11 (Chinese NET (T))_
-
-###### \
 
 6 他們集合了以後，就問耶穌說：「主啊！你復興以色列國，就在這時候嗎？」
 
@@ -1236,8 +1105,6 @@ We need to believe in Him, turn away from sin, and receive Him into our hearts. 
 
 ##### _John 1:12-13 (NET)_
 
-###### \
-
 12 But to all who have received him – those who believe in his name – he has given the right to become God’s children
 
 13 – children not born by human parents or by human desire or a husband’s decision, but by God.
@@ -1245,8 +1112,6 @@ We need to believe in Him, turn away from sin, and receive Him into our hearts. 
 \
 
 ##### _John 1:12-13 (Chinese NET (T))_
-
-###### \
 
 12 凡接待他的，就是信他名的人，他就賜他們權柄，作 神的兒女。
 
@@ -1256,15 +1121,11 @@ We need to believe in Him, turn away from sin, and receive Him into our hearts. 
 
 ##### _John 5:14 (NET)_
 
-###### \
-
 14 After this Jesus found him at the temple and said to him, “Look, you have become well. Don’t sin any more, lest anything worse happen to you.”
 
 \
 
 ##### _John 5:14 (Chinese NET (T))_
-
-###### \
 
 14 後來耶穌在殿裏遇見他，對他說：「你已經痊癒了，不要再犯罪，否則你的遭遇會更壞。」
 
@@ -1283,8 +1144,6 @@ Whenever we sin, we must be open and honest with Jesus and confess our sin to Hi
 
 ##### _1 John 1:6-10 (NET)_
 
-###### \
-
 6 If we say we have fellowship with him and yet keep on walking in the darkness, we are lying and not practicing the truth.
 
 7 But if we walk in the light as he himself is in the light, we have fellowship with one another and the blood of Jesus his Son cleanses us from all sin.
@@ -1298,8 +1157,6 @@ Whenever we sin, we must be open and honest with Jesus and confess our sin to Hi
 \
 
 ##### _1 John 1:6-10 (Chinese NET (T))_
-
-###### \
 
 6 我們若說是與 神相交，卻仍在黑暗裏行，就是說謊話，不行真理了。
 
@@ -1326,8 +1183,6 @@ Following Jesus isn’t easy, but it’s worth it.
 
 ##### _Matthew 22:37-40 (NET)_
 
-###### \
-
 37 Jesus said to him, “‘Love the Lord your God with all your heart, with all your soul, and with all your mind.’
 
 38 This is the first and greatest commandment.
@@ -1339,8 +1194,6 @@ Following Jesus isn’t easy, but it’s worth it.
 \
 
 ##### _Matthew 22:37-40 (Chinese NET (T))_
-
-###### \
 
 37 耶穌對他說：「你要盡心、盡性、盡意，愛主你的 神，
 
@@ -1354,8 +1207,6 @@ Following Jesus isn’t easy, but it’s worth it.
 
 ##### _Matthew 7:12-14 (NET)_
 
-###### \
-
 12 In everything, treat others as you would want them to treat you, for this fulfills the law and the prophets.
 
 13 “Enter through the narrow gate, because the gate is wide and the way is spacious that leads to destruction, and there are many who enter through it.
@@ -1366,8 +1217,6 @@ Following Jesus isn’t easy, but it’s worth it.
 
 ##### _Matthew 7:12-14 (Chinese NET (T))_
 
-###### \
-
 12 所以，無論何事，你們願意人怎樣待你們，你們也要怎樣待人，因為這就滿足律法和先知。
 
 13 「你們要進窄門，因為引到滅亡的門是闊的，路是大的，進去的人也多。
@@ -1377,8 +1226,6 @@ Following Jesus isn’t easy, but it’s worth it.
 \
 
 ##### _Matthew 16:24-27 (NET)_
-
-###### \
 
 24 Then Jesus said to his disciples, “If anyone wants to become my follower, he must deny himself, take up his cross, and follow me.
 
@@ -1391,8 +1238,6 @@ Following Jesus isn’t easy, but it’s worth it.
 \
 
 ##### _Matthew 16:24-27 (Chinese NET (T))_
-
-###### \
 
 24 然後耶穌對門徒說：「若有人要跟從我，就必須放下自我，背起他的十字架來跟從我。
 
@@ -1417,8 +1262,6 @@ One day Jesus will come back suddenly -- when no one is expecting Him.
 
 ##### _Matthew 24:36-44 (NET)_
 
-###### \
-
 36 “But as for that day and hour no one knows it – not even the angels in heaven – except the Father alone.
 
 37 For just like the days of Noah were, so the coming of the Son of Man will be.
@@ -1440,8 +1283,6 @@ One day Jesus will come back suddenly -- when no one is expecting Him.
 \
 
 ##### _Matthew 24:36-44 (Chinese NET (T))_
-
-###### \
 
 36 「但那日子、那時刻，沒有人知道，連天上的天使也不知道，只有父知道。
 
@@ -1476,8 +1317,6 @@ Everyone on earth will see Him; it will not be a secret.
 
 ##### _Matthew 24:23-27 (NET)_
 
-###### \
-
 23 Then if anyone says to you, ‘Look, here is the Christ!’ or ‘There he is!’ do not believe him.
 
 24 For false messiahs and false prophets will appear and perform great signs and wonders to deceive, if possible, even the elect.
@@ -1491,8 +1330,6 @@ Everyone on earth will see Him; it will not be a secret.
 \
 
 ##### _Matthew 24:23-27 (Chinese NET (T))_
-
-###### \
 
 23 那時，若有人對你們說『基督在這裏』，或說『基督在那裏』，你們不要相信。
 
@@ -1519,8 +1356,6 @@ He will gather all those who belong to Him and take us home.
 
 ##### _Matthew 24:29-31 (NET)_
 
-###### \
-
 29 “Immediately after the suffering of those days, the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of heaven will be shaken.
 
 30 Then the sign of the Son of Man will appear in heaven, and all the tribes of the earth will mourn. They will see the Son of Man arriving on the clouds of heaven with power and great glory.
@@ -1530,8 +1365,6 @@ He will gather all those who belong to Him and take us home.
 \
 
 ##### _Matthew 24:29-31 (Chinese NET (T))_
-
-###### \
 
 29 「那些日子的災難一過去，日頭就變黑，月亮也不放光，眾星要從天上墜落，天勢都要震動。
 
@@ -1554,8 +1387,6 @@ He warned us that before He comes back there would be many false prophets, false
 
 ##### _Matthew 24:4-5 (NET)_
 
-###### \
-
 4 Jesus answered them, “Watch out that no one misleads you.
 
 5 For many will come in my name, saying, ‘I am the Christ,’ and they will mislead many.
@@ -1564,8 +1395,6 @@ He warned us that before He comes back there would be many false prophets, false
 
 ##### _Matthew 24:4-5 (Chinese NET (T))_
 
-###### \
-
 4 耶穌回答說：「你們要謹慎，免得有人誤導你們。
 
 5 因為許多人將會冒我的名來，說：『我是基督。』他們要誤導許多人。
@@ -1573,8 +1402,6 @@ He warned us that before He comes back there would be many false prophets, false
 \
 
 ##### _Matthew 24:11-13 (NET)_
-
-###### \
 
 11 And many false prophets will appear and deceive many,
 
@@ -1586,8 +1413,6 @@ He warned us that before He comes back there would be many false prophets, false
 
 ##### _Matthew 24:11-13 (Chinese NET (T))_
 
-###### \
-
 11 且有好些假先知出現，迷惑許多人。
 
 12 因不法的事劇增，許多人的愛心都變成冷淡了。
@@ -1597,8 +1422,6 @@ He warned us that before He comes back there would be many false prophets, false
 \
 
 ##### _2 Thessalonians 2:8-12 (NET)_
-
-###### \
 
 8 and then the lawless one will be revealed, whom the Lord will destroy by the breath of his mouth and wipe out by the manifestation of his arrival.
 
@@ -1613,8 +1436,6 @@ He warned us that before He comes back there would be many false prophets, false
 \
 
 ##### _2 Thessalonians 2:8-12 (Chinese NET (T))_
-
-###### \
 
 8 這不法的人必被顯露出來，主要用口中的氣殲滅他，用降臨的榮光除去他。
 
@@ -1641,8 +1462,6 @@ He explained to us beforehand how we could recognize them and avoid being deceiv
 
 ##### _Matthew 7:15-20 (NET)_
 
-###### \
-
 15 “Watch out for false prophets, who come to you in sheep’s clothing but inwardly are voracious wolves.
 
 16 You will recognize them by their fruit. Grapes are not gathered from thorns or figs from thistles, are they?
@@ -1658,8 +1477,6 @@ He explained to us beforehand how we could recognize them and avoid being deceiv
 \
 
 ##### _Matthew 7:15-20 (Chinese NET (T))_ 
-
-###### \
 
 15 「提防假先知，他們披着羊皮到你們這裏來，裏面卻是殘暴的狼。
 
@@ -1677,8 +1494,6 @@ He explained to us beforehand how we could recognize them and avoid being deceiv
 
 ##### _John 8:31-32 (NET)_
 
-###### \
-
 31 Then Jesus said to those Judeans who had believed him, “If you continue to follow my teaching, you are really my disciples
 
 32 and you will know the truth, and the truth will set you free.”
@@ -1686,8 +1501,6 @@ He explained to us beforehand how we could recognize them and avoid being deceiv
 \
 
 ##### _John 8:31-32 (Chinese NET (T))_
-
-###### \
 
 31 耶穌對信他的猶太人說：「你們若繼續遵守我的道，就真是我的門徒。
 
@@ -1714,8 +1527,6 @@ God wants to rescue everyone who is willing.
 
 ##### _2 Peter 3:3-9 (NET)_
 
-###### \
-
 3 Above all, understand this: In the last days blatant scoffers will come, being propelled by their own evil urges
 
 4 and saying, “Where is his promised return? For ever since our ancestors died, all things have continued as they were from the beginning of creation.”
@@ -1733,8 +1544,6 @@ God wants to rescue everyone who is willing.
 \
 
 ##### _2 Peter 3:3-9 (Chinese NET (T))_
-
-###### \
 
 3 最要緊的，該知道在末世必有肆意嘲弄的人，依照自己的惡慾出來譏誚說：
 
@@ -1765,8 +1574,6 @@ Jesus commanded us to tell others the Good News, to baptize those who believe, a
 
 ##### _Mark 16:15-20 (NET)_
 
-###### \
-
 15 He said to them, “Go into all the world and preach the gospel to every creature.
 
 16 The one who believes and is baptized will be saved, but the one who does not believe will be condemned.
@@ -1782,8 +1589,6 @@ Jesus commanded us to tell others the Good News, to baptize those who believe, a
 \
 
 ##### _Mark 16:15-20 (Chinese NET (T))_
-
-###### \
 
 15 他又對他們說：「你們往普天下去，傳福音給萬民聽。
 
@@ -1801,8 +1606,6 @@ Jesus commanded us to tell others the Good News, to baptize those who believe, a
 
 ##### _Matthew 28:18-20 (NET)_
 
-###### \
-
 18 Then Jesus came up and said to them, “All authority in heaven and on earth has been given to me.
 
 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and the Son and the Holy Spirit,
@@ -1812,8 +1615,6 @@ Jesus commanded us to tell others the Good News, to baptize those who believe, a
 \
 
 ##### _Matthew 28:18-20 (Chinese NET (T))_
-
-###### \
 
 18 於是耶穌進前來，對他們說：「天上地下所有的權柄都賜給我了。
 

@@ -14,8 +14,6 @@ One day, God will bring real justice to this earth.
 
 ##### _Malachi 4:1-3 (ESV)_
 
-###### \
-
 1 “For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze," says the LORD of hosts, "so that it will leave them neither root nor branch.
 
 \
@@ -27,8 +25,6 @@ One day, God will bring real justice to this earth.
 \
 
 ##### _Malachi 4:1-3 (Translated from ESV)_
-
-###### \
 
 1 「看哪，日子將到，那日子將像火爐一樣燃燒，那時所有傲慢的人和所有作惡的人都將變成碎秸。」萬軍之耶和華說，「將來的日子必將他們焚燒，他們必不留根和枝。」
 
@@ -59,8 +55,6 @@ We must turn away from sin and evil, and put our trust in Jesus.
 
 ##### _2 Peter 3:9-14,17-18 (ESV)_
 
-###### \
-
 9 The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
 
 \
@@ -90,8 +84,6 @@ We must turn away from sin and evil, and put our trust in Jesus.
 \
 
 ##### _2 Peter 3:9-14,17-18 (Chinese NET (T))_
-
-###### \
 
 9 主所應許的尚未成就，有人以為他是耽延，其實不是耽延，乃是寬容你們，因他不願有一人沉淪，乃願人人都悔改。
 
@@ -134,8 +126,6 @@ Jesus said that before the end comes, His followers will see terrible times:
 
 ##### _Matthew 10:21-22 (ESV)_
 
-###### \
-
 21 "Brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death,
 
 22 and you will be hated by all for my name's sake. But the one who endures to the end will be saved."
@@ -143,8 +133,6 @@ Jesus said that before the end comes, His followers will see terrible times:
 \
 
 ##### _Matthew 10:21-22 (Chinese NET (T))_
-
-###### \
 
 21 「弟兄要把弟兄送到死地，父親對兒女也是一樣。兒女要與父母為敵，害死他們。
 
@@ -154,8 +142,6 @@ Jesus said that before the end comes, His followers will see terrible times:
 \
 
 ##### _Matthew 24:9-13 (ESV)_
-
-###### \
 
 9 “Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake.
 
@@ -174,8 +160,6 @@ Jesus said that before the end comes, His followers will see terrible times:
 \
 
 ##### _Matthew 24:9-13 (Chinese NET (T))_
-
-###### \
 
 9 「那時候，世人要逼迫你們，也要殺害你們，你們也要為我的名被萬民憎恨。
 
@@ -218,8 +202,6 @@ Jesus *is* our trustworthy hope.
 
 ##### _Revelation 21:1-4 (ESV)_
 
-###### \
-
 1 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more.
 
 \
@@ -235,8 +217,6 @@ Jesus *is* our trustworthy hope.
 \
 
 ##### _Revelation 21:1-4 (Chinese NET (T))_
-
-###### \
 
 1 然後，我看見一個新天新地，因為第一個天地不再存在了，海也不再有了。
 

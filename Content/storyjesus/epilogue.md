@@ -8,8 +8,6 @@ translateLink: epilogue
 
 ##### _1 Peter 1:3-7 (ESV)_
 
-###### \
-
 3 Blessed be the God and Father of our Lord Jesus Christ! 
 
 According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,
@@ -25,8 +23,6 @@ According to his great mercy, he has caused us to be born again to a living hope
 \
 
 ##### _1 Peter 1:3-7 (Chinese NET (T))_
-
-###### \
 
 3 願頌讚歸與 神、我們主耶穌基督的父！
 

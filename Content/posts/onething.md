@@ -14,8 +14,6 @@ When faced with two sisters who responded to Him in two different ways, resultin
 
 ##### _Luke 10:38-42 (ESV)_
 
-###### \
-
 38 Now as they went on their way, Jesus entered a village. And a woman named Martha welcomed him into her house.
 
 39 And she had a sister called Mary, who sat at the Lord's feet and listened to his teaching.
@@ -33,8 +31,6 @@ When faced with two sisters who responded to Him in two different ways, resultin
 \
 
 ##### _Luke 10:38-42 (Chinese NET (T))_
-
-###### \
 
 38 他們前行的時候，耶穌進了一個村莊，有一個女人名叫馬大，接待他到自己家裏。
 
