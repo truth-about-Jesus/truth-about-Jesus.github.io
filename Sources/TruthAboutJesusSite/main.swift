@@ -43,7 +43,7 @@ struct TruthAboutJesusSite: Website {
 
 // This will generate your website using the built-in Foundation theme:
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme, additionalSteps: [.sortItems(by: \.date, order: .ascending)])
-print("** FIRST: Fix resource files! But keep styles.css in root. **")
+print("** FIRST: Move favicon.png into images/! Keep styles.css in root. **")
 print("** TO DO: Delete docs, rename Output to docs. **")
 var home: String = ""
 //if #available(macOS 13.0, *) {
