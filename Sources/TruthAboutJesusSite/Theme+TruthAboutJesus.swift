@@ -288,15 +288,10 @@ private struct SiteFooter: Component {
                 Link("Generated using 使用生成的 Publish", url: "https://github.com/johnsundell/publish")
             }
             Paragraph {
-                Link("English font 英語字型: OpenDyslexic-Alta", url: "https://opendyslexic.org" )
-            }
-            Paragraph {
                 Link("RSS feed 提要", url: "/feed.rss")
             }
             Paragraph {
-                Text("© 2024-2025 ")
-                Link("Enid Ning", url: "mailto: truth-about-jesus@proton.me")
-                Text(", in collaboration with Jesus of Nazareth, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe.")
+                Text("Jesus of Nazareth, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe.")
             }
             .style("margin-bottom: 40px;")
         }
