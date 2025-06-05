@@ -249,7 +249,7 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
                 if item.description != "?" {
                     let splitDescription = item.description.components(separatedBy: "  ")
                     Paragraph(splitDescription[0])
-//                    H6("&nbsp;")
+                    H6("&nbsp;")
                     Paragraph(splitDescription[1])
                         .class("description")
                 }

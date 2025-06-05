@@ -49,25 +49,12 @@ var home: String = ""
 //if #available(macOS 13.0, *) {
 //    home = FileManager.default.homeDirectoryForCurrentUser.path()
 //} else {
-    home = FileManager.default.homeDirectoryForCurrentUser.path
+//    home = FileManager.default.homeDirectoryForCurrentUser.path
 //}
-print(home)
+//print(home)
 //
-let originPath = home + "Documents/truth-about-jesus.github.io/Output"
-print(originPath)
-let deleteFile = originPath + "/imagesfavicon.png"
-let moveFile = originPath + "/favicon.png"
-let targetPath = originPath + "/images/favicon.png"
-do {
-    try FileManager.default.removeItem(atPath: deleteFile)
-} catch {
-    print("Error deleting imagesfavicon.png: \(error)")
-}
-do {
-    try FileManager.default.moveItem(atPath: moveFile, toPath: targetPath)
-} catch {
-    print("/nError moving favicon.png: \(error)")
-}
+//let originPath = home + "Documents/truth-about-jesus.github.io/Output"
+//print(originPath)
 //let targetPath = home + "Documents/truth-about-jesus.github.io/docs"
 //print(targetPath)
 //do {
