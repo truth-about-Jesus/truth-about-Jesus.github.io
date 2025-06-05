@@ -13,19 +13,7 @@ extension Theme where Site == TruthAboutJesusSite {
     static var truthAboutJesusTheme: Self {
         Theme(
             htmlFactory: TruthAboutJesusHTMLFactory(),
-            resourcePaths: [
-//                             "Resources/css/styles.css",
-                             "Resources/images/favicon.png",
-//                             "Resources/fonts/OpenDyslexicMono-Regular.otf",
-//                             "Resources/fonts/OpenDyslexicAlta-Regular.otf",
-//                             "Resources/fonts/OpenDyslexicAlta-Italic.otf",
-//                             "Resources/fonts/OpenDyslexicAlta-BoldItalic.otf",
-//                             "Resources/fonts/OpenDyslexicAlta-Bold.otf",
-//                             "Resources/fonts/OpenDyslexic-Regular.otf",
-//                             "Resources/fonts/OpenDyslexic-Italic.otf",
-//                             "Resources/fonts/OpenDyslexic-BoldItalic.otf",
-//                             "Resources/fonts/OpenDyslexic-Bold.otf"
-                           ]
+            resourcePaths: ["Resources/images/favicon.png"]
         )
     }
 }
@@ -46,13 +34,14 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                         Text(translateSymbol)
                         Link("Translate this website with Google", url: TruthAboutJesusSite.TranslateInfo.translateToEnglish)
                     }
+                    .class("translate-link no-bottom-space")
                     Paragraph {
                         Text(translateSymbol)
                         Link("用谷歌翻譯這個網站", url: TruthAboutJesusSite.TranslateInfo.translateToChinese)
                     }
-
+                    .class("translate-link bottom-space")
                     H1(index.title)
-                        .class("nobreak")
+                        .class("nobreak bottom-space")
                     Paragraph {
                         Text("\"\(context.site.descriptionE.part1)\" ")
                         Text(" \(context.site.descriptionE.part2)")

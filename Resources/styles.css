@@ -161,7 +161,7 @@ h1, a:hover, .tag-list a:hover,
 
 .item-list h1 {
     color: #006F71;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
     font-size: 1.3em;
 }
 
@@ -170,7 +170,7 @@ h1, a:hover, .tag-list a:hover,
 }
 
 .tag-list {
-    margin-top: 25px;
+    margin-top: 15px;
     margin-bottom: 10px;
 }
 
