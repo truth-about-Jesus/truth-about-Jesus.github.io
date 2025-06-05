@@ -7,26 +7,26 @@
 
 @font-face {
     font-family: OpenDyslexic-Alta;
-    src: url('fonts/OpenDyslexicAlta-Regular.otf');
+    src: url('OpenDyslexicAlta-Regular.otf');
 }
 
 @font-face {
     font-family: OpenDyslexic-Alta;
     font-weight: bold;
-    src: url('fonts/OpenDyslexicAlta-Bold.otf');
+    src: url('OpenDyslexicAlta-Bold.otf');
 }
 
 @font-face {
     font-family: OpenDyslexic-Alta;
     font-style: italic;
-    src: url('fonts/OpenDyslexicAlta-Italic.otf');
+    src: url('OpenDyslexicAlta-Italic.otf');
 }
 
 @font-face {
     font-family: OpenDyslexic-Alta;
     font-weight: bold;
     font-style: italic;
-    src: url('fonts/OpenDyslexicAlta-BoldItalic.otf')
+    src: url('OpenDyslexicAlta-BoldItalic.otf')
 }
 
 * {
@@ -170,7 +170,7 @@ h1, a:hover, .tag-list a:hover,
 }
 
 .tag-list {
-    margin-top: 5px;
+    margin-top: 25px;
     margin-bottom: 10px;
 }
 
