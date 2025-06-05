@@ -5,6 +5,30 @@
 *  MIT license, see LICENSE file for details)
 */
 
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    src: url('fonts/OpenDyslexicAlta-Regular.otf');
+}
+
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    font-weight: bold;
+    src: url('fonts/OpenDyslexicAlta-Bold.otf');
+}
+
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    font-style: italic;
+    src: url('fonts/OpenDyslexicAlta-Italic.otf');
+}
+
+@font-face {
+    font-family: OpenDyslexic-Alta;
+    font-weight: bold;
+    font-style: italic;
+    src: url('fonts/OpenDyslexicAlta-BoldItalic.otf')
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -14,10 +38,9 @@
 body {
     background: #D6F3FF;
     color: #222;
-    font-family: Verdana, Arial, sans-serif;
+    font-family: OpenDyslexic-Alta, Verdana, Arial, sans-serif;
     font-size: 100%
     text-align: center;
-    line-height: 1.7em;
 }
 
 .wrapper {
@@ -70,7 +93,7 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
-    line-height: 2em;
+    max-width: 80%;
 }
 
 h2 {

@@ -106,7 +106,7 @@ but you will receive power when the Holy Spirit comes upon you, and you will be 
 
 \
 
-_witnesses_ 
+*witnesses* 
 
 證人
 

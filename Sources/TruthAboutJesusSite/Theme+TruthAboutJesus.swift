@@ -15,7 +15,16 @@ extension Theme where Site == TruthAboutJesusSite {
             htmlFactory: TruthAboutJesusHTMLFactory(),
             resourcePaths: [
                              "Resources/css/styles.css",
-                             "Resources/images/favicon.png"
+                             "Resources/images/favicon.png",
+                             "Resources/fonts/OpenDyslexicMono-Regular.otf",
+                             "Resources/fonts/OpenDyslexicAlta-Regular.otf",
+                             "Resources/fonts/OpenDyslexicAlta-Italic.otf",
+                             "Resources/fonts/OpenDyslexicAlta-BoldItalic.otf",
+                             "Resources/fonts/OpenDyslexicAlta-Bold.otf",
+                             "Resources/fonts/OpenDyslexic-Regular.otf",
+                             "Resources/fonts/OpenDyslexic-Italic.otf",
+                             "Resources/fonts/OpenDyslexic-BoldItalic.otf",
+                             "Resources/fonts/OpenDyslexic-Bold.otf"
                            ]
         )
     }
