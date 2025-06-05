@@ -49,6 +49,8 @@ into never-ending joy.
 
 ##### *John 16:20-22 (NIV)*
 
+###### \
+
 20 "Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.
 
 21 A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world.
@@ -58,6 +60,8 @@ into never-ending joy.
 \
 
 ##### *John 16:20-22 (Chinese NET (T))*
+
+###### \
 
 20 我告訴你們嚴肅的真理，你們要痛哭、哀號，世界倒要喜樂。你們將要憂愁，然而你們的憂愁要變為喜樂。
 

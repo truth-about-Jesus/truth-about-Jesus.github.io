@@ -14,6 +14,8 @@ Once, when Jesus was teaching his disciples amid a large crowd on a mountain, He
 
 ##### _Matthew 7:24-25 (ESV)_
 
+###### \
+
 24 “Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock.
 
 25 And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.”
@@ -21,6 +23,8 @@ Once, when Jesus was teaching his disciples amid a large crowd on a mountain, He
 \
 
 ##### _Matthew 7:24-25 (Chinese NET (T))_
+
+###### \
 
 24 「凡聽見我這些話又去行的，就好像一個聰明人把房子蓋在磐石上。
 
@@ -47,6 +51,8 @@ He also warned what would happen if not:
 
 ##### _Matthew 7:26-27 (ESV)_
 
+###### \
+
 26 “And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand.
 
 27 And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it.”
@@ -54,6 +60,8 @@ He also warned what would happen if not:
 \
 
 ##### _Matthew 7:26-27 (Chinese NET (T))_
+
+###### \
 
 26 凡聽見我這些話卻不去行的，就好像一個愚蠢人把房子蓋在沙土上。
 

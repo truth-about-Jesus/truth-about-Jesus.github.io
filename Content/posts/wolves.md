@@ -20,11 +20,15 @@ Some will even be willing to harm others in order to get what they want.
 
 ##### _Matthew 7:15 (ESV)_
 
+###### \
+
 15 “Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves.”
 
 \
 
 ##### _Matthew 7:15 (Chinese NET (T))_
+
+###### \
 
 15 「提防假先知，他們披着羊皮到你們這裏來，裏面卻是殘暴的狼。
 
@@ -43,6 +47,8 @@ He gave us a clear and simple way to recognize them: by their fruits.
 
 ##### _Matthew 7:16-20 (ESV)_
 
+###### \
+
 16 “You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles?
 
 17 So, every healthy tree bears good fruit, but the diseased tree bears bad fruit.
@@ -56,6 +62,8 @@ He gave us a clear and simple way to recognize them: by their fruits.
 \
 
 ##### _Matthew 7:16-20 (Chinese NET (T))_
+
+###### \
 
 16 你們憑着他們的果子，就可以認出他們來。荊棘上豈能摘葡萄呢？蒺藜裏豈能摘無花果呢？
 
@@ -88,6 +96,8 @@ What is *bad* fruit?
 
 ##### _Galatians 5:19-21 (ESV)_
 
+###### \
+
 19 Now the works of the flesh are evident: sexual immorality, impurity, sensuality,
 
 20 idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions,
@@ -97,6 +107,8 @@ What is *bad* fruit?
 \
 
 ##### _Galatians 5:19-21 (Chinese NET (T))_
+
+###### \
 
 19 肉體的事，都是顯而易見的，就如姦淫、污穢、邪蕩、
 
@@ -119,6 +131,8 @@ What is *good* fruit?
 
 ##### _Galatians 5:22-24 (ESV)_
 
+###### \
+
 22 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
 
 23 gentleness, self-control; against such things there is no law.
@@ -128,6 +142,8 @@ What is *good* fruit?
 \
 
 ##### _Galatians 5:22-24 (Chinese NET (T))_
+
+###### \
 
 22 聖靈所結的果子，就是愛、喜樂、和平、忍耐、恩慈、良善、信實、
 
@@ -156,6 +172,8 @@ So, not everyone can be trusted.
 
 ##### _Matthew 7:21-23 (ESV)_
 
+###### \
+
 21 “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.
 
 22 On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’
@@ -165,6 +183,8 @@ So, not everyone can be trusted.
 \
 
 ##### _Matthew 7:21-23 (Chinese NET (T))_
+
+###### \
 
 21 「不是所有稱呼我『主啊！主啊』的人都能進天國，只有遵行我天父旨意的人才能進去。
 

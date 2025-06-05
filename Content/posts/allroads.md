@@ -37,6 +37,8 @@ While teaching His followers on a mountain, Jesus spoke of two possible ways one
 
 ##### _Matthew 7:13-14 (ESV)_
 
+###### \
+
 13 “Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.
 
 14 For the gate is narrow and the way is hard that leads to life, and those who find it are few."
@@ -44,6 +46,8 @@ While teaching His followers on a mountain, Jesus spoke of two possible ways one
 \
 
 ##### _Matthew 7:13-14 (Chinese NET (T))_
+
+###### \
 
 13 「你們要進窄門，因為引到滅亡的門是闊的，路是大的，進去的人也多。
 
@@ -76,6 +80,8 @@ Later, while speaking with the Jews in Jerusalem, Jesus called Himself "the Door
 
 ##### _John 10:7-10 (ESV)_
 
+###### \
+
 7 So Jesus again said to them, “Truly, truly, I say to you, I am the door of the sheep.
 
 8 All who came before me are thieves and robbers, but the sheep did not listen to them.
@@ -87,6 +93,8 @@ Later, while speaking with the Jews in Jerusalem, Jesus called Himself "the Door
 \
 
 ##### _John 10:7-10 (Chinese NET (T))_
+
+###### \
 
 7 所以耶穌又對他們說：「我告訴你們嚴肅的真理，我就是羊的門。
 
@@ -111,11 +119,15 @@ Jesus called Himself "the Way" when speaking with His Apostles the night before 
 
 ##### _John 14:6 (ESV)_
 
+###### \
+
 6 Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me."
 
 \
 
 ##### _John 14:6 (Chinese NET (T))_
+
+###### \
 
 6 耶穌說：「我就是道路、真理、生命；若不藉着我，沒有人能到父那裏去。
 

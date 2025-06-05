@@ -49,6 +49,8 @@ Jesus warned us ahead of time about all these problems:
 
 ##### _Matthew 24:6-8 (TCENT)_
 
+###### \
+
 6 “You will hear of wars and rumors of wars. See that you are not alarmed, for all these things must take place, but the end is not yet. 
 
 7 For nation will rise up against nation, and kingdom against kingdom. There will be famines, plagues, and earthquakes in various places.
@@ -58,6 +60,8 @@ Jesus warned us ahead of time about all these problems:
 \
 
 ##### _Matthew 24:6-8 (Chinese NET (T))_
+
+###### \
 
 6 你們會聽見打仗和打仗的謠言，但不要驚慌，因為這些事是必須有的，只是末日還沒有到。
 
@@ -75,6 +79,8 @@ He even says things will get much worse!
 
 ##### _Luke 21:25-26 (TCENT)_
 
+###### \
+
 25 “There will be signs in the sun, moon, and stars, and on the earth there will be distress among the nations as they are perplexed by the roaring sea and the surging waves.
 
 26 People will faint from fear and foreboding of what is coming upon the world, for the powers of the heavens will be shaken.”
@@ -82,6 +88,8 @@ He even says things will get much worse!
 \
 
 ##### _Luke 21:25-26 (Chinese NET (T))_
+
+###### \
 
 25 「日月星辰要顯出異兆，地上的邦國必有困苦，因海的聲音和浪的澎湃，就驚慌不定。
 
@@ -102,6 +110,8 @@ But at the end of it all, He will come back to take His children home.
 
 ##### _Luke 21:27-28 (TCENT)_
 
+###### \
+
 27 “Then they will see the Son of Man coming in a cloud with power and great glory.
 
 28 So when these things begin to take place, stand tall and lift up your heads, for your redemption is near.”
@@ -109,6 +119,8 @@ But at the end of it all, He will come back to take His children home.
 \
 
 ##### _Luke 21:27-28 (Chinese NET (T))_
+
+###### \
 
 27 那時，他們要看見人子帶着能力和大榮耀駕雲降臨。
 
@@ -129,6 +141,8 @@ It is tempting in times like these, while waiting for Jesus to come take us home
 
 ##### _Luke 21:34-36 (TCENT)_
 
+###### \
+
 34 “Watch yourselves, lest your hearts be weighed down with carousing, drunkenness, and the cares of this life, and that day come upon you suddenly.
 
 35 For it will come like a trap upon all who dwell on the face of the whole earth.
@@ -138,6 +152,9 @@ It is tempting in times like these, while waiting for Jesus to come take us home
 \
 
 ##### _Luke 21:34-36 (Chinese NET (T))_
+
+###### \
+
 
 34 「你們要謹慎，不要被縱情醉酒並今生的思慮累住你們的心，而由得那日子如同網羅忽然臨到你們，
 
@@ -159,6 +176,8 @@ In fact, Jesus reassures us that we don't need to worry or be afraid at all beca
 \
 
 ##### _Matthew 6:25-32 (GNB)_
+
+###### \
 
 25 "This is why I tell you: do not be worried about the food and drink you need in order to stay alive, or about clothes for your body. After all, isn't life worth more than food? And isn't the body worth more than clothes?
 
@@ -183,6 +202,8 @@ In fact, Jesus reassures us that we don't need to worry or be afraid at all beca
 \
 
 ##### _Matthew 6:25-32 (Chinese NET (T))_
+
+###### \
 
 25 「所以我告訴你們，不要為生命憂慮吃甚麼、喝甚麼，或為身體憂慮穿甚麼。生命不重於飲食嗎？身體不重於衣裳嗎？
 
@@ -231,11 +252,15 @@ Perhaps this is the key: Jesus commands us to spend our time not chasing after t
 
 ##### _Matthew 6:33 (ESV)_
 
+###### \
+
 33 But seek first the kingdom of God and his righteousness, and all these things will be added to you.
 
 \
 
 ##### _Matthew 6:33 (Chinese NET (T))_
+
+###### \
 
 33 你們要先求他的國和他的義，這一切東西也會給你們了。
 
@@ -249,11 +274,15 @@ As we do so, we will be taken care of on a daily basis, and we will not need to 
 
 ##### _Matthew 6:34 (NET)_
 
+###### \
+
 34 So then, do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.
 
 \
 
 ##### _Matthew 6:34 (Chinese NET (T))_
+
+###### \
 
 34 所以不要為明天憂慮，因為明天自有明天的憂慮，今天的難處也夠受了。
 
@@ -295,6 +324,8 @@ Jesus strongly encouraged His followers to remain in His word:
 
 ##### _John 8:31-32 (TCENT)_
 
+###### \
+
 31 Then Jesus said to the Jews who had believed in him, “If you abide in my word, you are truly my disciples.
 
 32 Then you will know the truth, and the truth will set you free.”
@@ -302,6 +333,8 @@ Jesus strongly encouraged His followers to remain in His word:
 \
 
 ##### _John 8:31-32 (Chinese NET (T))_
+
+###### \
 
 31 耶穌對信他的猶太人說：「你們若繼續遵守我的道，就真是我的門徒。
 
@@ -317,11 +350,15 @@ Jesus’ words will still be in force when everything else has been destroyed. H
 
 ##### _Luke 21:33 (TCENT)_
 
+###### \
+
 33 “Heaven and earth will pass away, but my words will certainly not pass away.”
 
 \
 
 ##### _Luke 21:33 (Chinese NET (T))_
+
+###### \
 
 33 天地都要廢去，我的話卻永不會廢去。
 
@@ -333,6 +370,8 @@ Jesus’ words will still be in force when everything else has been destroyed. H
 \
 
 ##### _Revelation 21:1-8 (ESV)_
+
+###### \
 
 1 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more.
 
@@ -363,6 +402,8 @@ Jesus’ words will still be in force when everything else has been destroyed. H
 \
 
 ##### _Revelation 21:1-8 (Chinese NET (T))_
+
+###### \
 
 1 然後，我看見一個新天新地，因為第一個天地不再存在了，海也不再有了。
 
