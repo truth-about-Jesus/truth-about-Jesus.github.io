@@ -14,7 +14,8 @@ extension Theme where Site == TruthAboutJesusSite {
         Theme(
             htmlFactory: TruthAboutJesusHTMLFactory(),
             resourcePaths: [
-                             "Resources/images/favicon.png"
+                             /*"Resources/styles.css",
+                             "Resources/favicon.png"*/
                            ]
         )
     }
