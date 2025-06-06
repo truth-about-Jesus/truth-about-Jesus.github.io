@@ -291,9 +291,8 @@ private struct SiteFooter: Component {
                 Link("RSS feed 提要", url: "/feed.rss")
             }
             Paragraph {
-                Text("© 2024-2025 ")
-                Link("Enid Ning", url: "mailto: truth-about-jesus@proton.me")
-                Text(", in collaboration with Jesus of Nazareth, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe.")
+                Text("© ")
+                Text("Jesus of Nazareth, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe.")
             }
             .style("margin-bottom: 40px;")
         }
