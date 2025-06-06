@@ -292,7 +292,7 @@ private struct SiteFooter: Component {
             }
             Paragraph {
                 Text("© ")
-                Text("Jesus of Nazareth, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe.")
+                Text("Jesus of Nazareth, Messiah, Son of God, Son of Man, Creator, Sustainer and Ruler of the Universe.")
             }
             .style("margin-bottom: 40px;")
         }
