@@ -13,7 +13,7 @@ extension Theme where Site == TruthAboutJesusSite {
     static var truthAboutJesusTheme: Self {
         Theme(
             htmlFactory: TruthAboutJesusHTMLFactory(),
-            resourcePaths: ["Resources/images/favicon.png"]
+            resourcePaths: []
         )
     }
 }

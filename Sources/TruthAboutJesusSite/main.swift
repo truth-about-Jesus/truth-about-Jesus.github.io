@@ -39,9 +39,13 @@ struct TruthAboutJesusSite: Website {
     
     var language: Language { .english }
     var imagePath: Path? { nil }
+    var favicon: Favicon? {
+        Favicon(path: "favicon.png", type: "image/png")
+    }
 }
 
 // This will generate your website using the built-in Foundation theme:
+print(Path.defaultForFavicon)
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme, additionalSteps: [.sortItems(by: \.date, order: .ascending)])
 print("** FIRST: Fix resource files! But keep styles.css in root. **")
 print("** TO DO: Delete docs, rename Output to docs. **")
@@ -86,3 +90,4 @@ extension String {
         return doubleSpaceArray[1]
     }
 }
+
