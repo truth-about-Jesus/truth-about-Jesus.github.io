@@ -8,7 +8,7 @@ translateLink: sent
  
 Eight or nine earth days later, after a scintillating tour of the cosmos, Jesus arrived home to a joyous welcome.
 
-地球八、九天後，在一次驚天動萬化的宇宙之旅後，耶穌回到家裡，受到了熱烈的歡迎。
+地球八、九天後，在一次精彩化的宇宙之旅後，耶穌回到家裡，受到了熱烈的歡迎。
 
 \
 
@@ -55,7 +55,7 @@ then turned to the Holy Spirit, who was standing before them, waiting patiently.
 
 "You're up."
 
-「你起床了。」
+「輪到你了。」
 
 \
 
