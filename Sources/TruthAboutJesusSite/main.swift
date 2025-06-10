@@ -42,38 +42,38 @@ struct TruthAboutJesusSite: Website {
     var favicon: Favicon? {
         Favicon(path: "favicon.png", type: "image/png")
     }
+    var path: Path? {
+        "/Users/enid/Documents/truth-about-jesus.github.io/docs"
+    }
 }
 
 // This will generate your website using the built-in Foundation theme:
-print(Path.defaultForFavicon)
+
 try TruthAboutJesusSite().publish(withTheme: .truthAboutJesusTheme, additionalSteps: [.sortItems(by: \.date, order: .ascending)])
-print("** FIRST: Fix resource files! But keep styles.css in root. **")
-print("** TO DO: Delete docs, rename Output to docs. **")
+
+// rename Output folder to "docs" for github.io
 var home: String = ""
-//if #available(macOS 13.0, *) {
-//    home = FileManager.default.homeDirectoryForCurrentUser.path()
-//} else {
-//    home = FileManager.default.homeDirectoryForCurrentUser.path
-//}
-//print(home)
-//
-//let originPath = home + "Documents/truth-about-jesus.github.io/Output"
-//print(originPath)
-//let targetPath = home + "Documents/truth-about-jesus.github.io/docs"
-//print(targetPath)
-//do {
-//    try? FileManager.default.removeItem(atPath: targetPath)
-//    sleep(15)
-//    try? FileManager.default
-//        .createDirectory(
-//            at: URL(fileURLWithPath: targetPath),
-//            withIntermediateDirectories: true
-//        )
-//    try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
-//    print("Output folder copied to docs folder successfully!")
-//} catch {
-//    print("there was an error copying the Output folder to the docs folder: \(error)")
-//}
+if #available(macOS 13.0, *) {
+    home = FileManager.default.homeDirectoryForCurrentUser.path()
+} else {
+    home = FileManager.default.homeDirectoryForCurrentUser.path
+}
+print(home)
+
+let originPath = home + "Documents/truth-about-jesus.github.io/Output"
+print(originPath)
+let targetPath = home + "Documents/truth-about-jesus.github.io/docs"
+print(targetPath)
+do {
+    try FileManager.default.removeItem(atPath: targetPath)
+} catch {
+    print("Error removing docs folder: \(error)")
+}
+do {
+    try FileManager.default.copyItem(atPath: originPath, toPath: targetPath)
+} catch {
+    print("there was an error moving the Output folder to the docs folder: \(error)")
+}
 
 
 extension String {
