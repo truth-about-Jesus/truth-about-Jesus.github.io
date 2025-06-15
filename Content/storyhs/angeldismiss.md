@@ -41,7 +41,7 @@ The two angels dropped down lightly a distance behind the disciples, so as not t
 
 \
 
-All in the heavenly realms -- both faithful and fallen -- were well-aware mortals were peculiarly prone to terror.
+All in the heavenly realms -- both faithful and fallen -- were well-aware of the mortals' peculiar propensity to terror.
 
 所有在天堂領域——無論是忠實的還是墮落的——都深知凡人特別容易受到恐懼。
 
