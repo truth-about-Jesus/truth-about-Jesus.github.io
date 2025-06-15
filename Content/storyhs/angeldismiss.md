@@ -1,6 +1,6 @@
 ---
 date: 2025-06-07 09:26
-title: 7 - Angelic dismissal  天使送離開
+title: 7 - Angelic dismissal  天使送離開人群
 description: The angels dismiss the disciples  天使遣散門徒
 tags: angel, cloud, disciple, crowd, dismiss, Jesus, heaven
 translateLink: angeldismiss
@@ -14,7 +14,7 @@ Just before leaving the cover of the clouds, Gabriel and Raphael checked to make
 
 Now descending unseen, they saw a crowd of about 120 men, along with numerous women and children, all staring up at them --
 
-現在在看不見的情況下下降，他們看到大約120名男子的人群，以及許多婦女和兒童，都盯著他們——
+現在在隱形地情況下下降，他們看到大約120名男子的人群，以及許多婦女和兒童，都盯著他們——
 
 \
 
@@ -26,7 +26,7 @@ not really at *them,* of course, because *they* were invisible --
 
 but at the clouds, which had hidden their Master from sight. 
 
-但在雲層上，雲層遮住了他們的主人。
+而是在看阻擋他們再也看不見主的雲。
 
 \
 
