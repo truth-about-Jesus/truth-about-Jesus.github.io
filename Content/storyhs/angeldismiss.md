@@ -1,5 +1,5 @@
 ---
-date: 2025-06-15 09:26
+date: 2025-06-07 09:26
 title: 7 - Angelic dismissal  天使送離開
 description: The angels dismiss the disciples  天使遣散門徒
 tags: angel, cloud, disciple, crowd, dismiss, Jesus, heaven
@@ -41,7 +41,7 @@ The two angels dropped down lightly a distance behind the disciples, so as not t
 
 \
 
-All in the heavenly realms -- both faithful and fallen -- were well-aware of the mortals' peculiar propensity to terror.
+All in the heavenly realms -- both faithful and fallen -- were well-aware of mortals' peculiar propensity to terror.
 
 所有在天堂領域——無論是忠實的還是墮落的——都深知凡人特別容易受到恐懼。
 
