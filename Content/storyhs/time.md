@@ -1,7 +1,6 @@
 ---
 date: 2025-06-29 09:02
-title: 10 - Time  
-時候
+title: 10 - Time  時候
 description: The Holy Spirit is ready  聖靈已經準備好了
 tags: Holy Spirit, time, upper room, Babel
 translateLink: time
