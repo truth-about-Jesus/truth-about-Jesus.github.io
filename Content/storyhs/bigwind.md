@@ -38,7 +38,7 @@ Everyone was standing, milling about, each saying something --
 
 something Isaac couldn't understand.
 
-艾薩克無法理解的事情。
+艾薩克無法明白的事情。
 
 \
 
@@ -96,7 +96,7 @@ A great, big crowd of people -- *without any fire!* -- had gathered outside.
 
 They had heard the big, *whooshing* wind sound, too, and wanted to know what was going on.
 
-他們也聽到了巨大的嗖嗖風聲，想知道發生了什麼。
+他們也聽到了那巨大的嗖嗖風聲，想知道發生了什麼。
 
 \
 
