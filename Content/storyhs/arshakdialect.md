@@ -14,7 +14,7 @@ Arshak couldn't believe his ears.
 
 The young Gentile convert to the Jewish faith had come all the way to Judea from Parthia, his homeland, to celebrate the Passover.
 
-這位皈依猶太信仰的年輕外邦人從他的祖國帕提亞大馬來到猶太，慶祝逾越節。
+這位皈依猶太教的年輕非猶太人從他的家鄉帕提亞一路來到猶地亞慶祝逾越節。
 
 \
 
@@ -190,8 +190,6 @@ So --
 \
 
 nor *even* in Hebrew or Greek! --
-
-甚至用希伯來語或希臘語！--
 
 甚至連希伯來文或希臘文都不會！ ——
 
