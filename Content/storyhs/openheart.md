@@ -1,7 +1,7 @@
 ---
 date: 2025-07-20 09:31
 title: 13 - Open hearts  敞開心扉
-description: The Holy Spirit enjoys  聖靈享受
+description: The Holy Spirit revels  聖靈歡喜
 tags: Holy Spirit, heart, open, mock, Peter
 translateLink: openheart
 ---
