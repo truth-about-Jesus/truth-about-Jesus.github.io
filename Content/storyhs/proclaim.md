@@ -107,45 +107,45 @@ through the prophet Joel:
 
 \
 
-> 'In the last days,' says God, 'I pour out My Spirit on *all flesh:* 
-> 
-> 「在末世，」上帝說，「我把我的靈澆灌在所有有血氣的身上：
-> 
-> \
-> 
-> your sons and daughters prophesy;
-> 
-> 你的兒女預言；
-> 
-> \
-> 
-> your young men see visions;
-> 
-> 你的年輕人看到了異象；
-> 
-> \
-> 
-> your old men dream dreams.
-> 
-> 你的老人做夢。
-> 
-> \
-> 
-> Also on My servants, both male and female, in those days, 
-> 
-> 還有我的僕人，包括那些日子的男性和女性，
-> 
-> \
-> 
-> I pour out My Spirit, 
-> 
-> 我傾注我的靈，
-> 
-> \
-> 
-> *and they prophesy.'"*
-> 
-> 他們預言。'」
+*'In the last days,' says God, 'I pour out My Spirit on *all flesh: 
+
+「在末世，」上帝說，「我把我的靈澆灌在所有有血氣的身上：
+
+\
+
+*your sons and daughters prophesy;*
+
+你的兒女預言；
+
+\
+
+*your young men see visions;*
+
+你的年輕人看到了異象；
+
+\
+
+*your old men dream dreams.*
+
+你的老人做夢。
+
+\
+
+*Also on My servants, both male and female, in those days,* 
+
+還有我的僕人，包括那些日子的男性和女性，
+
+\
+
+*I pour out My Spirit,* 
+
+我傾注我的靈，
+
+\
+
+*and they prophesy.'"*
+
+他們預言。'」
 
 \
 
