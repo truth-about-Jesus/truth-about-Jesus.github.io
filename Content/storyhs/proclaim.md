@@ -26,7 +26,7 @@ words not his own
 
 flowed effortlessly in Spirit streams from belly to tongue.
 
-聖靈之流毫不費力地從腹部流向舌頭。
+隨著聖靈的流動，從腹部毫不費力地流向舌頭。
 
 \
 
@@ -49,7 +49,7 @@ Every eye turned toward him.
 
 "These folks aren't drunk, as you suppose." 
 
-「這些人並沒有喝醉，儘管你認為他們喝醉了。」
+「這些人並沒有喝醉，儘管你可能認為他們喝醉了。」
 
 \
 
