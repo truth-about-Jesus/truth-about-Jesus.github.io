@@ -132,7 +132,7 @@ Three *thousand*
 
 remorseful, *contrite* hearts
 
-悔恨，悔恨的心
+懊悔，悔恨的心
 
 \
 
