@@ -32,7 +32,7 @@ The very thing he'd been terrified to do --
 
 the unschooled Galilean
 
-未受教育的加利利人
+這個未受教育的加利利人
 
 \
 
