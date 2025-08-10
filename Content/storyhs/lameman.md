@@ -102,7 +102,7 @@ all through a poor
 
 carpenter-turned-rabbi 
 
-木匠轉為猶太教士
+木匠轉為拉比
 
 \
 
