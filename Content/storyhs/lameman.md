@@ -73,13 +73,13 @@ He yearned for a less humiliating way to help, but --
 
 there were not many options for a man 
 
-男人沒有很多選擇
+選擇並不多
 
 \
 
 crippled from birth.
 
-從出生起就殘廢。
+對於一個天生無法行走的人來說。
 
 \
 
@@ -96,7 +96,7 @@ These past three years had been exciting, with stories of miracles, healings, si
 
 all through a poor
 
-透過一個貧窮的
+所有這些奇蹟透過一個貧窮的
 
 \
 
@@ -168,7 +168,7 @@ he and the miracle-working rabbi
 
 had never crossed paths.
 
-從未有過交集。
+從未相逢。
 
 \
 
