@@ -191,7 +191,7 @@ When the Romans had crucified Jesus,
 
 hope had died in the lame man's heart.
 
-希望在瘸子心中消失了。
+瘸子心中的希望已經破滅。
 
 \
 
