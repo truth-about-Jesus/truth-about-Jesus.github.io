@@ -129,15 +129,9 @@ the Holy Spirit was about to do...
 
 \
 
-something 
+something wonderful.
 
-某事
-
-\
-
-wonderful. 
-
-太棒了。
+太棒了的某事。
 
 \
 
