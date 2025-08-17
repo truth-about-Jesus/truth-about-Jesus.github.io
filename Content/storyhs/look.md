@@ -12,9 +12,9 @@ Peter stared at the poor beggar's outstretched hand, then at the man himself.
 
 \
 
-It was clear he could not walk -- his legs shrivelled and misshapen.
+It was clear he could not walk -- his feet and ankles shrivelled and misshapen.
 
-很明顯，他不能走路——他的腿萎縮和失形。
+很明顯，他不能走路——他的腳和腳踝萎縮和失形。
 
 \
 
@@ -55,7 +55,7 @@ A profound compassion rising up in his belly, the Apostle opened his mouth to sp
 
 The words came gently, effortlessly, and Peter and John both knew:
 
-這句話說得很輕柔，毫不費力，彼得和約翰都知道：
+這句話說慈，毫不費力，彼得和約翰都知道：
 
 \
 
