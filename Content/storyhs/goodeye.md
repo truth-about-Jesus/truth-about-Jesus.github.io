@@ -1,7 +1,7 @@
 ---
 date: 2025-08-24 08:49
 title: 18 - Good eyes  好眼睛
-description: The beggar looks at the Apostles  乞丐看著使徒們
+description: What the beggar saw  乞丐看到了什麼
 tags: beggar, Temple, Apostle, Peter, John, look, see, eyes
 translateLink: goodeye
 ---
