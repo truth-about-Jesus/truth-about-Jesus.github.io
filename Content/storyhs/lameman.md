@@ -195,9 +195,9 @@ hope had died in the lame man's heart.
 
 \
 
-He was 40 now. 
+He was over 40 now. 
 
-他現在40歲了。
+他現在已經40多歲了。
 
 \
 
