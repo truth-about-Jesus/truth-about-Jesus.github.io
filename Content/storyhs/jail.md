@@ -113,9 +113,9 @@ five *thousand* listeners
 
 \
 
-had come to faith.
+had come to faith!
 
-已經信仰了。
+已經信仰了！
 
 \
 
