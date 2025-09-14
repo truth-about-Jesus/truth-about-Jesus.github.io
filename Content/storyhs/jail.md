@@ -186,19 +186,19 @@ So --
 
 *what* 
 
-什麼
+為什麼
 
 \
 
 was this throbbing headache? 
 
-這是悸動的頭痛嗎？
+劇烈的頭痛嗎？
 
 \
 
 And *who* 
 
-還有誰
+誰
 
 \
 
