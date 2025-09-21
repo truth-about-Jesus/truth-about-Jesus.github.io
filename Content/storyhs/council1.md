@@ -147,7 +147,7 @@ At that moment, a trusted servant from his household approached and whispered in
 \
 \
 
-*Based on Acts 4:5-10, 13.*
+*Based on Acts 4:5-10,13.*
 
 基於使徒行傳4:5-10，13。
 
