@@ -42,9 +42,9 @@ As Chief Priest, Caiaphas took the lead:
 
 \
 
-"In what power, or what name, did you do this?"
+"In what power or name did you do this?"
 
-「你以什麼權力，或者以什麼名義這樣做的？」
+「你以什麼權力或名義這樣做的？」
 
 \
 
@@ -95,7 +95,7 @@ In the name of *Jesus the Messiah,* from Nazareth --
 
 \
 
-and whom God has raised from the dead! --
+and whom *God* has raised from the dead! --
 
 而神使他從死裡復活！ ——
 
@@ -124,7 +124,7 @@ This common labourer had just spoken the *last* words
 
 \
 
-the Chief Priest ever wanted to hear.
+the Chief Priest had ever wanted to hear.
 
 祭司長最不想聽到。
 
