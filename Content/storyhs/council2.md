@@ -36,9 +36,9 @@ into his stomach,
 
 \
 
-as he was instantly, unwillingly transported back to *that day:*
+as the Chief Priest was instantly, unwillingly transported back to *that day:*
 
-當他立刻不由自主地回想起了那一天的記憶：
+當首席牧師立刻不由自主地回想起了那一天的記憶：
 
 \
 
