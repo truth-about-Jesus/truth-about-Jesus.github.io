@@ -1,6 +1,6 @@
 ---
 date: 2025-09-21 07:52
-title: 22 - Before the Council 1  站在理事會 1 前
+title: 22 - Before the Council 1  站在理事會之前 1
 description: Peter and John are questioned by the Chief Priest  彼得和約翰被首席牧師審問
 tags: Peter, John, Azariah, Caiaphas, Chief Priest, Jew, council, Jesus
 translateLink: council1

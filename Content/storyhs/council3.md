@@ -1,7 +1,7 @@
 ---
 date: 2025-10-05 08:52
-title: 24 - Before the Council 3  在理事會之前 3
-description: Peter and John finish the Holy Spirit's remarks about Jesus  彼得同約翰完成咗聖靈關於耶穌嘅話
+title: 24 - Before the Council 3  站在理事會之前 3
+description: Peter and John complete the Holy Spirit's remarks about Jesus  彼得同約翰完成咗聖靈關於耶穌嘅話
 tags: Peter, John, Caiaphas, Azariah, Ruling Council, Jew, lame, heal, miracle
 translateLink: council3
 ---
@@ -132,7 +132,7 @@ The other members of the Ruling Council were silent.
 
 After a long pause, the Chief Priest signalled the Temple guards.
 
-停頓了很久之後，首席牧師向聖殿守衛發出了訊號。
+停頓了很久之後，首席牧師向聖殿守衛手勢。
 
 \
 

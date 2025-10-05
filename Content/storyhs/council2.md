@@ -1,6 +1,6 @@
 ---
 date: 2025-09-28 08:29
-title: 23 - Before the Council 2  在理事會之前 2
+title: 23 - Before the Council 2  站在理事會之前 2
 description: John speaks, Caiaphas remembers  約翰說話，該亞法記得
 tags: Holy Spirit, John, stone, builder, cornerstone, Caiaphas, remember, memory, Jesus, story, vineyard
 translateLink: council2
