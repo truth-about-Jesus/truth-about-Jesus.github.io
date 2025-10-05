@@ -79,7 +79,7 @@ At first the Temple guards barred Judas' way, but Caiaphas recognized him and si
 
 Before Caiaphas could utter a word, Judas hurled the now hated bag of Tyrian shekels at his feet. 
 
-蓋亞法還沒來得及說一句話，猶大就把現在令人討厭的提利安謝克爾袋扔到他的腳下。
+該亞法還沒來得及說一句話，猶大就把現在令人討厭的提利安謝克爾袋扔到他的腳下。
 
 \
 
@@ -102,7 +102,7 @@ Before Caiaphas could utter a word, Judas hurled the now hated bag of Tyrian she
 
 Affronted, Caiaphas hardened his heart against the distraught former Apostle. 
 
-凱亞法被冒犯，對這位心煩意亂的前使徒硬了。
+該亞法被冒犯，對這位心煩意亂的前使徒硬了。
 
 \
 

@@ -8,7 +8,7 @@ translateLink: council3
 
 Caiaphas shuddered at the awful memory,
 
-迦亞法對這可怕的記憶感到不寒而慄，
+該亞法對這可怕的記憶感到不寒而慄，
 
 \
 

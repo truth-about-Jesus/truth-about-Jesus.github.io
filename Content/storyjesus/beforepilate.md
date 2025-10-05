@@ -61,7 +61,7 @@ He stood.
 
 Like a chess player, Caiaphas made his next move.
 
-像棋手一樣，凱亞法斯邁出了下一步行動。
+像棋手一樣，該亞法斯邁出了下一步行動。
 
 \
 

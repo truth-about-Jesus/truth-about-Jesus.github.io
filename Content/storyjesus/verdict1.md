@@ -67,7 +67,7 @@ At last, Pilate emerged and headed toward the judgement seat.
 
 Again he took his time settling in as Caiaphas looked on tensely, anticipating his next move.
 
-他再次花時間安頓下來，凱亞法斯緊張地看著，期待著他的下一步行動。
+他再次花時間安頓下來，該亞法斯緊張地看著，期待著他的下一步行動。
 
 \
 
