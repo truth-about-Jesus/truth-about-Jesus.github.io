@@ -91,13 +91,13 @@ The other two were clearly common men who had never learned to read or write --
 
 *some of the Galilean rabbi's ragtag followers, apparently!*
 
-顯然，加利利拉比的一些雜七雜八的追隨者！
+顯然，那個加利利拉比的一些雜七雜八的追隨者！
 
 \
 
 Yet here they were, in an unthinkable fusion of miracle, courage and eloquence.
 
-然而，他們在這裡，在奇蹟、勇氣和口才的不可思議的融合中。
+然而，他們在這裡，在神跡、勇氣和口才的不可思議的融合中。
 
 \
 
