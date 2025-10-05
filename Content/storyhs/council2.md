@@ -79,7 +79,7 @@ the false Messiah had then told a story to the crowd --
 
 against *them*, the *Ruling Council!* -- portraying them as *rogue tenant farmers* in God's vineyard,
 
-反對他們，執政委員會！——把他們描繪成上帝葡萄園裡的流氓佃農，
+反對他們，執政理事會！——把他們描繪成上帝葡萄園裡的流氓佃農，
 
 \
 

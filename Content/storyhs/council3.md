@@ -120,7 +120,7 @@ Caiaphas shook his head.
 
 The other members of the Ruling Council were silent.
 
-執政委員會的其他成員保持沉默。
+執政理事會的其他成員保持沉默。
 
 \
 

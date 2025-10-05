@@ -32,7 +32,7 @@ The three men stood quietly before a hastily convened hearing
 
 of the highly educated, religious elite: the Jewish Ruling Council.
 
-受過高等教育的宗教精英：猶太統治委員會。
+受過高等教育的宗教精英：猶太統治理事會。
 
 \
 

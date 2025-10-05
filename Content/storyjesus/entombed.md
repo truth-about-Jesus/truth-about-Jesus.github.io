@@ -61,7 +61,7 @@ As they carefully laid Jesus' body in Joseph's own, newly constructed, unused to
 
 To his shame, he had hesitated to acknowledge this hope to his colleagues on the Jewish ruling council, especially once they'd hardened their hearts against the young Galilean. 
 
-令他感到羞愧的是，他不敢向猶太統治委員會的同事承認這個希望，特別是在他們決定對這個年輕的加利利人冷酷無情之後。
+令他感到羞愧的是，他不敢向猶太統治理事會的同事承認這個希望，特別是在他們決定對這個年輕的加利利人冷酷無情之後。
 
 \
 

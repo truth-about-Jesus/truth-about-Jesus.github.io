@@ -43,7 +43,7 @@ While one of His closest friends was pretending not to know Him down below, Jesu
 
 Caiaphas, who was Chief Priest that year, sighed. He needed the Sanhedrin -- the Jewish ruling council -- fully behind him. And he could not bring this kind of insubstantial evidence before the Roman governor, Pontius Pilate, whose permission would be required before the Jews could put a man to death.
 
-那年擔任大祭司的該亞法嘆了口氣。 他需要猶太統治委員會完全支援他。 他不能將這種非實質性的證據帶到羅馬總督本丟·彼拉多面前，在猶太人處死一個人之前，需要彼拉多的許可。
+那年擔任大祭司的該亞法嘆了口氣。 他需要猶太統治理事會完全支援他。 他不能將這種非實質性的證據帶到羅馬總督本丟·彼拉多面前，在猶太人處死一個人之前，需要彼拉多的許可。
 
 \
 
@@ -131,7 +131,7 @@ Even *their* testimony did not agree.
 
 He sighed again, realizing he would have to use his authority as Chief Priest to induce the prisoner to blaspheme -- before the Council. 
 
-他再次嘆了口氣，意識到他必須利用他作為首席牧師的權威來誘使囚犯在安理會面前亵渎神明。
+他再次嘆了口氣，意識到他必須利用他作為首席牧師的權威來誘使囚犯在安理事會面前亵渎神明。
 
 \
 
