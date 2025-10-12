@@ -183,7 +183,7 @@ Instantly, the wind of the Holy Spirit rose and spoke confidently, yet kindly, t
 
 \
 
-*"You* must decide for *yourselves* 
+"You must decide for yourselves 
 
 「你們必須自己決定
 
