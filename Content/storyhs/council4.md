@@ -29,7 +29,7 @@ Annas, the previous year's Chief Priest -- and Caiaphas' father-in-law -- replie
 \
 \
 
-Still ashamed of his *own* silence 
+Still ashamed of his own silence 
 
 仍然為自己的沉默感到羞愧
 
