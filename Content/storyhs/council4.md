@@ -1,6 +1,6 @@
 ---
 date: 2025-10-12 09:23
-title: 25 - Before the Council 4  在理事會之前 4
+title: 25 - Before the Council 4  站在理事會之前 4
 description: The Ruling Council comes to a decision  執政委員會做出了決定
 tags: Peter, John, Caiaphas, Azariah, Jew, Ruling Council, Nicodemus, Joseph of Arimathea, Annas, ruling, council, decision, restrict, Jesus
 translateLink: council4
@@ -41,7 +41,7 @@ in the shadow of Jesus' crucifixion,
 
 \
 
-Nicodemus -- who had visited Jesus at night -- stood.
+Nicodemus -- who had once visited Jesus at night -- stood.
 
 尼哥底母——他晚上去看望過耶穌——站了起來。
 
@@ -183,7 +183,7 @@ Instantly, the wind of the Holy Spirit rose and spoke confidently, yet kindly, t
 
 \
 
-"You must decide for yourselves 
+*"You* must decide for *yourselves* 
 
 「你們必須自己決定
 
