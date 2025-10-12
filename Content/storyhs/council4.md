@@ -55,7 +55,7 @@ Nicodemus -- who had once visited Jesus at night -- stood.
 
 "It is an outstanding miracle," agreed Joseph of Arimathea. He had placed Jesus' body in his own, newly constructed tomb. 
 
-「這是一個傑出的奇蹟，」阿里馬太的約瑟夫同意了。 他把耶穌的屍體放在他自己新建的墳墓裡。
+「這是一個傑出的奇蹟，」阿里馬太的約瑟夫同意了。 他之前曾將耶穌的遺體安放在他新建的墳墓裡。
 
 \
 
