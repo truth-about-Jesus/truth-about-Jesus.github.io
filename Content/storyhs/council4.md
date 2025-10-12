@@ -43,7 +43,7 @@ in the shadow of Jesus' crucifixion,
 
 Nicodemus -- who had once visited Jesus at night -- stood.
 
-尼哥底母——他晚上去看望過耶穌——站了起來。
+尼哥底母——他曾經在晚上拜訪過耶穌——站了起來。
 
 \
 
