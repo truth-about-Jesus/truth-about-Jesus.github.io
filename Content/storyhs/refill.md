@@ -32,7 +32,7 @@ if they could.
 
 The awful vision of their beloved Master... 
 
-他們心愛的主人的可怕願景......
+他們心愛的主人的痛苦願景......
 
 \
 
@@ -48,9 +48,9 @@ cruelly humiliated, tortured and crucified...
 
 \
 
-was still fresh in their memories.
+was forever etched in their memories.
 
-在他們的記憶中仍然很新鮮。
+永遠銘刻在他們的記憶中。
 
 \
 
@@ -91,7 +91,7 @@ Azariah headed home, too, to rejoin his family,
 
 who still struggled to comprehend 
 
-誰還在努力去理解
+他們仍在努力理解
 
 \
 
@@ -109,7 +109,7 @@ He looked forward to contributing to the family finances
 
 through honest, able-bodied labour -- for the *very first time.*
 
-透過誠實、身體有力的勞動——第一次。
+透過誠實、身體有力的勞動——這可是他一生中第一次啊。
 
 \
 
@@ -168,7 +168,7 @@ not for *protection* from the Council's threats --
 
 but for *boldness* 
 
-但為了大膽
+但要獲得勇氣
 
 \
 
@@ -227,7 +227,7 @@ and refilled them all
 
 with power and boldness
 
-帶著神奇的力量和大膽
+帶著奇蹟的力量和大膽
 
 \
 
