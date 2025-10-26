@@ -114,7 +114,7 @@ After all of their experiences following Jesus for the past three years, Peter a
 
 The Chief Priests were overjoyed to discover that one of Jesus' personally handpicked Apostles was willing to be their inside man. 
 
-祭司長們欣喜若狂地發現耶穌親自挑選的一位使徒願意成為他們的內部人。
+大祭司長們欣喜若狂地發現耶穌親自挑選的一位使徒願意成為他們的內部人。
 
 \
 

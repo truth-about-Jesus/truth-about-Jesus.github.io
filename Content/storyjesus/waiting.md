@@ -26,7 +26,7 @@ Every so often, one of the band cursed at the prisoner, or shoved Him, as if try
 
 They had conveniently forgotten Jesus' display of power in the garden, and were taking their cue now from the chief priests and elders, who looked on approvingly.
 
-他們方便地忘記了耶穌在花園裡展示的權力，現在正在從祭司長和長老那裡得到提示，他們贊成地看著。
+他們方便地忘記了耶穌在花園裡展示的權力，現在正在從大祭司長和長老那裡得到提示，他們贊成地看著。
 
 \
 

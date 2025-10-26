@@ -108,7 +108,7 @@ The stranger cocked his head.
 
 "But the chief priests and our elders... condemned Him -- to death... and had Him -- crucified."
 
-「但祭司長和我們的長老......判他——處死......並把他——釘在十字架上。」
+「但大祭司長和我們的長老......判他——處死......並把他——釘在十字架上。」
 
 \
 

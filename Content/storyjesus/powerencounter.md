@@ -67,7 +67,7 @@ Jesus would slip through their grasp and be free, and he, Judas, would be fully 
 
 He imagined the Chief Priests complaining to him later that they still did not have Jesus in their custody. 
 
-他想象著首席牧師後來向他抱怨，他們仍然沒有監護耶穌。
+他想象著大祭司後來向他抱怨，他們仍然沒有監護耶穌。
 
 \
 

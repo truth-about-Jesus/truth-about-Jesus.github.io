@@ -102,7 +102,7 @@ He would not do so again.
 
 After Joseph had gone, the Chief Priest, along with a Roman guard detail, arrived at the site where Jesus' body lay entombed. 
 
-約瑟夫離開後，祭司長和一名羅馬衛兵一起到達了耶穌屍體被埋葬的地方。
+約瑟夫離開後，大祭司長和一名羅馬衛兵一起到達了耶穌屍體被埋葬的地方。
 
 \
 
@@ -120,7 +120,7 @@ That deceiver had actually said something about rising from the dead after three
 
 The Chief Priest placed an official seal over the stone, and stationed the guard with strict instructions.
 
-首席牧師在石頭上貼上了官方印章，並按照嚴格的指示駐紮了警衛。
+大祭司在石頭上貼上了官方印章，並按照嚴格的指示駐紮了警衛。
 
 \
 

@@ -131,7 +131,7 @@ Even *their* testimony did not agree.
 
 He sighed again, realizing he would have to use his authority as Chief Priest to induce the prisoner to blaspheme -- before the Council. 
 
-他再次嘆了口氣，意識到他必須利用他作為首席牧師的權威來誘使囚犯在安理事會面前亵渎神明。
+他再次嘆了口氣，意識到他必須利用他作為大祭司的權威來誘使囚犯在安理事會面前亵渎神明。
 
 \
 

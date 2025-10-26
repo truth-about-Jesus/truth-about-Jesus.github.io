@@ -20,7 +20,7 @@ As the Ruling Council began their deliberations in private, Caiaphas spread his 
 
 Annas, the previous year's Chief Priest -- and Caiaphas' father-in-law -- replied immediately: "The important thing is to *silence* them. This word and this Name must spread *no further* among the people!"
 
-亞那，前一年的首席牧師——也是該亞法的嶽父——立即回答說：「重要的是讓他們閉嘴。 這個詞和這個名字不能在人民中進一步傳播！」
+亞那，前一年的大祭司——也是該亞法的嶽父——立即回答說：「重要的是讓他們閉嘴。 這個詞和這個名字不能在人民中進一步傳播！」
 
 \
 

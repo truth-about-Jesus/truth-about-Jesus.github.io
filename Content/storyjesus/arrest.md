@@ -37,7 +37,7 @@ The whole group relaxed a little and prepared to move out.
 
 When they arrived at the court of the Chief Priest, Malchus went to wash the blood off his face in the servants' quarters before returning to find out what would happen to the powerful young rabbi who had healed *him* -- the enemy.
 
-當他們到達首席牧師的宮廷時，馬爾丘斯去僕人宿舍洗臉上的血，然後回來瞭解治癒他的有權勢的年輕拉比會發生什麼——敵人。
+當他們到達大祭司的宮廷時，馬爾丘斯去僕人宿舍洗臉上的血，然後回來瞭解治癒他的有權勢的年輕拉比會發生什麼——敵人。
 
 \
 
@@ -125,7 +125,7 @@ Peter stood outside the gate.
 
 He envied young John, who was related to someone in the Chief Priest's household by marriage, and had been admitted to the courtyard without question, while he, Peter, had been barred from entering.
 
-他羨慕年輕的約翰，他因婚姻而與首席牧師家中的某人有親戚關係，並被毫無疑問地進入庭院，而他彼得則被禁止進入。
+他羨慕年輕的約翰，他因婚姻而與大祭司家中的某人有親戚關係，並被毫無疑問地進入庭院，而他彼得則被禁止進入。
 
 \
 

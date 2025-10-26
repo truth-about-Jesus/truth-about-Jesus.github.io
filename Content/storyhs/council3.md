@@ -132,7 +132,7 @@ The other members of the Ruling Council were silent.
 
 After a long pause, the Chief Priest signalled the Temple guards.
 
-停頓了很久之後，首席牧師向聖殿守衛手勢。
+停頓了很久之後，大祭司向聖殿守衛手勢。
 
 \
 

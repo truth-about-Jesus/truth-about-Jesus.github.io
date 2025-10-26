@@ -56,7 +56,7 @@ John thought a bit more about this.
 
 Perhaps Jesus would escape from the Chief Priests as He had escaped from others so many times before.
 
-也許耶穌會逃離祭司長，就像他以前多次逃離其他人一樣。
+也許耶穌會逃離大祭司長，就像他以前多次逃離其他人一樣。
 
 \
 

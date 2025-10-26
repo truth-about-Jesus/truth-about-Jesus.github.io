@@ -61,7 +61,7 @@ Caiaphas felt much better once the earthquake ended and daylight returned.
 
 The Chief Priest did not know if the false Messiah had expired yet, but he decided not to take any chances. 
 
-首席祭司不知道假彌賽亞是否已經過期，但他決定不冒險。
+大祭司不知道假彌賽亞是否已經過期，但他決定不冒險。
 
 \
 
@@ -102,7 +102,7 @@ But he still had a job to do.
 
 Apparently, the Jews did not want the crucified men on display over the Sabbath. The Chief Priest himself had requested this favour to hasten death so the bodies could be taken down and buried before Passover, their most holy feast.
 
-顯然，猶太人不希望被釘在十字架上的人在安息日被展示。 首席牧師本人曾請求這一個忙，以加速死亡，以便在逾越節（他們最神聖的節日）之前將屍體取下並埋葬。
+顯然，猶太人不希望被釘在十字架上的人在安息日被展示。 大祭司本人曾請求這一個忙，以加速死亡，以便在逾越節（他們最神聖的節日）之前將屍體取下並埋葬。
 
 \
 

@@ -73,7 +73,7 @@ John avoided Peter's eyes. _He isn't going to rope me into doing the servant's j
 
 The other disciples looked at each other uncomfortably. Judas Iscariot had already made up his mind not to involve himself in the petty quarrels in which the others sometimes engaged. He had higher matters to consider -- like determining exactly when would be the best time to hand Jesus over to the Chief Priests... and truly earn that bag of Tyrian shekels that were burning a hole in his pocket. 
 
-其他門徒不舒服地看著對方。 加略人猶大已經下定決心不捲入其他人有時捲入的小爭吵中。 他有更高的考慮事項要考慮——比如確切地確定何時是將耶穌交給祭司長的最佳時機......並真正賺取那袋在他的口袋裡燒了一個洞的提謝克爾。
+其他門徒不舒服地看著對方。 加略人猶大已經下定決心不捲入其他人有時捲入的小爭吵中。 他有更高的考慮事項要考慮——比如確切地確定何時是將耶穌交給大祭司長的最佳時機......並真正賺取那袋在他的口袋裡燒了一個洞的提謝克爾。
 
 
 \
@@ -263,7 +263,7 @@ And it would turn out alright.
 
 What the chief priests didn't know was Jesus' talent for escaping those who wanted to kill Him. 
 
-祭司長們不知道的是耶穌逃脫那些想殺死他的人的天賦。
+大祭司長們不知道的是耶穌逃脫那些想殺死他的人的天賦。
 
 \
 

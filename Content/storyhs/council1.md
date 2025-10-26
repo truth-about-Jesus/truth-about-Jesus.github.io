@@ -1,7 +1,7 @@
 ---
 date: 2025-09-21 07:52
 title: 22 - Before the Council 1  站在理事會之前 1
-description: Peter and John are questioned by the Chief Priest  彼得和約翰被首席牧師審問
+description: Peter and John are questioned by the Chief Priest  彼得和約翰被大祭司審問
 tags: Peter, John, Azariah, Caiaphas, Chief Priest, Jew, council, Jesus
 translateLink: council1
 ---
@@ -126,7 +126,7 @@ This common labourer had just spoken the *last* words
 
 the Chief Priest had ever wanted to hear.
 
-祭司長最不想聽到。
+大祭司長最不想聽到。
 
 \
 

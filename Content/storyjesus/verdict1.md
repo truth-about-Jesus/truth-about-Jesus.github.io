@@ -38,7 +38,7 @@ He also knew that many Jews from the city -- Jerusalem -- were as yet undecided 
 
 It was his job, as Chief Priest, to safeguard the people -- and his nation -- from the threat of conflict with the superior power of Rome -- and give them peaceful lives. 
 
-作為首席牧師，他的工作是保護人民——和他的國家——免受與羅馬優越勢力衝突的威脅——並給他們和平的生活。
+作為大祭司，他的工作是保護人民——和他的國家——免受與羅馬優越勢力衝突的威脅——並給他們和平的生活。
 
 \
 

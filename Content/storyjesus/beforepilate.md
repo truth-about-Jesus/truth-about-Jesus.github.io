@@ -161,7 +161,7 @@ Jesus looked at Pilate intently, already knowing what the response to His next w
 
 "Am i a Jew?" retorted Pilate angrily. "Your own nation and chief priests have handed You over to me!"
 
-「我是猶太人嗎？」彼拉多憤怒地反駁。 「你自己的國家和祭司長已經把你交給我了！」
+「我是猶太人嗎？」彼拉多憤怒地反駁。 「你自己的國家和大祭司長已經把你交給我了！」
 
 \
 

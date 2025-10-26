@@ -8,7 +8,7 @@ translateLink: peterpopular
 
 *"He's coming!"*
 
-「他來了！」
+「他來！」
 
 \
 
@@ -50,7 +50,7 @@ He turned and looked behind him...
 
 *only* to see 
 
-只是為了看
+然後他看到
 
 \
 
@@ -156,7 +156,7 @@ Peter saw the Chief Priest ahead, staring with furrowed brow.
 
 The Chief Priest flushed and clenched his fists. 
 
-首席牧師臉紅了，握緊了拳頭。
+大祭司臉紅了，握緊了拳頭。
 
 \
 
