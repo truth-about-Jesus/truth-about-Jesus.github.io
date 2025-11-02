@@ -61,7 +61,7 @@ firmly bolted from the outside.
 
 Caiaphas took his time calling together the Ruling Council. 
 
-該亞法並沒有急於執政委員會。
+該亞法並沒有急於統召集治理事會議。
 
 \
 
@@ -102,7 +102,7 @@ Although he could fast, he appreciated their loving gesture to support the Apost
 
 He'd overheard the latest guards saying the Council was to be convened in the morning.
 
-他無訊息地聽到最新的警衛說，理事會將在上午召開會議。
+他無意中聽到新來的衛兵說，事會將於明天早上召開。
 
 \
 
