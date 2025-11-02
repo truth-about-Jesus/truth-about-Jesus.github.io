@@ -185,7 +185,7 @@ around the guards --
 
 and outside into the street.
 
-和外面進入街道。
+然後走到外面，到街上去。
 
 \
 
