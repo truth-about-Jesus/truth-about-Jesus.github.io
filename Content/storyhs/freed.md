@@ -61,7 +61,7 @@ as the sky began to lighten in the east.
 
 Caiaphas surveyed the Council Hall with satisfaction. 
 
-該亞法滿意地調查了理事會大廳。
+該亞法滿意地觀了議會大廳。
 
 \
 
@@ -103,7 +103,7 @@ He turned to the bailiff.
 
 "Bring in the accused."
 
-「把被告帶進來。」
+「把被告們帶進來。」
 
 \
 
