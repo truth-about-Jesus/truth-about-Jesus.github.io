@@ -8,13 +8,13 @@ translateLink: missing
 
 Full of curiosity, the Chief Priest frowned, then gestured to the guard, who came forward and saluted respectfully.
 
-首席牧師充滿了好奇心，皺起了眉頭，然後向警衛示意，警衛上前恭敬地敬禮。
+祭司長充滿了好奇心，皺起了眉頭，然後向警衛示意，警衛上前恭敬地敬禮。
 
 \
 
 "Please give your report to the Council."
 
-請向理事會說你的報告。
+「請向理事會說你的報告。」
 
 \
 
@@ -97,13 +97,13 @@ Now the entire Council chamber fell silent, as all pondered in perplexity.
 
 *What could have happened* 
 
-可能發生了什麼
+究竟遭遇了什麼
 
 \
 
 *to the false Messiah's followers?*
 
-給假彌賽亞的追隨者？
+那些假彌賽亞的追隨者們？
 
 \
 
@@ -120,7 +120,7 @@ Just then, one of Caiaphas' household servants entered,
 
 went straight to the Chief Priest, 
 
-直接去找首席牧師，
+直接去找祭司長，
 
 \
 
