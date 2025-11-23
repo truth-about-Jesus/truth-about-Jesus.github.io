@@ -186,7 +186,7 @@ who held them in such high esteem.
 
 At last, not willing to appear as fools or cowards before the Temple guards and servants, 
 
-最後，不願意在寺廟守衛和僕人面前表現為傻瓜或懦夫，
+最後，不願意在聖殿守衛和僕人面前表現為傻瓜或懦夫，
 
 \
 

@@ -233,7 +233,7 @@ The two men seemed about to launch into enthusiastic dialogue.
 
 He signalled the Temple guards quickly.
 
-他迅速向寺廟守衛示意。
+他迅速向聖殿守衛示意。
 
 \
 

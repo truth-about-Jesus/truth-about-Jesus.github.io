@@ -50,7 +50,7 @@ the day they had challenged the upstart Galilean rabbi
 
 in the Temple. 
 
-在寺廟裡。
+在聖殿裡。
 
 \
 
