@@ -133,7 +133,7 @@ The rulers were well aware that the Galilean rabbi -- whom *they* had condemned 
 
 And now the rabbi's followers were rising in popularity --
 
-現在教員的追隨者越來越受歡迎——
+現在那教員的追隨者越來越受歡迎——
 
 \
 
