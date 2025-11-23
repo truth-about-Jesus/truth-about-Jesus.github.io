@@ -102,7 +102,7 @@ all through a poor
 
 carpenter-turned-rabbi 
 
-木匠轉為拉比
+木匠轉為教員
 
 \
 
@@ -162,7 +162,7 @@ but -- despite his most fervent prayers --
 
 he and the miracle-working rabbi 
 
-他和創造奇蹟的拉比
+他和創造奇蹟的教員
 
 \
 

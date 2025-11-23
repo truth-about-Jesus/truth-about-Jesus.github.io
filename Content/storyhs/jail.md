@@ -126,7 +126,7 @@ had come to faith!
 
 Caiaphas grimaced. The Chief Priest had been very confident in his victory over the upstart Galilean rabbi.
 
-該亞法愁眉苦臉。大祭司非常有自信，他已經打敗了挑戰他權威的加利利拉比。
+該亞法愁眉苦臉。大祭司非常有自信，他已經打敗了挑戰他權威的加利利教員。
 
 \
 

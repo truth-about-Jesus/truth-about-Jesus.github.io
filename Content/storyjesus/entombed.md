@@ -79,7 +79,7 @@ had infused Joseph with newfound faith -- much more than the preceding darkness 
 
 Taking this fledgling faith in hand, he had gone trembling to the Roman governor to request Jesus' body, that he might give the courageous rabbi a fitting interment.
 
-懷著新的信仰，他顫抖地去見羅馬總督，請求得到耶穌的屍體，以便這位勇敢的拉比能有一個合適的埋葬之地。
+懷著新的信仰，他顫抖地去見羅馬總督，請求得到耶穌的屍體，以便這位勇敢的教員能有一個合適的埋葬之地。
 
 \
 

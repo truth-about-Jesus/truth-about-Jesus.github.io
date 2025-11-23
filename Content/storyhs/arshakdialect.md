@@ -96,7 +96,7 @@ It had been a very unusual -- actually *disturbing* -- Passover this year...!
 
 A miracle-working rabbi -- 
 
-一位創造奇蹟的拉比——
+一位創造奇蹟的教員——
 
 \
 
@@ -132,7 +132,7 @@ at the insistence of the Jews.
 
 Then, several days later, rumours had spread that the same rabbi's followers had *stolen* His body!
 
-然後，幾天後，謠言傳開了，說同一個拉比的追隨者偷了他的屍體！
+然後，幾天後，謠言傳開了，說同一個教員的追隨者偷了他的屍體！
 
 \
 

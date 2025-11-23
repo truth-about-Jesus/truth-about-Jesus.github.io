@@ -192,7 +192,7 @@ was now speaking boldly in Aramaic to the entire crowd,
 
 declaring, in no uncertain terms, that the recently crucified, miracle-working rabbi
 
-毫不含糊地宣佈，這位最近被釘在十字架上的、創造奇蹟的拉比
+毫不含糊地宣佈，這位最近被釘在十字架上的、創造奇蹟的教員
 
 \
 

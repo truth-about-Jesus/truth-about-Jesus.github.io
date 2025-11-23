@@ -91,7 +91,7 @@ The other two were clearly common men who had never learned to read or write --
 
 *some of the Galilean rabbi's ragtag followers, apparently!*
 
-顯然，那個加利利拉比的一些雜七雜八的追隨者！
+顯然，那個加利利教員的一些雜七雜八的追隨者！
 
 \
 

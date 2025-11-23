@@ -8,7 +8,7 @@ translateLink: prologuehs
 
 Over two thousand years ago, a poor Jewish rabbi amassed about 120 faithful followers -- before being executed by the religious authorities in Jerusalem.
 
-兩千多年前，一位貧窮的猶太拉比聚集了大約 120 名忠實的追隨者，但隨後卻被耶路撒冷的宗教當局處決。
+兩千多年前，一位貧窮的猶太教員聚集了大約 120 名忠實的追隨者，但隨後卻被耶路撒冷的宗教當局處決。
 
 \
 

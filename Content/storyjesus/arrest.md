@@ -20,7 +20,7 @@ The captain of the armed band, understanding, motioned to the one carrying the r
 
 The young soldier advanced cautiously and, finding that the young rabbi no longer resisted, succeeded in binding His hands together. 
 
-年輕的士兵小心翼翼地前進，發現年輕的拉比不再反抗，成功地將他的雙手綁在一起。
+年輕的士兵小心翼翼地前進，發現年輕的教員不再反抗，成功地將他的雙手綁在一起。
 
 \
 
@@ -37,7 +37,7 @@ The whole group relaxed a little and prepared to move out.
 
 When they arrived at the court of the Chief Priest, Malchus went to wash the blood off his face in the servants' quarters before returning to find out what would happen to the powerful young rabbi who had healed *him* -- the enemy.
 
-當他們到達大祭司的宮廷時，馬爾丘斯去僕人宿舍洗臉上的血，然後回來瞭解治癒他的有權勢的年輕拉比會發生什麼——敵人。
+當他們到達大祭司的宮廷時，馬爾丘斯去僕人宿舍洗臉上的血，然後回來瞭解治癒他的有權勢的年輕教員會發生什麼——敵人。
 
 \
 
@@ -79,7 +79,7 @@ Malchus himself was not sure what to think of the night's events.
 
 But one thing was clear: this young rabbi -- Jesus of Nazareth -- was no ordinary human being, and certainly not the type Malchus was accustomed to apprehending.
 
-但有一點很清楚：這位年輕的拉比——拿撒勒的耶穌——不是普通人，當然也不是馬爾丘斯習慣於逮捕的那種人。
+但有一點很清楚：這位年輕的教員——拿撒勒的耶穌——不是普通人，當然也不是馬爾丘斯習慣於逮捕的那種人。
 
 \
 

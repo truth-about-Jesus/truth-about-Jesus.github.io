@@ -132,7 +132,7 @@ His heart pounded wildly.
 
 But... the rabbi -- *Jesus*  -- was dead... and gone. *Everyone* knew it. 
 
-但是......拉比——耶穌——死了......並且走了。 每個人都知道。
+但是......教員——耶穌——死了......並且走了。 每個人都知道。
 
 \
 

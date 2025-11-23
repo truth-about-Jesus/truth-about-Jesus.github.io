@@ -87,19 +87,19 @@ She had grown pale and withdrawn as the days and months had passed, missing the 
 
 Although... of late she had shown interest in the stories circulating about that young Jewish rabbi from Nazareth -- the one who had been making such a splash in the region. 
 
-儘管……最近她對流傳的關於那位來自拿撒勒的年輕猶太拉比的故事表現出了興趣——這位拉比在該地區引起了轟動。
+儘管……最近她對流傳的關於那位來自拿撒勒的年輕猶太教員的故事表現出了興趣——這位教員在該地區引起了轟動。
 
 \
 
 Pilate had heard nothing but praise for Him from a certain centurion stationed in Capernaum in Galilee, whom they often invited to dine with them, that he might regale them with stories of how the young Jewish rabbi had healed not only the centurion's own servant, but many others as well. 
 
-彼拉多只聽到一位駐紮在加利利迦百農的某個百夫長對他的讚美，他們經常邀請他與他們一起用餐，他可能會向他們講述這位年輕的猶太拉比如何不僅治癒百夫長自己的僕人，還治癒了許多其他人的故事。
+彼拉多只聽到一位駐紮在加利利迦百農的某個百夫長對他的讚美，他們經常邀請他與他們一起用餐，他可能會向他們講述這位年輕的猶太教員如何不僅治癒百夫長自己的僕人，還治癒了許多其他人的故事。
 
 \
 
 There were even outlandish but entertaining stories of this rabbi turning water into wine, walking on water, raising the dead, calming storms, feeding thousands....!
 
-甚至有古怪但有趣的故事，這位拉比把水變成酒，在水面上行走，復活死者，平息暴風雨，餵養成千上萬......！
+甚至有古怪但有趣的故事，這位教員把水變成酒，在水面上行走，復活死者，平息暴風雨，餵養成千上萬......！
 
 \
 

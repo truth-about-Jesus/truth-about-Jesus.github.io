@@ -189,7 +189,7 @@ not even, mused John in the midst of his awe, on the mountain with Moses and Eli
 
 The captain nodded, realizing they had no hope of arresting this powerful young rabbi unless He submitted voluntarily. 
 
-隊長點了點頭，意識到除非他自願投降，否則他們沒有希望逮捕這位強大的年輕拉比。
+隊長點了點頭，意識到除非他自願投降，否則他們沒有希望逮捕這位強大的年輕教員。
 
 \
 

@@ -32,7 +32,7 @@ Caiaphas knew and expected that many among the crowd were Jesus' followers from 
 
 He also knew that many Jews from the city -- Jerusalem -- were as yet undecided about the young rabbi from Nazareth. 
 
-他還知道，許多來自耶路撒冷城的猶太人對來自拿撒勒的年輕拉比尚未決定。
+他還知道，許多來自耶路撒冷城的猶太人對來自拿撒勒的年輕教員尚未決定。
 
 \
 

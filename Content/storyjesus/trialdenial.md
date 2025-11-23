@@ -119,7 +119,7 @@ Caiaphas sighed.
 
 The final two witnesses were botching what had happened in the Temple courtyard just a few days ago, when the young rabbi had made the outlandish claim that He could rebuild the Temple -- which had taken forty-six years to build -- in just three days. 
 
-最後兩個目擊者混淆了幾天前在聖殿院子裡發生的事情，當時年輕的拉比奇怪地聲稱他可以在三天內重建聖殿——但建造聖殿卻花了四十六年！
+最後兩個目擊者混淆了幾天前在聖殿院子裡發生的事情，當時年輕的教員奇怪地聲稱他可以在三天內重建聖殿——但建造聖殿卻花了四十六年！
 
 \
 

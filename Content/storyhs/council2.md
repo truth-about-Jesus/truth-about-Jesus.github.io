@@ -44,7 +44,7 @@ as the Chief Priest was instantly, unwillingly transported back to *that day:*
 
 the day they had challenged the upstart Galilean rabbi 
 
-那天，他們向那個惹是生非的加利利拉比挑戰
+那天，他們向那個惹是生非的加利利教員挑戰
 
 \
 
@@ -120,7 +120,7 @@ with remembered outrage.
 
 *Then* the rabbi had turned and spoken directly to him. 
 
-然後拉比轉向他並直接對他說話。
+然後教員轉向他並直接對他說話。
 
 \
 
