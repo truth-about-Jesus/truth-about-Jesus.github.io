@@ -14,7 +14,7 @@ That night, Peter and John rejoiced together
 
 over the Holy Spirit's healing 
 
-關於聖靈的醫治
+關於聖靈的治癒
 
 \
 

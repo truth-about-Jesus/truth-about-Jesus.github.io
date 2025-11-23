@@ -121,7 +121,7 @@ got up -- some quickly, some more cautiously -- but *all*...
 
 *fully healed!?*
 
-完全痊癒了！？
+完全治癒了！？
 
 \
 

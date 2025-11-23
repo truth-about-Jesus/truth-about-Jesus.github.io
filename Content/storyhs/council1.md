@@ -103,7 +103,7 @@ and whom *God* has raised from the dead! --
 
 in *Him* this man stands before you healed!"
 
-在他裡面，站在你面前的人已經痊癒了！ 」
+在他裡面，站在你面前的人已經治癒了！ 」
 
 \
 

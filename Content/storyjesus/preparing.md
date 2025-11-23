@@ -120,7 +120,7 @@ The Chief Priests were overjoyed to discover that one of Jesus' personally handp
 
 They did not skimp on the payment, as the troublesome young teacher and healer had embarrassed them more than once and risked bringing powerful Rome down on the entire nation -- not to mention having broken the Sabbath while brazenly defending His sinful actions -- and thumbing His nose at the traditions of the elders. So bringing Him down was a top priority. 
 
-他們在薪水上並沒有吝嗇，因為這位麻煩的年輕老師和治療師已經不只一次讓他們難堪了。 他冒著讓強大的羅馬暴力鎮壓整個國家的風險——更不用說為了公然為自己的罪惡行為辯護而違反安息日了——而且他對長輩的傳統嗤之以鼻。 所以擊敗他是當務之急。
+他們在薪水上並沒有吝嗇，因為這位麻煩的年輕老師和治癒師已經不只一次讓他們難堪了。 他冒著讓強大的羅馬暴力鎮壓整個國家的風險——更不用說為了公然為自己的罪惡行為辯護而違反安息日了——而且他對長輩的傳統嗤之以鼻。 所以擊敗他是當務之急。
 
 \
 

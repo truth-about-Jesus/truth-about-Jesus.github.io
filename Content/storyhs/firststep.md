@@ -1,7 +1,7 @@
 ---
 date: 2025-09-07 08:36
 title: 20 - First steps  最初的行走步驟
-description: The healed beggar learns to walk  奇蹟般痊癒的乞丐試圖行走
+description: The healed beggar learns to walk  奇蹟般治癒的乞丐試圖行走
 tags: Azariah, beggar, step, walk, jump, leap, joy, Peter, John, Holy Spirit
 translateLink: firststep
 ---

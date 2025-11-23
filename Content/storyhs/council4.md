@@ -49,7 +49,7 @@ Nicodemus -- who had once visited Jesus at night -- stood.
 
 "We *cannot* punish these men for healing a lame man. *Everyone* in Jerusalem is praising God for this!"
 
-「我們不能懲罰這些人治療一個瘸子的人。 耶路撒冷的每個人都在為此讚美上帝！」
+「我們不能懲罰這些人治癒一個瘸子的人。 耶路撒冷的每個人都在為此讚美上帝！」
 
 \
 

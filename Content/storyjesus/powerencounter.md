@@ -260,7 +260,7 @@ It was almost as if Jesus *wanted* to be arrested!
 
 Jesus quickly retrieved Malchus' severed ear from the ground and replaced it on his head, healing the wound so completely that -- except for the blood on Malchus' face and Peter's sword -- one could almost believe it had not actually happened. 
 
-耶穌迅速將馬爾丘斯被割斷的耳朵從地上取回，並把它換到他的頭上，將傷口完全癒合，除了馬爾丘斯臉上的血和彼得的劍外，人們幾乎可以相信它實際上沒有發生。
+耶穌迅速將馬爾丘斯被割斷的耳朵從地上取回，並把它換到他的頭上，將傷口完全治癒，除了馬爾丘斯臉上的血和彼得的劍外，人們幾乎可以相信它實際上沒有發生。
 
 \
 

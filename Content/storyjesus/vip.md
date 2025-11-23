@@ -20,7 +20,7 @@ When Jesus was extremely popular, every time He showed up anywhere in Galilee, h
 
 One day, a Very Important Person -- the synagogue leader -- with an Extremely Urgent Problem -- his twelve-year-old daughter was dying -- came to Jesus and asked Him to come to his house and touch her, so that she would be healed.
 
-有一天，一個非常重要的人——猶太教堂的領袖——有一個極其緊急的問題——他十二歲的女兒快死了——來到耶穌身邊，請他來他家摸她，這樣她就會痊癒。
+有一天，一個非常重要的人——猶太教堂的領袖——有一個極其緊急的問題——他十二歲的女兒快死了——來到耶穌身邊，請他來他家摸她，這樣她就會治癒。
 
 \
 
@@ -72,13 +72,13 @@ Anyways, this poor, unimportant, bleeding (but not dying) woman managed to sneak
 
 Maybe God sent His angels to open a way for her, because He wanted her to be healed that day.)
 
-也許上帝派他的天使為她開闢一條道路，因為他希望她那天能痊癒。）
+也許上帝派他的天使為她開闢一條道路，因為他希望她那天能治癒。）
 
 \
 
 Anyways, this woman had the idea that if she only touched the edge of Jesus' clothes, she would be healed. 
 
-無論如何，這個女人的想法是，如果她只觸控耶穌衣服的邊緣，她就會痊癒。
+無論如何，這個女人的想法是，如果她只觸控耶穌衣服的邊緣，她就會治癒。
 
 \
 
@@ -125,7 +125,7 @@ And Jairus (the synagogue leader) was probably all, *O hurry, hurry, hurry!* ins
 
 Maybe the unimportant, now healed woman had been hoping just to touch Jesus, be healed, and slip away unnoticed...
 
-也許這個不重要的、現已痊癒的女人只是想要觸摸耶穌痊癒了，然後想消失得無影無蹤……
+也許這個不重要的、現已治癒的女人只是想要觸摸耶穌治癒了，然後想消失得無影無蹤……
 
 \
 
@@ -184,7 +184,7 @@ and she told what had happened to her, in a trembling voice, still frightened of
 
 After He had heard her story, Jesus was glad for her and said, gently and kindly, “My daughter, your faith has given you life. Go in peace, and be healed from your illness.”
 
-耶穌聽完她的故事後，為她感到高興，溫柔而親切地說：「我的女兒，你的信仰給了你生命。 平平安安地去吧，從疾病中痊癒。」
+耶穌聽完她的故事後，為她感到高興，溫柔而親切地說：「我的女兒，你的信仰給了你生命。 平平安安地去吧，從疾病中治癒。」
 
 \
 

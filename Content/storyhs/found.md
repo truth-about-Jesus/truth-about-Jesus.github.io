@@ -145,7 +145,7 @@ especially
 
 with the recent, very public healing 
 
-隨著最近的、非常公開的奇蹟般的療傷
+隨著最近的、非常公開的奇蹟般的治癒
 
 \
 

@@ -79,7 +79,7 @@ at the Temple gate begging --
 
 but now -- undeniably, miraculously healed.
 
-但現在——不可否認，奇蹟般地痊癒了。
+但現在——不可否認，奇蹟般地治癒了。
 
 \
 
