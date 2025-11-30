@@ -1,7 +1,7 @@
 ---
 date: 2024-01-08 8:56
 title: 0 - Prologue  序言
-description: ?
+description: A story of Jesus  耶穌的故事
 tags: Jesus, life, followers, why, reason, introduction 
 translateLink: prologue
 ---

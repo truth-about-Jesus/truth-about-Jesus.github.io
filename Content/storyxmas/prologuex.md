@@ -83,7 +83,7 @@ behind the scenes?
 \
 \
 
-Based on Matthew 1:18-25; Matthew 2:1-18; Luke 1:5-80; Luke 2:1-39; John 1:1-18.
+*Based on Matthew 1:18-25; Matthew 2:1-18; Luke 1:5-80; Luke 2:1-39; John 1:1-18.*
 
 基於馬太福音1:18-25；馬太福音2:1-18；路加福音1:5-80；路加福音2:1-39；約翰福音1:1-18。
 
