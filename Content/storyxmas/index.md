@@ -1,2 +1,2 @@
-# Stories: Christmas 故事：聖誕節
+# Stories: Christmas 故事：聖誕
 
