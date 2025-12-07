@@ -1,8 +1,8 @@
 ---
 date: 2025-12-07 09:51
 title: 1 - Anticipation  預期
-description: Jesus prepares Himself to decrease  耶穌準備自己減少
-tags: Father, Jesus, consider, prepare, decrease, incarnate, baby, infant, human
+description: Jesus prepares Himself to become small  耶穌預備自己變得渺小
+tags: Father, Jesus, consider, prepare, small, incarnate, baby, infant, human
 translateLink: anticipate
 ---
 
@@ -85,7 +85,7 @@ unlimited Power,
 
 unfathomable Wisdom,
 
-難以言出的智慧，
+最深邃的智慧，
 
 \
 
@@ -156,7 +156,7 @@ world gone wrong --
 
 *not* as the conquering Creator God He truly was,
 
-不像真正的征服造物主上帝，
+祂並非以征服者的創造神的身份出現，但這才是祂的真實身分，
 
 \
 
@@ -221,7 +221,7 @@ together.
 
 It would be the hardest thing He --
 
-這將是最難的事情，他——
+這將是他——
 
 \
 
@@ -233,7 +233,7 @@ or *anyone* --
 
 had ever done.
 
-曾經做過。
+經歷過的最艱難的事。
 
 \
 
