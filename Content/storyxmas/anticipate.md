@@ -156,7 +156,7 @@ world gone wrong --
 
 *not* as the conquering Creator God He truly was,
 
-祂並非以征服者的創造神的身份出現，但這才是祂的真實身分，
+祂並非以凱旋的造物主形像出現，但這才是祂的真實身分，
 
 \
 
