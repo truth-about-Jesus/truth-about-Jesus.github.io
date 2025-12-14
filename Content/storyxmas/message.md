@@ -36,7 +36,7 @@ respectful and alert.
 
 \
 
-"It's time for you to visit Zechariah the priest in the Temple, Mary at home in Nazareth, and her fiancé, Joseph, the carpenter.
+"It's time for you to visit Zechariah the priest, in the Temple, Mary at home in Nazareth, and her fiancé, Joseph, the carpenter.
 
 「是時候讓你去拜訪聖殿的祭司撒迦利亞，在拿撒勒的馬利亞，以及她的未婚夫，木匠約瑟夫。
 
@@ -113,6 +113,8 @@ a full *six* earth months separating the visits to Zechariah
 
 從他第一次拜訪撒迦利亞
 
+\
+
 and Mary --
 
 到第二次拜訪馬利亞，中間隔了整整六個月——
@@ -131,15 +133,9 @@ easily completed all three visits
 
 \
 
-in less than *one* 
+in less than *one* heavenly day.
 
-不到一個
-
-\
-
-heavenly day.
-
-天堂一天。
+不到一個天堂一天。
 
 \
 
