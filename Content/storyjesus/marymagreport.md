@@ -1,14 +1,14 @@
 ---
 date: 2025-03-02 7:50
-title: 41 - Mary Magdalene's report  抹大拉的瑪麗的報告
-description: Mary tells the Apostles a second time  瑪麗第二次告訴使徒們
+title: 41 - Mary Magdalene's report  抹大拉的馬利亞的報告
+description: Mary tells the Apostles a second time  馬利亞第二次告訴使徒們
 tags: Mary Magdalene, Jesus, alive, report, witness, Apostles, Peter
 translateLink: marymagreport
 ---
 
 Mary Magdalene was running almost effortlessly --
 
-抹大拉的瑪麗幾乎毫不費力地奔跑著——
+抹大拉的馬利亞幾乎毫不費力地奔跑著——
 
 \
 
@@ -61,7 +61,7 @@ The grieving Apostles gaped numbly at the unnervingly exuberant female who was l
 
 Peter shook his head heavily as Mary Magdalene babbled on about "Galilee" and "ascending"...
 
-當抹大拉的瑪麗喋喋不休地談論「加利利」和「上升」時，彼得悲傷地搖了搖頭......
+當抹大拉的馬利亞喋喋不休地談論「加利利」和「上升」時，彼得悲傷地搖了搖頭......
 
 \
 
@@ -96,7 +96,7 @@ She had truly lost her mind and was accosting him directly now!
 
 As Mary's eyes searched his, all Peter's shame, regret and devastation welled up without warning.
 
-當瑪麗的目光搜尋著他的眼睛時，彼得所有的羞恥、悔恨和無盡的悲傷毫無預警地湧了上來。
+當馬利亞的目光搜尋著他的眼睛時，彼得所有的羞恥、悔恨和無盡的悲傷毫無預警地湧了上來。
 
 \
 

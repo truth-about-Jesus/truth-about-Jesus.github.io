@@ -1,14 +1,14 @@
 ---
 date: 2025-05-18 08:54
-title: 4 - Waiting: Mary  等待：瑪麗
-description: Mary remembers the angel Gabriel  瑪麗記得天使加布裡埃爾
+title: 4 - Waiting: Mary  等待：馬利亞
+description: Mary remembers the angel Gabriel  馬利亞記得天使加布裡埃爾
 tags: Mary, mother, Jesus, mountain, goodbye, throne, faith
 translateLink: waitmary
 ---
 
 Mary, Jesus' mother, sat waiting and praying with the rest of her Son's followers. 
 
-耶穌的母親瑪麗和她兒子的其他追隨者一起坐著等待和祈禱。
+耶穌的母親馬利亞和她兒子的其他追隨者一起坐著等待和祈禱。
 
 \
 
@@ -49,7 +49,7 @@ sad... yet joyful, at the same time.
 
 His warm embrace, before leading them all out, had told Mary all she needed to know...
 
-在他帶領他們所有人出去之前，他熱情的擁抱告訴了瑪麗她需要知道的一切......
+在他帶領他們所有人出去之前，他熱情的擁抱告訴了馬利亞她需要知道的一切......
 
 \
 
@@ -72,7 +72,7 @@ Her firstborn Son was returning to His Father.
 
 While waiting with the others for the Holy Spirit to come, Mary thought about the first angel she had ever met, puzzling over his message.
 
-在和其他人一起等待聖靈降臨時，瑪麗想到了她遇到的第一個天使，嘗試理解他的訊息。
+在和其他人一起等待聖靈降臨時，馬利亞想到了她遇到的第一個天使，嘗試理解他的訊息。
 
 \
 
@@ -96,13 +96,13 @@ The angelic prophecy hadn't been fulfilled yet...
 
 and Mary honestly didn't see how it ever *could* be, now...
 
-老實說，瑪麗不知道這怎麼可能，現在......
+老實說，馬利亞不知道這怎麼可能，現在......
 
 \
 
 But deep down, in her heart of hearts, Mary nursed a growing, childlike faith that, someday,  somehow, she would see
 
-但在內心深處，瑪麗懷著一種不斷增長的、孩子般的信仰，總有一天，不知何故，她會看到
+但在內心深處，馬利亞懷著一種不斷增長的、孩子般的信仰，總有一天，不知何故，她會看到
 
 \
 

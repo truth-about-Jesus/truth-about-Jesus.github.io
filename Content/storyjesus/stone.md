@@ -1,14 +1,14 @@
 ---
 date: 2025-01-19 8:37
 title: 36 - The Stone  石頭
-description: Two Marys visit Jesus' tomb  兩個瑪麗參觀了耶穌的墳墓
+description: Two Marys visit Jesus' tomb  兩個馬利亞參觀了耶穌的墳墓
 tags: Mary, Jesus, mother, Magdalene, tomb, stone
 translateLink: stone
 ---
 
 The two Marys -- Magdalene and Jesus' mom -- were up early, before dawn.
 
-兩個瑪麗——抹大拉和耶穌的媽媽——在黎明前很早就起床了。
+兩個馬利亞——抹大拉和耶穌的媽媽——在黎明前很早就起床了。
 
 \
 
@@ -26,7 +26,7 @@ They had not wanted to ask any of the men to accompany them, even though John in
 
 Mary Magdalene sometimes thought men *-- but not Jesus! --* were rather weak when their emotions came into play.
 
-抹大拉的瑪麗有時會認為男人——但不是耶穌！——當他們的情緒發揮作用時，他們相當軟弱。
+抹大拉的馬利亞有時會認為男人——但不是耶穌！——當他們的情緒發揮作用時，他們相當軟弱。
 
 \
 
@@ -73,7 +73,7 @@ Deep down, though, underneath the intense, unrelenting agony of losing her belov
 
 Mary had an unmistakable sense that, somehow, some way, God would provide.
 
-瑪麗確信上帝將會以某種方式幫助她們。
+馬利亞確信上帝將會以某種方式幫助她們。
 
 \
 

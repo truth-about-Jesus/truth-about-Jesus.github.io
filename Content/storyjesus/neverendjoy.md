@@ -8,7 +8,7 @@ translateLink: neverendjoy
 
 Peter passed the broiled fish, then a honeycomb, to Mary, Jesus' mom, who offered them to her Son with a tender smile.
 
-彼得把烤魚，然後是蜂窩，遞給耶穌的母親瑪麗，瑪麗帶著溫柔的微笑把它們遞給她的兒子。
+彼得把烤魚，然後是蜂窩，遞給耶穌的母親馬利亞，馬利亞帶著溫柔的微笑把它們遞給她的兒子。
 
 \
 

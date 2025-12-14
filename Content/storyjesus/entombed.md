@@ -20,7 +20,7 @@ John's eyes widened.
 
 Jesus' mother, Mary, and Mary Magdalene got up as quickly as they could. Although exhausted from the grief and horror of the day, they were determined to find out where Jesus' body would be buried.
 
-耶穌的母親瑪麗和抹大拉的馬利亞以最快的速度起床了。 儘管從當天的悲傷和恐怖中精疲力盡，他們還是決心找出耶穌的屍體將被埋葬在哪裡。
+耶穌的母親馬利亞和抹大拉的馬利亞以最快的速度起床了。 儘管從當天的悲傷和恐怖中精疲力盡，他們還是決心找出耶穌的屍體將被埋葬在哪裡。
 
 \
 

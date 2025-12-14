@@ -9,7 +9,7 @@ translateLink: gardener
 
 Standing outside the empty sepulchre, Mary Magdalene sobbed inconsolably.
 
-站在空蕩蕩的墳墓外，抹大拉的瑪麗無法安慰地嚎泣著。
+站在空蕩蕩的墳墓外，抹大拉的馬利亞無法安慰地嚎泣著。
 
 \
 
@@ -44,7 +44,7 @@ Peter and John had been no help; the two men had already left, perplexed, not kn
 
 Mary Magdalene turned to see a man standing behind her. 
 
-抹大拉的瑪麗轉過身來，看到一個男人站在她身後。
+抹大拉的馬利亞轉過身來，看到一個男人站在她身後。
 
 \
 
@@ -79,7 +79,7 @@ She spoke tearfully, from the depths of her devastation.
 
 *"Mary."*
 
-「瑪麗。｣
+「馬利亞。｣
 
 \
 

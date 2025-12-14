@@ -1,14 +1,14 @@
 ---
 date: 2025-02-09 9:22
 title: 38 - Telling the Apostles  告訴使徒們
-description: Mary Magdalene's first report  抹大拉的瑪麗的第一份報告
+description: Mary Magdalene's first report  抹大拉的馬利亞的第一份報告
 tags: Mary, Magdalene, Apostle, news, Jesus, body, tomb, Peter, John, mother
 translateLink: tellapostle
 ---
 
 Mary Magdalene ran as fast as she could.
 
-抹大拉的瑪麗儘可能快地跑。
+抹大拉的馬利亞儘可能快地跑。
 
 \
 
@@ -136,13 +136,13 @@ As if things hadn't been horrible enough, now *this* had to happen.
 
 Mary, Jesus' mother, was making her way back to the house where the Apostles were staying. 
 
-耶穌的母親瑪麗正要回到使徒們住的房子。
+耶穌的母親馬利亞正要回到使徒們住的房子。
 
 \
 
 The angel had given her and Mary Magdalene the most wonderful news. Her Son was *alive!*
 
-天使給了她和抹大拉的瑪麗最美妙的訊息。 她的兒子還活著！
+天使給了她和抹大拉的馬利亞最美妙的訊息。 她的兒子還活著！
 
 \
 
@@ -190,7 +190,7 @@ The angel had reminded them of what He'd told them in Galilee:
 
 Mary Magdalene had taken off running as soon as the angel had gone. Jesus' mother imagined she was already sharing the marvellous angelic message with the Apostles.
 
-天使一走，抹大拉的瑪麗就跑了。 耶穌的母親想象著她已經在與使徒們分享奇妙的天使資訊。
+天使一走，抹大拉的馬利亞就跑了。 耶穌的母親想象著她已經在與使徒們分享奇妙的天使資訊。
 
 \
 

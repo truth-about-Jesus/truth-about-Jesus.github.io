@@ -79,7 +79,7 @@ a *ghost?!*
 
 In a heartbeat, the two Marys -- Jesus' mother and Magdalene -- came forward and knelt gladly at His feet.
 
-很快，兩個瑪麗——耶穌的母親和抹大拉——走上前去，高興地跪在他的腳下。
+很快，兩個馬利亞——耶穌的母親和抹大拉——走上前去，高興地跪在他的腳下。
 
 \
 

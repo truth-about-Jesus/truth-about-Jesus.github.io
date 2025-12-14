@@ -37,7 +37,7 @@ The beautiful, otherworldly being spoke.
 
 Mary Magdalene trembled and looked down. *What could he possibly mean?*
 
-抹大拉的瑪麗顫抖著，低頭看了看。 他可能是什麼意思？
+抹大拉的馬利亞顫抖著，低頭看了看。 他可能是什麼意思？
 
 \
 

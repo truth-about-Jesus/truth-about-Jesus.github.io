@@ -19,7 +19,7 @@ On earth we are born into a biological family -- we have a mom and dad and somet
 
 Jesus was born into a biological family, too. His mother Mary was a virgin when He was conceived through the Holy Spirit. His foster father was Joseph. He had brothers and sisters.
 
-耶穌也出生在一個親生家庭。 當他透過聖靈受孕時，他的母親瑪麗是處女。 他的養父是約瑟夫。 他有兄弟姐妹。
+耶穌也出生在一個親生家庭。 當他透過聖靈受孕時，他的母親馬利亞是處女。 他的養父是約瑟夫。 他有兄弟姐妹。
 
 \
 

@@ -90,7 +90,7 @@ The Council would be convened when he was good and ready.
 
 John ate a little of the bread the two Marys had brought to the jail.
 
-約翰吃了一點兩位瑪麗帶到監獄的麵包。
+約翰吃了一點兩位馬利亞帶到監獄的麵包。
 
 \
 
