@@ -109,8 +109,6 @@ Although time on Earth passes slowly --
 
 a full *six* earth months separating the visits to Zechariah 
 
-\
-
 從他第一次拜訪撒迦利亞
 
 \
@@ -176,13 +174,13 @@ and both are aware of the other's pregnancy.
 
 And the carpenter and Mary have tied the knot, so to speak -- 
 
-可以說，木匠和瑪麗已經結了婚——
+木匠和馬利亞結婚了——
 
 \
 
 not physically, of course."
 
-當然，不是身體上的。」
+當然，不是指物理意義上的。」
 
 \
 
@@ -200,7 +198,7 @@ Gabriel sighed, just a little, and tried not to roll his eyes.
 
 "I had to strike him dumb for a little, to help him believe."
 
-「為了幫助他相信，我不得不讓他啞口呆一會兒。」
+「我不得不暫時剝奪他的說話能力，幫助他相信這一點。」
 
 \
 
