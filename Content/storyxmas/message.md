@@ -32,7 +32,7 @@ stood before the big Throne,
 
 respectful and alert.
 
-尊重和警覺。
+尊重和願意。
 
 \
 
