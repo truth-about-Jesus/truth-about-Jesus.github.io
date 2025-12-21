@@ -1,7 +1,7 @@
 ---
 date: 2025-12-21 09:04
 title: 3 - Ready  預備
-description: All Heaven is ready  天堂都準備好了
+description: All Heaven is ready for Jesus' birth  整個天堂都為耶穌的誕生做好了準備
 tags: time, ready, Heaven, angel, choir, star, Jesus, Father, God, love
 translateLink: ready
 ---
