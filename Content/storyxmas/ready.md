@@ -190,15 +190,9 @@ but He *would...*
 
 \
 
-out of 
+out of Love.
 
-因為
-
-\
-
-Love.
-
-愛。
+因為愛。
 
 \
 
