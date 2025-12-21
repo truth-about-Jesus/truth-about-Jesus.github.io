@@ -1,7 +1,7 @@
 ---
 date: 2025-12-14 08:20
 title: 2 - Messages  天使
-description: The Father sends Gabriel to three people  父親把加布裡埃爾送到了三個人那裡
+description: The Father sends Gabriel to three people  父親把加百列送到了三個人那裡
 tags: God, Father, Gabriel, angel, messenger, message, Zechariah, Mary, Joseph
 translateLink: message
 ---
@@ -14,7 +14,7 @@ The Father looked,
 
 and instantly, Gabriel,
 
-立刻，加布里埃爾，
+立刻，加百列，
 
 \
 
@@ -62,7 +62,7 @@ It will be best for him that way."
 
 Gabriel saluted smartly.
 
-加布裡埃爾巧妙地敬禮。
+加百列巧妙地敬禮。
 
 \
 
@@ -97,7 +97,7 @@ get the choir -- the *big* one -- ready!"
 
 Gabriel took care of his assignment quickly.
 
-加布裡埃爾很快就完成了他的任務。
+加百列很快就完成了他的任務。
 
 \
 
@@ -121,7 +121,7 @@ and Mary --
 
 Gabriel, existing as he did in eternity,
 
-加布裡埃爾，就像他在永恆中一樣存在，
+加百列，就像他在永恆中一樣存在，
 
 \
 
@@ -192,7 +192,7 @@ not physically, of course."
 
 Gabriel sighed, just a little, and tried not to roll his eyes.
 
-加布裡埃爾嘆了口氣，只是一點點，儘量不翻白眼。
+加百列嘆了口氣，只是一點點，儘量不翻白眼。
 
 \
 

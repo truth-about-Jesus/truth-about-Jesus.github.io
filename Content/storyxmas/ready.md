@@ -50,7 +50,7 @@ in a field at night...!
 
 Gabriel had asked incredulously.
 
-加布里埃爾不置信地問道。
+加百列不置信地問道。
 
 \
 

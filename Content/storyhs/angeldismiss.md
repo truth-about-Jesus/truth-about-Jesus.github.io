@@ -8,7 +8,7 @@ translateLink: angeldismiss
 
 Just before leaving the cover of the clouds, Gabriel and Raphael checked to make sure they were invisible. 
 
-在離開雲層之前，加布里埃爾和拉斐爾檢查了一下，以確保他們是隱形的。
+在離開雲層之前，加百列和拉斐爾檢查了一下，以確保他們是隱形的。
 
 \
 
@@ -49,13 +49,13 @@ All in the heavenly realms -- both faithful and fallen -- were well-aware of mor
 
 Gabriel -- then Raphael -- turned on visibility, so they could be seen -- *excepting their wings, of course!* -- and quietly joined the crowd.
 
-加布裡埃爾——然後是拉斐爾——開啟能見度，這樣就可以看到他們了——當然，除了他們的翅膀！——然後悄悄地加入了人群。
+加百列——然後是拉斐爾——開啟能見度，這樣就可以看到他們了——當然，除了他們的翅膀！——然後悄悄地加入了人群。
 
 \
 
 Then Gabriel spoke clearly:
 
-然後加布里埃爾清晰地說：
+然後加百列清晰地說：
 
 \
 
