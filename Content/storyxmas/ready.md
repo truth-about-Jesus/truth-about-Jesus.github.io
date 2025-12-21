@@ -162,7 +162,7 @@ Taking a deep breath, Jesus stood,
 
 and bowed low 
 
-並低頭鞠躬
+深深地鞠了一躬
 
 \
 
