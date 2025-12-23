@@ -127,7 +127,7 @@ Jesus could no longer speak aloud --
 
 having divested Himself of His Godlike qualities --
 
-剝奪了自己神一樣的品質——
+祂捨棄了自己神一般的能力——
 
 \
 
