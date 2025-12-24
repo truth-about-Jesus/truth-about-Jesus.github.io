@@ -26,7 +26,7 @@ and stood invisibly to attention in the darkened sky,
 
 as unsuspecting shepherds in the fields below
 
-作為下面田野裡毫無戒心的牧羊人
+而下面田野裡的一些毫無猜的牧羊人
 
 \
 
@@ -168,7 +168,7 @@ He didn't have *time* to ask His Father
 
 what was happening.
 
-發生了什麼。
+到底是怎麼回事。
 
 \
 
@@ -191,7 +191,7 @@ Gabriel pointed at the specially designed star angel,
 
 who now rose brilliantly --
 
-誰現在輝煌地崛起了——
+現在已經崛起，光芒四射——
 
 \
 
