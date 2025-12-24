@@ -95,9 +95,9 @@ One especially beautiful, delightfully bright angel --
 
 \
 
-designed expressly for this pivotal event 
+designed expressly for this unprecedented moment 
 
-專門為這個關鍵事件設計
+專門為這個前所未有的時刻而設計
 
 \
 
