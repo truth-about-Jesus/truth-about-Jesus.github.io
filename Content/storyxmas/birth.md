@@ -1,7 +1,7 @@
 ---
 date: 2025-12-23 10:54
 title: 5 - Birth  出生
-description: Jesus is born  耶穌誕生了
+description: Jesus is born  耶穌誕生
 tags: Jesus, Mary, labour, delivery, birth, Gabriel, star, angels, choir, shepherds, sheep
 translateLink: birth
 ---
@@ -55,7 +55,7 @@ In the even darker stable,
 
 Mary perspired and gasped and groaned,
 
-馬利亞渾身是汗，氣喘吁籲，呻吟不止。
+馬利亞渾身是汗，氣喘吁籲，呻吟，
 
 \
 
@@ -78,7 +78,7 @@ the holy, precious parcel within.
 
 If He *could* have, Jesus would have cried out --
 
-如果他可以的話，耶穌會大聲呼喊——
+如果他可以的話，耶穌會喊——
 
 \
 
@@ -150,7 +150,7 @@ He was *going* somewhere --
 
 *His little head being bent out of shape!*
 
-他的小頭都變形了！
+他的小頭現在正被掰彎變形呢！
 
 \
 
@@ -263,7 +263,7 @@ melodiously,
 
 with unquenchable joy.
 
-帶著無法解脫的喜悅。
+帶著不竭的喜悅。
 
 \
 
