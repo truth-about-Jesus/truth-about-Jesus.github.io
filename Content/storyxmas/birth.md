@@ -233,7 +233,7 @@ fell over one another
 
 in startled amazement.
 
-驚訝地。
+驚愕不已。
 
 \
 
@@ -280,19 +280,19 @@ Meanwhile, in the darkened stable below,
 
 as soon as His tiny lungs 
 
-洎他的小肺
+當他小小的肺
 
 \
 
 filled
 
-填滿的
+吸入
 
 \
 
 with their first gasp of air,
 
-他們第一次喘氣，
+第一口空氣時，
 
 \
 
