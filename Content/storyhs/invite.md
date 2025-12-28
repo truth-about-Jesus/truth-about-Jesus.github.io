@@ -193,7 +193,7 @@ If someone slaps you on the right cheek,
 
 turn to him the *other* also. 
 
-連左臉也轉過來由他打。
+讓他們也打你的另一邊臉頰。
 
 \
 
@@ -211,7 +211,7 @@ go *two.*
 
 Whoever demands of you, 
 
-有求你的，
+如果有人向你索取東西，
 
 \
 
@@ -229,7 +229,7 @@ whoever wants to borrow from you,
 
 do not refuse."
 
-不可推辭。」
+不推辭。」
 
 \
 
@@ -264,7 +264,7 @@ Do *good* to the one who hates you.
 
 who lead you in chains 
 
-用鎖鏈捆綁你們的人，
+為用鎖鏈捆綁你們的人，
 
 \
 
