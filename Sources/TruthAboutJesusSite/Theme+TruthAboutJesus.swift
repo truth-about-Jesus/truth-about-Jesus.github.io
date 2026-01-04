@@ -59,7 +59,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                             sortedBy: \.date,
                             order: .descending
                         ),
-                        site: context.site
+                        site: context.site, context: context
                     )
                 }
                 SiteFooter()
@@ -76,7 +76,11 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                 SiteHeader(context: context, selectedSelectionID: section.id)
                 Wrapper {
                     H1(section.title)
-                    ItemList(items: section.items, site: context.site)
+                    ItemList(
+                        items: section.items,
+                        site: context.site,
+                        context: context
+                    )
                 }
                 SiteFooter()
             }
@@ -186,7 +190,7 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                             sortedBy: \.date,
                             order: .descending
                         ),
-                        site: context.site
+                        site: context.site, context: context
                     )
                 }
                 SiteFooter()
@@ -237,10 +241,17 @@ private struct SiteHeader<TruthAboutJesusSite: Website>: Component {
 private struct ItemList<TruthAboutJesusSite: Website>: Component {
     var items: [Item<TruthAboutJesusSite>]
     var site: TruthAboutJesusSite
+    var context: PublishingContext<TruthAboutJesusSite>
 
     var body: Component {
         List(items) { item in
             Article {
+                Paragraph(
+                    Link(
+                        context.sections[item.sectionID].title,
+                        url: context.sections[item.sectionID].path.absoluteString
+                    )
+                ).class("translate-link no-bottom-space")
                 H1(Link(item.title.part1, url: item.path.absoluteString))
                 H1(Link(item.title.part2, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
