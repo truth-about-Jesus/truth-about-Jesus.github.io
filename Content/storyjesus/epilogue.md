@@ -1,7 +1,7 @@
 ---
 date: 2025-04-13 8:46
 title: 47 - Epilogue  尾聲
-description: 1 Peter 1:3-7  彼得前書 1:3-7
+description: A story of Jesus  耶穌的故事
 tags: summary, conclusion, faith, Jesus, death, resurrection
 translateLink: epilogue
 ---

@@ -59,7 +59,9 @@ private struct TruthAboutJesusHTMLFactory: HTMLFactory {
                             sortedBy: \.date,
                             order: .descending
                         ),
-                        site: context.site, context: context
+                        site: context.site,
+                        context: context,
+                        showCategory: true
                     )
                 }
                 SiteFooter()
@@ -242,16 +244,19 @@ private struct ItemList<TruthAboutJesusSite: Website>: Component {
     var items: [Item<TruthAboutJesusSite>]
     var site: TruthAboutJesusSite
     var context: PublishingContext<TruthAboutJesusSite>
+    var showCategory: Bool = false
 
     var body: Component {
         List(items) { item in
             Article {
-                Paragraph(
-                    Link(
-                        context.sections[item.sectionID].title,
-                        url: context.sections[item.sectionID].path.absoluteString
-                    )
-                ).class("translate-link no-bottom-space")
+                if showCategory {
+                    Paragraph(
+                        Link(
+                            context.sections[item.sectionID].title,
+                            url: context.sections[item.sectionID].path.absoluteString
+                        )
+                    ).class("translate-link no-bottom-space")
+                }
                 H1(Link(item.title.part1, url: item.path.absoluteString))
                 H1(Link(item.title.part2, url: item.path.absoluteString))
                 ItemTagList(item: item, site: site)
