@@ -6,7 +6,7 @@ tags: Jesus, God, Father, incarnation
 translateLink: epiloguex
 ---
  
-John 1:1-3,14 (ESV)
+##### _John 1:1-3,14 (ESV)_
 
 1 In the beginning was the Word, 
 
@@ -16,21 +16,11 @@ and the Word was God.
 
 2 He was in the beginning with God.
 
-John 1:1-3,14 (Chinese NET (T))
-
-1 太初有道，道與 神同在，道就是 神。
-
-2 這道在太初就與 神同在。
-
 \
 
 3 All things were made through him, 
 
 and without him was not any thing made that was made.
-
-3 萬物都是藉着他造的；
-
-凡被造的，沒有一樣不是藉着他造的。
 
 \
 
@@ -38,8 +28,25 @@ and without him was not any thing made that was made.
 
 and we have seen his glory,
 
-glory as of the only Son from the Father, 
+glory as of the only Son from the Father,
+ 
 full of grace and truth.
+
+\
+
+##### _John 1:1-3,14 (Chinese NET (T))_
+
+1 太初有道，道與 神同在，道就是 神。
+
+2 這道在太初就與 神同在。
+
+\
+
+3 萬物都是藉着他造的；
+
+凡被造的，沒有一樣不是藉着他造的。
+
+\
 
 14 道成了肉身，住在我們中間，
 
@@ -49,7 +56,7 @@ full of grace and truth.
 
 \
 
-John 1:18 (NIV)
+##### _John 1:18 (NIV)_
 
 18 No one has ever seen God, 
 
@@ -61,7 +68,9 @@ and is in closest relationship with the Father,
 
 has made him known.
 
-John 1:18 (Chinese NET (T))
+\
+
+##### _John 1:18 (Chinese NET (T))_
 
 18 從來沒有人見過 神，
 
