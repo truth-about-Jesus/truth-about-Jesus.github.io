@@ -1,7 +1,7 @@
 ---
 date: 2026-01-04 08:40
 title: 6 - Epilogue  尾聲
-description: A Story of Christmas  聖誕節的故事
+description: A story of Christmas  聖誕節的故事
 tags: Jesus, God, Father, incarnation
 translateLink: epiloguex
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2025-04-20 9:23
 title: 0 - Prologue  序言
-description: A story of the Holy Spirit  一個關於聖靈的故事
+description: A story of the Holy Spirit  聖靈的故事
 tags: Holy Spirit, Jesus, disciples, followers, story
 translateLink: prologuehs
 ---

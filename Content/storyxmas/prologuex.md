@@ -1,7 +1,7 @@
 ---
 date: 2025-11-30 09:33
 title: 0 - Prologue  序言
-description: A Story of Christmas  聖誕的故事
+description: A story of Christmas  聖誕的故事
 tags: Jesus, Father, God, Christmas, heaven
 translateLink: prologuex
 ---

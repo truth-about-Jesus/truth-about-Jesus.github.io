@@ -1,2 +1,2 @@
-# Stories: Jesus 故事：耶穌
+# A Story of Jesus 耶穌的故事
 
