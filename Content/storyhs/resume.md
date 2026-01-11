@@ -12,7 +12,7 @@ translateLink: resume
 
 \
 
-Caiaphas tried to keep the urgency out of his voice 
+Caiaphas tried to keep the sense of urgency out of his voice 
 
 該亞法試圖將緊迫感從他的聲音中排除在外
 
