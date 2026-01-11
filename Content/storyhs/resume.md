@@ -1,7 +1,7 @@
 ---
 date: 2026-01-11 09:23
-title: 33 -  Hearing resumed  聽證會恢復
-description: The Apostles stand before the Ruling Council again  使徒們再次站在統治理事會面前
+title: 33 - Hearing resumed  聽證會恢復
+description: The Apostles again stand before the Ruling Council  使徒們再次站在統治理事會面前
 tags: Apostles, Jewish, Ruling Council, Caiaphas, hearing, resume
 translateLink: resume
 ---
@@ -112,13 +112,13 @@ Once he had sufficiently recovered from their bold venture, the Chief Priest bri
 
 \
 
-He hated to *think* -- let alone *speak* -- the name of the false Messiah.
+He hated to think -- let alone *speak* -- the name of the false Messiah.
 
 他討厭思考——更不用說說話了——假彌賽亞的名字。
 
 \
 
-"And *now, look!* You've filled Jerusalem with your teaching; 
+"And now, look! You've filled Jerusalem with your teaching; 
 
 「現在，看！ 你用你的教誨填滿了耶路撒冷；
 
