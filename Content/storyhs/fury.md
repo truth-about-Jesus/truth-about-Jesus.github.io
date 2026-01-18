@@ -32,7 +32,7 @@ then gently, yet clearly, through Thomas:
 
 *whom you killed* 
 
-你殺了誰
+你殺了他
 
 \
 
@@ -62,7 +62,7 @@ Prince and Saviour,
 
 and exalted Him to His right hand, 
 
-並把他提升到他的右邊，
+將他高舉在自己的右邊，
 
 \
 
@@ -92,7 +92,7 @@ as is the Holy Spirit Himself,
 
 whom God has given 
 
-上帝賜予的人
+上帝賜予的靈
 
 \
 
