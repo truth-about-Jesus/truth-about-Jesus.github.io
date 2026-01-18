@@ -30,7 +30,7 @@ then gently, yet clearly, through Thomas:
 
 \
 
-*whom you killed* 
+whom you killed
 
 你殺了他
 
@@ -125,7 +125,7 @@ The nuance did not escape the Chief Priest, who leapt to his feet in fury.
 
 \
 
-the guardians of the *Law of Moses,* 
+the *guardians* of the *Law of Moses,* 
 
 摩西律法的守護者，
 
@@ -178,7 +178,7 @@ It was happening
 
 \
 
-*again.*
+again.
 
 再次。
 
