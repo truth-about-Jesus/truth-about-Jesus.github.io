@@ -1,7 +1,7 @@
 ---
 date: 2026-01-18 08:37
 title: 34 - Fury  暴怒
-description: The Holy Spirit speaks and the Council reacts   聖靈說話，理事會做出反應
+description: The Holy Spirit speaks; the Council reacts   聖靈說話，理事會做出反應
 tags: Holy Spirit, Apostles, Peter, John, Thomas, James, Jewish Ruling Council, reaction
 translateLink: fury
 ---
