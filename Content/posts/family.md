@@ -137,7 +137,7 @@ Jesus was born into a biological family, too. His mother Mary was a virgin when 
 \
 \
 
-Once when Jesus was young growing up in the small town of Nazareth, He gave His parents a fright on a trip to the city of Jerusalem.
+Once, when Jesus was young, growing up in the small town of Nazareth, He gave His parents a fright on a trip to the city of Jerusalem.
 
 有一次，當耶穌在拿撒勒小鎮長大時，他在耶路撒冷城旅行時嚇唬他的父母。
 
