@@ -32,7 +32,7 @@ named Gamaliel,
 
 who had remained seated while the others were expressing their outrage,
 
-當其他人表達他們的憤怒時，他們仍然坐著，
+當其他人表達他們的憤怒時，他仍然坐著，
 
 \
 
@@ -50,7 +50,7 @@ A hush began to fall over the Council Hall,
 
 as Gamaliel signalled the Temple guards to remove the Apostles from the room.
 
-當迦瑪列向聖殿衛士發出訊號，把使徒們帶出房間。
+當迦瑪列向聖殿衛士發出訊號，他們把使徒們帶出房間。
 
 \
 
@@ -62,7 +62,7 @@ Then,
 
 when all was quiet, 
 
-當一切都安靜的時候，
+當一切人都安靜的時候，
 
 \
 
@@ -103,7 +103,7 @@ A few who were standing
 
 began to resume their seats.
 
-開始坐下。
+決定坐下。
 
 \
 
@@ -121,7 +121,7 @@ Gamaliel continued:
 
 He made great claims for himself, and about four hundred followed him. 
 
-他對自己吹噓得非常厲害，大約有四百人跟隨他。
+他對自己吹噓得非常厲害，進而大約有四百人跟隨他。
 
 \
 
@@ -234,7 +234,7 @@ fighting
 
 against 
 
-反對
+與
 
 \
 
