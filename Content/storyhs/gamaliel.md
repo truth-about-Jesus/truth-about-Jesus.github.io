@@ -163,7 +163,7 @@ He looked around.
 
 Heads nodded in sage agreement now, as nearly all were back in their seats.
 
-頭都點頭表示了，現在幾乎所有人都回到了座位上。
+現在大多數人都明智地點頭表示贊同，在幾乎所有人都回到了座位上。
 
 \
 
@@ -234,7 +234,7 @@ fighting
 
 against 
 
-與
+反抗
 
 \
 
