@@ -20,13 +20,13 @@ as Gamaliel's calming influence began to take effect across the Council Hall.
 
 *Could he possibly be* 
 
-他有可能是嗎
+他有可能是
 
 \
 
 *a secret believer in their Lord?*
 
-主的秘密信徒？
+主的秘密信徒嗎？
 
 \
 
@@ -144,7 +144,7 @@ to go along with the Council's majority opinion,
 
 the Chief Priest was not in the least convinced by Gamaliel's argument.
 
-首席牧師絲毫沒有被迦瑪列的論點說服。
+祭司長絲毫沒有被迦瑪列的論點說服。
 
 \
 
