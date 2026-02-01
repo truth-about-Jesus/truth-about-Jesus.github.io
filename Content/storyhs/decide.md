@@ -154,7 +154,7 @@ This troublesome movement *defied all norms!* --
 
 \
 
-and threatened to derail *everything* they had worked *so* hard to establish
+and threatened to derail *everything* they had worked *so hard* to establish
 
 並有可能毀掉他們辛苦建立的一切
 
