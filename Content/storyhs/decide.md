@@ -30,7 +30,7 @@ as Gamaliel's calming influence began to take effect across the Council Hall.
 
 \
 
-He had practically *admitted* 
+He had practically admitted
 
 他幾乎已經承認了
 
@@ -48,7 +48,7 @@ Many in the Council Hall were murmuring and nodding in agreement --
 
 \
 
-could *they* also 
+could *they also* 
 
 他們也可以
 
@@ -154,7 +154,7 @@ This troublesome movement *defied all norms!* --
 
 \
 
-and threatened to derail *everything* they had worked *so hard* to establish
+and threatened to derail *everything* they had worked *so* hard to establish
 
 並有可能毀掉他們辛苦建立的一切
 
