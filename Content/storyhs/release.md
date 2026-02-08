@@ -55,7 +55,7 @@ into their hearts.
 
 keep in mind: it hated Me first.
 
-該知道它先恨我。
+你們該知道它先恨我。
 
 \
 
@@ -91,7 +91,7 @@ Remember the word i spoke to you:
 
 'No servant is greater than his master.'
 
-『奴僕不能大過主人。』
+『奴僕不可能大過主人。』
 
 \
 
@@ -169,7 +169,7 @@ the Holy Spirit was bringing alive in *his* heart:
 
 persecute and slander you, 
 
-逼迫你們、揑造各樣壞話毀謗你們，
+迫害你們、揑造各樣壞話毀謗你們，
 
 \
 
@@ -217,7 +217,7 @@ In spite of their tiredness, hunger, bruises and humiliation, the Apostles now s
 
 all the way home.
 
-一路回家。
+一路走回家。
 
 \
 
@@ -229,7 +229,7 @@ They had been counted worthy to suffer
 
 for the Name of their crucified Lord:
 
-為了他們被釘十字架的主的名：
+因為了他們被釘十字架的主的名：
 
 \
 
