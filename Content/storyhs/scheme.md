@@ -1,6 +1,6 @@
 ---
 date: 2026-02-15 08:44
-title: 38 - The scheme  計
+title: 38 - The scheme  狡計
 description: A married couple plan to deceive  一對已婚夫婦計劃欺騙
 tags: Ananias, Sapphira, field, give, donate, full, half, price, proceeds, deceive, lie
 translateLink: scheme
@@ -127,13 +127,13 @@ as Sapphira looked on, astonished.
 
 "You always *were* a hard bargainer," she laughed in amazement. 
 
-「你一直都很會討價還價，」她驚訝地笑了。
+「你一直都很會討價還價，」她笑驚豔說。。
 
 \
 
 "Why, this is more than *double* what that field is worth!"
 
-「這是那個領域價值的兩倍多！」
+「嗬，這是那個領域價值的兩倍多！」
 
 \
 
