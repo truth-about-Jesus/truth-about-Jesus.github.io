@@ -174,7 +174,7 @@ bring in the proceeds of the sale of *his* field,
 
 and *it* was only..." he named a paltry sum. 
 
-這只是......」他說出了一個微不足道的金額。
+這只是......」他說出了一個小的金額。
 
 \
 
