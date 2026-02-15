@@ -157,7 +157,7 @@ and spoke the words
 
 the Holy Spirit was bringing alive in *his* heart:
 
-聖靈在他的心中復活了：
+聖靈使這些話語在他心中活了過來：
 
 \
 
