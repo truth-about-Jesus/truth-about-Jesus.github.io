@@ -90,7 +90,7 @@ before Peter could become the "rock" Jesus had prophesied.
 
 Judas Iscariot had been there, also, but Jesus knew -- had known from the very beginning -- that he was not, and never could be, truly His disciple. 
 
-加略人猶大也曾在大祭司的大廳裡，但耶穌知道──從一開始就知道──他不是、也永遠不可能成為他真正的門徒。
+猶大·伊斯卡里奧特也曾在大祭司的大廳裡，但耶穌知道──從一開始就知道──他不是、也永遠不可能成為他真正的門徒。
 
 \
 
