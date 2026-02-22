@@ -79,7 +79,7 @@ At first the Temple guards barred Judas' way, but Caiaphas recognized him and si
 
 Before Caiaphas could utter a word, Judas hurled the now hated bag of Tyrian shekels at his feet. 
 
-該亞法還沒來得及說一句話，猶大就把現在令人討厭的提利安謝克爾袋扔到他的腳下。
+該亞法還沒來得及說一句話，猶大就把現在令人討厭的提利安錢袋扔到他的腳下。
 
 \
 
@@ -154,7 +154,7 @@ Judas Iscariot knew he could not live with the guilt and unrelenting torment of 
 
 Later, after Judas' body was discovered, the little bag of Tyrian shekels he had so intensely desired was used to buy a potter's field... 
 
-後來，在猶大的屍體被發現後，他非常渴望的一小袋泰利安謝克爾被用來買一個陶工的田地......
+後來，在猶大的屍體被發現後，他非常渴望的一小袋泰利安錢被用來買一個陶工的田地......
 
 \
 

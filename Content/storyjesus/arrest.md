@@ -102,7 +102,7 @@ He didn't know what to think anymore.
 
 Once his shekels had been well and truly earned, Judas relaxed. He had been intending to depart for Decapolis as soon as the deed was done, but Jesus had taken him by surprise when He'd surrendered and allowed Himself to be restrained. 
 
-現在他已經真正賺到了謝克爾，猶大就放鬆了。 他一直打算在行為完成後立即前往迪卡波利斯，但當耶穌投降並允許自己受到約束時，耶穌讓他措手不及。
+現在他已經真正賺到了錢，猶大就放鬆了。 他一直打算在行為完成後立即前往迪卡波利斯，但當耶穌投降並允許自己受到約束時，耶穌讓他措手不及。
 
 \
 

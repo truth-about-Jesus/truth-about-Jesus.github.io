@@ -14,7 +14,7 @@ It was time.
 
 Time to truly *earn* those Tyrian shekels. 
 
-是時候真正賺取那些提利安謝克爾了。
+是時候真正賺取那些提利安錢了。
 
 \
 
@@ -61,7 +61,7 @@ So they were armed to the teeth.
 
 Jesus would slip through their grasp and be free, and he, Judas, would be fully legitimately thirty shekels richer. 
 
-耶穌將從他們的手中溜走，獲得自由，而他，猶大，將完全合法地更富有三十舍客勒。
+耶穌將從他們的手中溜走，獲得自由，而他，猶大，將完全合法地更富有三十錢。
 
 \
 
@@ -137,7 +137,7 @@ Even as he lay on his back on the ground, bowled over by Jesus' display of power
 
 He had been right. Earning these shekels would be a piece of cake. Jesus would escape -- easily! -- and he, Judas, would soon be on his way to Decapolis -- with a clear conscience and plenty of silver. 
 
-他是對的。 賺取這些謝克爾會很容易。 耶穌會逃跑——沒問題！——他，猶大，很快就會帶著問心無愧和大量的銀子去迪卡波利斯。
+他是對的。 賺取這些錢會很容易。 耶穌會逃跑——沒問題！——他，猶大，很快就會帶著問心無愧和大量的銀子去迪卡波利斯。
 
 \
 

@@ -150,7 +150,7 @@ Judas gaped.
 
 They threw him the bag of Tyrian shekels. It was blood money for a traitor, and they didn't want to chance becoming unclean before the holy Passover celebration. 
 
-他們把一袋提爾謝克爾丟給他。 這是對叛徒的報酬。 他們不想在神聖的逾越節慶祝活動之前冒著變得不潔的風險。
+他們把一袋提爾錢丟給他。 這是對叛徒的報酬。 他們不想在神聖的逾越節慶祝活動之前冒著變得不潔的風險。
 
 \
 

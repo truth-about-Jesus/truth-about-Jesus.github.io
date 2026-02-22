@@ -101,7 +101,7 @@ He only hoped the Jewish Chief Priest would be sufficiently intrigued by their r
 
 The Chief Priest studied the flustered Roman soldiers for a moment, the two sizeable bags of Tyrian shekels still jingling in his hands.
 
-大祭司審視了驚慌失措的羅馬士兵一會兒，手裡仍然叮噹作響著兩大袋提爾謝克爾。
+大祭司審視了驚慌失措的羅馬士兵一會兒，手裡仍然叮噹作響著兩大袋提爾錢。
 
 \
 

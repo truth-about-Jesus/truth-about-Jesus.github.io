@@ -73,7 +73,7 @@ John avoided Peter's eyes. _He isn't going to rope me into doing the servant's j
 
 The other disciples looked at each other uncomfortably. Judas Iscariot had already made up his mind not to involve himself in the petty quarrels in which the others sometimes engaged. He had higher matters to consider -- like determining exactly when would be the best time to hand Jesus over to the Chief Priests... and truly earn that bag of Tyrian shekels that were burning a hole in his pocket. 
 
-其他門徒不舒服地看著對方。 加略人猶大已經下定決心不捲入其他人有時捲入的小爭吵中。 他有更高的考慮事項要考慮——比如確切地確定何時是將耶穌交給大祭司長的最佳時機......並真正賺取那袋在他的口袋裡燒了一個洞的提謝克爾。
+其他門徒不舒服地看著對方。 加略人猶大已經下定決心不捲入其他人有時捲入的小爭吵中。 他有更高的考慮事項要考慮——比如確切地確定何時是將耶穌交給大祭司長的最佳時機......並真正賺取那袋在他的口袋裡燒了一個洞的提錢。
 
 
 \
@@ -239,7 +239,7 @@ Judas Iscariot was troubled by that last statement, spoken in his direction, he 
 
 He had looked down for a moment while feeling once again for the bag of Tyrian shekels in his pocket -- just to make sure they were there -- when Jesus had made that last, rather pointed statement. 
 
-當耶穌做出最後一個相當尖銳的宣告時，他低頭看了一會兒，再次感覺到口袋裡的一袋提爾謝克爾——只是為了確保它們在那裡——所以他不確定耶穌在說誰。
+當耶穌做出最後一個相當尖銳的宣告時，他低頭看了一會兒，再次感覺到口袋裡的一袋提爾錢——只是為了確保它們在那裡——所以他不確定耶穌在說誰。
 
 \
 
