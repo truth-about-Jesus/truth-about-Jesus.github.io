@@ -32,7 +32,7 @@ at the Apostle Peter's feet.
 
 "We sold a field, and offer the *full proceeds* to support the needy among the Messiah's followers," he said, 
 
-他說，「我們賣掉了一片田地，並提供了全部收益來支援彌賽亞追隨者中的有需要的人。」
+他說，「我們賣掉了一片田地，現在，我們將全部收益捐給您，用於幫助彌賽亞信徒中的貧困者。」
 
 \
 
@@ -61,7 +61,7 @@ The Holy Spirit bristled, filling Peter with honest indignation,
 
 then spoke gently through him.
 
-然後透過他輕輕地說話。
+然後透過他悄然說話。
 
 \
 
@@ -103,7 +103,7 @@ as Peter well knew
 
 from his Master's teaching on giving.
 
-來自他關於給予錢的碩士教學。
+源自於他師父關於給予錢的教導。
 
 \
 
@@ -156,7 +156,7 @@ You haven't lied to *men,*
 
 but to *God!"*
 
-但對上帝來說！」
+但卻對上帝說謊！」
 
 \
 
@@ -174,7 +174,7 @@ Ananias
 
 collapsed.
 
-崩潰了。
+摔倒了。
 
 \
 
