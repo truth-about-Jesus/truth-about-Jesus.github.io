@@ -103,7 +103,7 @@ Everyone raised their heads and stared at Jesus. What could He possibly mean?
 
 As the other Apostles puzzled over these cryptic statements, Judas Iscariot slowly raised his eyes to see Jesus looking directly at him.
 
-當其他使徒對這些神秘的陳述感到困惑時，加略人猶大慢慢地抬起眼睛，看到耶穌直視著他。
+當其他使徒對這些神秘的陳述感到困惑時，猶大·伊斯卡里奧特慢慢地抬起眼睛，看到耶穌直視著他。
 
 \
 
@@ -210,7 +210,7 @@ Jesus spoke very quietly, so only John could hear.
 
 He dipped the piece of bread generously in the dipping sauce and handed it -- to Judas Iscariot.
 
-他慷慨地將那塊麵包浸在蘸醬中，然後遞給加略人猶大。
+他慷慨地將那塊麵包浸在蘸醬中，然後遞給猶大·伊斯卡里奧特。
 
 \
 

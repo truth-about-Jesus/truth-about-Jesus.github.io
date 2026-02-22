@@ -194,7 +194,7 @@ One of the chosen Apostles spoke up with a stony glare:
 
 As all eyes turned on him, Judas Iscariot felt his face growing hot --
 
-當所有人的目光都轉向他時，加略人猶大覺得他的臉越來越熱了——
+當所有人的目光都轉向他時，猶大·伊斯卡里奧特覺得他的臉越來越熱了——
 
 \
 

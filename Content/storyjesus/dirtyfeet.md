@@ -43,7 +43,7 @@ Peter looked at John, who looked away. All of the disciples were avoiding each o
 
 They were all at table, almost ready to begin. Jesus, with John beside Him -- as the youngest, John was always right next to Jesus -- Matthew, Bartholomew, Thomas, Judas Iscariot, Peter, James, Andrew, Thaddeus, Simon, Philip and the other James, the son of Alphaeus.
 
-他們都坐到了餐桌旁，幾乎準備開始了。耶穌，約翰在他身邊──身為最年輕的使徒，約翰總是在耶穌旁邊──馬太、巴多羅買、多馬、加略人猶大、彼得、雅各、安得烈、達太、西門、腓力和亞勒腓的兒子雅各。
+他們都坐到了餐桌旁，幾乎準備開始了。耶穌，約翰在他身邊──身為最年輕的使徒，約翰總是在耶穌旁邊──馬太、巴多羅買、多馬、猶大·伊斯卡里奧特、彼得、雅各、安得烈、達太、西門、腓力和亞勒腓的兒子雅各。
 
 \
 
@@ -73,8 +73,7 @@ John avoided Peter's eyes. _He isn't going to rope me into doing the servant's j
 
 The other disciples looked at each other uncomfortably. Judas Iscariot had already made up his mind not to involve himself in the petty quarrels in which the others sometimes engaged. He had higher matters to consider -- like determining exactly when would be the best time to hand Jesus over to the Chief Priests... and truly earn that bag of Tyrian shekels that were burning a hole in his pocket. 
 
-其他門徒不舒服地看著對方。 加略人猶大已經下定決心不捲入其他人有時捲入的小爭吵中。 他有更高的考慮事項要考慮——比如確切地確定何時是將耶穌交給大祭司長的最佳時機......並真正賺取那袋在他的口袋裡燒了一個洞的提錢。
-
+其他門徒不舒服地看著對方。 猶大·伊斯卡里奧特已經下定決心不捲入其他人有時捲入的小爭吵中。 他有更高的考慮事項要考慮——比如確切地確定何時是將耶穌交給大祭司長的最佳時機......他想真正賺掉口袋裡那袋泰爾錢，那袋錢他還是不配得到。
 
 \
 
@@ -233,7 +232,7 @@ Jesus smiled as He proceeded to wash just Peter's feet. "The one who has been ba
 
 Judas Iscariot was troubled by that last statement, spoken in his direction, he thought... or had he imagined it?
 
-加略人猶大對最後那句話感到不安，他想，這句話是針對他說的……還是他想像出來的？
+猶大·伊斯卡里奧特對最後那句話感到不安，他想，這句話是針對他說的……還是他想像出來的？
 
 \
 

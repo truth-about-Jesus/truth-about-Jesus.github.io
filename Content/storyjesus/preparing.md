@@ -8,7 +8,7 @@ translateLink: preparing
 
 Judas Iscariot had only one thought in his mind. 
 
-加略人猶大腦海中只有一個想法。
+猶大·伊斯卡里奧特腦海中只有一個想法。
 
 \
 

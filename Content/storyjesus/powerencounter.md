@@ -20,7 +20,7 @@ Time to truly *earn* those Tyrian shekels.
 
 Judas Iscariot led the band of men armed with swords and clubs, carrying torches to light the darkness, toward the entrance of the place where he knew Jesus was most likely to go with His chosen Apostles. 
 
-猶大·加略帶著一群拿著劍和棍棒的人，拿著火把照亮黑暗，走向他知道耶穌最有可能與他揀選的使徒一起去的地方的入口。
+猶大·伊斯卡里奧特著一群拿著劍和棍棒的人，拿著火把照亮黑暗，走向他知道耶穌最有可能與他揀選的使徒一起去的地方的入口。
 
 \
 
@@ -131,7 +131,7 @@ As soon as the words were out of Jesus' mouth, the entire band of armed men -- J
 
 Even as he lay on his back on the ground, bowled over by Jesus' display of power, Judas Iscariot was delighted.
 
-即使他仰面躺在地上，被耶穌展示的力量擊倒時，加略人猶大也很高興。
+即使他仰面躺在地上，被耶穌展示的力量擊倒時，猶大·伊斯卡里奧特也很高興。
 
 \
 

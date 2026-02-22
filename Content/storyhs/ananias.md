@@ -65,7 +65,7 @@ then spoke gently through him.
 
 \
 
-"Ananias, how has Satan *so* filled your heart 
+"Ananias, how has Satan so filled your heart 
 
 「阿納尼亞斯，撒旦是如何填滿你的心的
 
@@ -124,7 +124,7 @@ was a problem.
 \
 \
 
-"Wasn't the field *yours* 
+"Wasn't the field yours
 
 「田地不是你的嗎
 

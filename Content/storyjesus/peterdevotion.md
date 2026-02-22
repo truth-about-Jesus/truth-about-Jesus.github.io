@@ -8,7 +8,7 @@ translateLink: peterdevotion
 
 Peter watched Judas Iscariot hurry out the door, thinking perhaps Jesus had sent him on an errand to buy something, or maybe give a gift to the poor.
 
-彼得看著加略人猶大匆匆走出門，以為也許耶穌派他去跑腿去買東西，或者給窮人送禮物。
+彼得看著猶大·伊斯卡里奧特匆匆走出門，以為也許耶穌派他去跑腿去買東西，或者給窮人送禮物。
 
 \
 
@@ -38,7 +38,7 @@ Being glorified sounded like a good thing, reasoned John. So why did Jesus seem 
 
 And what about Judas Iscariot? He had escaped!
 
-加略人猶大呢？ 他逃脫了！
+猶大·伊斯卡里奧特呢？ 他逃脫了！
 
 \
 
@@ -240,7 +240,7 @@ Peter thought quickly. John's whispered revelation as they had followed Jesus ou
 
 Now, he steeled himself to do what must be done. Judas Iscariot must not be permitted to hand Jesus over to the religious leaders.
 
-現在，他堅定地去做必須做的事情。 他絕不能允許加略人猶大將耶穌交給宗教領袖。
+現在，他堅定地去做必須做的事情。 他絕不能允許猶大·伊斯卡里奧特將耶穌交給宗教領袖。
 
 \
 

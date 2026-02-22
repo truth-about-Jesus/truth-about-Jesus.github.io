@@ -1,14 +1,14 @@
 ---
 date: 2024-07-07 8:06
 title: 12 - Judas' regret  猶大的遺憾
-description: Judas Iscariot realizes what he has done  加略人猶大意識到他所做的一切
+description: Judas Iscariot realizes what he has done  猶大·伊斯卡里奧特意識到他所做的一切
 tags: Judas, Iscariot, regret, remorse, suicide, death
 translateLink: judasregret
 ---
 
 Judas Iscariot was shocked.
 
-加略人猶大感到震驚。
+猶大·伊斯卡里奧特感到震驚。
 
 \
 
@@ -61,7 +61,7 @@ the stream surged into a raging river.
 
 His unprotected conscience now flooded with the realization of the evil and injustice he had set in motion, Judas Iscariot rushed up the stone steps to the chamber where the Sanhedrin had so recently sat.
 
-他毫無保護的良心現在充滿了對他所引發的邪惡和不公正的認識，加略人猶大衝上石階，來到公會最近坐過的房間。
+他毫無保護的良心現在充滿了對他所引發的邪惡和不公正的認識，猶大·伊斯卡里奧特衝上石階，來到公會最近坐過的房間。
 
 \
 
@@ -143,7 +143,7 @@ Time for justice -- for an intolerable evil to be made right.
 
 Judas Iscariot knew he could not live with the guilt and unrelenting torment of what he had done. 
 
-加略人猶大知道他無法忍受自己的所作所為所帶來的愧疚和無情的折磨。
+猶大·伊斯卡里奧特知道他無法忍受自己的所作所為所帶來的愧疚和無情的折磨。
 
 \
 

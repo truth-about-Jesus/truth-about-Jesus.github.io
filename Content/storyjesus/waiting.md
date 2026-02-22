@@ -96,7 +96,7 @@ Judas Iscariot had been there, also, but Jesus knew -- had known from the very b
 
 Judas Iscariot had another master, who was, at this very moment, Jesus knew with infinite sadness, leading him down to death. 
 
-加略人猶大還有另一個主人。耶穌帶著無限的悲傷知道，就在這時，猶大的另一位主人正在帶領他走向死亡。
+猶大·伊斯卡里奧特還有另一個主人。耶穌帶著無限的悲傷知道，就在這時，猶大的另一位主人正在帶領他走向死亡。
 
 
 \
