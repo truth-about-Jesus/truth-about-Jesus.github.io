@@ -145,7 +145,7 @@ as they saw her smiling at them.
 
 "The feet of those who buried your husband are at the door, 
 
-「埋葬你丈夫的一些人的腳在門口，
+「埋葬你丈夫的那些人的腳在門口，
 
 \
 
