@@ -8,7 +8,7 @@ translateLink: sapphira
 
 Three hours later, after the young men had removed her husband's body, 
 
-三小時後，在年輕人取出她丈夫的屍體後，
+三小時後，在那些年輕男人取出她丈夫的屍體後，
 
 \
 
@@ -127,7 +127,7 @@ sorrowfully through Peter,
 
 Sapphira looked up and saw some of the young men entering the room, 
 
-薩菲拉抬頭一看，看到一些年輕人走進了房間，
+薩菲拉抬頭一看，看到一些年輕男人走進了房間，
 
 \
 
