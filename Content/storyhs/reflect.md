@@ -144,7 +144,9 @@ the wonderful healing miracles given by God:
 
 "He that is not *with* Me
 
-「誰不和我在一起的人
+「誰不與我相合的人
+
+
 
 \
 
