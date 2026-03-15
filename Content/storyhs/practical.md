@@ -91,7 +91,7 @@ to ensure fairness.
 
 By now there were many thousands of believers, and
 
-到現在，有成千上萬的信徒，並且
+到現在，有數千的信徒，並且
 
 \
 
