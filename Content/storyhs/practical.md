@@ -59,7 +59,7 @@ or other means of support.
 \
 \
 
-After a time, however, certain of the believers complained that their widows were not receiving 
+After a time, however, certain of the believers complained that *their* widows were not receiving 
 
 然而，一段時間後，一些信徒抱怨說他們的寡婦沒有收到
 
@@ -71,9 +71,9 @@ desperately needed funds,
 
 \
 
-while others were,
+while others *were,*
 
-而其他人是，
+而其他寡婦確實得到了，
 
 \
 
@@ -89,7 +89,7 @@ to ensure fairness.
 
 \
 
-By now there were many thousands of believers, and
+By now there were many *thousands* of believers, and
 
 到現在，有數千的信徒，並且
 
@@ -156,7 +156,7 @@ in the courtyard of the Temple in Jerusalem,
 
 where they met regularly to listen to the teaching of the Apostles.
 
-他們定期見面聽使徒的教導。
+他們定期聚會聆聽使徒教導的地方。
 
 \
 
@@ -168,7 +168,7 @@ But today's meeting was different.
 
 Today, they were choosing seven men 
 
-今天，他們選擇了七個男人
+今天，他們選擇七個男人
 
 \
 
