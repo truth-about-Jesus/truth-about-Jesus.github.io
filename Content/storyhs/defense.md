@@ -115,7 +115,7 @@ as the Council listened.
 
 Even though Stephen's life was on the line, 
 
-儘管史蒂芬的生命岌岌可命，
+儘管史蒂芬的生命危在旦夕，
 
 \
 
