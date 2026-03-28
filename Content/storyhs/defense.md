@@ -166,7 +166,7 @@ which nonetheless *must* be spoken.
 
 \
 
-You always *resist* 
+You always resist
 
 你總是抗拒
 
@@ -226,7 +226,7 @@ You received the Law from angels,
 
 \
 
-and *have not kept it!"*
+and have not kept it!"
 
 並且你們沒有遵守它！」
 
