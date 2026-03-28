@@ -44,7 +44,7 @@ as he stood on trial
 
 before the Jewish Ruling Council. 
 
-在猶太統治理事會之前。
+在猶太統治理事會面前。
 
 \
 
@@ -55,7 +55,7 @@ before the Jewish Ruling Council.
 
 Through Stephen, the Holy Spirit had been recapping, in brief, the stories of 
 
-透過史蒂芬，聖靈一直在簡要地總結故事
+透過史蒂芬，聖靈在簡要地總結故事
 
 \
 
@@ -85,7 +85,7 @@ tracing the history of Israel
 
 down through the generations,
 
-世代相，
+些代又些代，
 
 \
 
@@ -192,7 +192,7 @@ Which of the prophets
 
 didn't your fathers persecute? 
 
-你父親不是迫害嗎？
+沒有遭受你們祖先的迫害？
 
 \
 
@@ -228,7 +228,7 @@ You received the Law from angels,
 
 and *have not kept it!"*
 
-並且沒有遵守它！」
+並且你們沒有遵守它！」
 
 \
 
