@@ -8,62 +8,184 @@ translateLink: jesusstand
 
 Nearly the entire Council, 
 
+幾乎整個理事會，
+
+\
+
 enraged by 
+
+被激怒
+
+\
 
 the Holy Spirit's indictment,
 
+聖靈的控訴，
+
+\
+
 leapt to their feet, 
+
+跳了起來，
+
+\
 
 grinding their teeth in fury.
 
-💠
+憤怒地咬牙切齒。
+
+\
+
+<center>💠</center>
+
+\
+\
 
 In Heaven, 
 
+在天堂裡，
+
+\
+
 anticipating Stephen's suffering,
+
+預測史蒂芬的痛苦，
+
+\
 
 Jesus 
 
+耶穌
+
+\
+
 stood up
+
+站起來
+
+\
 
 in His place beside the Father.
 
-💠
+在父親身邊的他的位置。
+
+\
+
+<center>💠</center>
+
+\
+\
 
 Now
 
+現在
+
+\
+
 the Holy Spirit opened Stephen's eyes
+
+聖靈開啟了斯蒂芬的眼睛
+
+\
 
 to see far beyond 
 
+看見遠遠超出
+
+\
+
 the roof and four walls of the Council Hall,
+
+理事會大廳的屋頂和四面牆，
+
+\
 
 to speak the words 
 
+說出這些話
+
+\
+
 that would seal his fate
 
-and usher him into God's presence
+那將決定他的命運
+
+\
+
+and usher him into Jesus' presence
+
+並引導他進入耶穌的面前
+
+\
 
 with joy.
 
-💠
+帶著喜悅。
+
+\
+
+<center>💠</center>
+
+\
+\
 
 Stephen looked up... 
 
-saw...
+史蒂芬抬頭看了看......
+
+\
+
+*saw...*
+
+看見...
+
+\
 
 and cried out, his face shining as an angel's,
 
-"Look! 
+喊道，他的臉像天使一樣閃耀，
+
+\
+
+*"Look!* 
+
+「看！
+
+\
 
 I see Heaven opened,
 
+我看到天堂打開了，
+
+\
+
 and the Son of Man 
+
+和人子
+
+\
 
 standing 
 
-at the right hand of God!"
+站立
 
-💠
+\
 
-Based on Acts 6:15; Acts 7:51-56; Matthew 10:17-20.
+at *the right hand of God!"*
+
+在上帝的右邊！」
+
+\
+
+<center>💠</center>
+
+\
+\
+
+*Based on Acts 6:15; Acts 7:51-56; Matthew 10:17-20.*
+
+基於使徒行傳6:15；使徒行傳7:51-56；馬太福音10:17-20。
+
+\
+
+<center>💠</center>
