@@ -49,7 +49,7 @@ In Heaven,
 
 anticipating Stephen's suffering,
 
-預測史蒂芬的痛苦，
+預料到史蒂芬的痛苦，
 
 \
 
@@ -161,7 +161,7 @@ I see Heaven opened,
 
 and the Son of Man 
 
-和人子
+人子
 
 \
 
