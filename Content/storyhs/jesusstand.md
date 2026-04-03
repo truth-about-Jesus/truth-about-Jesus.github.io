@@ -155,7 +155,7 @@ and cried out, his face shining as an angel's,
 
 I see Heaven opened,
 
-我看到天堂打開了，
+我看到天堂打開，
 
 \
 
