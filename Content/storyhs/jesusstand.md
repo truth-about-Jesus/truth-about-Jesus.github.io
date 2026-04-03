@@ -18,9 +18,9 @@ enraged by
 
 \
 
-the Holy Spirit's indictment,
+the Holy Spirit's indictment of them,
 
-聖靈的控訴，
+聖靈對他們的控訴，
 
 \
 
@@ -100,7 +100,7 @@ the roof and four walls of the Council Hall,
 
 \
 
-to speak the words 
+and to speak the words 
 
 說出這些話
 
