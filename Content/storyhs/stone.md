@@ -1,7 +1,7 @@
 ---
 date: 2026-04-10 08:22
 title: 46 - Stoning  石刑
-description: Stephen is executed  史蒂芬被處死了
+description: Stephen is executed -- and forgives  史蒂芬被處死了——並他原諒
 tags: Stephen, Holy Spirit, Jewish Ruling Council, stone, execute, pray, forgive
 translateLink: stone
 ---
