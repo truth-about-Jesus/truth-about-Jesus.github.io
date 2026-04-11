@@ -14,13 +14,13 @@ As soon as the words were out of Stephen's mouth,
 
 the Council members, already trembling with barely suppressed rage,
 
-理事會成員已經因勉強抑制的憤怒而顫抖，
+理事會早已怒火中燒，全身顫抖，幾乎無法抑制，
 
 \
 
 howled with horror,
 
-驚恐地嚎叫著，
+發出厭惡的嚎叫，
 
 \
 
@@ -91,7 +91,7 @@ at the hands of those
 
 claiming to represent His Father.
 
-聲稱代表他的父親。
+他們聲稱代表他的父親。
 
 \
 
@@ -120,7 +120,7 @@ filling him with needed faith and courage,
 
 now rose majestically within, 
 
-現在在內心威嚴地升起，
+現在在內心壯麗地升起，
 
 \
 
@@ -144,7 +144,7 @@ that he did not resist his murderers.
 
 Instead, knowing his God-appointed time was near, 
 
-相反，知道他被上帝指定的時間臨近了，
+相反，他知道他被上帝指定的時間臨近了，
 
 \
 
