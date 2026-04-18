@@ -20,7 +20,7 @@ he noticed,
 
 standing a distance behind his attackers,
 
-站在攻擊者身後一段距離處，
+站在攻擊他的人群後方一段距離，
 
 \
 
