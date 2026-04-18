@@ -14,7 +14,7 @@ As Stephen's spirit rose from his broken, lifeless body,
 
 he noticed, 
 
-他注意到了，
+他注意到了一個人，
 
 \
 
@@ -62,7 +62,7 @@ inexplicably,
 
 his heart went out to him.
 
-他非常同情他。
+他的心向他伸出了心。
 
 \
 
@@ -73,7 +73,7 @@ his heart went out to him.
 
 When he arrived in Heaven, to great fanfare and rejoicing,
 
-當他到達天堂時，人們大張旗鼓地歡欣鼓舞，
+當他到達天堂時，天使們大張旗鼓地歡欣鼓舞，
 
 \
 
@@ -149,7 +149,7 @@ eternity.
 
 Then he heard the Father's voice:
 
-然後他聽到了父親的聲音：
+然後他聽到了天父的聲音：
 
 \
 
