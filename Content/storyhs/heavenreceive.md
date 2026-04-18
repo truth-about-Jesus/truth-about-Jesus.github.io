@@ -202,7 +202,7 @@ far outweighed his own.
 
 Waves of glory, peace and joy washed over and through him,
 
-無數的榮耀、和平與喜悅的浪潮沖刷著他，
+無數的榮耀、和平與喜悅的浪潮沖刷著他，流淌在他的心中，
 
 \
 
@@ -231,7 +231,7 @@ it had *all* been worthwhile.
 
 Then he remembered the young fellow he had seen,
 
-然後他想起了他見過的那年輕人，
+然後他想起了他注意到的那個年輕人，
 
 \
 
