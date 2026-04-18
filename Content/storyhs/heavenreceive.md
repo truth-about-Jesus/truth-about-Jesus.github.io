@@ -73,7 +73,7 @@ his heart went out to him.
 
 When he arrived in Heaven, to great fanfare and rejoicing,
 
-當他到達天堂時，大張旗鼓地歡欣鼓舞，
+當他到達天堂時，人們大張旗鼓地歡欣鼓舞，
 
 \
 
@@ -91,7 +91,7 @@ waiting to receive him.
 
 Before Stephen could bow low before His Lord, 
 
-在史蒂芬在他的主面前下拜之前，
+史蒂芬還來不及向他的主俯伏敬拜，
 
 \
 
@@ -184,7 +184,7 @@ As tears of joy washed over his face,
 
 Stephen now bowed low before the great Throne,
 
-史蒂芬現在在偉大的寶座前低頭，
+史蒂芬在王座前深深鞠躬，
 
 \
 
@@ -202,7 +202,7 @@ far outweighed his own.
 
 Waves of glory, peace and joy washed over and through him,
 
-榮耀、和平與喜悅的浪潮沖刷著他，
+無數的榮耀、和平與喜悅的浪潮沖刷著他，
 
 \
 
