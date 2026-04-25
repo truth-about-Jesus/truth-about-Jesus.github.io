@@ -32,7 +32,7 @@ against the believers in Jerusalem,
 
 spearheaded by the young fellow Stephen had noticed 
 
-這場迫害是由史蒂芬注意到的那個年輕人發起的
+這是由史蒂芬注意到的那個年輕人發起的
 
 \
 
