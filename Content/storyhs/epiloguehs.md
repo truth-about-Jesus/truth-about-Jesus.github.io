@@ -20,13 +20,13 @@ Stephen was stoned to death,
 
 a terrible persecution broke out
 
-一場可怕的迫害爆發了反對
+一場可怕的迫害爆發了
 
 \
 
 against the believers in Jerusalem,
 
-耶路撒冷的信徒，
+針對耶路撒冷信徒的迫害，
 
 \
 
@@ -44,7 +44,7 @@ as his spirit had left his body:
 
 a disciple of Gamaliel
 
-迦瑪列的弟子
+迦瑪列的門徒之一
 
 \
 
