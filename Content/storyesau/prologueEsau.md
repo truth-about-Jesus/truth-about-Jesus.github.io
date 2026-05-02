@@ -61,7 +61,7 @@ wasn't he?
 
 \
 
-What can we possibly *learn* 
+What can we *possibly* learn 
 
 我們能學到什麼
 
