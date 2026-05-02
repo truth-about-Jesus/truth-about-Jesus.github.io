@@ -1,6 +1,6 @@
 ---
 date: 2026-04-30 02:04
-title: 0 - Prologue  序幕
+title: 0 - Prologue  序言
 description: A story of Esau  以掃的故事
 tags: Esau, story, Jacob, Israel, reason, Edom, God, favour
 translateLink: prologueEsau
@@ -27,7 +27,7 @@ Wasn't *Jacob*
 
 the son God chose 
 
-上帝選擇的兒子
+上帝選擇的人
 
 \
 
