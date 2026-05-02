@@ -39,7 +39,7 @@ to become the progenitor of Israel,
 
 His chosen people?
 
-祂的選民？
+祂的選民嗎？
 
 \
 
