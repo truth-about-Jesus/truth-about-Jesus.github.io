@@ -14,7 +14,7 @@ Esau's Mom and Dad were *definitely* chosen people.
 
 His Dad, Isaac, was the only son born to Grandpa Abraham
 
-他的父親艾薩克是「亞伯拉罕爺爺」唯一的兒子
+他的父親艾薩克是亞伯拉罕爺爺唯一的兒子
 
 \
 
