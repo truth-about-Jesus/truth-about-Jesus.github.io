@@ -14,7 +14,7 @@ Esau's Mom and Dad were *definitely* chosen people.
 
 His Dad, Isaac, was the only son born to Grandpa Abraham
 
-他的父親艾薩克是亞伯拉罕爺爺所生的唯一兒子
+他的父親艾薩克是「亞伯拉罕爺爺」唯一的兒子
 
 \
 
@@ -38,7 +38,7 @@ through Grandpa's concubine
 
 and second wife --
 
-和第二任妻子——
+和他的第二任妻子——
 
 \
 
@@ -83,9 +83,9 @@ Grandpa Abraham had sent his most trusted servant back home
 
 \
 
-to Paddan-Aram
+to the city of Nahor in Mesopotamia
 
-到帕丹-阿拉姆
+前往美索不達米亞的拿鶴城
 
 \
 
@@ -166,9 +166,9 @@ the day Grandpa's servant arrived with Mom.
 
 \
 
-The servant told Dad of his adventures in Paddan-Aram, 
+The servant told Dad of his adventures in Mesopotamia, 
 
-僕人告訴爸爸他在帕丹-阿拉姆的冒險經歷，
+僕人告訴爸爸他在美索不達米亞的冒險經歷，
 
 \
 
