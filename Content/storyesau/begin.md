@@ -160,19 +160,19 @@ Dad had gone out to the field alone to meditate,
 
 \
 
-the day Grandpa's servant arrived with Mom.
+the day Grandpa's servant had arrived with Mom.
 
 爺爺的僕人和媽媽一起到達的那天。
 
 \
 
-The servant told Dad of his adventures in Mesopotamia, 
+The servant had told Dad of his adventures in Mesopotamia, 
 
 僕人告訴爸爸他在美索不達米亞的冒險經歷，
 
 \
 
-Dad took Mom into his tent,
+Dad had taken Mom into his tent,
 
 爸爸帶媽媽進了他的帳篷，
 
