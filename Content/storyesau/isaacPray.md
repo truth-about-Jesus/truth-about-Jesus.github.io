@@ -90,7 +90,7 @@ so he took up the matter with God.
 
 Isaac knew his *own* mother, Sarah, had not had *him* 
 
-艾薩克知道，他的母親莎拉
+艾薩克知道，他自己的母親莎拉
 
 \
 
