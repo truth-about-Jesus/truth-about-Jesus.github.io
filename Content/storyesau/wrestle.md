@@ -76,9 +76,9 @@ was her belly supposed to feel like a *wrestling match?!*
 \
 \
 
-At last, she decided.
+At last, she decided:
 
-最後，她決定了。
+最後，她決定了：
 
 \
 
@@ -100,9 +100,9 @@ Who answered my husband's prayer to give me a child --
 
 \
 
-surely *He* knows."
+surely *He* can tell me."
 
-他肯定知道。」
+我相信祂能夠告訴我答案。」
 
 \
 

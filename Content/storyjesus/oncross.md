@@ -8,7 +8,7 @@ translateLink: oncross
 
 The Father watched and waited as His Son suffered in unspeakable agony for hours on the Cross. 
 
-父親看著並等待著他的兒子在十字架上忍受了幾個小時的難以言喻的痛苦。
+父親看著並等待著祂的兒子在十字架上忍受了幾個小時的難以言喻的痛苦。
 
 \
 

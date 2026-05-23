@@ -8,13 +8,13 @@ translateLink: pastfuture
 
 The Father watched in agony as His Beloved Son, with whom He had created the universe and everything in it, submitted Himself fully to the cruel indignities of a Roman crucifixion.
 
-天父痛苦地看著他心愛的兒子。他們一起創造了宇宙和其中的一切。現在，他的兒子允許羅馬人殘酷地羞辱他並將他釘死在十字架上。
+天父痛苦地看著祂心愛的兒子。祂們一起創造了宇宙和其中的一切。現在，祂的兒子允許羅馬人殘酷地羞辱他並將他釘死在十字架上。
 
 \
 
 They had chosen this specific form of execution together, because it was, across all human history -- past, present and future -- the most diabolical combination of physical, emotional and mental suffering ever devised by the beloved and precious -- yet evil and doomed -- tiny human creatures.
 
-他們共同選擇了這種特殊的執行方法。縱觀整個人類歷史——過去、現在和未來——釘十字架是有史以來最殘酷的身體、情感和精神痛苦的結合，這些痛苦是由可愛和珍貴的微小人類所設計的——但也是邪惡和注定的。
+祂們共同選擇了這種特殊的執行方法。縱觀整個人類歷史——過去、現在和未來——釘十字架是有史以來最殘酷的身體、情感和精神痛苦的結合，這些痛苦是由可愛和珍貴的微小人類所設計的——但也是邪惡和注定的。
 
 \
 

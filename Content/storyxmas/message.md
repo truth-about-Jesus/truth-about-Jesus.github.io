@@ -20,7 +20,7 @@ and instantly, Gabriel,
 
 His Chief Messenger angel 
 
-他的首席信使天使
+祂的首席信使天使
 
 \
 
@@ -74,7 +74,7 @@ Gabriel saluted smartly.
 
 The Father smiled at His faithful servant.
 
-父親對他忠實的僕人笑了笑。
+父親對祂忠實的僕人笑了笑。
 
 \
 

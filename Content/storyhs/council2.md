@@ -85,7 +85,7 @@ against *them*, the *Ruling Council!* -- portraying them as *rogue tenant farmer
 
 who attacked and beat His servants, and even 
 
-誰攻擊並毆打他的僕人，甚至
+誰攻擊並毆打祂的僕人，甚至
 
 \
 
@@ -97,7 +97,7 @@ who attacked and beat His servants, and even
 
 *His own Son!*
 
-他自己的兒子！
+祂自己的兒子！
 
 \
 

@@ -72,7 +72,7 @@ Anyways, this poor, unimportant, bleeding (but not dying) woman managed to sneak
 
 Maybe God sent His angels to open a way for her, because He wanted her to be healed that day.)
 
-也許上帝派他的天使為她開闢一條道路，因為他希望她那天能治癒。）
+也許上帝派祂的天使為她開闢一條道路，因為祂希望她那天能治癒。）
 
 \
 

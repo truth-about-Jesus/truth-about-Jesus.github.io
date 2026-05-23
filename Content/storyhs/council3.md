@@ -26,7 +26,7 @@ and returned his attention to the three men standing before the Council,
 
 as the Holy Spirit concluded, through John, His remarks about Jesus:
 
-正如聖靈透過約翰完成了他對耶穌的評論：
+正如聖靈透過約翰完成了祂對耶穌的評論：
 
 \
 

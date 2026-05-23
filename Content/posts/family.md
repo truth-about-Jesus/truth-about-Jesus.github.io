@@ -455,7 +455,7 @@ Jesus said:
 
 Why did God send His Son Jesus to earth?
 
-上帝為什麼把他的兒子耶穌送到地上？
+上帝為什麼把祂的兒子耶穌送到地上？
 
 \
 \

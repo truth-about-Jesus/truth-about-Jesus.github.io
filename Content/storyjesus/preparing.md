@@ -67,7 +67,7 @@ Meanwhile, Peter and John, two others of Jesus' chosen Apostles, approached Jesu
 
 The Passover was, and still is, the most important feast given to the Jews by God to celebrate His rescuing them miraculously from four hundred years of harsh slavery in Egypt. As Jews themselves, Jesus and His chosen Apostles observed the Passover celebration faithfully in Jerusalem every year. 
 
-逾越節過去是，現在仍然是上帝賜予猶太人的最重要的節日，以慶祝他奇蹟般地將他們從埃及四百年的殘酷奴隸制中拯救出來。 作為猶太人自己，耶穌和他拣選的使徒每年都在耶路撒冷忠實地慶祝逾越節慶祝活動。
+逾越節過去是，現在仍然是上帝賜予猶太人的最重要的節日，以慶祝祂奇蹟般地將他們從埃及四百年的殘酷奴隸制中拯救出來。 作為猶太人自己，耶穌和他拣選的使徒每年都在耶路撒冷忠實地慶祝逾越節慶祝活動。
 
 \
 
