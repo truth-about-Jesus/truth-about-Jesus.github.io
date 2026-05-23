@@ -96,7 +96,7 @@ but the God Who brought me and my husband together,
 
 Who answered my husband's prayer to give me a child --
 
-誰回應了我丈夫的祈禱，讓我生一個孩子——
+祂回應了我丈夫的祈禱，讓我生一個孩子——
 
 \
 
