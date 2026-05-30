@@ -20,7 +20,7 @@ and two separate peoples arise from your belly.
 
 One people is stronger than the other; 
 
-一個國家比另一個國家更強大；
+一個民族比另一個民族更強大；
 
 \
 
@@ -61,7 +61,7 @@ the mother
 
 of *two whole nations?!*
 
-兩個完整的國家？！
+是兩個民族的母親？ ！
 
 \
 
