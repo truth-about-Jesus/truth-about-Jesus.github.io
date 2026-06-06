@@ -85,13 +85,13 @@ yet also not wanting to miss out on the birth of his child --
 
 or *children,* if what Rebekah had told him 
 
-或者孩子們，如果麗貝卡告訴他的故事
+或者孩子們，如果麗貝卡告訴他的事
 
 \
 
 was to be believed!
 
-屬實！
+是屬實！
 
 \
 
