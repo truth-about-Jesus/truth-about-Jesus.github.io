@@ -1,7 +1,7 @@
 ---
 date: 2026-06-04 04:41
 title: 5 - Labour  待產
-description: Rebekah is ready to give birth  麗貝卡準備生孩子了
+description: Rebekah is ready to give birth  麗貝卡開始分娩了
 tags: Rebekah, labour, birth, midwife, Isaac
 translateLink: labour
 ---
@@ -50,7 +50,7 @@ She was here now,
 
 handing a clean, damp cloth to Rebekah's nurse,
 
-把一塊乾淨、潮溼的布遞給麗貝卡的護士，
+助產士遞給麗貝卡的護士一塊乾淨的濕布，
 
 \
 
@@ -85,13 +85,13 @@ yet also not wanting to miss out on the birth of his child --
 
 or *children,* if what Rebekah had told him 
 
-或者孩子們，如果麗貝卡告訴他的
+或者孩子們，如果麗貝卡告訴他的故事
 
 \
 
 was to be believed!
 
-是可信的！
+屬實！
 
 \
 
