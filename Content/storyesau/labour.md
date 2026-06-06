@@ -1,7 +1,7 @@
 ---
 date: 2026-06-04 04:41
 title: 5 - Labour  待產
-description: Rebekah goes into labour  麗貝卡開始分娩了
+description: Rebekah is ready to give birth  麗貝卡準備生孩子了
 tags: Rebekah, labour, birth, midwife, Isaac
 translateLink: labour
 ---
