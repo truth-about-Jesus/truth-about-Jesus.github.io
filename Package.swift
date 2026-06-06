@@ -12,12 +12,14 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.8.0")
+        .package(url: "https://github.com/johnsundell/publish.git", "0.8.0"..."0.9.0")
     ],
     targets: [
         .executableTarget(
             name: "TruthAboutJesusSite",
-            dependencies: ["Publish"]
+            dependencies: [
+                .product(name: "Publish", package: "publish")
+            ]
         )
     ]
 )
