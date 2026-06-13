@@ -101,7 +101,7 @@ had been a *race* between the two
 
 \
 
-to see who would be born first!
+to see who would be first!
 
 看看誰會先出生！
 
