@@ -1,7 +1,7 @@
 ---
 date: 2026-06-11 04:46
 title: 6 - Birth  出生
-description: Esau and Jacob are born  以掃和雅各布出生了
+description: Esau and Jacob are born  以掃和雅各布出生
 tags: birth, Esau, Jacob, Rebekah, midwife, Isaac, twins
 translateLink: esaubirth
 ---
@@ -138,7 +138,7 @@ one hairy -- *almost furry!* --
 
 the other with skin as smooth and hairless as an eel's -- 
 
-另一個面板像鰻魚一樣光滑無毛——
+另一個皮膚像鰻魚一樣光滑無毛——
 
 \
 
