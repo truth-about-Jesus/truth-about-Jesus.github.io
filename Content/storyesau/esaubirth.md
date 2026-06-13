@@ -132,13 +132,13 @@ as two very different newborns --
 
 one hairy -- *almost furry!* --
 
-一個毛茸茸的——簡直就像覆蓋著動物的皮毛！——
+一個毛茸茸的小寶寶——簡直就像覆蓋著動物的皮毛！——
 
 \
 
 the other with skin as smooth and hairless as an eel's -- 
 
-另一個皮膚像鰻魚一樣光滑無毛——
+另一個小寶寶皮膚像鰻魚一樣光滑無毛——
 
 \
 
