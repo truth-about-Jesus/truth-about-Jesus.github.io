@@ -30,9 +30,9 @@ the midwife knew --
 
 \
 
-Rebekah's womb gave a tremendous thrust --
+Rebekah's deep belly gave a tremendous thrust --
 
-麗貝卡的子宮發出了巨大的推力——
+麗貝卡深深的腹部產生了巨大的推動力——
 
 \
 
@@ -95,9 +95,9 @@ the entire birthing experience
 
 \
 
-had been a *race*
+had been a *race* between the two
 
-是一場比賽
+是兩者之間的一場競賽
 
 \
 
