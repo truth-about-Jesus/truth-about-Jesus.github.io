@@ -44,7 +44,7 @@ a beautiful buck,
 
 which had led him further away than ever before,
 
-這讓他比以往任何時候都走得更遠，
+這讓他比以往任何時候都離家更遠，
 
 \
 
@@ -103,7 +103,7 @@ Esau had always been the stronger of the two;
 
 many times he had beaten his younger twin in a fist fight --
 
-他曾多次在拳擊比賽中擊敗他的雙胞胎弟弟——
+他曾多次在互毆中擊敗他的雙胞胎弟弟——
 
 \
 
@@ -133,7 +133,7 @@ but their mother had laughed it off
 
 as boyish antics,
 
-作為男孩子般的滑稽動作，
+作為如同男孩般的滑稽舉動，
 
 \
 
