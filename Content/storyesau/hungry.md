@@ -1,7 +1,7 @@
 ---
 date: 2026-06-18 04:59
 title: 7 - Hungry  飢餓的
-description: Jacob sees an opportunity  雅各看到一個機會
+description: Jacob's opportunity  雅各的一個機會
 tags: hungry, Esau, hunt, Jacob stew
 translateLink: hungry
 ---
@@ -161,7 +161,7 @@ God's words about them:
 
 \
 
-and the *older* serves the *younger."*
+and the *older serves* the younger."
 
 哥哥服侍弟弟。」
 
@@ -208,9 +208,9 @@ God's words about him
 
 \
 
-but some *other* way. 
+but some *other* way...
 
-但另一種方式。
+但另一種方式......
 
 \
 
