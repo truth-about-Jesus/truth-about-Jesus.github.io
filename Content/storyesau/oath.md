@@ -95,13 +95,13 @@ after a pause,
 
 \
 
-then trembled a little,
+trembling a little,
 
 然後有點顫抖，
 
 \
 
-anticipating Esau's response.
+as he anticipated Esau's response.
 
 等待以掃的回應。
 
