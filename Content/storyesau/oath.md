@@ -44,7 +44,7 @@ that could revitalize
 
 his depleted body.
 
-他憊的身體。
+他疲憊的身體。
 
 \
 
