@@ -44,13 +44,13 @@ that could revitalize
 
 his depleted body.
 
-他枯竭的身體。
+他憊的身體。
 
 \
 
-"Let me eat up some of that red-*red* --"
+"Let me swallow some of that red-*red* --"
 
-「讓我吃點那個紅紅的——」
+「讓我吞下一些紅紅的——」
 
 \
 
@@ -85,7 +85,7 @@ He didn't *look* dangerous at the moment...
 
 "First, sell me your birthright," he responded decisively
 
-「首先，你先把生有權賣給我吧，」他果斷地回答道
+「首先，把你當長子所擁有的權利賣給我，」他果斷地回答道
 
 \
 
@@ -132,7 +132,7 @@ simmering over Jacob's fire.
 
 "Who cares about a birthright? 
 
-我不在乎生有權！
+我不在乎長子所擁有的權利！
 
 \
 
@@ -208,7 +208,7 @@ that mouth-wateringly irresistible stew.
 
 "I, Esau, do solemnly swear that i sell Jacob my birthright --
 
-「我，以掃，鄭重發誓，我把作為生有權賣給了雅各——
+「我，以掃，鄭重發誓，我把作為長子所擁有的權利賣給了雅各——
 
 \
 
