@@ -1,7 +1,7 @@
 ---
 date: 2026-07-02 04:49
 title: 9 - One down...  搞定一個...
-description: Jacob has achieved a goal  雅各實現了一個目標
+description: Jacob achieves a goal  雅各實現一個目標
 tags: Jacob, Esau, birthright, rival, compete, blessing
 translateLink: onedown
 ---
