@@ -91,7 +91,7 @@ Although he couldn't see any longer, he cherished the sound of his older son's v
 
 Esau was a man's man, a skilled outdoorsman who loved to go hunting, and the wonderful flavour of the venison he brought home 
 
-以掃是個男人，一個熟練的戶外愛好者，喜歡打獵，還有他帶回家的鹿肉的美妙味道
+以掃是個真正的男子漢，一個熟練的戶外愛好者，喜歡打獵，還有他帶回家的鹿肉的美妙味道
 
 \
 
@@ -132,7 +132,7 @@ Esau began to protest, but his father held up a warning hand, so he stopped, wai
 
 "So, please take your quiver and your bow, and go out hunting, as you love to do!
 
-「所以，請帶上你的箭筒和弓，像你做什事的那樣出去打獵吧！
+「所以，請帶上你的箭筒和弓，出去打獵吧－我知道你喜歡打獵！
 
 \
 
@@ -191,7 +191,7 @@ and headed out immediately.
 
 into giving up his birthright --
 
-放棄他的長子所擁有的權利——
+放棄長子所擁有的權利——
 
 \
 
