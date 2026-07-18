@@ -80,7 +80,7 @@ His brother Esau was very hairy
 
 while he, Jacob, had smooth skin.
 
-而他，雅各，面板光滑。
+而他，雅各，肌膚光滑。
 
 \
 
