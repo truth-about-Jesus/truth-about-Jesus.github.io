@@ -37,9 +37,9 @@ He would need to receive his father's blessing
 
 \
 
-if he were to fulfill God's words.
+if he were to fulfill God's words!
 
-如果他要履行上帝對他的預言的話。
+如果他要履行上帝對他的預言的話！
 
 \
 
@@ -54,7 +54,7 @@ if he were to fulfill God's words.
 
 \
 
-Not only was he unsettled by the idea of deceiving his father,
+Not only was he unsettled by the thought of deceiving his father,
 
 他不僅對欺騙父親的想法感到不安，
 
@@ -120,9 +120,9 @@ Jacob shuddered at the thought
 
 \
 
-of his gentle father's ire.
+of his gentle father's disappointment.
 
-他溫柔的父親的憤怒。
+他溫柔的父親的失望。
 
 \
 
