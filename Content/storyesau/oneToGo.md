@@ -9,7 +9,7 @@ translateLink: oneToGo
 
 As soon as Esau had gone out, Rebekah,
 
-以掃一出去，麗貝卡，
+他們的大兒子剛一出門，麗貝卡，
 
 \
 
@@ -163,7 +163,7 @@ and i'll make some delicious food for your father --
 
 just the way he loves."
 
-就是他愛的方式。」
+他很喜歡的那種。」
 
 \
 
