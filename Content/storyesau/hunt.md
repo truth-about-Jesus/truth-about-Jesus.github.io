@@ -71,7 +71,7 @@ even though they were both over forty now --
 
 \
 
-but Esau had two wives
+but Esau had *two* wives
 
 但以掃有兩個妻子
 
