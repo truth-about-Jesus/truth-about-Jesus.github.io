@@ -132,25 +132,25 @@ One day,
 
 Esau would parlay his third of Isaac's vast wealth 
 
-以掃將使增值以撒鉅額財富的三分之一
+以掃繼承了以撒巨額財富的三分之一後，
 
 \
 
 into a *great empire,*
 
-成為一個偉大的帝國，
+他將利用這筆財富建立一個強大的帝國，
 
 \
 
 dwarfing his younger twin's double-portion,
 
-數量如此之大，以至於他孿生兄弟繼承的雙份遺產都顯得微不足道了，
+這個帝國將會如此龐大，以至於他孿生兄弟繼承的雙份遺產都會顯得微不足道，
 
 \
 
 while Jacob,
 
-中雅各，
+而雅各，
 
 \
 
@@ -162,7 +162,7 @@ as usual,
 
 did nothing at all.
 
-毫無進展。
+不會有任何進展。
 
 \
 
