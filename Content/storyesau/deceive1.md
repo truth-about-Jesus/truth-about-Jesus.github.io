@@ -27,7 +27,7 @@ wearing his brother Esau's best clothes.
 
 His mother had covered his hands and neck with the hairy skins of the young goats he had brought her,
 
-他的母親用他帶給她的小山羊的毛茸茸的皮遮住了他的手和脖子，
+他的母已經親用他帶給她的小山羊的毛茸茸的皮遮住了他的手和脖子，
 
 \
 
@@ -45,7 +45,7 @@ exactly the way Isaac loved,
 
 the steaming, delicious dish of goat meat 
 
-熱氣騰騰、美味的山羊肉菜
+那熱氣騰騰、美味的山羊肉菜
 
 \
 
@@ -104,7 +104,7 @@ eventually.
 
 as his mother had coached him. 
 
-方式和母親教他的方式一模一樣。
+和母親剛剛教他的方式一模一樣。
 
 \
 
@@ -127,7 +127,7 @@ He'd thought he'd heard *Jacob's* voice...?
 
 Jacob continued, a little recklessly, as he knew his twin would:
 
-雅各繼續說道，有點魯莽，因為他知道他的雙胞胎會：
+雅各繼續說道，語氣有些魯莽，因為他知道他的雙胞胎兄弟會這樣做：
 
 \
 
