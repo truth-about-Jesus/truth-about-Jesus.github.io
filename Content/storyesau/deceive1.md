@@ -127,7 +127,7 @@ He'd thought he'd heard *Jacob's* voice...?
 
 Jacob continued, a little recklessly, as he knew his twin would:
 
-雅各繼續說道，語氣有些魯莽，因為他知道他的雙胞胎兄弟會這樣做：
+雅各繼續說道，語氣有些魯莽，因為他知道他的雙胞胎兄弟會那樣說話：
 
 \
 
