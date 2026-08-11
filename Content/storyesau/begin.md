@@ -14,7 +14,7 @@ Esau's Mom and Dad were *definitely* chosen people.
 
 His Dad, Isaac, was the only son born to Grandpa Abraham
 
-他的父親艾薩克是亞伯拉罕爺爺唯一的兒子
+他的父親以撒是亞伯拉罕爺爺唯一的兒子
 
 \
 
@@ -44,13 +44,13 @@ and second wife --
 
 only *Isaac* had inherited *everything* Grandpa Abraham had owned.
 
-只有艾薩克繼承了亞伯拉罕爺爺所擁有的一切。
+只有以撒繼承了亞伯拉罕爺爺所擁有的一切。
 
 \
 
 And *only* Isaac had had his marriage 
 
-只有艾薩克的婚姻
+只有以撒的婚姻
 
 \
 
@@ -138,7 +138,7 @@ but she'd volunteered to water his *ten camels* as well!
 
 His Dad, Isaac, was a quiet man -- 
 
-他的父親艾薩克是個安靜的人——
+他的父親以撒是個安靜的人——
 
 \
 

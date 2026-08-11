@@ -8,7 +8,7 @@ translateLink: dinner
 
 Isaac was playing with Hoppy when the big men came in through the door of the house, led by Daddy, who quickly went back out to see about some dinner. 
 
-當以撒和料斗玩耍時，許多身材高大的男人被以撒的父親領進了家，他趕緊出去為他們準備晚餐。
+當艾薩克和料斗玩耍時，許多身材高大的男人被艾薩克的父親領進了家，他趕緊出去為他們準備晚餐。
 
 \
 
@@ -26,7 +26,7 @@ The toddler felt a little shy and drew back toward the corner, but one of the me
 
 Isaac looked at him with big eyes and nodded solemnly. He forgot to hold onto Hoppy, so the little frog wriggled out of his hands and disappeared into the shadows. 
 
-以撒睜大眼睛看著他，鄭重地點點頭。 他忘了抓住料斗，小青蛙從他手中掙脫出來，消失在陰影中。
+艾薩克睜大眼睛看著他，鄭重地點點頭。 他忘了抓住料斗，小青蛙從他手中掙脫出來，消失在陰影中。
 
 \
 
@@ -37,7 +37,7 @@ Isaac looked at him with big eyes and nodded solemnly. He forgot to hold onto Ho
 
 The friendly man turned back to the others -- there were so many Isaac could not count them all! -- and asked, “What was it you were all discussing on the road?”
 
-友善的人轉身面對其他人——人數多到以撒數不清了！ ——然後問道：「你們在路上聊了什麼？」
+友善的人轉身面對其他人——人數多到艾薩克數不清了！ ——然後問道：「你們在路上聊了什麼？」
 
 \
 
@@ -49,7 +49,7 @@ The other men seemed suddenly shy themselves, and didn't answer, but looked down
 
 Isaac stared at them curiously, waiting for someone to say something. It was awfully quiet now!
 
-以撒好奇地看著他們，等待有人說話。 現在很安靜！
+艾薩克好奇地看著他們，等待有人說話。 現在很安靜！
 
 \
 
@@ -66,7 +66,7 @@ The nice man sat down, and called the others to sit as well, so they all slowly 
 
 Isaac sat down, too, but then the nice man turned to him. 
 
-以撒也坐下來，但隨後這個好人轉向他。
+艾薩克也坐下來，但隨後這個好人轉向他。
 
 \
 
@@ -78,7 +78,7 @@ Isaac sat down, too, but then the nice man turned to him.
 
 Isaac got up and stepped forward shyly. The nice man picked him up and placed him gently in his lap, then turned to the others, speaking quietly.
 
-以撒站起來，害羞地向前走去。 好心的男人把他抱起來，輕輕放在腿上，然後轉向其他人，輕聲說。
+艾薩克站起來，害羞地向前走去。 好心的男人把他抱起來，輕輕放在腿上，然後轉向其他人，輕聲說。
 
 \
 
@@ -90,7 +90,7 @@ Isaac got up and stepped forward shyly. The nice man picked him up and placed hi
 
 The other men frowned. Isaac thought at first that maybe they didn't like what the nice man had said.
 
-其他男人都皺起了眉頭。 以撒一開始以為他們可能不喜歡這個好人所說的話。
+其他男人都皺起了眉頭。 艾薩克一開始以為他們可能不喜歡這個好人所說的話。
 
 \
 
@@ -113,7 +113,7 @@ But one by one, most of their faces began to soften as the nice man continued.
 
 Isaac liked that. He didn't know what the Kingdom of Heaven was, but if there were kids there, he guessed it would be a fun place.
 
-以撒喜歡這樣。 他不知道天國是什麼，但如果那裡有小孩子的話，他猜想那一定是個好玩的地方。
+艾薩克喜歡這樣。 他不知道天國是什麼，但如果那裡有小孩子的話，他猜想那一定是個好玩的地方。
 
 \
 
@@ -130,7 +130,7 @@ Isaac liked that. He didn't know what the Kingdom of Heaven was, but if there we
 
 The big men were staring at Isaac, frowning again. A little abashed, he buried his face in the rough folds of the nice man's clothing, feeling almost safer than he did with Mommy. 
 
-大漢們盯著以撒，再次皺了皺眉頭。 他感到害羞，把臉埋在好人衣服粗糙的褶皺裡。 他感覺幾乎比和母親在一起更安全。
+大漢們盯著艾薩克，再次皺了皺眉頭。 他感到害羞，把臉埋在好人衣服粗糙的褶皺裡。 他感覺幾乎比和母親在一起更安全。
 
 \
 
@@ -153,7 +153,7 @@ The big men were staring at Isaac, frowning again. A little abashed, he buried h
 
 This made Isaac shiver a little and snuggle in deeper.
 
-這讓以撒有點顫抖，依偎得更深。
+這讓艾薩克有點顫抖，依偎得更深。
 
 \
 
@@ -165,7 +165,7 @@ This made Isaac shiver a little and snuggle in deeper.
 
 When Isaac finally resurfaced, most of the men were smiling at him with kindly eyes.
 
-當以撒終於重新出現時，大多數人都用友善的目光對他微笑。
+當艾薩克終於重新出現時，大多數人都用友善的目光對他微笑。
 
 \
 
@@ -228,7 +228,7 @@ The other disciples began to chime in slowly.
 
 One of the men caught Hoppy and picked him up gently. He brought the little frog back to Isaac, squatting down to offer him to the boy at his level.
 
-其中一名男子抓住料斗，輕輕把他抱了起來。 他把小青蛙抱回以撒身邊，跪下，將他交給男孩。
+其中一名男子抓住料斗，輕輕把他抱了起來。 他把小青蛙抱回艾薩克身邊，跪下，將他交給男孩。
 
 \
 
@@ -240,13 +240,13 @@ One of the men caught Hoppy and picked him up gently. He brought the little frog
 
 As Isaac accepted his beloved pet gratefully, the man tousled Isaac's hair and gave him a cheerful grin. 
 
-當以撒感激地接受了他心愛的寵物時，那個男人撥亂了以撒的頭髮，給了他一個愉快的笑容。
+當艾薩克感激地接受了他心愛的寵物時，那個男人撥亂了艾薩克的頭髮，給了他一個愉快的笑容。
 
 \
 
 A wide smile lit up Isaac's face. The atmosphere had changed, and he found himself suddenly quite at ease with the kindly, laughing guests. 
 
-以撒的臉上綻放出燦爛的笑容。 氣氛變了，他發現自己突然對那些和善、歡笑的客人感到很自在。
+艾薩克的臉上綻放出燦爛的笑容。 氣氛變了，他發現自己突然對那些和善、歡笑的客人感到很自在。
 
 \
 

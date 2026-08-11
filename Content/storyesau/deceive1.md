@@ -39,7 +39,7 @@ once she had prepared,
 
 exactly the way Isaac loved,
 
-正是艾薩克喜歡的方式，
+正是以撒喜歡的方式，
 
 \
 
@@ -57,7 +57,7 @@ the younger twin now held in his hands.
 
 "I'm here," replied Isaac in his gentle way, perking up at the mouth-watering aroma.
 
-「我在這裡，」艾薩克以溫和的方式回答，聞到令人垂涎的香味後精神一振。
+「我在這裡，」以撒以溫和的方式回答，聞到令人垂涎的香味後精神一振。
 
 \
 
@@ -110,7 +110,7 @@ as his mother had coached him.
 
 Isaac frowned a little. 
 
-艾薩克微微皺起了眉頭。
+以撒微微皺起了眉頭。
 
 \
 

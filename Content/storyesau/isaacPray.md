@@ -1,7 +1,7 @@
 ---
 date: 2026-05-14 02:42
-title: 2 - Isaac's prayer  艾薩克的祈禱
-description: Isaac prays for his wife  艾薩克為他的妻子祈禱
+title: 2 - Isaac's prayer  以撒的祈禱
+description: Isaac prays for his wife  以撒為他的妻子祈禱
 tags: Isaac, Rebekah, child, pray, Sarah, faith
 translateLink: isaacPray
 ---
@@ -20,7 +20,7 @@ if You don't intend for her to have children?"
 
 Isaac and Rebekah had been married for almost twenty years now --
 
-艾薩克和麗貝卡已經結婚快二十年了——
+以撒和麗貝卡已經結婚快二十年了——
 
 \
 
@@ -43,7 +43,7 @@ and they still didn't have a single child.
 
 Isaac had noticed 
 
-艾薩克已經注意到了
+以撒已經注意到了
 
 \
 
@@ -90,7 +90,7 @@ so he took up the matter with God.
 
 Isaac knew his *own* mother, Sarah, had not had *him* 
 
-艾薩克知道，他自己的母親莎拉
+以撒知道，他自己的母親莎拉
 
 \
 

@@ -32,7 +32,7 @@ was seizing up deep inside.
 
 Isaac had sent for the midwife,
 
-艾薩克派人去助產士，
+以撒派人去助產士，
 
 \
 
@@ -67,7 +67,7 @@ and instructing her to wipe the perspiration from Rebekah's forehead.
 
 Isaac stood by nervously, wanting very much to go outside
 
-艾薩克緊張地站在一旁，非常想出去
+以撒緊張地站在一旁，非常想出去
 
 \
 

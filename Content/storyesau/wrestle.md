@@ -38,7 +38,7 @@ and would soon give birth to the child
 
 she and Isaac had so greatly desired
 
-她和艾薩克非常渴望的孩子
+她和以撒非常渴望的孩子
 
 \
 

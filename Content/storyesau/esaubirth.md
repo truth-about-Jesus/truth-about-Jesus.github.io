@@ -14,7 +14,7 @@ After what seemed an eternity
 
 to both Rebekah and Isaac --
 
-給麗貝卡和艾薩克——
+給麗貝卡和以撒——
 
 \
 
@@ -55,7 +55,7 @@ followed quickly by his much smaller body.
 
 Isaac barely had time to be amazed at how red and hairy his first son was,
 
-艾薩克幾乎沒有時間驚訝於他的第一個兒子有多紅，有多毛，
+以撒幾乎沒有時間驚訝於他的第一個兒子有多紅，有多毛，
 
 \
 

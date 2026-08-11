@@ -1,6 +1,6 @@
 ---
 date: 2026-07-10 02:48
-title: 10 - Isaac's request  艾薩克的請求
+title: 10 - Isaac's request  以撒的請求
 description: Preparing to bless Esau  準備祝福以掃
 tags: Esau, Isaac, bless, hunt, game, venison
 translateLink: isaacRequest
@@ -79,7 +79,7 @@ so he didn't want to keep him waiting.
 
 Isaac's face brightened.
 
-艾薩克的臉亮了起來。
+以撒的臉亮了起來。
 
 \
 
@@ -114,7 +114,7 @@ Esau waited. His Dad was over a hundred years old now, and sometimes took a mome
 
 At last, Isaac continued.
 
-最後，艾薩克繼續說道。
+最後，以撒繼續說道。
 
 \
 

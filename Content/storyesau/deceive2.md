@@ -1,14 +1,14 @@
 ---
 date: 2026-08-05 02:39
 title: 14 - Deception 2  欺騙2
-description: Isaac doublechecks  艾薩克仔細檢查
+description: Isaac doublechecks  以撒仔細檢查
 tags: Jacob, Isaac, deceive, Esau, hairy, touch
 translateLink: deceive2
 ---
 
 Isaac hesitated...
 
-艾薩克猶豫了......
+以撒猶豫了......
 
 \
 
@@ -73,7 +73,7 @@ That was a satisfying response...
 
 Still, Isaac was unsure.
 
-儘管如此，艾薩克還是不確定。
+儘管如此，以撒還是不確定。
 
 \
 
