@@ -24,7 +24,7 @@ like his older brother.
 
 \
 
-Isaac reached out and felt 
+Isaac reached out and touched 
 
 以撒伸出手來，感覺到了
 
