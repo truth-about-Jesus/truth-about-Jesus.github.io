@@ -50,7 +50,7 @@ Rebekah had so thoughtfully provided.
 
 The blind man breathed a sigh of relief... it *was* Esau...
 
-盲人鬆了一口氣......這個人是以掃......
+盲人鬆了一口氣......這是以掃......
 
 \
 
@@ -97,7 +97,7 @@ the hands of *Esau,"*
 
 he mused aloud,
 
-他心想，說：
+他喃喃自語道，
 
 \
 
@@ -109,7 +109,7 @@ as Jacob's heart fluttered.
 
 *He had not thought to imitate Esau's deeper voice...!*
 
-他沒想過要模仿以掃低沉的聲音......！
+他竟然忘了模仿以掃低沉的聲音......！
 
 \
 
@@ -150,7 +150,7 @@ one last time.
 
 "I *am,"*
 
-「是的，我是他，」
+「我是他，」
 
 \
 
@@ -185,7 +185,7 @@ he smiled
 
 unseeing 
 
-看不見
+看不到
 
 \
 
