@@ -85,7 +85,7 @@ Peoples serve you; nations kneel before you.
 
 Be mighty over your brothers; 
 
-要比你的兄弟們強大；
+你將比你所有的兄弟都更強大；
 
 \
 
