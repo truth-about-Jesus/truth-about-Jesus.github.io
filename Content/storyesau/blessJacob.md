@@ -79,13 +79,13 @@ an abundance of grain and wine.
 
 Peoples serve you; nations kneel before you.
 
-人民為你服務；國家在你面前跪下。
+許多民族侍奉你，許多國家向你跪拜。
 
 \
 
 Be mighty over your brothers; 
 
-對你的兄弟們要強大；
+要比你的兄弟們強大；
 
 \
 
@@ -97,7 +97,7 @@ the sons of your mother
 
 bow down to you.
 
-向你鞠躬。
+他們向你鞠躬。
 
 \
 
