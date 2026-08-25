@@ -74,7 +74,7 @@ do {
 } catch {
     print("there was an error moving the Output folder to the docs folder: \(error)")
 }
-
+print("**NOTE: Might need to copy 404.html from 404/index.htm to /Resources/404.html and regen website**")
 
 extension String {
 
